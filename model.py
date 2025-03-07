@@ -23,7 +23,7 @@ Output should be a strict json format: {"answer1": answer1, "answer2": answer2, 
 	]
 
 	result = pipe(messages, max_new_tokens=500)
-	print(result)
-	return result
+	print(type(result[0]['generated_text']))
+	return result[0]['generated_text']
 
 print(domain_analysis())
