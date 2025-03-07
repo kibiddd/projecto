@@ -1,12 +1,9 @@
-from huggingface_hub import InferenceClient
+# Use a pipeline as a high-level helper
+from transformers import pipeline
 import main
 
-client = InferenceClient(
-	provider="together",
-	api_key="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"
-)
-
 def domain_analysis():
+	pipe = pipeline("text-generation", model="microsoft/Phi-3.5-mini-instruct", trust_remote_code=True)
 	task = """Based on the URL and the domain registration information, how likely is the website fraudulent?
 Specifically, look at (1) Is the registration recent and short? 
 (2) Is the contact information redacted or partial?
@@ -23,13 +20,8 @@ Based on the answer to the above questions, give your final verdict on a scale o
 		}
 	]
 
-	completion = client.chat.completions.create(
-		model="meta-llama/Llama-3.2-3B-Instruct",
-		messages=messages,
-		max_tokens=500,
-	)
-	result = completion.choices[0].message.content
+	result = pipe(messages)
 	print(result)
 	return result
 
-#print(completion.choices[0].message)
+print(domain_analysis())
