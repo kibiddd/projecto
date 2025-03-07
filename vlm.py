@@ -1,18 +1,17 @@
-from huggingface_hub import InferenceClient
+from transformers import pipeline
 
-client = InferenceClient(
-	provider="together",
-	api_key="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"
-)
 # rag: whatsapp is a red flag
 def screenshot_analysis():
+	pipe = pipeline("image-text-to-text", model="meta-llama/Llama-3.2-11B-Vision-Instruct")
 	task = """Based on the URL and the screenshot of the website, how likely is the website fraudulent? 
 Specifically, look at (1) Phishing: Is the website requesting personal information or payment? 
 (2) Too-good-to-be-true offer: Is it offering free product or service? 
 (3) Format: Does the website have poor design or low-quality image? Is there any typo?
 (4) Transparency: Does the website provide clear and trustworthy contact information?
 (5) Impersonation: Is this website pretending to create a false sense of legitimacy? 
-Based on the answer to the above questions, give your final verdict on a scale of 1 to 10, with 10 being most likely."""
+(6) Other suspicious factors. Answer N/A if none.
+Based on the answer to the above questions, give your final verdict on a scale of 1 to 10, with 10 being most likely.
+Output should be a strict json format without any other comment. I.e. {"answer1": explanation1, "answer2": explanation2,..., "answer6": explanation6 or N/A, "verdict": 1-10}"""
 	url = "https://cyberfraudlawyers.com/"
 	task = task + "\nURL=" + url
 
@@ -34,13 +33,9 @@ Based on the answer to the above questions, give your final verdict on a scale o
 	}
 	]
 
-	completion = client.chat.completions.create(
-    	model="meta-llama/Llama-3.2-11B-Vision-Instruct",
-		messages=messages,
-		max_tokens=500,
-	)
-	result = completion.choices[0].message.content
-	print(result)
-	return result
+	result = pipe(text=messages, max_new_tokens=500)
+	generated_text = result[0]['generated_text']
+	print(generated_text)
+	return generated_text
 
-#print(completion.choices[0].message)
+screenshot_analysis()
