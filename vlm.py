@@ -21,7 +21,7 @@ Specifically, look at (1) Phishing: Is the website requesting personal informati
 (5) Impersonation: Is this website pretending to create a false sense of legitimacy? 
 (6) Other suspicious factors. Answer N/A if none.
 Based on the answer to the above questions, give your final verdict on a scale of 1 to 10, with 10 being most likely.
-Output should be a strict json format without any other comment. I.e. {"answer1": explanation1, "answer2": explanation2,..., "answer6": explanation6 or N/A, "verdict": 1-10}"""
+Output should be a strict json format without any other comment. I.e. {"answer1": explanation1,..., "answer6": explanation6 or N/A, "verdict": 1-10}"""
 	url = "https://cyberfraudlawyers.com/"
 	task = task + "\nURL=" + url
 
