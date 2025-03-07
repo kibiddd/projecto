@@ -1,11 +1,14 @@
 from transformers import pipeline
 from huggingface_hub import login
-import sys
+from dotenv import load_dotenv
+import os
 
+load_dotenv()
 
 # Replace 'your_huggingface_token' with your actual Hugging Face token
-user_input = str(sys.argv[1])
-login(token=user_input)
+token = os.getenv("TOKEN")
+
+login(token=token)
 
 # rag: whatsapp is a red flag
 def screenshot_analysis():
