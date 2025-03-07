@@ -21,7 +21,7 @@ Output should be in json format: {"answer1": answer1, "answer2": answer2, "answe
 		}
 	]
 
-	result = pipe(messages)
+	result = pipe(messages, max_length=500)
 	print(result)
 	return result
 
