@@ -10,7 +10,7 @@ Specifically, look at (1) Is the registration recent and/or expiring in less tha
 (3) Could the domain name be used to create a false sense of legitimacy?
 (4) Other suspicious factors. Answer N/A if none.
 Based on the answer to the above questions, give your final verdict on a scale of 1 to 10, with 10 being most likely.
-Output should be a strict json format without any other comment. I.e. {"answer1": answer1, "answer2": answer2, "answer3": answer3, "answer4": answer4, "verdict": verdict(1-10)}"""
+Output should be a strict json format without any other comment. I.e. {"answer1": explanation1, "answer2": explanation2, "answer3": explanation3, "answer4": explanation4 or N/A, "verdict": 1-10}"""
 	url = "https://cyberfraudlawyers.com/"
 	info = main.whois_info(url)
 	task = task + "\nURL=" + url + "\nInfo=" + str(info)
