@@ -32,6 +32,3 @@ def analysis():
         print(f"{task}: {result}")
     return results
 
-
-if __name__ == "__main__":
-    analysis()

@@ -23,6 +23,5 @@ URL=https://cyberfraudlawyers.com/"""
     print(content)
     return content
 
-
 if __name__ == "__main__":
     url_analysis()

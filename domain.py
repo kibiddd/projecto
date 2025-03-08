@@ -32,3 +32,4 @@ Output in strict JSON format: {"answer1": explanation1, "answer2": explanation2,
 
 if __name__ == "__main__":
 	domain_analysis()
+
