@@ -6,3 +6,6 @@ demo = gr.Interface(
     inputs=gr.Textbox(label="Enter URL", placeholder="https://example.com"),
     outputs=gr.Textbox(label="Output")
 )
+
+if __name__ == "__main__":
+    demo.launch()

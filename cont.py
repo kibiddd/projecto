@@ -1,15 +1,15 @@
-import base64
-import os
 from google import genai
 from google.genai import types
 from PIL import Image
+from screenshot import screenshot
 
-
-def content_analysis():
+def content_analysis(url):
     client = genai.Client(
         api_key="AIzaSyAr92W1v_HCTp3swoRaLlntgTBKyIBMtaM"
     )
-    image = Image.open("website-screenshot/cyberfraudlawyer.png")
+    domain = screenshot(url)
+    file_name = "website-screenshot/" + domain + ".png"
+    image = Image.open(file_name)
     task = """Based on the URL and the screenshot of the website, how likely is the website fraudulent? 
 Specifically, look at (1) Phishing: Is the website requesting personal information or payment? 
 (2) Too-good-to-be-true offer: Is it offering free product or service? 
@@ -19,7 +19,7 @@ Specifically, look at (1) Phishing: Is the website requesting personal informati
 (6) Other suspicious factors. Answer N/A if none.
 Based on the answer to the above questions, give your final verdict on a scale of 1 to 10, with 10 being most likely.
 Output should be a strict json format without any other comment. I.e. {\"answer1\": explanation1,..., \"answer6\": explanation6 or N/A, \"verdict\": 1-10}
-url = \"https://cyberfraudlawyers.com/\""""
+url = """ + url
     model = "gemini-2.0-flash-lite"
     contents = [image,task]
     generate_content_config = types.GenerateContentConfig(
@@ -43,6 +43,6 @@ url = \"https://cyberfraudlawyers.com/\""""
 
 
 if __name__ == "__main__":
-    result = content_analysis()
+    result = content_analysis(url="https://www.paypal.com/ca/signin")
     if result:
         print("Result:", result)

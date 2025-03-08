@@ -1,16 +1,26 @@
-#  Install the Python ScrapingBee library:
-# pip install scrapingbee
-from scrapingbee import ScrapingBeeClient
+import http.client
+from whois import get_domain
 
-client = ScrapingBeeClient(api_key='JHQI99AYJX46AGYOYL2XQV5J6LE297I19N0E4OAXHW6S09NJ0W4FW61YAW3FKP5IZAEG4ADF9S3XQXI8')
+def screenshot(url):
+    conn = http.client.HTTPSConnection("sitepic1.p.rapidapi.com")
 
-response = client.get(
-    'https://cyberfraudlawyers.com/',
-    params={
-        'screenshot_full_page': True
+    headers = {
+        'x-rapidapi-key': "9d1ccd75d1msha3f67fb0406279cp150b1ajsnf56415087996",
+        'x-rapidapi-host': "sitepic1.p.rapidapi.com"
     }
-)
+    conn.request("GET", "/screenshot?url=" + url + "&height=720&width=1280&delay=0", headers=headers)
 
-if response.ok:
-    with open("./screenshot-scam.png", "wb") as f:
-        f.write(response.content)
+    res = conn.getresponse()
+    data = res.read()
+
+    domain = get_domain(url)
+    filename = "website-screenshot/" + domain + ".png"
+    with open(filename, "wb") as file:
+        file.write(data)
+    print("Screenshot saved as screenshot.png")
+    return domain
+
+
+
+if __name__ == "__main__":
+    screenshot("www.umontreal.ca")

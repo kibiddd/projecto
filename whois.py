@@ -38,5 +38,5 @@ def whois_info(url):
     return raw_text
 
 if __name__ == "__main__":
-    print(get_domain("https://cyberfraudlawyers.com/contact-us/"))
-    print(whois_data("cyberfraudlawyers.com"))
+    print(get_domain("www.umontreal.ca"))
+    #print(whois_data("cyberfraudlawyers.com"))
