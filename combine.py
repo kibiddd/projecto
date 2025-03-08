@@ -6,8 +6,8 @@ from url import url_analysis
 def combine():
 
 	task = """Based on the analysis of URL, domain registration, and a screenshot of the website, determine if it is a scam website. 
-Summarize and list the most important keywords for each analysis, followed by a summary of the website and its potential risks, a final verdict on a scale of 1 to 10, with 10 being most likely.
-Output should be a strict json format without any other comment. I.e. {"URL analysis": [keywords], "Domain analysis": [keywords], "Content analysis": [keywords], "Summary": "summary", "verdict": 1-10}"""
+Summarize the website and its potential risks, followed by a final verdict on a scale of 1 to 10, with 10 being most likely.
+Output should be a strict json format without any other comment. i.e. {"Summary": "summary", "verdict": 1-10}"""
 	link = "https://cyberfraudlawyers.com/"
 
 
