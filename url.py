@@ -2,15 +2,14 @@
 from transformers import pipeline
 
 def url_analysis():
-    task = """Analyze the URL and determine how likely is the website fraudulent.
-Specifically, look at (1) Is the domain a misspelling or character substitution of a popular brand? Does it use subdomains to mislead?
-(2) Is the extension uncommon or high-risk (.xyz, .top, .club, .online, etc.) rather than standard (.com, .org, .net, etc.)?
-(3) Other suspicious factors (or N/A if none).
-Rate the URL's risk on a scale of 1 to 10, with 10 being most likely.
-Output in strict JSON format without any other comment: {"answer1": explanation1, "answer2": explanation2, "answer3": explanation3, "answer4": explanation4 or N/A, "verdict": 1-10}
+    task = """Analyze the URL structure for fraud indicators:
+(1) Does it contain misspellings, character substitutions, or deceptive subdomains?
+(2) Is the TLD uncommon or high-risk (.xyz, .top, .club, .online, etc.)?
+(3) Does the URL contain suspicious patterns (excessive length, random strings, unusual characters)?
+(4) Other suspicious URL factors. Answer N/A if none.
 
-URL= https://umontreal.ca
-{"answer1": "The domain 'umontreal.ca' is not a misspelling or character substitution of a popular brand. It appears to be the legitimate domain for the University of Montreal (Université de Montréal). It does not use subdomains to mislead.", "answer2": "The extension '.ca' is the standard country code top-level domain for Canada. It is considered a safe and standard extension, especially for Canadian educational institutions.", "answer3": "N/A", "verdict": 1}
+Based on these factors, provide your verdict on a scale of 1 to 10, with 10 being most likely fraudulent.
+Output in strict JSON format: {"answer1": explanation1, "answer2": explanation2, "answer3": explanation3, "answer4": explanation4 or "N/A", "verdict": 1-10}
 
 URL=https://cyberfraudlawyers.com/"""
 
@@ -21,8 +20,9 @@ URL=https://cyberfraudlawyers.com/"""
     result = pipe(messages, max_new_tokens=200)
     generated_text = result[0]['generated_text']
     content = generated_text[1]['content']
-    print(result)
-    return result
+    print(content)
+    return content
 
 
-print(url_analysis())
+if __name__ == "__main__":
+    url_analysis()

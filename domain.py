@@ -4,13 +4,15 @@ import main
 
 def domain_analysis():
 	pipe = pipeline("text-generation", model="microsoft/Phi-3.5-mini-instruct", trust_remote_code=True)
-	task = """Based on the URL and the domain registration information, how likely is the website fraudulent?
-Specifically, look at (1) Is the registration recent and/or expiring in less than a year? It is 2025-03-07 today.
-(2) Is the contact information redacted or partial?
-(3) Could the domain name be used to create a false sense of legitimacy?
-(4) Other suspicious factors. Answer N/A if none.
-Based on the answer to the above questions, give your final verdict on a scale of 1 to 10, with 10 being most likely.
-Output should be a strict json format without any other comment. I.e. {"answer1": explanation1, "answer2": explanation2, "answer3": explanation3, "answer4": explanation4 or N/A, "verdict": 1-10}"""
+	task = """Based on the domain registration information, analyze potential fraud indicators:
+(1) Is the registration recent (less than 6 months) or expiring soon (less than a year)? Today is 2025-03-07.
+(2) Is the contact information redacted, partial, or suspicious?
+(3) Is the registrar known for hosting malicious sites or lacking verification?
+(4) Other suspicious registration factors. Answer N/A if none.
+
+Based on these factors, provide your verdict on a scale of 1 to 10, with 10 being most likely fraudulent.
+Output in strict JSON format: {"answer1": explanation1, "answer2": explanation2, "answer3": explanation3, "answer4": explanation4 or "N/A", "verdict": 1-10}"""
+
 	url = "https://cyberfraudlawyers.com/"
 	info = main.whois_info(url)
 	task = task + "\nURL=" + url + "\nInfo=" + str(info)
@@ -28,4 +30,5 @@ Output should be a strict json format without any other comment. I.e. {"answer1"
 	print(content)
 	return content
 
-# print(domain_analysis())
+if __name__ == "__main__":
+	domain_analysis()
