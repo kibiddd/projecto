@@ -5,7 +5,7 @@ from google.genai import types
 from PIL import Image
 
 
-def generate():
+def content_analysis():
     client = genai.Client(
         api_key="AIzaSyAr92W1v_HCTp3swoRaLlntgTBKyIBMtaM"
     )
@@ -30,12 +30,19 @@ url = \"https://cyberfraudlawyers.com/\""""
         response_mime_type="text/plain",
     )
 
-    for chunk in client.models.generate_content_stream(
-        model=model,
-        contents=contents,
-        config=generate_content_config,
-    ):
-        print(chunk.text, end="")
+    try:
+        content_result = client.models.generate_content(
+            model=model,
+            contents=contents,
+            config=generate_content_config,
+        )
+        return content_result.text  # Access the full response and return it
+    except Exception as e:
+        print(f"Error during content generation: {e}")
+        return None
+
 
 if __name__ == "__main__":
-    generate()
+    result = content_analysis()
+    if result:
+        print("Result:", result)

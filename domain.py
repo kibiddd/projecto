@@ -28,4 +28,4 @@ Output should be a strict json format without any other comment. I.e. {"answer1"
 	print(content)
 	return content
 
-print(domain_analysis())
+# print(domain_analysis())

@@ -129,7 +129,7 @@ demo = gr.Interface(
     outputs=gr.Textbox(label="Output")
 )
 
-# use model.py
+# use domain.py
 
 
 if __name__ == "__main__":
