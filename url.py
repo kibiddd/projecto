@@ -19,9 +19,9 @@ URL=https://cyberfraudlawyers.com/"""
     ]
     pipe = pipeline("text-generation", model="meta-llama/Llama-3.2-3B-Instruct")
     result = pipe(messages, max_new_tokens=200)
-    #generated_text = result[0]['generated_text']
-    #content = generated_text[1]['content']
-    #print(result)
+    generated_text = result[0]['generated_text']
+    content = generated_text[1]['content']
+    print(result)
     return result
 
 
