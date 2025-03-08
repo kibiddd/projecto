@@ -1,10 +1,4 @@
-# This is a sample Python script.
-
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 import gradio as gr
-import requests
-from bs4 import BeautifulSoup
 import re
 
 #URL = "https://who.is/whois/google.com"
@@ -133,4 +127,4 @@ demo = gr.Interface(
 
 
 if __name__ == "__main__":
-    demo.launch()
+    demo.launch(share=True)
