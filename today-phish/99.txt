@@ -1,0 +1,19 @@
+   Domain Name: CLOSTE.COM
+   Registry Domain ID: 1896027233_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2023-12-11T19:11:00Z
+   Creation Date: 2015-01-15T16:47:07Z
+   Registry Expiry Date: 2029-01-15T16:47:07Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-CLOUD-B1.GOOGLEDOMAINS.COM
+   Name Server: NS-CLOUD-B2.GOOGLEDOMAINS.COM
+   Name Server: NS-CLOUD-B3.GOOGLEDOMAINS.COM
+   Name Server: NS-CLOUD-B4.GOOGLEDOMAINS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-08T18:03:40Z 

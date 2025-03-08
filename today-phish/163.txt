@@ -1,0 +1,17 @@
+   Domain Name: IHBYS.COM
+   Registry Domain ID: 2918685807_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.nicproxy.com
+   Registrar URL: https://nicproxy.com/
+   Updated Date: 2025-02-08T12:45:38Z
+   Creation Date: 2024-09-20T18:57:07Z
+   Registry Expiry Date: 2025-09-20T18:57:07Z
+   Registrar: Nics Telekomunikasyon A.S.
+   Registrar IANA ID: 1454
+   Registrar Abuse Contact Email: abuse@nicproxy.com
+   Registrar Abuse Contact Phone: +90 212 213 2963
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS1.SOFTMEDYAZILIM.COM
+   Name Server: NS2.SOFTMEDYAZILIM.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-08T18:04:10Z 

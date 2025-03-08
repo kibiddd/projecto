@@ -1,0 +1,17 @@
+   Domain Name: SAFELINKS-OFFICE.COM
+   Registry Domain ID: 2416922535_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.gandi.net
+   Registrar URL: http://www.gandi.net
+   Updated Date: 2025-03-03T09:33:28Z
+   Creation Date: 2019-07-26T10:22:25Z
+   Registry Expiry Date: 2025-07-26T10:22:25Z
+   Registrar: Gandi SAS
+   Registrar IANA ID: 81
+   Registrar Abuse Contact Email: abuse@support.gandi.net
+   Registrar Abuse Contact Phone: +33.170377661
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: GEORGIA.NS.CLOUDFLARE.COM
+   Name Server: SALVADOR.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-08T18:04:41Z 

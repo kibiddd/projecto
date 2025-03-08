@@ -1,0 +1,21 @@
+   Domain Name: AZURESTATICAPPS.NET
+   Registry Domain ID: 2512331430_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2025-03-07T12:42:02Z
+   Creation Date: 2020-04-08T16:11:27Z
+   Registry Expiry Date: 2026-04-08T16:11:27Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS1-03.AZURE-DNS.COM
+   Name Server: NS2-03.AZURE-DNS.NET
+   Name Server: NS3-03.AZURE-DNS.ORG
+   Name Server: NS4-03.AZURE-DNS.INFO
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-08T18:03:40Z 

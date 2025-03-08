@@ -1,0 +1,17 @@
+   Domain Name: APP437991.COM
+   Registry Domain ID: 2963997032_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.globaldomaingroup.com
+   Registrar URL: http://www.globaldomaingroup.com
+   Updated Date: 2025-03-03T10:20:52Z
+   Creation Date: 2025-03-03T10:07:25Z
+   Registry Expiry Date: 2026-03-03T10:07:25Z
+   Registrar: Global Domain Group LLC
+   Registrar IANA ID: 3956
+   Registrar Abuse Contact Email: abuse@globaldomaingroup.com
+   Registrar Abuse Contact Phone: +1 (805) 394-3992
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: DAISY.NS.CLOUDFLARE.COM
+   Name Server: OTTO.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-08T16:16:58Z 

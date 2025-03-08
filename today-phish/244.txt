@@ -1,0 +1,17 @@
+   Domain Name: SPOTIFYPREMIUM.NET
+   Registry Domain ID: 2769594126_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.name.com
+   Registrar URL: http://www.name.com
+   Updated Date: 2024-02-29T18:13:45Z
+   Creation Date: 2023-03-31T21:32:04Z
+   Registry Expiry Date: 2025-03-31T21:32:04Z
+   Registrar: Name.com, Inc.
+   Registrar IANA ID: 625
+   Registrar Abuse Contact Email: abuse@name.com
+   Registrar Abuse Contact Phone: 7202492374
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: ANGELINA.NS.CLOUDFLARE.COM
+   Name Server: MAREK.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-08T18:04:56Z 

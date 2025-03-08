@@ -1,0 +1,19 @@
+   Domain Name: MYSTRIKINGLY.COM
+   Registry Domain ID: 2337619665_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2022-07-24T08:59:43Z
+   Creation Date: 2018-11-28T06:40:55Z
+   Registry Expiry Date: 2029-11-28T06:40:55Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-1502.AWSDNS-59.ORG
+   Name Server: NS-1685.AWSDNS-18.CO.UK
+   Name Server: NS-359.AWSDNS-44.COM
+   Name Server: NS-887.AWSDNS-46.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-08T16:16:27Z 

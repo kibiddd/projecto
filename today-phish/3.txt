@@ -1,0 +1,17 @@
+   Domain Name: 551002L.CC
+   Registry Domain ID: 203729287_DOMAIN_CC-VRSN
+   Registrar WHOIS Server: whois.gname.com
+   Registrar URL: http://www.gname.com
+   Updated Date: 2024-12-24T08:00:09Z
+   Creation Date: 2024-12-24T06:44:14Z
+   Registry Expiry Date: 2025-12-24T06:44:14Z
+   Registrar: Gname.com Pte. Ltd.
+   Registrar IANA ID: 1923
+   Registrar Abuse Contact Email: complaint@gname.com
+   Registrar Abuse Contact Phone: +65.65189986
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: MILLIE.NS.CLOUDFLARE.COM
+   Name Server: VIN.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-08T18:02:42Z 

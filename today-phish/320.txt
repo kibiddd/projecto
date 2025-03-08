@@ -1,0 +1,17 @@
+   Domain Name: T0T00.COM
+   Registry Domain ID: 2815909966_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.maff.com
+   Registrar URL: http://www.maff.com
+   Updated Date: 2024-10-17T02:22:08Z
+   Creation Date: 2023-09-21T18:28:52Z
+   Registry Expiry Date: 2025-09-21T18:28:52Z
+   Registrar: MAFF Inc.
+   Registrar IANA ID: 817
+   Registrar Abuse Contact Email: easongong@kqw.com
+   Registrar Abuse Contact Phone: +86.05925990220
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.JUDNS.COM
+   Name Server: NS2.JUDNS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-08T18:05:40Z 

@@ -1,0 +1,17 @@
+   Domain Name: MASHSTAFFING.COM
+   Registry Domain ID: 1708055168_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.synergywholesale.com
+   Registrar URL: http://synergywholesale.com
+   Updated Date: 2025-02-21T02:27:41Z
+   Creation Date: 2012-03-20T14:20:21Z
+   Registry Expiry Date: 2027-03-20T14:20:21Z
+   Registrar: Synergy Wholesale Accreditations Pty Ltd
+   Registrar IANA ID: 1609
+   Registrar Abuse Contact Email: registry-abuse@nexigen.digital
+   Registrar Abuse Contact Phone: +61.383999483
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: ISLA.NS.CLOUDFLARE.COM
+   Name Server: OWEN.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-08T18:02:56Z 

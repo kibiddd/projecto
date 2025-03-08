@@ -1,0 +1,29 @@
+Domain Name: PL-OFERTA520739.SBS
+Registry Domain ID: D532542384-CNIC
+Registrar WHOIS Server: whois.webnic.cc
+Registrar URL: https://www.webnic.cc
+Updated Date: 2025-03-07T18:00:28.0Z
+Creation Date: 2025-03-06T15:09:27.0Z
+Registry Expiry Date: 2026-03-06T23:59:59.0Z
+Registrar: Web Commerce Communications Ltd
+Registrar IANA ID: 460
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: clientHold https://icann.org/epp#clientHold
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: addPeriod https://icann.org/epp#addPeriod
+Registrant Organization: TrafficDomains INC
+Registrant State/Province: Poznan
+Registrant Country: MY
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: BJORN.NS.CLOUDFLARE.COM
+Name Server: UMA.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: support@webnic.cc
+Registrar Abuse Contact Phone: +60.389966788
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-08T18:03:50.0Z 

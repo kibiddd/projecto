@@ -1,0 +1,17 @@
+   Domain Name: MXX8686.NET
+   Registry Domain ID: 2479599568_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2024-12-20T04:41:49Z
+   Creation Date: 2020-01-13T09:40:09Z
+   Registry Expiry Date: 2026-01-13T09:40:09Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: KAREEM.NS.CLOUDFLARE.COM
+   Name Server: KATJA.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-08T16:16:27Z 

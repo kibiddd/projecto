@@ -1,0 +1,17 @@
+   Domain Name: AMZONUPDATEACCOUNT.COM
+   Registry Domain ID: 2764370702_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.julyname.com
+   Registrar URL: http://www.julyname.com
+   Updated Date: 2024-04-05T23:31:44Z
+   Creation Date: 2023-03-11T19:08:56Z
+   Registry Expiry Date: 2025-03-11T19:08:56Z
+   Registrar: July Name Limited
+   Registrar IANA ID: 3855
+   Registrar Abuse Contact Email: abuse@julyname.com
+   Registrar Abuse Contact Phone: +852.56109513
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: JM1.DNS.COM
+   Name Server: JM2.DNS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-08T16:17:13Z 

@@ -1,0 +1,17 @@
+   Domain Name: DASEE.NET
+   Registry Domain ID: 2814714610_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.julyname.com
+   Registrar URL: http://www.julyname.com
+   Updated Date: 2024-10-13T01:11:13Z
+   Creation Date: 2023-09-18T04:25:30Z
+   Registry Expiry Date: 2025-09-18T04:25:30Z
+   Registrar: July Name Limited
+   Registrar IANA ID: 3855
+   Registrar Abuse Contact Email: abuse@julyname.com
+   Registrar Abuse Contact Phone: +852.56109513
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.JULYDNS.COM
+   Name Server: NS2.JULYDNS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-08T18:05:40Z 

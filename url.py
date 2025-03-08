@@ -19,6 +19,7 @@ URL=""" + url
     result = pipe(messages, max_new_tokens=200)
     generated_text = result[0]['generated_text']
     content = generated_text[1]['content']
+
     print(content)
     return content
 

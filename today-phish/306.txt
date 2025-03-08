@@ -1,0 +1,17 @@
+   Domain Name: TRNMARBLE.COM
+   Registry Domain ID: 2272445173_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.metunic.com.tr
+   Registrar URL: http://metunic.com.tr
+   Updated Date: 2024-06-06T07:56:32Z
+   Creation Date: 2018-06-07T15:33:56Z
+   Registry Expiry Date: 2025-06-07T15:33:56Z
+   Registrar: ODTU Gelistirme Vakfi Bilgi Teknolojileri Sanayi Ve Ticaret Anonim Sirketi
+   Registrar IANA ID: 3871
+   Registrar Abuse Contact Email: abuseverisign@metunic.com.tr
+   Registrar Abuse Contact Phone: 90 312 9881106
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.TURKISHOST.COM
+   Name Server: NS2.TURKISHOST.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-08T18:05:25Z 

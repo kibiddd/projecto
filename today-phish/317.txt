@@ -1,0 +1,17 @@
+   Domain Name: EARTHRIVER.NET
+   Registry Domain ID: 2920261746_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.web.com
+   Registrar URL: http://www.networksolutions.com
+   Updated Date: 2024-09-30T09:31:35Z
+   Creation Date: 2024-09-26T18:06:07Z
+   Registry Expiry Date: 2025-09-26T18:06:07Z
+   Registrar: Slamdunk Domains LLC
+   Registrar IANA ID: 2881
+   Registrar Abuse Contact Email: abuse@web.com
+   Registrar Abuse Contact Phone: +1.8003337680
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS1.GNAME-DNS.COM
+   Name Server: NS2.GNAME-DNS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-08T18:05:40Z 

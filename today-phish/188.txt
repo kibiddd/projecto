@@ -1,0 +1,28 @@
+Domain Name: SOLXHUB.XYZ
+Registry Domain ID: D532593732-CNIC
+Registrar WHOIS Server: whois.namesilo.com
+Registrar URL: https://www.namesilo.com
+Updated Date: 2025-03-08T12:40:32.0Z
+Creation Date: 2025-03-06T19:26:13.0Z
+Registry Expiry Date: 2026-03-06T23:59:59.0Z
+Registrar: NameSilo, LLC
+Registrar IANA ID: 1479
+Domain Status: serverHold https://icann.org/epp#serverHold
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: clientHold https://icann.org/epp#clientHold
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: addPeriod https://icann.org/epp#addPeriod
+Registrant Organization: See PrivacyGuardian.org
+Registrant State/Province: AZ
+Registrant Country: US
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: PLATO.NS.CLOUDFLARE.COM
+Name Server: GRACIE.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: abuse@namesilo.com
+Registrar Abuse Contact Phone: +1.4805240066
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-08T18:04:43.0Z 

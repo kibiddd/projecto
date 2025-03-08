@@ -1,0 +1,28 @@
+   Domain Name: SQUARESPACE.COM
+   Registry Domain ID: 96151137_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2025-02-21T09:18:43Z
+   Creation Date: 2003-03-25T21:26:58Z
+   Registry Expiry Date: 2027-03-25T20:26:58Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: DNS1.P03.NSONE.NET
+   Name Server: DNS2.P03.NSONE.NET
+   Name Server: DNS3.P03.NSONE.NET
+   Name Server: DNS4.P03.NSONE.NET
+   Name Server: NS01.SQUARESPACEDNS.COM
+   Name Server: NS02.SQUARESPACEDNS.COM
+   Name Server: NS03.SQUARESPACEDNS.COM
+   Name Server: NS04.SQUARESPACEDNS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-08T18:03:25Z 

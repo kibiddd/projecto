@@ -1,0 +1,11 @@
+Domain Name: qfalt.cn
+ROID: 20240617s10001s58372592-cn
+Domain Status: ok
+Registrant: 陈述升
+Registrant Contact Email: 2362979316@qq.com
+Sponsoring Registrar: 阿里云计算有限公司（万网）
+Name Server: dns1.hichina.com
+Name Server: dns2.hichina.com
+Registration Time: 2024-06-17 12:33:26
+Expiration Time: 2025-06-17 12:33:26
+DNSSEC: unsigned

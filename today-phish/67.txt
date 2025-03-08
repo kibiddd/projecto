@@ -1,0 +1,76 @@
+% Request from 2a09:bac5:c82c:a0::10:4d9
+% This is the Ukrainian Whois query server #F.
+% The Whois is subject to Terms of use
+% See https://hostmaster.ua/services/
+%
+% IN THE PROCESS OF DELEGATION OF A DOMAIN NAME,
+% THE REGISTRANT IS AN ENTITY WHO USES AND MANAGES A CERTAIN DOMAIN NAME,
+% AND THE REGISTRAR IS A BUSINESS ENTITY THAT PROVIDES THE REGISTRANT
+% WITH THE SERVICES NECESSARY FOR THE TECHNICAL MAINTENANCE OF THE REGISTRATION AND OPERATION OF THE DOMAIN NAME.
+% FOR INFORMATION ABOUT THE REGISTRANT OF THE DOMAIN NAME, YOU SHOULD CONTACT THE REGISTRAR.
+
+domain:           pl.ua
+dom-public:       YES
+nserver:          ba1.ns.ua
+nserver:          ho1.ns.pl.ua
+nserver:          nn.ns.ua
+nserver:          sx.ns.ua
+ds-rdata:         19473 13 2 A42A6C1EA6BE0D761F7C593C4269D2DE8D24124E40ED91332E11936D4AD64659
+status:           ok
+created:          1997-02-16 00:00:00+02
+modified:         2025-01-10 11:47:55+02
+source:           UAEPP
+
+% Glue Records:
+% =============
+nserver:          ho1.ns.pl.ua
+ip-address:       195.47.253.7
+ip-address:       2001:67c:258::7
+
+% Administrative Contacts:
+% =======================
+person:           Hostmaster LLC
+person-loc:       ТОВ "Хостмайстер"
+organization:     Hostmaster LLC
+organization-loc: ТОВ "Хостмайстер"
+e-mail:           info@hostmaster.ua
+address:          P.O.Box 23
+address:          KYIV
+postal-code:      04053
+country:          UA
+address-loc:      n/a
+country-loc:      UA
+phone:            +380.445941794
+mnt-by:           ua.admin
+status:           ok
+status:           linked
+created:          2002-02-14 00:00:00+02
+modified:         2023-07-19 16:54:23+03
+source:           UAEPP
+
+
+% Technical Contacts:
+% ===================
+person:           Hostmaster LLC
+person-loc:       ТОВ "Хостмайстер"
+organization:     Hostmaster LLC
+organization-loc: ТОВ "Хостмайстер"
+e-mail:           info@hostmaster.ua
+address:          P.O.Box 23
+address:          KYIV
+postal-code:      04053
+country:          UA
+address-loc:      n/a
+country-loc:      UA
+phone:            +380.445941794
+mnt-by:           ua.admin
+status:           ok
+status:           linked
+created:          2002-02-14 00:00:00+02
+modified:         2023-07-19 16:54:23+03
+source:           UAEPP
+
+
+
+% Query time:     39 msec
+

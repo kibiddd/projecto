@@ -1,0 +1,44 @@
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-08T13:16:56-03:00 - 2a09:bac5:c82c:1032::19d:14d
+
+domain:      rggn.com.br
+owner:       Rocha Gir�o Ger�ncia de Neg�cios
+ownerid:     23.727.670/0001-00
+responsible: Francisco Clodomir Rocha Gir�o
+country:     BR
+owner-c:     FRG83
+tech-c:      PIDIG2
+nserver:     ns1.pipaestudiodigital.com.br
+nsstat:      20250304 AA
+nslastaa:    20250304
+nserver:     ns2.pipaestudiodigital.com.br
+nsstat:      20250304 AA
+nslastaa:    20250304
+saci:        yes
+created:     20190624 #19813182
+changed:     20230616
+expires:     20250624
+status:      published
+
+nic-hdl-br:  FRG83
+person:      Franze Gondim
+e-mail:      franzegondim@hotmail.com
+country:     BR
+created:     20010123
+changed:     20240730
+
+nic-hdl-br:  PIDIG2
+person:      Pipa Digital
+e-mail:      ronaldomoreirac@gmail.com
+country:     BR
+created:     20080704
+changed:     20240115
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

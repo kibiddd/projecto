@@ -1,0 +1,17 @@
+   Domain Name: WOORIHANWOO.COM
+   Registry Domain ID: 2959147297_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.globaldomaingroup.com
+   Registrar URL: http://www.globaldomaingroup.com
+   Updated Date: 2025-02-14T09:24:57Z
+   Creation Date: 2025-02-14T09:11:31Z
+   Registry Expiry Date: 2026-02-14T09:11:31Z
+   Registrar: Global Domain Group LLC
+   Registrar IANA ID: 3956
+   Registrar Abuse Contact Email: abuse@globaldomaingroup.com
+   Registrar Abuse Contact Phone: +1 (805) 394-3992
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: DAMIAN.NS.CLOUDFLARE.COM
+   Name Server: MIA.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-08T18:05:25Z 

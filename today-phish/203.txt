@@ -1,0 +1,21 @@
+   Domain Name: AMPLIFYAPP.COM
+   Registry Domain ID: 2253579588_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.comlaude.com
+   Registrar URL: http://www.comlaude.com
+   Updated Date: 2024-04-12T23:02:03Z
+   Creation Date: 2018-04-17T18:42:26Z
+   Registry Expiry Date: 2025-04-17T18:42:26Z
+   Registrar: Nom-iq Ltd. dba COM LAUDE
+   Registrar IANA ID: 470
+   Registrar Abuse Contact Email: abuse@comlaude.com
+   Registrar Abuse Contact Phone: +442074218250
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS-1165.AWSDNS-17.ORG
+   Name Server: NS-1683.AWSDNS-18.CO.UK
+   Name Server: NS-169.AWSDNS-21.COM
+   Name Server: NS-904.AWSDNS-49.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-08T18:04:41Z 

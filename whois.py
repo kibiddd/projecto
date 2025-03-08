@@ -1,6 +1,15 @@
 import http.client
 import re
 import json
+import requests
+
+def check_link_status(url):
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+    }
+    response = requests.get(url, headers=headers)
+
+    return response.status_code
 
 def get_domain(url):
     # strip all prefix of url
@@ -38,5 +47,4 @@ def whois_info(url):
     return raw_text
 
 if __name__ == "__main__":
-    print(get_domain("www.umontreal.ca"))
-    #print(whois_data("cyberfraudlawyers.com"))
+    whois_info("google.ca")

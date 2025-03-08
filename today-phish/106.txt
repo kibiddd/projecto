@@ -1,0 +1,22 @@
+Domain Name: availableindigenousservices.com.au
+Registry Domain ID: 6f84d63e5adf45b989d027eece15150b-AU
+Registrar WHOIS Server: whois.auda.org.au
+Registrar URL: https://www.crazydomains.com.au/contact/
+Last Modified: 2024-08-21T02:00:13Z
+Registrar Name: Web Address Registration Pty Ltd
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: 
+Reseller Name: 
+Status: serverRenewProhibited https://identitydigital.au/get-au/whois-status-codes#serverRenewProhibited
+Status Reason: Not Currently Eligible For Renewal
+Registrant Contact ID: 8c6e2b87c4cc44de8f0a8d0902d440af-AU
+Registrant Contact Name: Alexander Mendoza
+Tech Contact ID: 25595468706b4ccbadae14c83ec64b32-AU
+Tech Contact Name: Private Tech
+Name Server: ns1.syrahost.com
+Name Server: ns2.syrahost.com
+DNSSEC: unsigned
+Registrant: RAISING PTY LTD
+Registrant ID: ABN 30602837114
+Eligibility Type: Company
+>>> Last update of WHOIS database: 2025-03-08T18:03:56Z 

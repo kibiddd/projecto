@@ -1,0 +1,11 @@
+Domain Name: ltyzo.cn
+ROID: 20240617s10001s58125138-cn
+Domain Status: ok
+Registrant: 陈义霞
+Registrant Contact Email: 253529578@qq.com
+Sponsoring Registrar: 阿里云计算有限公司（万网）
+Name Server: dns11.hichina.com
+Name Server: dns12.hichina.com
+Registration Time: 2024-06-17 01:11:06
+Expiration Time: 2025-06-17 01:11:06
+DNSSEC: unsigned

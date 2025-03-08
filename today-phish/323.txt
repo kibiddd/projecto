@@ -1,0 +1,18 @@
+% TCI Whois Service. Terms of use:
+% https://tcinet.ru/documents/whois_ru_rf.pdf (in Russian)
+% https://tcinet.ru/documents/whois_su.pdf (in Russian)
+
+domain:        WHATSAQP.RU
+nserver:       crystal.ns.cloudflare.com.
+nserver:       patrick.ns.cloudflare.com.
+state:         REGISTERED, DELEGATED, UNVERIFIED
+person:        Private Person
+registrar:     REGRU-RU
+admin-contact: http://www.reg.ru/whois/admin_contact
+created:       2025-02-04T13:39:58Z
+paid-till:     2026-02-04T13:39:58Z
+free-date:     2026-03-07
+source:        TCI
+
+Last updated on 2025-03-08T18:03:01Z
+

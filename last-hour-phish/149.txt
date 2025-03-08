@@ -1,0 +1,24 @@
+   Domain Name: AMAZONAWS.COM
+   Registry Domain ID: 197784869_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2024-01-29T18:09:26Z
+   Creation Date: 2005-08-18T02:10:45Z
+   Registry Expiry Date: 2027-01-16T04:59:59Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: NS-1321.AWSDNS-37.ORG
+   Name Server: NS-1670.AWSDNS-16.CO.UK
+   Name Server: NS-27.AWSDNS-03.COM
+   Name Server: NS-967.AWSDNS-56.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-08T16:16:42Z 

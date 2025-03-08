@@ -1,0 +1,25 @@
+Domain Name: GWXZ1.XYZ
+Registry Domain ID: D530254638-CNIC
+Registrar WHOIS Server: whois.west.cn
+Registrar URL: http://www.west.cn
+Updated Date: 2025-03-08T11:26:42.0Z
+Creation Date: 2025-02-26T12:28:22.0Z
+Registry Expiry Date: 2026-02-26T23:59:59.0Z
+Registrar: CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD.
+Registrar IANA ID: 1556
+Domain Status: serverHold https://icann.org/epp#serverHold
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Registrant Organization:
+Registrant State/Province: An Hui
+Registrant Country: CN
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: NS5.MYHOSTADMIN.NET
+Name Server: NS6.MYHOSTADMIN.NET
+DNSSEC: unsigned
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: abuse@west.cn
+Registrar Abuse Contact Phone: +86.2862778877
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-08T16:16:35.0Z 

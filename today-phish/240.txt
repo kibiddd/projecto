@@ -1,0 +1,18 @@
+   Domain Name: SLTREANMCOMMNUNLTY.COM
+   Registry Domain ID: 2960237945_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.nicenic.net
+   Registrar URL: https://nicenic.net/
+   Updated Date: 2025-03-01T15:20:12Z
+   Creation Date: 2025-02-17T23:58:39Z
+   Registry Expiry Date: 2026-02-17T23:58:39Z
+   Registrar: NICENIC INTERNATIONAL GROUP CO., LIMITED
+   Registrar IANA ID: 3765
+   Registrar Abuse Contact Email: abuse@nicenic.net
+   Registrar Abuse Contact Phone: +852.68584411
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: COREY.NS.CLOUDFLARE.COM
+   Name Server: HEIDI.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-08T18:04:56Z 

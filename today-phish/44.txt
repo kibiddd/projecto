@@ -1,0 +1,15 @@
+
+ID ccTLD whois server
+Please see 'whois -h whois.id help' for usage.
+
+Domain ID: PANDI-DO254836
+Domain Name: my.id
+Created On: 2013-09-09 16:18:48
+Last Updated On: 2019-09-10 00:05:21 
+
+Status: RESERVED
+
+DNSSEC: Unsigned
+
+Abuse Domain Report https://pandi.id/domain-abuse-form/?lang=en
+For more information on Whois status codes, please visit https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en

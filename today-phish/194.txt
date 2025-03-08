@@ -1,0 +1,18 @@
+   Domain Name: MERCHATS.COM
+   Registry Domain ID: 2896076590_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: https://whois.cloud.tencent.com
+   Registrar URL: https://www.dnspod.com
+   Updated Date: 2024-11-10T18:16:42Z
+   Creation Date: 2024-07-03T14:38:18Z
+   Registry Expiry Date: 2025-07-03T14:38:18Z
+   Registrar: Aceville Pte. Ltd.
+   Registrar IANA ID: 3858
+   Registrar Abuse Contact Email: abuse@dnspod.com
+   Registrar Abuse Contact Phone: +86 10 62671188 x803707
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: KHLOE.NS.CLOUDFLARE.COM
+   Name Server: MELNICOFF.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-08T18:04:24Z 

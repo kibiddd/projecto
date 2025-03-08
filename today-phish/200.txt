@@ -1,0 +1,2 @@
+Domain: blogspot.de
+Status: connect

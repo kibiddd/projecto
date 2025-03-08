@@ -1,0 +1,19 @@
+
+ID ccTLD whois server
+Please see 'whois -h whois.id help' for usage.
+
+Domain ID: PANDI-DO123476
+Domain Name: web.id
+Created On: 2011-11-25 13:29:39
+Last Updated On: 2016-11-07 07:35:51 
+
+Status: clientTransferProhibited
+Status: serverTransferProhibited
+Status: clientUpdateProhibited
+Status: clientDeleteProhibited
+Status: RESERVED
+
+DNSSEC: Unsigned
+
+Abuse Domain Report https://pandi.id/domain-abuse-form/?lang=en
+For more information on Whois status codes, please visit https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en

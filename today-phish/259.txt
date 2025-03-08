@@ -1,0 +1,48 @@
+Domain Name: arindamsankardas.dev
+Registry Domain ID: E0D14A715-DEV
+Registrar WHOIS Server: whois.registrar.eu
+Registrar URL: http://www.openprovider.com
+Updated Date: 2025-03-08T18:00:50Z
+Creation Date: 2025-03-04T04:41:11Z
+Registry Expiry Date: 2026-03-04T04:41:11Z
+Registrar: Hosting Concepts B.V. d/b/a Registrar.eu
+Registrar IANA ID: 1647
+Registrar Abuse Contact Email: abuse@registrar.eu
+Registrar Abuse Contact Phone: +31.104482297
+Domain Status: addPeriod https://icann.org/epp#addPeriod
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: REDACTED FOR PRIVACY
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: Assam
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: IN
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Email: Please query the WHOIS server of the owning registrar identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name. 
+Registry Admin ID: REDACTED FOR PRIVACY
+Admin Name: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Fax: REDACTED FOR PRIVACY
+Admin Email: Please query the WHOIS server of the owning registrar identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name. 
+Registry Tech ID: REDACTED FOR PRIVACY
+Tech Name: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Fax: REDACTED FOR PRIVACY
+Tech Email: Please query the WHOIS server of the owning registrar identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name. 
+Name Server: ns1.dns-suspended.com
+Name Server: ns2.dns-suspended.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-08T18:05:16Z 

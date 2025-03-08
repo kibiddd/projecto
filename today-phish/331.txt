@@ -1,0 +1,27 @@
+Domain Name: SMETA-MARKET.SITE
+Registry Domain ID: D532675560-CNIC
+Registrar WHOIS Server: whois.networksolutions.com
+Registrar URL: https://www.networksolutions.com/
+Updated Date: 2025-03-07T18:58:52.0Z
+Creation Date: 2025-03-07T04:08:39.0Z
+Registry Expiry Date: 2026-03-07T23:59:59.0Z
+Registrar: Network Solutions LLC
+Registrar IANA ID: 2
+Domain Status: serverHold https://icann.org/epp#serverHold
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: addPeriod https://icann.org/epp#addPeriod
+Registrant Organization:
+Registrant State/Province: FL
+Registrant Country: US
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: NS1.DOMAIN.COM
+Name Server: NS2.DOMAIN.COM
+DNSSEC: unsigned
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: domain.operations@web.com
+Registrar Abuse Contact Phone: +1.8003337680
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-08T18:05:57.0Z 

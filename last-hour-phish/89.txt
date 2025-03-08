@@ -1,0 +1,17 @@
+   Domain Name: CZXXJC.COM
+   Registry Domain ID: 2871473924_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: WWW.GNAME.COM/WHOIS
+   Registrar URL: http://WWW.GNAME.COM
+   Updated Date: 2025-03-07T07:35:29Z
+   Creation Date: 2024-04-11T18:14:18Z
+   Registry Expiry Date: 2025-04-11T18:14:18Z
+   Registrar: Gname 029 Inc
+   Registrar IANA ID: 3998
+   Registrar Abuse Contact Email: fwicann@gname.com
+   Registrar Abuse Contact Phone: +6531581391
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: CARLANE.NS.CLOUDFLARE.COM
+   Name Server: CASEY.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-08T16:16:13Z 

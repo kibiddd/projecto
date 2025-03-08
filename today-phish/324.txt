@@ -1,0 +1,37 @@
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-08T15:05:54-03:00 - 2a09:bac5:c82c:dcd::160:125
+
+domain:      destravecredito.com.br
+owner:       Azevedo Empreendimentos LTDA
+ownerid:     41.919.909/0001-25
+responsible: Nicollas Gabryel C. Peixoto de Azevedo
+country:     BR
+owner-c:     NGCPA4
+tech-c:      NGCPA4
+nserver:     ns1.boxsecured.com
+nsstat:      20250308 AA
+nslastaa:    20250308
+nserver:     ns2.boxsecured.com
+nsstat:      20250308 AA
+nslastaa:    20250308
+saci:        yes
+created:     20240722 #28199550
+changed:     20240724
+expires:     20250722
+status:      published
+
+nic-hdl-br:  NGCPA4
+person:      Nicollas Gabryel C Peixoto de Azevedo
+e-mail:      n.azevedoempreendimentos@gmail.com
+country:     BR
+created:     20220311
+changed:     20240816
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

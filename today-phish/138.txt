@@ -1,0 +1,26 @@
+Domain Name: DHL-HOMES.CFD
+Registry Domain ID: D532917168-CNIC
+Registrar WHOIS Server: whois.gname.com
+Registrar URL: https://www.gname.com/
+Updated Date: 2025-03-07T14:47:25.0Z
+Creation Date: 2025-03-07T14:45:10.0Z
+Registry Expiry Date: 2026-03-07T23:59:59.0Z
+Registrar: Gname.com Pte. Ltd.
+Registrar IANA ID: 1923
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: addPeriod https://icann.org/epp#addPeriod
+Registrant Organization: Iman abdul salam
+Registrant State/Province: New York
+Registrant Country: US
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: CHARLES.NS.CLOUDFLARE.COM
+Name Server: SHAZ.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: complaint@gname.com
+Registrar Abuse Contact Phone: +65.65189986
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-08T18:04:10.0Z 

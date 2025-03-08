@@ -1,0 +1,17 @@
+   Domain Name: MEGABYTECOMPUTERS.NET
+   Registry Domain ID: 2882735968_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: www.gname.com/whois
+   Registrar URL: http://www.gname.com
+   Updated Date: 2024-05-20T06:36:04Z
+   Creation Date: 2024-05-19T18:19:22Z
+   Registry Expiry Date: 2025-05-19T18:19:22Z
+   Registrar: Gname 259 Inc
+   Registrar IANA ID: 4272
+   Registrar Abuse Contact Email: ZYS@GNAME.COM
+   Registrar Abuse Contact Phone: +65.65189986
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: JM1.DNS.COM
+   Name Server: JM2.DNS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-08T18:05:40Z 

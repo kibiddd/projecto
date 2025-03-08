@@ -1,0 +1,17 @@
+   Domain Name: STEAMCOMNUMITV.COM
+   Registry Domain ID: 2963273139_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.globaldomaingroup.com
+   Registrar URL: http://www.globaldomaingroup.com
+   Updated Date: 2025-02-28T15:31:39Z
+   Creation Date: 2025-02-28T15:30:56Z
+   Registry Expiry Date: 2026-02-28T15:30:56Z
+   Registrar: Global Domain Group LLC
+   Registrar IANA ID: 3956
+   Registrar Abuse Contact Email: abuse@globaldomaingroup.com
+   Registrar Abuse Contact Phone: +1 (805) 394-3992
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: OLGA.NS.CLOUDFLARE.COM
+   Name Server: WESTON.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-08T16:16:58Z 

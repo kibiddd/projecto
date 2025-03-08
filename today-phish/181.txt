@@ -1,0 +1,18 @@
+   Domain Name: SALAMSS.COM
+   Registry Domain ID: 2797952237_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.domain.com
+   Registrar URL: http://www.domain.com
+   Updated Date: 2024-06-28T10:44:15Z
+   Creation Date: 2023-07-13T10:57:15Z
+   Registry Expiry Date: 2025-07-13T10:57:15Z
+   Registrar: Domain.com, LLC
+   Registrar IANA ID: 886
+   Registrar Abuse Contact Email: compliance@domain-inc.net
+   Registrar Abuse Contact Phone: 602-226-2389
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS1.IPOWER.COM
+   Name Server: NS2.IPOWER.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-08T18:04:24Z 

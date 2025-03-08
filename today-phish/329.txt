@@ -1,0 +1,17 @@
+   Domain Name: APPLEFUNDTW.COM
+   Registry Domain ID: 2965109143_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: grs-whois.cndns.com
+   Registrar URL: http://www.cndns.com
+   Updated Date: 2025-03-07T07:49:08Z
+   Creation Date: 2025-03-07T07:42:48Z
+   Registry Expiry Date: 2026-03-07T07:42:48Z
+   Registrar: Shanghai Meicheng Technology Information Development Co., Ltd.
+   Registrar IANA ID: 1621
+   Registrar Abuse Contact Email: domain@cndns.com
+   Registrar Abuse Contact Phone: 021-51697771
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: A.EZDNSCENTER.COM
+   Name Server: B.EZDNSCENTER.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-08T18:05:40Z 

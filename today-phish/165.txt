@@ -1,0 +1,19 @@
+   Domain Name: CPRAPID.COM
+   Registry Domain ID: 2391726345_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.tucows.com
+   Registrar URL: http://www.tucows.com
+   Updated Date: 2024-07-10T09:06:07Z
+   Creation Date: 2019-05-16T21:16:20Z
+   Registry Expiry Date: 2030-05-16T21:16:20Z
+   Registrar: Tucows Domains Inc.
+   Registrar IANA ID: 69
+   Registrar Abuse Contact Email: domainabuse@tucows.com
+   Registrar Abuse Contact Phone: +1.4165350123
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS1.PDNS.TECH
+   Name Server: NS2.PDNS.TECH
+   Name Server: NS3.PDNS.TECH
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-08T18:04:10Z 

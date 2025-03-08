@@ -1,0 +1,17 @@
+   Domain Name: NBWEIMIN.COM
+   Registry Domain ID: 2874711923_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: www.gname.com/whois
+   Registrar URL: http://www.gname.com
+   Updated Date: 2025-03-07T07:35:29Z
+   Creation Date: 2024-04-22T18:17:39Z
+   Registry Expiry Date: 2025-04-22T18:17:39Z
+   Registrar: Gname 003 Inc
+   Registrar IANA ID: 3943
+   Registrar Abuse Contact Email: ZYS@GNAME.COM
+   Registrar Abuse Contact Phone: +6531581391
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: CARLANE.NS.CLOUDFLARE.COM
+   Name Server: CASEY.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-08T18:03:25Z 
