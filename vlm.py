@@ -2,7 +2,8 @@ from transformers import pipeline
 
 # rag: whatsapp is a red flag
 def screenshot_analysis():
-	pipe = pipeline("automatic-speech-recognition", model="microsoft/Phi-4-multimodal-instruct", trust_remote_code=True)
+
+	pipe = pipeline("image-text-to-text", model="microsoft/Phi-4-multimodal-instruct", trust_remote_code=True)
 	task = """Based on the URL and the screenshot of the website, how likely is the website fraudulent? 
 Specifically, look at (1) Phishing: Is the website requesting personal information or payment? 
 (2) Too-good-to-be-true offer: Is it offering free product or service? 
