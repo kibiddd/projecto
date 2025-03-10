@@ -1,0 +1,3 @@
+```json
+{"Phishing": "The website requests the user to submit an appeal, which may involve providing personal information to restore account access.", "Suspicious offer": "N/A", "Format": "The website has a professional design and appears well-formatted.", "Transparency": "The website doesn't provide sufficient information about the identity and the contact. This lack of transparency is a red flag.", "Impersonation": "The website might be impersonating a legitimate platform by requesting information under the pretense of restoring access.", "Other": "The website seems to be related to account restrictions, and it's hosted on a suspicious domain.", "verdict": 7}
+```

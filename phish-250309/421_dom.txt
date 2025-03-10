@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain registration is recent, as it was registered on 2024-06-04 and today is 2025-03-07, which is less than 6 months. It is also expiring soon, as the expiration date is 2025-06-04, which is less than a year. This is a potential fraud indicator.",
+  "answer2": "The contact information provided is partial, as the email address is incomplete (iin87824201@21cn.com). This is a potential fraud indicator.",
+  "answer3": "The registrar, 阿里云计算有限公司（万网）, is a well-known and reputable registrar. There is no indication that this registrar is known for hosting malicious sites or lacking verification. This is not a potential fraud indicator.",
+  "answer4": "Other suspicious registration factors include the domain name being a random string of characters, which is often a sign of a domain parked for malicious purposes. The domain status is 'ok', but the DNSSEC is unsigned, which is unusual for a legitimate domain. This is a potential fraud indicator.",
+  "verdict": 7
+}
+```

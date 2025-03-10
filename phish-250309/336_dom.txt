@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2025-02-11 and is set to expire on 2026-02-11, which is less than a year from the current date of 2025-03-07. This indicates that the domain is relatively new and may be at risk of being used for short-term fraudulent activities.",
+  "answer2": "The registrant, admin, and tech contact information is redacted for privacy. This lack of transparency is a common indicator of potential fraud, as it prevents verification of the domain's ownership and legitimacy.",
+  "answer3": "The registrar, Openprovider, is not widely recognized as a reputable registrar. The WHOIS data does not provide any additional information about the registrar's reputation or history of hosting malicious sites. However, the lack of transparency in the contact information is a significant concern.",
+  "answer4": "Other suspicious registration factors include the domain being clientTransferProhibited, which means it cannot be transferred to another registrar. This could be a tactic used by fraudulent operators to maintain control over the domain and prevent it from being moved to a more reputable registrar.",
+  "verdict": 8
+}
+```

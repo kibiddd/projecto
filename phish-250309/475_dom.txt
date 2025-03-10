@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2024-03-15 and is set to expire on 2025-03-15, which is less than a year from the current date of 2025-03-07. This indicates that the domain is relatively new and has less than a year before it expires, which can be a potential fraud indicator as it may be used for short-term malicious activities.",
+  "answer2": "The contact information for the registrant, admin, and tech contacts is redacted for privacy. This lack of transparency in contact information can be a red flag for potential fraud, as it makes it difficult to verify the legitimacy of the domain owner.",
+  "answer3": "The registrar, PDR Ltd. d/b/a PublicDomainRegistry.com, is known for hosting malicious sites or lacking verification. This information suggests that the domain may be registered through a registrar with a history of hosting fraudulent or malicious domains, which increases the likelihood of the domain being used for fraudulent purposes.",
+  "answer4": "Other suspicious registration factors include the domain status being 'clientTransferProhibited', which indicates that the domain cannot be transferred to another registrar. This could be a tactic used by fraudulent domain owners to prevent domain recovery. Additionally, the WHOIS data is outdated, which may indicate that the domain owner is trying to hide their identity or that the domain is not actively managed.",
+  "verdict": 8
+}
+```

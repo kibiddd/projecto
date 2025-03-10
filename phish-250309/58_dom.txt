@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2014-07-25 and the expiration date is 2025-07-25, which means it is not recent and not expiring soon. Therefore, this factor does not indicate fraud.",
+  "answer2": "The registrant, admin, and tech contact information is redacted for privacy. This is a common practice and does not necessarily indicate fraud, but it does limit the ability to verify the legitimacy of the domain owner.",
+  "answer3": "The registrar, 1API GmbH, is known for hosting malicious sites and lacking verification. This is a significant indicator of potential fraud.",
+  "answer4": "The domain status indicates that client transfers are prohibited, which is a common practice for domains with restricted transfer policies. This factor alone does not indicate fraud.",
+  "verdict": 7
+}
+```

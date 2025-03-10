@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting a user ID and password, which is a common tactic in phishing attempts.",
+  "Suspicious offer": "N/A",
+  "Format": "The design appears clean, but it's hosted on Weebly, which, while not inherently fraudulent, can be used for less legitimate sites. No obvious typos are visible in the provided image.",
+  "Transparency": "N/A. The website has no contact information visible in the image.",
+  "Impersonation": "The website logo and the domain name (my-site-100108-107046.weeblysite.com) suggest an attempt to impersonate AT&T. A legitimate AT&T login page would likely be on an official AT&T domain.",
+  "Other": "The use of a generic Weebly subdomain is highly suspicious for an AT&T login page. The password field also obscures the password with asterisks, which is typical.",
+  "verdict": 9
+}
+```

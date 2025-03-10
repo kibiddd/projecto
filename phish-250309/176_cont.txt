@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting personal information (contract number, access code, and mobile number), which is a common characteristic of phishing attempts.",
+  "Suspicious offer": "N/A",
+  "Format": "The website's design appears basic and potentially low-quality. The use of the Caixa logo might be an attempt to impersonate a legitimate banking site.",
+  "Transparency": "The website lacks clear contact information or details about its purpose, raising concerns about a lack of transparency.",
+  "Impersonation": "The website is likely impersonating Caixadirecta, a legitimate banking service, to steal user credentials.",
+  "Other": "The URL itself is suspicious. It is not the official website, and it uses a different domain. The website is not secure as indicated by the missing HTTPS.",
+  "verdict": 9
+}
+```

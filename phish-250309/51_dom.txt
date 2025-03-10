@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created and registered on 2024-11-04, which is less than 6 months from the current date of 2025-03-07. This is a potential indicator of fraud as it is very recent.",
+  "answer2": "The contact information provided by the registrar (Abuse Contact Email: complaint@gname.com and Phone: +65.65189986) is not redacted or partial, and it appears to be legitimate. No suspicious contact information is observed.",
+  "answer3": "The registrar, Gname.com Pte. Ltd., is known for hosting domains and is not typically associated with malicious sites. There is no indication that the registrar lacks verification. Therefore, this factor does not indicate fraud.",
+  "answer4": "The domain status indicates 'clientTransferProhibited', which means the domain cannot be transferred to another registrar. This is a common restriction and does not inherently indicate fraud. The DNSSEC is unsigned, which is not necessarily a fraud indicator but could be a security concern. No other suspicious registration factors are observed.",
+  "verdict": 7
+}
+```

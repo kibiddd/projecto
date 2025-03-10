@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting email/username and password, which is a classic phishing tactic.",
+  "Suspicious offer": "N/A",
+  "Format": "The website's format is basic and the design is quite simple, lacking some of the professional polish. The overall quality is suspicious",
+  "Transparency": "N/A",
+  "Impersonation": "The website attempts to impersonate BT's login page.",
+  "Other": "The URL uses \"weebly\" which is a free website builder, adding to the likelihood of it being fraudulent. This is a common tactic used by phishers.",
+  "verdict": 9
+}
+```

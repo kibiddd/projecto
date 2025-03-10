@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2024-07-13 and is set to expire on 2025-07-13, which is less than a year from the current date of 2025-03-07. This indicates that the domain is expiring soon.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or partial. The contact information for the registrar is also provided, including an abuse contact phone number and email.",
+  "answer3": "Squarespace Domains LLC is a well-known registrar, and there is no indication that it hosts malicious sites or lacks verification. The registrar's abuse contact information is also provided, which suggests a level of transparency and accountability.",
+  "answer4": "There are no other suspicious registration factors mentioned in the provided information.",
+  "verdict": 2
+}
+```

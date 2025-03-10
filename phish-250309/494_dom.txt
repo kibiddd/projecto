@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2024-03-15 and has an expiration date of 2025-03-15, which is less than a year from the current date of 2025-03-07. This indicates that the domain is expiring soon.",
+  "answer2": "The contact information provided by the registrar (abuse@julyname.com and +852.56109513) appears to be complete and not redacted or suspicious.",
+  "answer3": "The registrar, July Name Limited, is not widely known for hosting malicious sites, and there is no immediate indication that it lacks verification. However, further investigation into the registrar's reputation would be necessary to confirm this.",
+  "answer4": "The domain status indicates that client transfers are prohibited, which could be a red flag. Additionally, the DNSSEC is unsigned, which is not ideal for security purposes. The domain name 'PIEICE.COM' is somewhat generic and could potentially be used for fraudulent purposes.",
+  "verdict": 6
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2025-01-10 and the registration is expiring on 2026-01-10, which is less than a year from the current date of 2025-03-07. This indicates that the domain is relatively new and has less than a year before it expires, which can be a potential fraud indicator as it may be used for short-term malicious activities.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or suspicious. The contact information for the registrar is also provided, which is a positive sign.",
+  "answer3": "The registrar, Gname.com Pte. Ltd., is known for hosting domains for various purposes, including legitimate businesses. There is no widely known information suggesting that Gname.com Pte. Ltd. hosts malicious sites or lacks verification. However, further investigation into the specific domain's history and reputation would be necessary to make a definitive conclusion.",
+  "answer4": "The domain status indicates that client transfers are prohibited, which is a common practice to prevent unauthorized transfers. The DNSSEC is unsigned, which is not necessarily a fraud indicator but could be a security concern. The domain name 'CASHING911.COM' could potentially be associated with fraudulent activities, but without additional context, it is not possible to definitively label it as fraudulent.",
+  "verdict": 5
+}
+```

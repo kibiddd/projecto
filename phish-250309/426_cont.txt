@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is a hardware wallet provider, and it requests user interaction with a wallet. The website is asking user to use their wallet in a secure crypto ecosystem.",
+  "Suspicious offer": "N/A",
+  "Format": "The website has a professional design with a sleek modern look. There are no obvious typos.",
+  "Transparency": "The website provides clear contact information. The website shows that it has 1M+ customers.",
+  "Impersonation": "The website is designed to appear legitimate and does not try to impersonate a specific entity, but the url treizioriwellet is suspicious.",
+  "Other": "The URL `treizioriwellet.webflow.io` is highly suspicious. It's a clear attempt to mimic the legitimate Trezor website, but with a slight misspelling. This strongly indicates a phishing or malicious intent. Additionally, the use of 'webflow.io' as the domain suggests a possible temporary or disposable website, adding another layer of suspicion.",
+  "verdict": 9
+}
+```

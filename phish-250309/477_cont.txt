@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is a Trezor wallet simulator, requesting login through a fake login page. This is a phishing attempt.",
+  "Suspicious offer": "N/A",
+  "Format": "The website is made with Webflow and the overall design looks clean, but the fake wallet is an indicator of a fraudulent website.",
+  "Transparency": "N/A",
+  "Impersonation": "The website is impersonating the Trezor hardware wallet interface.",
+  "Other": "The URL itself, `trezor-io-brdge.webflow.io`, is not a legitimate Trezor domain and is an obvious sign of fraud. The use of Webflow is not inherently suspicious, but used in this context is suspicious.",
+  "verdict": 9
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting a username and password, which is typical of phishing attempts.",
+  "Suspicious offer": "N/A",
+  "Format": "The login screen has a Microsoft logo and appears to be trying to imitate a legitimate Microsoft login page.",
+  "Transparency": "N/A",
+  "Impersonation": "The website is designed to impersonate a Microsoft login page to steal credentials.",
+  "Other": "The URL itself (onlineservicetech.website) and the seemingly random alphanumeric string in the URL strongly suggest it is not a legitimate Microsoft website.",
+  "verdict": 9
+}
+```

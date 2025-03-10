@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting User ID and Password, which is personal information, making it a phishing attempt.",
+  "Suspicious offer": "N/A",
+  "Format": "The format appears to be a login page.",
+  "Transparency": "N/A",
+  "Impersonation": "The website is impersonating the AT&T login page, which is a common tactic for phishing.",
+  "Other": "The URL suggests a potential imitation of the AT&T website.",
+  "verdict": 9
+}
+```

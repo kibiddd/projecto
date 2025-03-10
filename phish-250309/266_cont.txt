@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website may be attempting to collect login credentials (username and password) through a fake login form.",
+  "Suspicious offer": "The website may be offering rewards (like USDT) to lure users into signing up.",
+  "Format": "The website URL is suspicious ('kukoinllogim.webflow.io') and could be attempting to impersonate the legitimate KuCoin website. There may be typos and poor design elements, although that is difficult to say without seeing the website.",
+  "Transparency": "It is not clear if the website provides legitimate contact information or clear information.",
+  "Impersonation": "The URL is attempting to impersonate the legitimate KuCoin website.",
+  "Other": "The URL uses a common phishing tactic of adding extra letters to the legitimate site's name. The webflow.io domain is often used for temporary sites, raising a flag.",
+  "verdict": 9
+}
+```

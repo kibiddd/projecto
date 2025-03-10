@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2025-03-03 and is set to expire on 2026-03-03, which is less than a year from the current date of 2025-03-07. This indicates that the domain is relatively new and may be expiring soon, which can be a potential fraud indicator.",
+  "answer2": "The contact information provided by the registrar (CNOBIN INFORMATION TECHNOLOGY LIMITED) is complete and appears legitimate. There is no redacted or suspicious contact information.",
+  "answer3": "The registrar, CNOBIN INFORMATION TECHNOLOGY LIMITED, is not widely recognized as hosting malicious sites or lacking verification. However, further investigation into the registrar's reputation and history would be necessary to confirm this.",
+  "answer4": "The domain status indicates that client transfers are prohibited, which is a common restriction for domains managed by certain registrars or for specific types of domains. The DNSSEC is unsigned, which is not necessarily a fraud indicator but could be a security concern. The registrar's WHOIS server is hosted by Ordertld.com, which is not a well-known registrar and could be a potential red flag. The domain name 'STAEMCOMMUNIITY.COM' does not immediately suggest any fraudulent activity, but the combination of a new domain, the registrar's lesser-known status, and the prohibition on client transfers could be considered suspicious.",
+  "verdict": 6
+}
+```

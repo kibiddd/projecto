@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting the user to complete a transaction search procedure, which may involve providing sensitive information or making payments. This is a classic phishing attempt.",
+  "Suspicious offer": "The website claims there's a new transaction and a payout from Binance.com, which could be a bait to lure users into a fraudulent scheme. The urgency (24-hour time limit) adds pressure.",
+  "Format": "The use of 'Dear user' and the direct request to complete a process are common in phishing emails. The image tries to mimic the style of an actual Coinbase alert, attempting to appear legitimate.",
+  "Transparency": "There is no apparent contact information or details about the sender.  The lack of transparency is suspicious.",
+  "Impersonation": "The email attempts to impersonate Coinbase by mimicking its notification style. This creates a false sense of legitimacy.",
+  "Other": "The URL domain does not match the official Coinbase domain.",
+  "verdict": 10
+}
+```

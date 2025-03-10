@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website requests login information (username and password), which is a potential phishing attempt.",
+  "Suspicious offer": "N/A",
+  "Format": "The website's design is simple and the image quality is low, which could indicate a lack of professionalism and raise a red flag.",
+  "Transparency": "N/A",
+  "Impersonation": "N/A",
+  "Other": "The URL 'cmyportal.com' seems suspicious. This may be a typo or a domain associated with a phishing scheme.",
+  "verdict": 8
+}
+```

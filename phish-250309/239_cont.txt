@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website appears to be a legitimate Ledger Live web app, which should not directly request sensitive personal information or payments. However, it is important to verify the URL, as phishing attacks often use similar-looking URLs.",
+  "Suspicious offer": "N/A",
+  "Format": "The website appears to have a professional design and is well-formatted. There are no obvious typos.",
+  "Transparency": "It is not clear whether the website provides clear and trustworthy contact information from the current interface. The lack of a clear 'About Us' or 'Contact' section could raise some concern.",
+  "Impersonation": "The URL 'help---content---ledgder.webflow.io' is very suspicious. The hyphen in the URL before the word 'ledgder' is probably designed to confuse. The site is attempting to impersonate the official Ledger website.",
+  "Other": "The website is hosted on webflow.io, which allows anyone to create a website, making it easier to impersonate legitimate sites. Combining the unusual URL with the attempt to mimic the appearance of the Ledger site indicates a high risk of fraud. The name 'ledgder' is also a very common typo to mislead users",
+  "verdict": 9
+}
+```

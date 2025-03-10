@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is asking for NAB ID and Password, which is personal information.",
+  "Suspicious offer": "N/A",
+  "Format": "The website has a clean design, but the domain name 'reviewsec-nab.com' is suspicious. Legitimate banking sites typically have more official-sounding domains.",
+  "Transparency": "N/A",
+  "Impersonation": "The website attempts to impersonate the National Australia Bank.",
+  "Other": "The combination of a request for login details with a domain name suggestive of review or security makes this a very suspicious website.",
+  "verdict": 9
+}
+```

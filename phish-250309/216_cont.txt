@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not request any personal information or payment.",
+  "Suspicious offer": "The website does not offer any suspicious deals or free products/services.",
+  "Format": "The website has a good design and the image quality seems good.",
+  "Transparency": "The website does not contain any contact information, but this is because it's a static project hosted on GitHub.",
+  "Impersonation": "The website is impersonating Amazon.",
+  "Other": "N/A",
+  "verdict": 10
+}
+```

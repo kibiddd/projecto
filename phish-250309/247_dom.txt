@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2024-12-23 and the registration is less than 6 months old. The domain is also expiring soon, less than a year from the current date. This is a potential fraud indicator as it is common for fraudulent domains to be registered and expire quickly to avoid detection and removal.",
+  "answer2": "The registrant, admin, and tech contact information is redacted for privacy. This is a common practice for legitimate domains, but it can also be a red flag for fraudulent domains as it makes it difficult to verify the legitimacy of the domain owner.",
+  "answer3": "Dynadot is a well-known registrar and is not typically associated with hosting malicious sites. However, it is important to note that any registrar can be used by fraudulent actors. Therefore, this factor alone is not a strong indicator of fraud.",
+  "answer4": "The domain status indicates that the domain is in a client hold, client transfer prohibited, and inactive state. This is a potential fraud indicator as it suggests that the domain is not currently in use and may have been abandoned or created for fraudulent purposes.",
+  "verdict": 8
+}
+```

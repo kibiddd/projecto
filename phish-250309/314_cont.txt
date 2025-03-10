@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website has a modern design and appears professional.",
+  "Transparency": "N/A",
+  "Impersonation": "The website's design is simple but clean and professional.",
+  "Other": "The website URL indicates it's hosted on Webflow, a website builder, not the primary domain. This, however, can be used to test the site.",
+  "verdict": 3
+}
+```

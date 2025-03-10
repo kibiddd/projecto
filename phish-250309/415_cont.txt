@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting login information for Trezor Suite Web App. This could be an attempt to steal login credentials.",
+  "Suspicious offer": "N/A",
+  "Format": "The website uses a professionally designed layout, but it could be a copy of a legitimate site. There are no obvious typos.",
+  "Transparency": "N/A",
+  "Impersonation": "The website appears to be impersonating Trezor.com or a related service to steal login credentials and potentially access user's crypto wallets.",
+  "Other": "The domain name 'starts--trezrus.webflow.io' is unusual and could be an indicator of a fraudulent website. The use of a Webflow subdomain could indicate a temporary or less secure setup.",
+  "verdict": 8
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2013-09-09, which is more than 6 months ago, and it is not expiring soon (less than a year).",
+  "answer2": "The contact information is not provided in the given information, so it cannot be determined if it is redacted, partial, or suspicious.",
+  "answer3": "The registrar is not explicitly mentioned, but the WHOIS server is 'whois.id'. Without further information on the registrar's reputation, it is not possible to determine if it hosts malicious sites or lacks verification.",
+  "answer4": "The domain is currently reserved, which can be a red flag for potential fraud as it may indicate that the domain owner is not ready to use the domain yet. Additionally, the domain has not been updated since 2019, which could be suspicious.",
+  "verdict": 5
+}
+```

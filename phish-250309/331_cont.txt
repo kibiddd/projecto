@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is offering a $50 gift card, which is a suspicious offer and may require the user to log in or provide personal information. This is a classic phishing attempt to steal credentials.",
+  "Suspicious offer": "Offering a $50 gift card, especially with a limited quantity, is a common tactic used in fraudulent websites to lure users.",
+  "Format": "The website appears to be a low-quality copy of the Steam website. The original website shows the real URL is \"steamcommunity.com\". This website has different URL and is not the official one. This suggests an attempt at impersonation.",
+  "Transparency": "The website provides no information about the company or its contact details, which is suspicious.",
+  "Impersonation": "The website is trying to impersonate the official Steam website to deceive users into thinking it's legitimate.",
+  "Other": "The URL itself (qm50card.ru) is not a domain associated with Steam. \"ru\" domain is from Russia. It seems suspicious because Steam is based on the United States.",
+  "verdict": 10
+}
+```

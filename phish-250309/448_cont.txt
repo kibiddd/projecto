@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website, as displayed, is a landing page for Coinbase Pro and does not directly request personal information or payments. However, given that it's a Webflow.io subdomain and not the official Coinbase domain (coinbase.com or pro.coinbase.com), there's a high potential for phishing if this is a fraudulent attempt to mimic the legitimate website.",
+  "Suspicious offer": "The website itself doesn't explicitly offer any suspicious or too-good-to-be-true deals. It presents Coinbase Pro's features in a standard manner.",
+  "Format": "The website appears to have a clean design, but the fact that it is hosted on webflow.io raises concerns. It is very common for fraudulent site owners to use this service. The screenshot doesn't reveal any obvious typos. The image quality appears adequate.",
+  "Transparency": "The contact information is not readily available on this landing page which is a red flag. This lack of transparency is expected for a fraudulent website.",
+  "Impersonation": "The website is designed to mimic Coinbase Pro, which is a clear attempt at impersonation. This is a common tactic used in phishing schemes to gain trust.",
+  "Other": "The use of a Webflow.io subdomain is a significant red flag, as it suggests the site is not an official part of Coinbase's infrastructure and is likely designed to steal personal info.",
+  "verdict": 9
+}
+```

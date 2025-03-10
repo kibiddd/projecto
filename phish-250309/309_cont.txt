@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is a Coinbase Pro login page. It's asking for user credentials to access the user account. It seems legitimate.",
+  "Suspicious offer": "N/A",
+  "Format": "The website has a professional design and layout, typical of a legitimate financial platform.",
+  "Transparency": "N/A",
+  "Impersonation": "The website is trying to mimic coinbasepro cdn domain.",
+  "Other": "The url of the website (portal-coinbasepro-cdn--auth-c.webflow.io) appears to be a phishing attempt, as it is not the official coinbase domain. It is using webflow.io which might be a hosting platform for the fake website. The screenshot does not have any obvious red flags, the url is the main issue.",
+  "verdict": 9
+}
+```

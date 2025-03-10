@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website doesn't explicitly ask for personal information or payment on this specific page, but it directs users to download an app, which could potentially be a vector for phishing if the downloaded software is malicious.",
+  "Suspicious offer": "The website is not offering any too-good-to-be-true or free product/service.",
+  "Format": "The website's design and quality seem professional, with no immediately obvious typos or formatting issues. However, the webflow.io domain raises a red flag as it suggests a platform-hosted site rather than an official site (e.g., trezor.io).",
+  "Transparency": "The website doesn't provide clear contact information.",
+  "Impersonation": "The website could be impersonating the official Trezor website, using a similar design and branding to create a false sense of legitimacy. The webflow.io domain raises a red flag because it is not the official website address",
+  "Other": "The use of a webflow.io domain is very suspicious as Trezor would use a trezor.com or trezor.io domain.",
+  "verdict": 9
+}
+```

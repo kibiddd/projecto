@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website requests personal information (full name, phone number) which is common for identity verification. However, the URL is not the official website for Idaho Central Credit Union, raising a red flag.",
+  "Suspicious offer": "N/A",
+  "Format": "The design seems simple but adequate. However, the suspicious URL raises concerns.",
+  "Transparency": "N/A",
+  "Impersonation": "The website attempts to impersonate Idaho Central Credit Union to collect personal information.",
+  "Other": "The URL's domain 'prosystemsug.com' and the path 'backup/byxugqlc/ic-access' do not match the legitimate Idaho Central Credit Union website, indicating a phishing attempt. The 'email.html' file name is also suspicious.",
+  "verdict": 9
+}
+```

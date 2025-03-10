@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2024-10-15 and is expiring on 2025-10-15, which is less than a year from the current date of 2025-03-07. This is a potential fraud indicator as it is a very recent registration and is expiring soon.",
+  "answer2": "The registrant, admin, and tech contact information is redacted for privacy. This is a potential fraud indicator as it makes it difficult to verify the legitimacy of the domain owner.",
+  "answer3": "Tucows Domains Inc. is a well-known registrar, but it is not known for hosting malicious sites. However, the domain status indicates that client transfer and update are prohibited, which could be a red flag.",
+  "answer4": "The domain name'recompensas.click' is not a common or recognizable domain name, which could be a potential fraud indicator.",
+  "verdict": 8
+}
+```

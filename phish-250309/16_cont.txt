@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is asking for login to Trezor suite, which can be a phishing attempt if it's not the official website.",
+  "Suspicious offer": "N/A",
+  "Format": "The website design looks legitimate, but the URL is highly suspicious. It's hosted on Webflow which can be used for phishing.",
+  "Transparency": "N/A",
+  "Impersonation": "The website impersonates Trezor, a legitimate hardware wallet provider.",
+  "Other": "The URL is not the official Trezor website. The extra 'auth' and '-ttrezor-io' is a common technique for phishing.",
+  "verdict": 10
+}
+```

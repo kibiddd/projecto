@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website, based on the image and the domain, appears to be impersonating the imToken wallet. It is likely asking for login information or access to the user's wallet, which is a phishing attempt.",
+  "Suspicious offer": "N/A",
+  "Format": "The website appears to have a basic design and possible typos. It is difficult to make a full assessment with just the provided image. ",
+  "Transparency": "The website provides no contact information.",
+  "Impersonation": "The website is impersonating a well-known crypto wallet, imToken. This is a clear indicator of fraud.",
+  "Other": "The domain name is suspicious; it attempts to create a false impression of legitimacy.",
+  "verdict": 9
+}
+```

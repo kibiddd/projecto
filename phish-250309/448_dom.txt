@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain registration is not recent; it was created on 2013-05-08, which is well over 6 months ago. The domain is not expiring soon; the expiration date is 2028-05-08, which is more than a year away. Verdict: 0 (not likely fraudulent based on this factor).",
+  "answer2": "The contact information for the registrant, admin, and tech contacts is redacted for privacy. This is a common practice and does not necessarily indicate fraud. Verdict: 0 (not likely fraudulent based on this factor).",
+  "answer3": "MarkMonitor Inc. is a reputable registrar known for hosting a variety of domains, including those of well-known companies. There is no indication that this registrar is known for hosting malicious sites or lacks verification. Verdict: 0 (not likely fraudulent based on this factor).",
+  "answer4": "There are no other suspicious registration factors provided in the WHOIS information. The domain status indicates that client deletion, transfer, and update are prohibited, which is a common practice for domains managed by companies like Webflow, Inc. Verdict: N/A (no additional suspicious factors).",
+  "verdict": 0
+}
+```

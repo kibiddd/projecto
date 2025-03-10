@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website, as presented in the screenshot, doesn't appear to be directly requesting personal information or payment. However, this is based only on a single screenshot; a full investigation would be needed.",
+  "Suspicious offer": "The website promotes a digital wallet, which is a legitimate service. There are no obvious suspicious offers.",
+  "Format": "The website looks professionally designed.",
+  "Transparency": "The website shows a warning about fraud, indicating some level of transparency.",
+  "Impersonation": "The website is likely impersonating imToken as the original URL should be imtoken.com.",
+  "Other": "The URL 'iiim-tooken.com' is highly suspicious because of the misspelled domain name, which is a common tactic for phishing. This impersonation is a major red flag.",
+  "verdict": 9
+}
+```

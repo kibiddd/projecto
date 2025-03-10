@@ -1,0 +1,3 @@
+```json
+{"Phishing": "The website is requesting an email, phone or Skype, which is personal information used for account login, indicating a phishing attempt.", "Suspicious offer": "N/A", "Format": "The design appears legitimate with the Microsoft logo and branding, but the URL 'gigantic-holiday.surge.sh' is unusual and could indicate a fake site. A legitimate Microsoft sign-in page would have a Microsoft domain name. The URL appears to be a generic website that is attempting to mimic a Microsoft login page.", "Transparency": "N/A", "Impersonation": "The website is impersonating a Microsoft sign-in page.", "Other": "The URL being a randomly named surge.sh domain is highly suspicious.", "verdict": 9}
+```

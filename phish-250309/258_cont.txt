@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting a User ID and Password, which is a standard sign-in procedure for email accounts. However, the suspicious domain (weebly.com), indicates this might be a phishing attempt to steal user credentials.",
+  "Suspicious offer": "N/A",
+  "Format": "The website is a simple login page with the AT&T logo and the sign-in prompt. The format seems legitimate at a first glance but it's hosted on a weebly.com domain",
+  "Transparency": "The website doesn't provide contact information, and the use of a Weebly domain raises concerns about its legitimacy and transparency.",
+  "Impersonation": "The website is attempting to impersonate the AT&T sign-in page.",
+  "Other": "The website is hosted on a free website builder (Weebly), which is often used for fraudulent activities and to avoid scrutiny from domain registrar.",
+  "verdict": 9
+}
+```

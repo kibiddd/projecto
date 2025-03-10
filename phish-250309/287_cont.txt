@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting username/email and password, which is personal information, making it a phishing attempt.",
+  "Suspicious offer": "N/A",
+  "Format": "The website's design and layout mimic the official myGov website, but the URL is highly suspicious.",
+  "Transparency": "N/A",
+  "Impersonation": "The website is impersonating the official myGov website to steal user credentials.",
+  "Other": "The website's URL (mygovaus-inbox.com) is a major red flag. Official government websites use .gov or .gov.au domains.",
+  "verdict": 10
+}
+```

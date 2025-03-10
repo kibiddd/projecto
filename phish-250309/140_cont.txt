@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is asking to connect a wallet, which is a common tactic in phishing scams. The user is asked to sign a message which could potentially grant access to the wallet.",
+  "Suspicious offer": "Offering 400,000 BNB (a significant amount) and $200,000 USD is a classic 'too good to be true' offer used in scams to lure people in.",
+  "Format": "The screenshot looks okay, but without visiting the live site, it's hard to assess the quality of the website. There's no obvious typo.",
+  "Transparency": "No contact information is visible in the screenshot which is suspicious",
+  "Impersonation": "The website name 'binaceaps' is a very slight variation from the legitimate 'Binance' which suggests impersonation",
+  "Other": "The use of 'airdrop' as a reward for completing the steps is a common tactic used by scammers, which are often not real, and designed to gather information or steal cryptocurrencies.",
+  "verdict": 9
+}
+```

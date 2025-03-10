@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is a Trezor login page, and it might request credentials. The legitimacy cannot be assessed at this point without actually logging in.",
+  "Suspicious offer": "N/A",
+  "Format": "The website is well-designed, but it appears to be a landing page rather than a fully functional site. The use of 'Made in Webflow' in the corner raises a red flag. legitimate websites don't usually promote the website builder they use.",
+  "Transparency": "N/A",
+  "Impersonation": "The site impersonates Trezor. The URL is not the official Trezor domain.",
+  "Other": "The use of webflow.io subdomain is suspicious. Most legitimate companies will have their own domain and not a webflow.io one.",
+  "verdict": 9
+}
+```

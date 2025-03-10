@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website seems legitimate, and doesn't appear to be directly requesting personal information or payment in the visible parts of the screenshot.",
+  "Suspicious offer": "The website mentions a 'Limited time offer! Get 30% off' which could be suspicious depending on the context, but the website seems to be selling actual products.",
+  "Format": "The website design looks professional and high quality.",
+  "Transparency": "N/A",
+  "Impersonation": "The website's branding closely aligns with the known Trezor brand. However, the webflow.io domain is not a domain that the official Trezor website uses.",
+  "Other": "The URL of the website is suspicious. A legitimate website would not typically be on a Webflow subdomain. There is a very slight chance of phishing due to this. The real Trezor website is trezor.io.",
+  "verdict": 7
+}
+```

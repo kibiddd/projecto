@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2023-09-07, which is less than 6 months from today (2025-03-07). This is a potential indicator of fraud.",
+  "answer2": "The contact information is redacted, which is suspicious and a potential indicator of fraud.",
+  "answer3": "The RIPE Database query service is not known for hosting malicious sites or lacking verification. This does not indicate fraud.",
+  "answer4": "The domain name contains unusual characters and the URL structure is suspicious. This is another potential indicator of fraud.",
+  "verdict": 8
+}
+```

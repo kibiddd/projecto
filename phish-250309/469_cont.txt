@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting a username, which could be used for phishing purposes.",
+  "Suspicious offer": "N/A",
+  "Format": "The website appears to have a modern design, but the placeholder text and missing text are a concern. Furthermore, the placeholder text does not make sense. The website seems unfinished.",
+  "Transparency": "N/A",
+  "Impersonation": "The website might be trying to appear like an app with similar functions.",
+  "Other": "The website has some serious formatting issues, which indicates that the project might be either illegitimate or just unfinished.",
+  "verdict": 8
+}
+```

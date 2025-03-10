@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website requests an email address, which could be used for phishing attempts. However, this is the legitimate action for Netflix.",
+  "Suspicious offer": "The offer of 'Try 30 days free' is a standard Netflix promotion, not suspicious on its own.",
+  "Format": "The website appears to be a basic implementation of the Netflix landing page. While not perfect, it's not indicative of a scam.",
+  "Transparency": "N/A",
+  "Impersonation": "The website impersonates Netflix.",
+  "Other": "The URL does not appear to be the official Netflix domain. It looks like a practice copy hosted on Github. The content looks legitimate.",
+  "verdict": 4
+}
+```

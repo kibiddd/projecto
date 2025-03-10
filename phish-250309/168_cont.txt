@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website displays a 404 error with a poor design, indicating a problem with the content and potentially a lack of attention to detail.",
+  "Transparency": "N/A, the website is unavailable and offers no information.",
+  "Impersonation": "N/A",
+  "Other": "The URL structure seems to be obfuscated and uses shortener which makes it difficult to ascertain its nature, The lack of content and 404 error do not provide any clues. ",
+  "verdict": 5
+}
+```

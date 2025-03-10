@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2025-02-20 and the registration is expiring on 2026-02-20, which is less than a year from the current date of 2025-03-07. This indicates that the domain is relatively new and will soon expire, which can be a red flag for potential fraud.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or partial. The contact information for the registrar is also provided, which is not suspicious.",
+  "answer3": "Gname.com is a well-known registrar, and there is no indication that it hosts malicious sites or lacks verification. Therefore, this factor does not indicate potential fraud.",
+  "answer4": "The domain status indicates that client transfers are prohibited, which is a common restriction for domains managed by registrars. The DNSSEC is unsigned, which is not necessarily a red flag for fraud but could be a security concern. The registrar's abuse contact information is provided, which is a positive sign. No other suspicious registration factors are apparent.",
+  "verdict": 3
+}
+```

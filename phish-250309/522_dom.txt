@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain registration is recent, as it was registered on 2023-09-19 and today is 2025-03-07, which is more than 1 year and 8 months later. Therefore, it is not expiring soon.",
+  "answer2": "The contact information provided is partial, as the email address is incomplete (cnkjy2@126.com).",
+  "answer3": "The registrar, 阿里云计算有限公司（万网）, is a well-known and reputable registrar, so there is no indication of hosting malicious sites or lacking verification.",
+  "answer4": "The domain status is 'ok', and the DNSSEC is unsigned, which is not necessarily suspicious. However, the partial contact information and the recent registration could be potential red flags.",
+  "verdict": 4
+}
+```

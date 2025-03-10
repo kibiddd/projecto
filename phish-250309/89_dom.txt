@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 1999-04-22 and the registration information was last updated on 2022-01-13. This means the domain has been registered for over 26 years, which is not recent. The domain is not expiring soon either, as the expiration date is 2027-04-22. Therefore, this factor does not indicate potential fraud.",
+  "answer2": "The contact information provided includes an abuse contact email (abuse@no-ip.com) and phone number (+1.7758531883). The contact information is not redacted or partial, and it appears to be legitimate. Therefore, this factor does not indicate potential fraud.",
+  "answer3": "The registrar, No-IP, is a well-known and reputable registrar that hosts many legitimate domains. There is no indication that No-IP is known for hosting malicious sites or lacking verification. Therefore, this factor does not indicate potential fraud.",
+  "answer4": "The domain status indicates that client transfers are prohibited. This is a common restriction for domains managed by No-IP and does not necessarily indicate fraud. Additionally, the domain uses No-IP's name servers, which are legitimate. Therefore, this factor does not indicate potential fraud.",
+  "verdict": 1
+}
+```

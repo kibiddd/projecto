@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is prompting users to manage their crypto, which could lead to phishing attempts if users enter their credentials on a fake site. It's not directly asking for personal information on the displayed page.",
+  "Suspicious offer": "The website mentions 'Get Trezor Expert Now at 20% Off!' which could be a tactic to lure users, especially if the offer is not legitimate.",
+  "Format": "The website has a professional appearance. However, the URL 'trezor-r-bridge-tre.webflow.io' is not the official Trezor domain, raising suspicion.",
+  "Transparency": "The website doesn't seem to provide contact information on the main page.",
+  "Impersonation": "The website appears to be impersonating the official Trezor website, using the logo, and overall design to create a sense of legitimacy.",
+  "Other": "The use of 'webflow.io' in the URL, instead of a direct domain associated with Trezor, suggests this is a potentially malicious website.",
+  "verdict": 8
+}
+```

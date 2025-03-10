@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting username and password, which is personal information. This is a classic phishing tactic.",
+  "Suspicious offer": "N/A",
+  "Format": "The URL `prosystemsug.com/backup/byxugqlc/ic-access/ss.html` indicates a possible backup or test environment, which is not typical for a real login page. This suggests the site may be a low-quality imitation.",
+  "Transparency": "N/A, the website is a login page without contact information.",
+  "Impersonation": "The website is impersonating Idaho Central Credit Union, as indicated by the logo. The URL domain does not belong to the credit union.",
+  "Other": "The URL structure, use of 'backup' and 'ss.html', and the suspicious domain name are strong indicators of a fraudulent site.",
+  "verdict": 10
+}
+```

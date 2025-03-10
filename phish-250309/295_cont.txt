@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website requests an email address, which could be used for phishing attempts to obtain more sensitive information. This is a common tactic.",
+  "Suspicious offer": "The website is offering Netflix services at a promotional rate, though it's not clear if this is a genuine offer. However, it is not offering a free product or service. It is unclear from the screenshot the actual nature of the offer. Thus, I would mark this as a low risk.",
+  "Format": "The website's design attempts to mimic the official Netflix website but is not an exact replica. There are no obvious typos but the general design is less polished than the official site.",
+  "Transparency": "The website does not provide any contact information.",
+  "Impersonation": "The website is impersonating Netflix to potentially collect user information.",
+  "Other": "The URL itself (nithinsai01.github.io/netflixclone) is a strong indicator of a non-official, potentially fake, website. This is a common technique used for testing or for phishing. It doesn't use a secure HTTPS connection.",
+  "verdict": 7
+}
+```

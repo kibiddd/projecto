@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The site prompts a user to log in, but without inspecting the login process, it's impossible to confirm if it's a phishing attempt. However, since it is asking for login credentials, it is a phishing risk.",
+  "Suspicious offer": "N/A",
+  "Format": "The design is clean, but the main content simply says 'Login for more information on Wallet withdrawals'. This could indicate a lack of content beyond login, and this is suspicious. The content looks professional.",
+  "Transparency": "The website does not provide enough information to assess transparency. There is no clear contact information.",
+  "Impersonation": "The website uses the BlockFi logo, and it is hosted on webflow.io, which creates a false sense of legitimacy, but it does not tell us the complete story. The URL is unusual, since it uses a content delivery network name as a website address. This is suspicious, and may indicate a temporary hosting for a phishing attempt.",
+  "Other": "The use of webflow.io, combined with the very limited information provided and the request to login, suggests this might be a preliminary site before a phishing attack.",
+  "verdict": 7
+}
+```

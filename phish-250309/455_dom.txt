@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2024-04-13 and the registration is expiring on 2025-04-13, which is less than a year from the current date of 2025-03-07. This indicates that the domain is expiring soon, which can be a potential fraud indicator as it may be a short-term registration often used for phishing or other malicious activities.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or partial. The contact information for the registrar is also provided, which is not suspicious.",
+  "answer3": "The registrar, Realtime Register B.V., is known for hosting malicious sites or lacking verification. This is a significant red flag as it suggests that the domain may be associated with fraudulent activities.",
+  "answer4": "The domain status indicates that client transfers are prohibited, which is unusual and could be a sign of a domain being used for malicious purposes. Additionally, the DNSSEC is unsigned, which is another potential fraud indicator as it means the domain's DNS records are not secured.",
+  "verdict": 8
+}
+```

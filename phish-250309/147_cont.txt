@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting username and password, which is a form of phishing.",
+  "Suspicious offer": "N/A",
+  "Format": "N/A",
+  "Transparency": "N/A",
+  "Impersonation": "The website is impersonating Navy Federal Credit Union.",
+  "Other": "The provided URL uses a suspicious domain name and appears to be a phishing attempt.",
+  "verdict": 10
+}
+```

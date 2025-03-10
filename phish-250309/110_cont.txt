@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website requests the user's email address, which could be used for phishing.",
+  "Suspicious offer": "The website offers an unlimited service at a relatively low starting price. It is not a suspicious offer since this is Netflix's plan, but it should be verified before entering the email.",
+  "Format": "The website has an adequate design, with a clear Netflix logo and a prominent \"Get Started\" button. It seems like a good layout.",
+  "Transparency": "The website does not provide any contact information, which is a red flag.",
+  "Impersonation": "The website is impersonating Netflix to create a false sense of legitimacy.",
+  "Other": "The URL \"ajnaaditi30.github.io/Netflix-clone\" is not the official Netflix domain, which is a major red flag. This suggests it's likely a clone created for malicious purposes.",
+  "verdict": 8
+}
+```

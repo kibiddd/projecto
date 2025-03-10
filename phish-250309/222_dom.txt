@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2012-02-16, which is more than 6 years ago, so it is not recent. The domain is not expiring soon as the expiration date is 2026-02-16, which is more than a year away. Verdict: 0",
+  "answer2": "The registrant, admin, and tech contact information is redacted for privacy, which is common practice but can also be a red flag for fraud. Verdict: 5",
+  "answer3": "The registrar, Instra Corporation Pty Ltd., is a legitimate registrar, but the domain's name servers are associated with a domain that has a suspicious name (ddns-ns1.quickconnect.to, etc.). This could indicate a potential for hosting malicious sites. Verdict: 6",
+  "answer4": "The domain status is 'ok' according to ICANN, but the domain name itself and the associated name servers have suspicious elements. The domain name'myds.me' and the name servers 'quickconnect.to' are unusual and could be indicative of a fraudulent setup. Verdict: 7",
+  "verdict": 6
+}
+```

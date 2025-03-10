@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting login to access the trading platform, which involves personal information. This is a potential phishing attempt.",
+  "Suspicious offer": "N/A",
+  "Format": "The website design is not professional and the URL suggests an unofficial website.",
+  "Transparency": "N/A",
+  "Impersonation": "The website is impersonating Coinbase Pro.",
+  "Other": "The URL is not the official Coinbase URL, indicating it's a fake website.",
+  "verdict": 10
+}
+```

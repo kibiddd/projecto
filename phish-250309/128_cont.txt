@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website promotes cryptocurrency trading and management. It does not appear to be directly requesting personal information or payments, but it redirects to a legitimate cryptocurrency service.",
+  "Suspicious offer": "The website promotes cryptocurrency trading, which is a service that is not inherently suspicious.",
+  "Format": "The website design looks professional with a clean and modern design. No obvious typos were detected.",
+  "Transparency": "N/A",
+  "Impersonation": "N/A",
+  "Other": "The URL contains \"webflow.io\", which is a website builder. The website may not be directly fraudulent, it is a landing page.",
+  "verdict": 3
+}
+```

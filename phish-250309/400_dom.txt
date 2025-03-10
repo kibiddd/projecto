@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2025-03-05 and the registration is less than 6 months old. The expiration date is 2026-03-05, which is less than a year away. This is a potential fraud indicator as it is very recent and short-term.",
+  "answer2": "The contact information provided (Registrar Abuse Contact Email and Phone) is not redacted or partial, but it is suspicious because the registrar is known for hosting malicious sites or lacking verification.",
+  "answer3": "The registrar, PDR Ltd. d/b/a PublicDomainRegistry.com, is known for hosting malicious sites or lacking verification. This is a significant fraud indicator.",
+  "answer4": "The domain status includes multiple prohibitions such as clientDeleteProhibited, clientHold, clientRenewProhibited, clientTransferProhibited, and clientUpdateProhibited. This is another strong fraud indicator.",
+  "verdict": 9
+}
+```

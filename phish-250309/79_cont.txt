@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is asking for an email/phone number and password, which is typical of a Facebook login page, but could be a phishing attempt if the URL is not the official Facebook domain. Given the URL 'pagina.pro/facebooksupport5959' is not the official Facebook URL, this is highly suspicious.",
+  "Suspicious offer": "N/A",
+  "Format": "The website is trying to mimic the Facebook login page, but the non-official URL is a strong indicator of a scam or phishing attempt. The design appears to be trying to replicate the official Facebook login page.",
+  "Transparency": "The website does not provide any contact information. The URL is not the official Facebook domain, which indicates a lack of transparency and legitimacy.",
+  "Impersonation": "The website is clearly impersonating the Facebook login page to steal user credentials (email/phone and password).",
+  "Other": "The URL 'pagina.pro/facebooksupport5959' is a very strong indicator of a phishing attempt. The use of a non-official domain to capture user credentials is a red flag.",
+  "verdict": 10
+}
+```

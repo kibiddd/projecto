@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain registration is not recent, as it was created on 2020-01-27, which is more than 6 months ago. The expiration date is in the future, on 2026-01-27, which is more than a year away. Therefore, this factor does not indicate fraud.",
+  "answer2": "The contact information for the registrant, admin, and tech contacts is redacted for privacy. This is a common practice and does not necessarily indicate fraud, but it does limit the ability to verify the legitimacy of the domain registration.",
+  "answer3": "GoDaddy.com, LLC is a well-known and reputable registrar. There is no indication that GoDaddy hosts malicious sites or lacks verification. Therefore, this factor does not indicate fraud.",
+  "answer4": "The domain status includes several prohibitions such as clientDeleteProhibited, clientRenewProhibited, clientTransferProhibited, and clientUpdateProhibited. These prohibitions can be a red flag, as they may indicate that the domain is being managed by a third party or is subject to certain restrictions. However, without additional context, it is not possible to determine if this is a sign of fraud.",
+  "verdict": 3
+}
+```

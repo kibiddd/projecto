@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain registration is not recent; it was created on 2013-05-08, which is well over 6 months ago. The domain is not expiring soon; the registry expiry date is 2028-05-08, which is more than a year away. Verdict: 0",
+  "answer2": "The contact information for the registrant, admin, and tech contacts is redacted for privacy. This is a common practice and not necessarily indicative of fraud. Verdict: 0",
+  "answer3": "MarkMonitor Inc. is a reputable registrar known for hosting malicious sites, but it is also a legitimate registrar used by many businesses. There is no clear evidence of malicious activity solely based on the registrar's reputation. Verdict: 0",
+  "answer4": "The domain status includes clientDeleteProhibited, clientTransferProhibited, and clientUpdateProhibited, which are common restrictions for domains managed by third-party services like Webflow. There are no other suspicious registration factors provided. Verdict: 0",
+  "verdict": 0
+}
+```

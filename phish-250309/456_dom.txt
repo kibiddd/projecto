@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2025-03-05 and is set to expire on 2026-03-05, which is less than a year from the current date of 2025-03-07. This makes the domain registration recent and expiring soon.",
+  "answer2": "The registrant, admin, and tech contact information is redacted for privacy. This lack of transparency can be a potential fraud indicator as it prevents verification of the domain's ownership and management.",
+  "answer3": "IONOS SE is a well-known registrar, but it is not specifically known for hosting malicious sites. However, the domain status indicates 'clientTransferProhibited', which could be a red flag depending on the context. Without more information, it's difficult to determine if the registrar is known for hosting malicious sites or lacking verification.",
+  "answer4": "Other suspicious registration factors include the domain being registered very recently and the contact information being redacted. The domain status 'clientTransferProhibited' could also be a concern if it implies that the domain cannot be transferred, which might be unusual for a legitimate business.",
+  "verdict": 7
+}
+```

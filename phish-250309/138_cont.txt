@@ -1,0 +1,3 @@
+```json
+{"Phishing": "The website is requesting an email, phone, or Skype ID which is used to log in. This is a form of phishing.", "Suspicious offer": "N/A", "Format": "The design seems legitimate, but the URL structure is suspicious, indicating a possible redirect or hidden link. It's not a common or expected URL format.", "Transparency": "N/A", "Impersonation": "The website is trying to impersonate a Microsoft login page.", "Other": "The URL contains a long string of seemingly random characters, which raises a red flag.", "verdict": 9}
+```

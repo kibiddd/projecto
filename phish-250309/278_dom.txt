@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2018-05-08 and the registry expiry date is 2025-05-08. This means the domain is not recent (less than 6 months) and is not expiring soon (less than a year). So, this factor is not indicative of fraud.",
+  "answer2": "The registrant, admin, and tech contact information is redacted for privacy. This is a common practice and does not necessarily indicate fraud. However, it does make it difficult to verify the legitimacy of the domain owner.",
+  "answer3": "The registrar, Name.com, Inc., is known for hosting malicious sites or lacking verification. This is a significant indicator of potential fraud.",
+  "answer4": "The domain status is 'clientTransferProhibited', which means the domain cannot be transferred to another registrar. This could be a red flag, but it is not necessarily indicative of fraud. It could simply mean that the domain owner has chosen not to allow transfers.",
+  "verdict": 7
+}
+```

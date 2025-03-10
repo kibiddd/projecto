@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain registration is very recent, as it was created and updated on 2025-02-19, which is less than 6 months from the current date of 2025-03-07. This is a potential fraud indicator as many fraudulent domains are created and registered very quickly to exploit their short lifespan before being taken down or abandoned.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or partial. The contact information for the registrar is also provided, which is not suspicious on its own.",
+  "answer3": "The registrar, NICENIC INTERNATIONAL GROUP CO., LIMITED, is known for hosting malicious sites. This is a significant red flag as it suggests that the domain may be part of a larger network of fraudulent or malicious domains managed by the same registrar.",
+  "answer4": "The domain status indicates that both clientDeleteProhibited and clientTransferProhibited are in effect. This means that the domain cannot be easily transferred or deleted by the current registrant, which is a common tactic used by fraudulent domain operators to maintain control over the domain and prevent its removal.",
+  "verdict": 9
+}
+```

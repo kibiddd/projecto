@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2019-08-24 and the registration is expiring on 2025-08-24, which is less than a year from the current date of 2025-03-07. This indicates that the domain is expiring soon.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or suspicious.",
+  "answer3": "The registrar, Dreamscape Networks International Pte Ltd, is not known for hosting malicious sites or lacking verification. The registrar's abuse contact email and phone number are provided, which suggests a legitimate operation.",
+  "answer4": "The domain status indicates that client transfers are prohibited, which is a common practice for domains with a high level of security or privacy concerns. The DNSSEC is unsigned, which is not necessarily a red flag, as many domains choose not to use DNSSEC.",
+  "verdict": 2
+}
+```

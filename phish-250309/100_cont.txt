@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website requests what seems to be a password, which is a phishing attempt.",
+  "Suspicious offer": "N/A",
+  "Format": "The design is simple and potentially suspicious. The use of placeholder characters (XXXX and the boxes) is not professional, and likely the password or input should appear the same on screen",
+  "Transparency": "N/A",
+  "Impersonation": "The simplicity suggests it is not impersonating any specific entity but presents as a login attempt of some kind.",
+  "Other": "The URL is suspicious and not a well-known domain. The website is overly simple.",
+  "verdict": 9
+}
+```

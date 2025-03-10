@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain vexti.io was registered on 2016-07-20 and is set to expire on 2025-07-20. This means it has been registered for approximately 8 years and 10 months, which is well beyond the 6-month threshold for recent registrations. Therefore, it is not recent.",
+  "answer2": "The registrant, administrative, and technical contact information is redacted for privacy. This is a common practice, but in the context of potential fraud, it can be a red flag as it prevents verification of the domain's ownership and legitimacy.",
+  "answer3": "GoDaddy.com, LLC is a well-known and reputable registrar. However, the domain is hosted by ns73.domaincontrol.com and ns74.domaincontrol.com, which are not directly associated with GoDaddy. This could be a sign of a domain parked or hosted by a third-party service, which can sometimes be associated with malicious activities. However, without more specific information about these nameservers, it's difficult to determine if they are malicious.",
+  "answer4": "Other suspicious registration factors include the domain being registered for a long period (8 years and 10 months), the contact information being redacted, and the domain being hosted by third-party nameservers. These factors could potentially indicate fraudulent activity, but without more specific information, it's difficult to determine the exact level of risk.",
+  "verdict": 5
+}
+```

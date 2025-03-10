@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website states your account is being reviewed and provides a ticket ID. This is a common tactic used in phishing attempts to create a sense of urgency and encourage users to click on links or provide information. It asks for no personal information or payment.",
+  "Suspicious offer": "N/A",
+  "Format": "The format is clean and mimics the style of Meta/Facebook's Privacy Center, but it is highly unlikely that the legitimate website would use a domain like abaytravel.com.",
+  "Transparency": "N/A",
+  "Impersonation": "The website is impersonating Meta/Facebook, using their branding and attempting to mimic their interface. The phrasing and instructions in the text are typical of what an account might expect from a warning email from Meta. This attempts to create a false sense of legitimacy.",
+  "Other": "The URL itself, 'metasupport-potarl-checkpoint1531716410482018.abaytravel.com,' is highly suspicious. It looks like a randomly generated domain name that is not affiliated with Meta. The use of such a URL is a strong indicator of a fraudulent website.",
+  "verdict": 9
+}
+```

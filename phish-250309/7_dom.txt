@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2025-02-20 and the registration is expiring on 2026-02-20, which is less than a year from the current date of 2025-03-07. This indicates that the domain is relatively new and has less than a year before it expires.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or partial. The contact information for the registrar is also provided, including an email and phone number.",
+  "answer3": "Gname.com is a well-known registrar, and there is no indication that it hosts malicious sites or lacks verification. The registrar's contact information is also provided, which suggests transparency.",
+  "answer4": "The domain status indicates that client transfers are prohibited, which is a common restriction for domains managed by registrars. The DNSSEC is unsigned, which is not necessarily a red flag, as many domains do not use DNSSEC. The registrar's WHOIS information is up-to-date, and there are no other suspicious factors mentioned.",
+  "verdict": 2
+}
+```

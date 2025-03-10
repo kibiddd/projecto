@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2024-05-06 and the registry expiry date is 2025-05-06. This means the domain is less than 6 months old and will expire in less than a year, which could be a potential fraud indicator as it might be a short-term registration for malicious purposes.",
+  "answer2": "The registrant organization, registrant email, admin email, and tech email are all redacted or withheld for privacy. This lack of transparency in contact information is a common fraud indicator.",
+  "answer3": "The registrar, Spaceship, Inc., is known for hosting malicious sites or lacking verification. This is a significant red flag as it suggests the domain might be associated with fraudulent activities.",
+  "answer4": "The domain status is 'clientTransferProhibited', which means the domain cannot be transferred to another registrar. This could be a tactic used by fraudsters to prevent domain recovery. Additionally, the domain is unsigned for DNSSEC, which is another potential fraud indicator.",
+  "verdict": 9
+}
+```

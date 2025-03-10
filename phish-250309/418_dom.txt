@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2025-02-01 and the registration is expiring on 2026-02-01, which is less than a year from today (2025-03-07). This is a potential red flag for fraud as it indicates a very recent registration and a short lifespan.",
+  "answer2": "The contact information provided by the registrar (abuse-complaints@squarespace.com and 1-646-693-5324) appears to be complete and not redacted or suspicious.",
+  "answer3": "Squarespace Domains LLC is a legitimate registrar, and there is no widely known reputation for hosting malicious sites or lacking verification. However, the domain status indicates that client transfers and deletions are prohibited, which could be a red flag depending on the context.",
+  "answer4": "The domain status indicates that client transfers and deletions are prohibited, which could be a red flag depending on the context. Additionally, the domain is using Cloudflare's nameservers, which is common for legitimate domains but does not necessarily indicate fraud.",
+  "verdict": 7
+}
+```

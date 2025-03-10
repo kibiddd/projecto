@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website is not accessible, so its format cannot be assessed. The error message indicates redirects to www.eyny.com are not allowed, which in itself isn't directly indicative of fraud, but it's a sign of a potential issue if the website is trying to redirect to another unrelated website.",
+  "Transparency": "N/A, since no website content is visible to provide any contact information.",
+  "Impersonation": "N/A",
+  "Other": "The error message related to redirects is a significant indicator of potential issues or suspicious activity.",
+  "verdict": 7
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting a User ID and Password, which is typical of a login page. However, the URL is highly suspicious, with a domain that does not match Discover. This strongly suggests a phishing attempt to steal login credentials.",
+  "Suspicious offer": "N/A",
+  "Format": "The website's design is basic, but the overall layout and branding (Discover logo) is a direct imitation of the real Discover website, to deceive the user into believing it is a real website. ",
+  "Transparency": "The website provides no clear and trustworthy contact information. The domain is very suspicious. ",
+  "Impersonation": "The website is clearly impersonating the Discover card website to steal user's personal information (User ID and Password)",
+  "Other": "The URL is a dead giveaway. The domain is not associated with Discover and looks like a random string of characters and words.",
+  "verdict": 10
+}
+```

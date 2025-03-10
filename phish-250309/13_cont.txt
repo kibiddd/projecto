@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is offering a platform to buy and sell cryptocurrency, which typically involves financial transactions and personal information. This makes it susceptible to phishing attempts.",
+  "Suspicious offer": "N/A",
+  "Format": "The website's design appears professional, although the given URL raises concern. This is a legitimate cryptocurrency exchange website.",
+  "Transparency": "N/A",
+  "Impersonation": "N/A",
+  "Other": "The website is not accessible and this raises great suspicion. The provided URL is for webflow.io, which is not the primary URL of NDAX, suggesting the website is a scam.",
+  "verdict": 9
+}
+```

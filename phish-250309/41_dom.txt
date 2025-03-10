@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 23-Apr-2020 and is set to expire on 23-Apr-2025, which means it is not recent (less than 6 months) and not expiring soon (less than a year).",
+  "answer2": "The contact information is not provided in the WHOIS data, which is a common practice for privacy reasons, but it is not necessarily suspicious on its own.",
+  "answer3": "GoDaddy.com, LLC. is a well-known registrar and is not typically associated with hosting malicious sites. However, it is important to note that the domain registrar itself is not inherently indicative of fraud.",
+  "answer4": "The domain name 'educatsy.co.uk' does not immediately suggest any suspicious factors, but the lack of recent registration and the fact that the domain is not expiring soon could be seen as unusual for a new or active business.",
+  "verdict": 3
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2024-10-17 and is set to expire on 2025-10-17, which is less than a year from the current date of 2025-03-07. This indicates that the domain is expiring soon, which can be a potential fraud indicator as it may be a short-term registration often used for malicious purposes.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or suspicious. The registrar and contact information are clearly listed, which is a positive sign.",
+  "answer3": "The registrar, Aceville Pte. Ltd., is not widely known for hosting malicious sites, and there is no immediate indication that it lacks verification. However, further investigation into the registrar's reputation and history would be necessary to make a definitive conclusion.",
+  "answer4": "The domain is using Cloudflare's name servers, which is common for legitimate websites. The DNSSEC is unsigned, which is not necessarily a fraud indicator, as many legitimate domains do not use DNSSEC. The URL provided is for a legitimate ICANN form, which suggests transparency in the registration process.",
+  "verdict": 5
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 1999-12-14, which is over 24 years ago. Therefore, it is not recent.",
+  "answer2": "The contact information for the registrant is not shown, which is suspicious.",
+  "answer3": "The registrar, ConXion BV, is not known for hosting malicious sites or lacking verification. It appears to be a legitimate registrar.",
+  "answer4": "The domain is not available, which is not a direct indicator of fraud but could be a red flag depending on the context.",
+  "verdict": 1
+}
+```

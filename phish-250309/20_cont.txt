@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website itself doesn't seem to be directly requesting personal information, but it promotes a gambling website which often requires account creation and payment. This is a potential vector for phishing through related sites.",
+  "Suspicious offer": "The website promotes 'bet365', which is a gambling website. These types of sites often have incentives, such as promotional offers or free bets. The legitimacy depends on the specific offers and the actual platform. It's hard to judge based solely on the promotion of the website.",
+  "Format": "The screenshot reveals decent design. However, the actual content of the website is not shown in the cropped version, but there are no immediate signs of poor design or typos apparent.",
+  "Transparency": "Contact information is not provided. The lack of clear contact information raises concern. It's a very general website.",
+  "Impersonation": "The website might be impersonating the actual bet365 gambling website. The promotional content on the pop-up leads to the gambling site. There is no verification whether the website is legitimate.",
+  "Other": "The pop-up window with the advertisement is a common technique for advertising and could redirect to a fraudulent site if clicked.",
+  "verdict": 7
+}
+```

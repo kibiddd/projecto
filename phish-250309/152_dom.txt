@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2024-10-15 and the current date is 2025-03-07, which means the domain is less than 6 months old. This is a potential fraud indicator as many fraudulent domains are created recently to quickly exploit their short lifespan before being taken down or abandoned.",
+  "answer2": "The registrant's contact information is redacted and partial, with instructions to query the RDDS service of the Registrar of Record for contact information. This is a common tactic used by fraudulent domain owners to avoid detection and make it difficult for authorities to contact them.",
+  "answer3": "The registrar, NameSilo, LLC, is known for hosting malicious sites or lacking verification. This is a potential fraud indicator as fraudulent domains are often registered with registrars that have a reputation for hosting malicious sites or lacking proper verification processes.",
+  "answer4": "The domain status indicates that it is in a client hold and client transfer prohibited state. This is a potential fraud indicator as fraudulent domains are often placed in these states to prevent legitimate users from registering the domain or transferring it to a legitimate owner.",
+  "verdict": 9
+}
+```

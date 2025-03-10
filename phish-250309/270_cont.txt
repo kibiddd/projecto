@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website requests a recovery phrase, which is sensitive information. This is a common phishing tactic.",
+  "Suspicious offer": "N/A",
+  "Format": "The website is minimalistic, but it has a professional look, though it is unclear whether this is original content.",
+  "Transparency": "N/A",
+  "Impersonation": "The site impersonates Ledger by using the Ledger logo and requesting the recovery phrase, which is a core functionality in Ledger's products.",
+  "Other": "The URL contains a suspicious subdomain 'memmserve.com', which raises red flags.",
+  "verdict": 9
+}
+```

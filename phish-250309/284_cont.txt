@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "Yes, the website is requesting the user's secret recovery phrase, which is a critical piece of personal information that can be used to access a cryptocurrency wallet.",
+  "Suspicious offer": "N/A",
+  "Format": "The website's design appears basic and potentially low-quality. The lack of branding consistency raises concerns. This may be a poor imitation of an authentic MetaMask interface.",
+  "Transparency": "N/A",
+  "Impersonation": "Yes, the website is impersonating MetaMask to steal the user's secret recovery phrase.",
+  "Other": "The unusual and non-standard domain name 'mr.ahmed-elgamal.com' is a significant red flag. This is not the official MetaMask website.",
+  "verdict": 10
+}
+```

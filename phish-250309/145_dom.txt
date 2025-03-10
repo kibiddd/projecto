@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain blooprint.one was registered on 2025-03-07 and has an expiration date of 2026-03-07, which is less than a year from the current date of 2025-03-07. This indicates that the domain is relatively new and may be at risk of being used for short-term fraudulent activities.",
+  "answer2": "The contact information for the registrant, admin, and tech contacts is redacted for privacy. This lack of transparency can be a red flag, as it makes it difficult to verify the legitimacy of the domain owner and their intentions.",
+  "answer3": "The registrar, PDR Ltd. d/b/a PublicDomainRegistry.com, is known for hosting domains that are often associated with privacy protection and may be used by individuals or entities seeking to avoid detection. While not inherently malicious, this type of registrar can be associated with fraudulent activities due to the anonymity it provides.",
+  "answer4": "The domain status includes several prohibitions such as clientTransferProhibited, clientUpdateProhibited, clientHold, clientDeleteProhibited, and clientRenewProhibited. These restrictions can be indicative of a domain that is being closely monitored or controlled, which could be a sign of fraudulent activity.",
+  "verdict": 7
+}
+```

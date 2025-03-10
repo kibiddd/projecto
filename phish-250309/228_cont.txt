@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website requests to request a review which may include personal information.",
+  "Suspicious offer": "N/A",
+  "Format": "The website has a professional design.",
+  "Transparency": "The website lacks clear and trustworthy contact information.",
+  "Impersonation": "The website impersonates Meta's Privacy Center.",
+  "Other": "The URL uses a third-party domain (vercel.app), which is commonly used for hosting temporary websites and can be an indicator of phishing or fraudulent activity.  The issue with the user's ad account being scheduled for deletion due to trademark violations is also a common tactic in phishing attempts, creating a sense of urgency to provoke a response.",
+  "verdict": 8
+}
+```

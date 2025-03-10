@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is asking to protect your account, which involves security steps and may involve password changes or turning on login alerts, indicating potential phishing if it attempts to collect your current password or redirect to a fake login. The website may be trying to collect your personal information or redirecting you to a malicious website.",
+  "Suspicious offer": "N/A",
+  "Format": "The website's design appears clean but the URL suggests a phishing attempt. It tries to mimic a legitimate security-related message, but the URL does not inspire trust.",
+  "Transparency": "N/A",
+  "Impersonation": "The website tries to impersonate a security notification to make the user believe it's a secure or official message.",
+  "Other": "The URL is highly suspicious. It uses the name 'aplewisandsons.co.uk,' but it's likely a spoof or compromised domain used for phishing. The 'policy-violation' phrase in the URL is a common tactic to induce a sense of urgency.",
+  "verdict": 9
+}
+```

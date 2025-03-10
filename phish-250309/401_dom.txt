@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2025-02-03 and the registration is less than 6 months old. This is a potential red flag for fraud as it is very recent.",
+  "answer2": "The contact information provided by the registrar (abuse-complaints@squarespace.com and phone number 1-646-693-5324) is not redacted or partial, and it appears to be legitimate. No suspicious contact information is present.",
+  "answer3": "Squarespace Domains LLC is a legitimate registrar, and there is no indication that they are known for hosting malicious sites or lacking verification. Therefore, this factor does not indicate fraud.",
+  "answer4": "The domain status includes 'clientDeleteProhibited' and 'clientTransferProhibited', which are unusual and could be a sign of a domain being set up to prevent unauthorized changes. This could be a potential indicator of fraud.",
+  "verdict": 7
+}
+```

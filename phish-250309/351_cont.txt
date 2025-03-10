@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting an email address, which could be used for phishing attempts if the user is unaware of the legitimate Netflix website.",
+  "Suspicious offer": "The website is offering a subscription with a stated price.",
+  "Format": "The website's format is clean and the image quality is good.",
+  "Transparency": "The website lacks contact information, which is a red flag. However, the website could be a demo.",
+  "Impersonation": "The website is impersonating Netflix, which is a well-known streaming service.",
+  "Other": "The website is likely a clone or a demo project of the original Netflix website.",
+  "verdict": 6
+}
+```

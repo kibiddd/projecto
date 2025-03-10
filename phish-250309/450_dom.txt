@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2008-07-18, which is over 17 years ago, so it is not recent. The expiration date is 2025-07-18, which is more than a year away. Therefore, it is not expiring soon.",
+  "answer2": "The registrant, admin, and tech contact information is redacted for privacy. This is a common practice and not necessarily an indicator of fraud, but it does limit the ability to verify the legitimacy of the domain's ownership.",
+  "answer3": "MarkMonitor Inc. is a well-known registrar with a good reputation. There is no indication that they are hosting malicious sites or lacking verification. However, the domain status includes clientDeleteProhibited, clientTransferProhibited, and clientUpdateProhibited, which are common for domains managed by registrars or hosting providers.",
+  "answer4": "The domain name 'glitch.me' is associated with Glitch, a platform for web development and hosting. While it is not inherently suspicious, the domain status restrictions and redacted contact information could be seen as unusual for a typical domain. Additionally, the domain is not DNSSEC-signed, which is a security measure that could be considered a red flag.",
+  "verdict": 3
+}
+```

@@ -1,0 +1,3 @@
+```json
+{"Phishing": "The website is requesting application information. This is normal for job applications, but it's important to verify the website's legitimacy.", "Suspicious offer": "N/A", "Format": "The website appears to have a clean and professional design consistent with a job application portal.", "Transparency": "While I cannot verify all contact information, the site is using the DHL logo and branding, suggesting it is a legitimate job posting.", "Impersonation": "The website's use of the DHL logo could be an attempt at impersonation, so it's important to confirm its validity.", "Other": "N/A", "verdict": 4}
+```

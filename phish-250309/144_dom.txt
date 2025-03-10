@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2025-03-03 and the registration is less than 6 months old. The expiration date is 2026-03-03, which is less than a year away. This is a potential fraud indicator as it is very recent and short-term registrations can be suspicious.",
+  "answer2": "The contact information for the registrant, admin, and tech is redacted for privacy. This is a common practice, but in the context of potential fraud, it can be a red flag as it prevents verification of the domain's ownership and legitimacy.",
+  "answer3": "The registrar, NameSilo, LLC, is a well-known registrar and is not typically associated with hosting malicious sites. However, without further information on the specific domain's history or reputation, it is difficult to definitively say if it is hosting malicious sites or lacking verification.",
+  "answer4": "The domain status includes 'clientHold' and'serverTransferProhibited', which are unusual statuses and could indicate that the domain is under investigation or has been flagged for some reason. This could be a potential fraud indicator.",
+  "verdict": 7
+}
+```

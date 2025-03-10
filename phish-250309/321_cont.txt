@@ -1,0 +1,3 @@
+```json
+{"Phishing": "The website is requesting a 6-digit code, likely to verify identity, which could be a phishing attempt to gain access to an account.", "Suspicious offer": "N/A", "Format": "The website's design appears legitimate, but the URL raises immediate concerns.", "Transparency": "N/A", "Impersonation": "The website attempts to impersonate Idaho Central Credit Union, based on the logo.", "Other": "The URL 'prosystemsug.com/backup/byxugqlc/ic-access/otp2.html' is highly suspicious. It doesn't belong to the legitimate Idaho Central Credit Union domain, contains the word 'backup,' and seems like an attempt to mimic a legitimate login or verification process, making this a strong indicator of a phishing attempt.", "verdict": 9}
+```

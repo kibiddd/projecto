@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain registration is not recent, as it was created on 2013-05-08, which is well over 6 months ago. It is also not expiring soon, as the expiration date is 2028-05-08, which is more than a year away. Therefore, this factor does not indicate fraud.",
+  "answer2": "The contact information for the registrant, admin, and tech contacts is redacted for privacy. This is a common practice and does not necessarily indicate fraud, but it does limit the ability to verify the legitimacy of the domain's ownership.",
+  "answer3": "MarkMonitor Inc. is a reputable registrar known for hosting a variety of domains, including those of well-known companies. There is no indication that this registrar is known for hosting malicious sites or lacking verification. Therefore, this factor does not indicate fraud.",
+  "answer4": "The domain status includes clientDeleteProhibited, clientTransferProhibited, and clientUpdateProhibited, which are standard protections to prevent unauthorized changes to the domain. The domain also has DNSSEC set to unsigned, which is not necessarily suspicious but could be a concern if the domain were intended to be secure. The WHOIS database was last updated on 2025-03-10, which is recent, but this does not indicate fraud. The domain name 'webflow.io' is a common domain name and is associated with the popular web design platform Webflow, Inc., which is a legitimate company. Therefore, this factor does not indicate fraud.",
+  "verdict": 1
+}
+```

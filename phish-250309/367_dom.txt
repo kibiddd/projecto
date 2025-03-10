@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2020-05-22 and the registration is not recent (more than 6 months old). The expiration date is 2026-05-22, which is more than a year away. Therefore, this factor does not indicate fraud.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or suspicious. The contact information for the registrar is also provided and appears legitimate.",
+  "answer3": "MarkMonitor Inc. is a well-known registrar and does not have a reputation for hosting malicious sites. The registrar is also listed as a reputable registrar in the WHOIS database.",
+  "answer4": "The domain status indicates that clientDelete, clientTransfer, and clientUpdate are prohibited, which is a common practice for domains managed by a third-party service provider. The DNSSEC is unsigned, which is not necessarily indicative of fraud but may be a security concern. The domain is using Cloudflare's name servers, which is a common practice and not suspicious in itself.",
+  "verdict": 1
+}
+```

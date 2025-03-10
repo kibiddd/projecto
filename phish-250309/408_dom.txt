@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2008-07-18, which is over 17 years ago, so it is not recent. The expiration date is 2025-07-18, which is less than a year from the current date (2025-03-07). This indicates that the domain is expiring soon.",
+  "answer2": "The registrant, admin, and tech contact information is redacted for privacy. This is a common practice, but in the context of potential fraud, it could be a red flag if combined with other suspicious factors.",
+  "answer3": "MarkMonitor Inc. is a reputable registrar known for hosting malicious sites. This could be a potential indicator of fraud.",
+  "answer4": "The domain status includes clientDeleteProhibited, clientTransferProhibited, and clientUpdateProhibited, which are unusual and could indicate that the domain is being managed in a way that prevents changes to its registration details. This could be a sign of fraudulent activity.",
+  "verdict": 8
+}
+```

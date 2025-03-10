@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting consent for cookies, but not directly asking for personal information or payment at this stage.",
+  "Suspicious offer": "N/A",
+  "Format": "The website design appears professional and uses high-quality images with no obvious typos.",
+  "Transparency": "N/A",
+  "Impersonation": "The website presents itself as Mediapart, a legitimate news organization.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

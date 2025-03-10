@@ -1,0 +1,3 @@
+```json
+{"Phishing": "The website is requesting username and password, which is personal information and a common tactic used in phishing scams. Also, the URL looks suspicious and the website may be trying to impersonate the official Idaho Central Credit Union login.", "Suspicious offer": "N/A", "Format": "The website has a functional design, but the suspicious URL and the failed login attempt are concerning.", "Transparency": "N/A", "Impersonation": "The website attempts to impersonate Idaho Central Credit Union's login page, which is a key indicator of phishing.", "Other": "The URL is very suspicious.", "verdict": 9}
+```

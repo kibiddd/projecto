@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2018-03-24, which is more than 6 years ago, so it is not recent. It is not expiring soon either, as the updated date is 2024-11-18, which is more than a year away. Therefore, this factor does not indicate fraud.",
+  "answer2": "The contact information is not provided in the given information, so it cannot be evaluated for being redacted, partial, or suspicious.",
+  "answer3": "Cronon GmbH is the registrar, and there is no information provided about whether it is known for hosting malicious sites or lacking verification. Therefore, this factor cannot be evaluated for fraud indicators.",
+  "answer4": "Other suspicious registration factors cannot be evaluated due to lack of information.",
+  "verdict": 1
+}
+```

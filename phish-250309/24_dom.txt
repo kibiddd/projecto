@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2025-02-24 and the current date is 2025-03-07, which means it is less than 6 months old. This is a potential fraud indicator as many fraudulent domains are created and registered quickly to exploit their short lifespan before being taken down or abandoned.",
+  "answer2": "The registrant organization, registrant state/province, and registrant country are all redacted for privacy. This is a common practice, but in the context of fraud analysis, it can be a red flag as it prevents verification of the domain's legitimacy.",
+  "answer3": "The registrar, Namecheap, is a well-known and reputable registrar. There is no indication that Namecheap hosts malicious sites or lacks verification. Therefore, this factor does not indicate fraud.",
+  "answer4": "The domain status includes'serverTransferProhibited', 'clientHold', and 'clientTransferProhibited', which are unusual and could indicate that the domain is being used in a way that is not typical for a legitimate business. This could be a sign of fraudulent activity.",
+  "verdict": 7
+}
+```

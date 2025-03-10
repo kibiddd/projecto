@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created and registered on 2025-03-06, which is less than 6 months from the current date of 2025-03-07. This is a potential indicator of fraud as many fraudulent domains are created and registered very recently.",
+  "answer2": "The contact information provided by the registrar (abuse@matbao.com and +84-36229999 - 8899) appears to be valid and not redacted or partial. Therefore, this factor does not indicate fraud.",
+  "answer3": "The registrar, MAT BAO CORPORATION, is not widely recognized as hosting malicious sites or lacking verification. However, the domain status indicates 'clientTransferProhibited', which could be a red flag. Further investigation is needed to determine if this is a legitimate restriction or a sign of potential fraud.",
+  "answer4": "The domain was created and registered very recently (less than 6 months), which is a common characteristic of fraudulent domains. Additionally, the domain status indicates 'clientTransferProhibited', which could be a red flag. These factors combined suggest a higher likelihood of fraud.",
+  "verdict": 7
+}
+```

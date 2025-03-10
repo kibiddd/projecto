@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting personal information through the sign-up button. It also offers bonuses, which can be used to lure users in.",
+  "Suspicious offer": "The website offers 'up to 500 USDT in bonuses for new users', which may be seen as a suspicious offer.",
+  "Format": "The website uses a modern design with good quality images. There are no obvious typos or formatting errors visible.",
+  "Transparency": "N/A",
+  "Impersonation": "The website is trying to impersonate KuCoin.",
+  "Other": "The URL kuceinelufiign.webflow.io is highly suspicious as it includes misspelled versions of KuCoin.",
+  "verdict": 9
+}
+```

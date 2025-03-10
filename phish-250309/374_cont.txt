@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is a cryptocurrency exchange platform, so it would likely request personal information and potentially payment information.",
+  "Suspicious offer": "N/A",
+  "Format": "The website seems to have a decent design and high-quality images. There are no obvious typos.",
+  "Transparency": "N/A",
+  "Impersonation": "N/A",
+  "Other": "The provided URL 'sso-auth-ndax-index.webflow.io' appears to be a placeholder or a demo/staging site, raising suspicion. The presence of 'sso-auth' suggests a login page. However, it is not the real website for NDAX (ndax.io)",
+  "verdict": 7
+}
+```

@@ -1,0 +1,3 @@
+```json
+{"Phishing": "The website is a Trezor official website, so it requests login to access the wallet. The risk here is low.", "Suspicious offer": "N/A", "Format": "The website looks like it is designed using a website builder or a template, so it appears to be legitimate, but this can be easily replicated.", "Transparency": "The website is attempting to impersonate a legitimate website (Trezor).", "Impersonation": "The website is impersonating Trezor, which is a red flag.", "Other": "The website does not provide any contact information. The domain name seems to be slightly altered to trick users (learn-trezorhelpe instead of trezor.com or similar).", "verdict": 8}
+```

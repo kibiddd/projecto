@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website requests personal information like phone number, email address, home address which is a typical phishing attempt to steal user's data.",
+  "Suspicious offer": "N/A",
+  "Format": "The format has the logo of Nordea but the domain name is not official. There are no clear signs of poor design or low quality.",
+  "Transparency": "N/A",
+  "Impersonation": "The website is impersonating Nordea, a well-known bank, to gain the user's trust. The use of Nordea's branding is a tactic to make the website look legitimate.",
+  "Other": "The domain name appears suspicious, not being a Nordea official website.",
+  "verdict": 9
+}
+```

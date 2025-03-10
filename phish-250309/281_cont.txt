@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is asking for login credentials.",
+  "Suspicious offer": "N/A",
+  "Format": "The website uses the Metamask branding, but the domain is suspicious, webflow.io is a website builder and is more likely to be a phishing website.",
+  "Transparency": "N/A",
+  "Impersonation": "The website impersonates the official Metamask website.",
+  "Other": "The suspicious domain is a strong indicator of a fraudulent website.",
+  "verdict": 10
+}
+```

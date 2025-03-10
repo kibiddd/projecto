@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website appears to be impersonating Facebook's Privacy Center and threatening deletion of a Facebook page. It requests a 'Request Review', which could be a tactic to obtain personal information or login credentials.",
+  "Suspicious offer": "N/A",
+  "Format": "The website's design and content are consistent with a legitimate website, but the context of the threat raises red flags. There may be spelling errors (\"infomation\")",
+  "Transparency": "The website does not provide clear contact information, which is a red flag.",
+  "Impersonation": "The website is impersonating Facebook's Privacy Center by using their logo, name, and a similar interface to deceive users.",
+  "Other": "The website is hosted on a domain that does not appear to be affiliated with Facebook, which is a strong indicator of fraud. The threat of permanent deletion creates a sense of urgency, potentially prompting users to act without carefully scrutinizing the situation.",
+  "verdict": 9
+}
+```

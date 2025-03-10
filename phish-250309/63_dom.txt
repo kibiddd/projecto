@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2025-03-07 and the registry expiry date is 2026-03-07, which means it is less than a year old. This is a potential fraud indicator as many fraudulent domains are created and registered quickly to exploit their short lifespan before they are taken down or become less effective for malicious purposes.",
+  "answer2": "The contact information provided is redacted and partial, with instructions to query the RDDS service of the Registrar of Record for contact details. This is a common tactic used by fraudulent domain owners to avoid being traced and contacted directly, which is a potential fraud indicator.",
+  "answer3": "The registrar, NameSilo, LLC, is known for hosting a large number of domains, some of which may be malicious. However, without specific evidence of malicious activity associated with this registrar, it is not possible to definitively say that this is a fraud indicator. Still, the association with a registrar that hosts a large number of domains can be a red flag.",
+  "answer4": "The domain status includes'serverTransferProhibited', 'clientHold', 'clientTransferProhibited', and 'addPeriod', which are unusual and could indicate that the domain is being used in a way that is not typical for a legitimate business. This could be a sign of fraudulent activity.",
+  "verdict": 7
+}
+```

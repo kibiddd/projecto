@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2025-01-19 and the registry expiry date is 2026-01-19. This means the domain is less than 6 months old and will expire in less than a year. Both of these factors can be indicators of potential fraud, as they are common characteristics of newly created domains used for malicious purposes.",
+  "answer2": "The registrant, admin, and tech contact information is redacted for privacy. This lack of transparency can be a red flag, as it makes it difficult to verify the legitimacy of the domain owner and their intentions.",
+  "answer3": "The registrar, Gname.com Pte. Ltd., is known for hosting a large number of domains, some of which have been associated with malicious activities. While not all domains hosted by Gname.com are malicious, the association with a registrar that has a history of hosting potentially harmful sites can be a concern.",
+  "answer4": "The domain status indicates that client transfers are prohibited, which is a common restriction for domains that are not intended for public use or are under investigation. Additionally, the domain is unsigned for DNSSEC, which means it does not have DNS Security Extensions enabled, further reducing its trustworthiness.",
+  "verdict": 8
+}
+```

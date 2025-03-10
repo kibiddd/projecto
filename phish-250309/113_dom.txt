@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2021-08-22 and is expiring on 2025-08-22, which is less than a year from the current date of 2025-03-07. This indicates that the domain is expiring soon, which can be a potential fraud indicator.",
+  "answer2": "The contact information provided (Abuse Contact Email and Phone) appears to be valid and not redacted or suspicious.",
+  "answer3": "The registrar, FastDomain Inc., is not known for hosting malicious sites or lacking verification. The registrar WHOIS Server and Registrar URL are provided, which suggests transparency. However, the domain status indicates 'clientTransferProhibited', which could be a red flag depending on the context.",
+  "answer4": "The domain is using Bluehost's name servers, which is a legitimate and well-known hosting provider. The DNSSEC is unsigned, which is not necessarily a fraud indicator but could be a security concern. The domain status 'clientTransferProhibited' could be a red flag if the domain owner is trying to prevent transfer to avoid detection of fraudulent activity.",
+  "verdict": 6
+}
+```

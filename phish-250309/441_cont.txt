@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting an email address, which is a common tactic in phishing attempts. The purpose is to verify the identity which will lead to further steps to steal the user's information",
+  "Suspicious offer": "N/A",
+  "Format": "The design appears professional. However, a suspicious URL raises a red flag.",
+  "Transparency": "The website displays a copyright notice for Microsoft. However, it's accessed through a domain that is not Microsoft's official domain which is a sign of impersonation.",
+  "Impersonation": "The site is impersonating OneDrive/Microsoft to obtain user credentials.",
+  "Other": "The URL `vexti.io/drive/?omn=3mail@b.c` looks suspicious. A legitimate OneDrive link would use a Microsoft domain.",
+  "verdict": 9
+}
+```

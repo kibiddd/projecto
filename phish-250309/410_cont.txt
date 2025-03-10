@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is asking to check contact information, reset password and re-enable two-factor authentication, which are all typical actions that might be initiated by a legitimate security check. However, given the context, it is impossible to tell the information the website is asking to perform the actions. Therefore, the likelihood of Phishing is high.",
+  "Suspicious offer": "N/A",
+  "Format": "The website has a professional design and uses high-quality images. There is a typo in the word 'Securitys' (should be Security's) actions.",
+  "Transparency": "N/A, as the website is just a screenshot.",
+  "Impersonation": "This website might be impersonating a security check from a legitimate service.",
+  "Other": "The URL itself, 'support-account-privacy.com' is not trustworthy and appears suspicious, which is very likely a sign of a malicious website.",
+  "verdict": 9
+}
+```

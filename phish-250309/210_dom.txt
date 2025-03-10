@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2024-07-07 and is expiring on 2025-07-07, which is less than a year from the current date of 2025-03-07. This is a potential fraud indicator as many fraudulent domains are created and registered for short periods before being abandoned or sold.",
+  "answer2": "The contact information for the registrant, admin, and tech contacts is redacted for privacy. This is a common practice for legitimate domains, but it can also be a red flag for fraudulent domains, as fraudsters often use redacted information to avoid detection.",
+  "answer3": "The registrar, Sav.com, LLC, is not widely recognized as a reputable registrar. It is important to verify the reputation of the registrar, and if it is known for hosting malicious sites or lacking verification, this would be a strong indicator of potential fraud.",
+  "answer4": "The domain status indicates 'clientTransferProhibited', which means the domain cannot be transferred to another registrar. This could be a red flag if the domain is being transferred to a suspicious registrar or if the domain is being held by a fraudulent entity.",
+  "verdict": 8
+}
+```

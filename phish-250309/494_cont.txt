@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website promotes gambling platforms, which often require users to create accounts and provide personal and financial information, increasing the risk of phishing attempts. The 'register and get 6666' offer is a common tactic to lure users.",
+  "Suspicious offer": "The offer of '6666' upon registration and 'repeated deposits' is a classic example of a too-good-to-be-true offer, commonly associated with fraudulent gambling sites. The 'free' aspect aims to attract users quickly.",
+  "Format": "The website's layout, while not of very low quality, might not be as professionally designed as official gambling platforms. This is inferred because the URL appears to be a short link rather than a full domain.",
+  "Transparency": "The website's lack of clear contact information, terms of service, and privacy policy, coupled with the short URL, indicate a lack of transparency, a common red flag.",
+  "Impersonation": "The site features logos related to the EURO 2024 and Bet365, suggesting potential impersonation of the official platforms to gain trust and credibility.",
+  "Other": "The fact that the website is promoting multiple gambling platforms adds complexity and potential risk. Such platforms may be unregulated or operate under shady terms.",
+  "verdict": 8
+}
+```

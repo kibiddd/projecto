@@ -1,0 +1,3 @@
+```json
+{"Phishing": "The website itself does not seem to be requesting personal information or payment; however, it does display a user profile which is a common target for phishing attempts. The profile itself could be linked to malicious activities.", "Suspicious offer": "N/A", "Format": "The website design appears to be legitimate.", "Transparency": "The website provides standard user profile information, lacking any contact details or details about the website itself. This is normal for this type of site.", "Impersonation": "The website seems to be a genuine profile page.", "Other": "N/A", "verdict": 1}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website requests files, and the context does not show any personal information requested. It does not seem like a phishing website.",
+  "Suspicious offer": "The website is not offering anything.",
+  "Format": "The design seems to be clean and well-structured. There are no obvious typos.",
+  "Transparency": "The website does not have apparent contact information displayed.",
+  "Impersonation": "The website does not seem to impersonate anyone.",
+  "Other": "The website is showing a Shutterstock ad and offers the download of files. It is not clear what kind of files they are, and the website context may be used to download malicious files.",
+  "verdict": 4
+}
+```

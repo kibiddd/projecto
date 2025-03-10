@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created and registered on 2025-03-08, which is less than 6 months from today (2025-03-07). This is a potential red flag for recent registration.",
+  "answer2": "The contact information provided by the registrar (NICENIC INTERNATIONAL GROUP CO., LIMITED) is complete and appears legitimate. No redacted or suspicious contact information is present.",
+  "answer3": "The registrar, NICENIC INTERNATIONAL GROUP CO., LIMITED, is known for hosting malicious sites and lacks verification. This is a significant indicator of potential fraud.",
+  "answer4": "The domain status includes 'clientDeleteProhibited' and 'clientTransferProhibited', which are unusual and could indicate that the domain is being used for malicious purposes. Additionally, the DNSSEC is unsigned, which is another red flag.",
+  "verdict": 9
+}
+```

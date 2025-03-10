@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website asks for user to submit an appeal request, which often requires login information and personal details to review the decision. This presents a significant phishing risk.",
+  "Suspicious offer": "N/A",
+  "Format": "The design appears clean, but the overall context (scheduled ad account deletion) increases suspicion.",
+  "Transparency": "N/A",
+  "Impersonation": "The site impersonates Meta's Privacy Center.",
+  "Other": "The user received a message that their ads accounts and pages are scheduled for deletion because of violations of trademark rights. It includes a call to action to submit an appeal request. Based on the URL, the site uses Vercel for hosting, which is frequently exploited for phishing sites. The generic language used to communicate this message also raises suspicion.",
+  "verdict": 9
+}
+```

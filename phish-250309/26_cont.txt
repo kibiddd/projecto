@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not appear to be directly asking for personal information or payments at this stage, however, the prompt 'Connect My Ledger' could lead to a phishing attempt on a connected page.",
+  "Suspicious offer": "The website's primary purpose is to promote Ledger's services, not offer suspicious or unrealistic deals.",
+  "Format": "The design quality is good, but it is hosted on webflow.io, which could indicate that it's a less established or potentially less secure website compared to the official Ledger website. ",
+  "Transparency": "The level of transparency is low. Contact information is not clearly visible. Being hosted on webflow.io is a red flag.",
+  "Impersonation": "This could be an attempt to impersonate the official Ledger website. The layout and branding are similar.",
+  "Other": "The use of a webflow.io domain is a key indicator. It does not have a professional domain name.",
+  "verdict": 8
+}
+```

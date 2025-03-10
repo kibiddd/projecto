@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2025-02-20 and is set to expire on 2026-02-20, which is less than a year from the current date of 2025-03-07. This indicates that the domain is relatively new and has not been around for long, which can be a potential fraud indicator.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or partial. The contact information for the registrar is also provided, which is not suspicious.",
+  "answer3": "The registrar, Global Domain Group LLC, is not known for hosting malicious sites or lacking verification. The registrar's contact information is provided, and there are no known issues with this registrar.",
+  "answer4": "The domain status indicates that client transfers are prohibited, which is a common practice for domains that are not intended for resale. The DNSSEC is unsigned, which is not necessarily a fraud indicator, but it could be a security concern. The name servers are provided, and there are no other suspicious registration factors.",
+  "verdict": 3
+}
+```

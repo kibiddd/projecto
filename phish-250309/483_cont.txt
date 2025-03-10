@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is asking for email/phone and password, which are common phishing tactics.",
+  "Suspicious offer": "N/A",
+  "Format": "The design is simple, and there is no immediate sign of poor design or typos, but the legitimacy cannot be confirmed without further analysis.",
+  "Transparency": "N/A",
+  "Impersonation": "The website is impersonating Facebook.",
+  "Other": "The website is hosted on Unbounce, which is a landing page platform. The URL is not the official Facebook URL.",
+  "verdict": 9
+}
+```

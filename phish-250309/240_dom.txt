@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain registration is not recent, as it was created on 2013-05-08 and the updated date is 2024-12-12, which is more than 6 months ago. The expiry date is in the future, in 2028, so it is not expiring soon. Verdict: 0/10",
+  "answer2": "The contact information for the registrant, admin, and tech is redacted for privacy, which is common practice but can be a red flag when combined with other suspicious factors. Verdict: 5/10",
+  "answer3": "MarkMonitor Inc. is a reputable registrar, but the domain status includes clientDeleteProhibited, clientTransferProhibited, and clientUpdateProhibited, which are unusual and could indicate a lack of control over the domain. Verdict: 6/10",
+  "answer4": "The domain status flags (clientDeleteProhibited, clientTransferProhibited, clientUpdateProhibited) and the redacted contact information are suspicious factors. The domain is also hosted by a registrar known for hosting malicious sites, which is a significant concern. Verdict: 8/10",
+  "verdict": 6.5
+}
+```

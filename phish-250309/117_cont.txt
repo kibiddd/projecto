@@ -1,0 +1,3 @@
+```json
+{"Phishing": "The website appears to be a login page for Binance. Entering login credentials could lead to phishing.", "Suspicious offer": "N/A", "Format": "The design is similar to the legitimate Binance website. There is a typo in the URL ('blnance' instead of 'binance').", "Transparency": "N/A", "Impersonation": "The website is impersonating the legitimate Binance website.", "Other": "The URL is very similar to the original Binance URL, but with a minor change, which is a common tactic for phishing websites. The use of 'app' in the subdomain suggests it is attempting to look like an official app.", "verdict": 9}
+```

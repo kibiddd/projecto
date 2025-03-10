@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2021-04-16 and the current date is 2025-03-07, which means it is more than 3 years old, not recent. The expiration date is 2033-04-16, which is far in the future, not expiring soon.",
+  "answer2": "The registrant, admin, and tech contact information is redacted for privacy, which is common practice but can be a red flag if combined with other suspicious factors.",
+  "answer3": "Squarespace Domains II LLC is a legitimate registrar, but it is known for hosting a large number of domains, some of which may be malicious. However, without specific evidence of malicious activity, this alone is not a strong indicator of fraud.",
+  "answer4": "The domain name'replit.app' is associated with a well-known platform, which reduces the likelihood of fraud. The domain status is 'ok' according to ICANN, and the WHOIS data is consistent with the domain's registration details. No other suspicious registration factors are evident.",
+  "verdict": 2
+}
+```

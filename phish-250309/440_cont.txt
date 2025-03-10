@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting email, password, and phone number, which are all personal and sensitive information used for account access, which is a common phishing tactic. The presence of these fields suggests an attempt to steal credentials.",
+  "Suspicious offer": "N/A",
+  "Format": "The design seems legitimate, resembling a PayPal login page. However, the URL is highly suspicious, which may indicate the fraudulent intention of impersonating a legitimate website.",
+  "Transparency": "N/A",
+  "Impersonation": "The website attempts to impersonate PayPal. This is evident by using the official PayPal logo and a similar layout to the actual login page. Such impersonation creates a false sense of legitimacy to trick users.",
+  "Other": "The suspicious URL (176-65-141-34.cprapid.com) is a major red flag. This is not an official PayPal domain and is highly indicative of a phishing site trying to steal user credentials. The IP address and domain are not associated with PayPal.",
+  "verdict": 10
+}
+```

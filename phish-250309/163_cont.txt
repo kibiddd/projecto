@@ -1,0 +1,3 @@
+```json
+{"Phishing": "The website is requesting an appeal, which might involve providing personal information to verify the account. This is not inherently phishing.", "Suspicious offer": "N/A", "Format": "The design seems professional, and the image quality is good.", "Transparency": "N/A", "Impersonation": "N/A", "Other": "The URL seems suspicious, containing 'dafea.co.uk' and a case ID, which could indicate a non-official domain or a potential scam setup.", "verdict": 6}
+```

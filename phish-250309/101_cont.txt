@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting a password, which is a sign of potential phishing activity.",
+  "Suspicious offer": "N/A",
+  "Format": "The website's layout is very simple, potentially indicating a low-quality design or the site is incomplete.",
+  "Transparency": "N/A",
+  "Impersonation": "The site's simple design and the password entry could be an attempt to impersonate a legitimate login page.",
+  "Other": "The combination of the very short URL (827581.cc) combined with a password field on the webpage points to a high probability of fraudulent activity. The lack of any other information besides password entry, also raises suspicion.",
+  "verdict": 9
+}
+```

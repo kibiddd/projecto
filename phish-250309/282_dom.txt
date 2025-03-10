@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2024-03-07, which is less than 6 months from today (2025-03-07). This is a potential indicator of fraud as many fraudulent domains are registered recently.",
+  "answer2": "The contact information for the registrant and on-site contact is redacted and not disclosed. This is a common practice for privacy reasons, but it can also be a red flag for fraudulent activity as it prevents verification of the domain's legitimacy.",
+  "answer3": "The registrar, Gransy s.r.o., is not known for hosting malicious sites or lacking verification. However, the registrar's name does not provide much information about its reputation, so this factor alone is not sufficient to determine fraud.",
+  "answer4": "The WHOIS service provided by EURid does not disclose any information concerning the registrant, which is a standard practice for privacy protection. However, the lack of disclosed information can be a red flag for fraud.",
+  "verdict": 7
+}
+```

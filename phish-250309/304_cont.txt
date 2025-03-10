@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is attempting to impersonate the legitimate PayPal login page, potentially asking for login credentials, which is a classic phishing tactic.",
+  "Suspicious offer": "The site is asking for the user to sign up for the service. This is not an inherently suspicious offer, but it is associated with a possible phishing attempt.",
+  "Format": "The website has a poorly designed image with the legitimate PayPal logo, which may attempt to mislead the user.",
+  "Transparency": "N/A",
+  "Impersonation": "The website is trying to impersonate the PayPal login page to steal user credentials.",
+  "Other": "The URL of the website suggests that the website is not official, which could be used for malicious purposes. Moreover, the blog post has a generic name. This is another indication that the website might be malicious.",
+  "verdict": 9
+}
+```

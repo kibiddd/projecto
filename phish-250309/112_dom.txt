@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2025-03-08 and the registry expiry date is 2026-03-08, which is less than a year from the current date. This is a potential indicator of fraud as it is very recent.",
+  "answer2": "The contact information for the registrant, admin, and tech contacts is redacted and requires querying the RDDS service of the Registrar of Record. This is a potential indicator of fraud as it is suspicious and makes it difficult to verify the legitimacy of the registrant.",
+  "answer3": "The registrar, Web Commerce Communications Ltd, is not known for hosting malicious sites or lacking verification. This is not a potential indicator of fraud.",
+  "answer4": "The domain status includes serverTransferProhibited, clientTransferProhibited, clientUpdateProhibited, clientDeleteProhibited, and addPeriod. These are not necessarily indicators of fraud, but they may be used to prevent unauthorized changes to the domain.",
+  "verdict": 7
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is likely a phishing attempt. It's requesting the user to login, which can lead to the theft of credentials and the theft of crypto assets. It is a clone of a legitimate crypto trading website.",
+  "Suspicious offer": "The website is offering a platform for trading crypto which on its own isn't a suspicious offer.",
+  "Format": "The site is well-designed but made with Webflow, which is a red flag given the potential financial risk and a need for robust security for a crypto exchange. The use of Webflow suggests a lower level of investment in security and infrastructure compared to a legitimate, established crypto exchange.",
+  "Transparency": "The website lacks clear contact information and legal disclaimers, common on fraudulent sites, or sites that lack an actual legal entity.",
+  "Impersonation": "The website is impersonating the legitimate Uphold crypto exchange. This is a clear attempt to deceive users.",
+  "Other": "The URL itself raises red flags, including the use of 'sso' which may indicate an attempt to mimic a Single Sign-On service, and the 'cdnn' portion, both of which are likely attempts to trick users.",
+  "verdict": 9
+}
+```

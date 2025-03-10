@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting to complete a puzzle which may be a security measure. It does not explicitly ask for personal information or payment at this stage.",
+  "Suspicious offer": "N/A",
+  "Format": "The website has a legitimate format, matching the branding of Binance.",
+  "Transparency": "N/A",
+  "Impersonation": "The website may be impersonating the Binance security check.",
+  "Other": "The URL sow-verifica.com itself is suspicious.",
+  "verdict": 8
+}
+```

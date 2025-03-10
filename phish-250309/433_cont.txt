@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not appear to request personal information or payment directly on this landing page.",
+  "Suspicious offer": "The 'BLACK FRIDAY' sale on Ledger Flex and Nano wallets could be considered a suspicious offer if it seems too good to be true but it is a common marketing practice.",
+  "Format": "The website has a clean design and appears professional, which is not characteristic of a fraudulent website. There are no obvious typos or low-quality images.",
+  "Transparency": "There is no explicit contact information visible on this specific page, but it is the landing page of a larger website and that lack of transparency isn't sufficient by itself to label this as fraudulent.",
+  "Impersonation": "The website is using the Ledger logo and branding, which could potentially be impersonation if the website were not legitimate. However, since it appears to be a genuine Ledger website, it is not impersonation.",
+  "Other": "The URL indicates that it is hosted on Webflow.io, which is a legitimate platform. Overall, this landing page appears to be of a well-established brand and it is likely a marketing landing page.",
+  "verdict": 1
+}
+```

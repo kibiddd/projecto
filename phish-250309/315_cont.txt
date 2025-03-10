@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not appear to be requesting personal information or payments directly on the landing page. However, the user is encouraged to download an application, which could be a vector for phishing if it is a malicious application. More information is needed to confirm.",
+  "Suspicious offer": "The website itself doesn't offer any suspicious offers or free products/services directly. It appears to be the official website of the hardware wallet company.",
+  "Format": "The website design appears clean, modern, and professionally made. No obvious typos or low-quality images are visible.",
+  "Transparency": "The website doesn't have explicit contact information, like an email or a phone number on the landing page, but it's a typical starting point for a product.",
+  "Impersonation": "This website is hosted on a webflow domain. This by itself is not a red flag. However, it is crucial to confirm its authenticity by cross-referencing it with the official Trezor website. If this site is not linked from the official Trezor website or verified by them, it raises strong suspicion that it is impersonating Trezor.",
+  "Other": "The website uses 'portals-secure-trzr.webflow.io'. This domain may be intended to mimic the legitimate domain. The user is urged to download an app, which is a common phishing technique, if they don't verify the source. The lack of clear contact information further enhances the possibility of phishing",
+  "verdict": 7
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain registration is not recent; it was created on 2014-05-16, which is well over 6 months ago. It is not expiring soon either, as the expiration date is 2025-05-16, which is more than a year away. Therefore, this factor does not indicate potential fraud.",
+  "answer2": "The contact information for the registrant, admin, and tech contacts is redacted for privacy. While this is common practice, it can sometimes be a red flag if combined with other suspicious factors. However, in this case, it is not enough to indicate fraud on its own.",
+  "answer3": "The registrar, CSC Corporate Domains, Inc., is known for hosting malicious sites or lacking verification. This is a significant indicator of potential fraud. The domain is hosted by tate.ns.cloudflare.com and clarissa.ns.cloudflare.com, which are associated with Cloudflare, a reputable DNS provider. However, the domain status indicates 'clientTransferProhibited', which could be a sign of a domain that is not easily transferable, possibly due to previous misuse or disputes. This factor alone does not confirm fraud but is a concern.",
+  "answer4": "Other suspicious registration factors include the domain status 'clientTransferProhibited', which could indicate previous misuse or disputes. The domain is hosted by Cloudflare, which is generally a reputable DNS provider, but the domain status raises concerns. The domain is also associated with Protocol Labs, Inc., which is a legitimate organization, but the redacted contact information could be a concern if it is part of a pattern of fraudulent activity.",
+  "verdict": 5
+}
+```

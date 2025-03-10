@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is asking the user to create or restart their Netflix membership by entering their email, which could be a phishing attempt to collect personal information.",
+  "Suspicious offer": "N/A",
+  "Format": "The website's design looks clean and professional, but the URL is unusual for a legitimate Netflix site.",
+  "Transparency": "N/A",
+  "Impersonation": "The website is impersonating Netflix.",
+  "Other": "The URL is suspicious, and the website is hosted on Netlify, which can be used for hosting phishing sites.",
+  "verdict": 9
+}
+```

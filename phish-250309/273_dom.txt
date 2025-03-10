@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2016-10-05, which is more than 6 years ago, so it is not recent.",
+  "answer2": "The contact information for the registrant, admin, and tech is redacted for privacy, which is common but can be a red flag if combined with other suspicious factors.",
+  "answer3": "Bluehost is a well-known registrar, but the domain status indicates 'clientTransferProhibited' and 'clientUpdateProhibited', which could be a sign of a domain that is not easily transferable or updatable, potentially indicating a fraudulent setup.",
+  "answer4": "The domain status 'unsigned' for DNSSEC is unusual and could indicate a lack of proper security measures, which is a suspicious factor.",
+  "verdict": 7
+}
+```

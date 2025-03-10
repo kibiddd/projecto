@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website asks users to login, which could be a phishing attempt if the login page is fake and attempts to steal credentials. However, without knowing the destination URL of the login button, it's hard to confirm.",
+  "Suspicious offer": "N/A",
+  "Format": "The website appears clean and has a professional format; however, it is a simple landing page, so it does not necessarily indicate the website's trustworthiness.",
+  "Transparency": "N/A",
+  "Impersonation": "The website claims to be BlockFi but could be an imposter website using the same branding.",
+  "Other": "The URL includes 'secure-blockfi--sso--cdn-b.webflow.io', indicating a potential connection to BlockFi, but also includes 'webflow.io', which is a website builder. The combination of seemingly secure and website builder can be suspicious and indicates it might not be the official website",
+  "verdict": 6
+}
+```

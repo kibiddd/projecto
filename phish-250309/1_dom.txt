@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2025-01-25 and is set to expire on 2026-01-25, which is less than a year from the current date of 2025-03-07. This indicates that the domain is relatively new and has not been around for long, which can be a potential fraud indicator.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or partial. The contact information for the registrar is also provided, which is not suspicious.",
+  "answer3": "Metaregistrar BV is known for hosting domains and is not typically associated with malicious sites. However, it is important to note that the domain status indicates 'clientTransferProhibited', which could be a red flag depending on the context. Additionally, the domain's DNSSEC is unsigned, which is not inherently malicious but could be a concern for security.",
+  "answer4": "The domain was registered on the same day as the WHOIS update, which is unusual and could be a sign of fraudulent activity. The domain status 'clientTransferProhibited' could also be a concern if the domain was intended to be transferred to another owner.",
+  "verdict": 7
+}
+```

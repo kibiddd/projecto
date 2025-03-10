@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2009-05-05 and the registration information was last updated on 2023-01-04. The domain is set to expire on 2025-05-05. Since today is 2025-03-07, the domain is not recent (less than 6 months) and it is not expiring soon (less than a year).",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or suspicious.",
+  "answer3": "Amazon Registrar, Inc. is a well-known and reputable registrar. There is no indication that this registrar is known for hosting malicious sites or lacking verification.",
+  "answer4": "The domain status indicates that clientDeleteProhibited, clientTransferProhibited, and clientUpdateProhibited. This could be a red flag, as it may indicate that the domain owner is trying to prevent changes to the domain registration.",
+  "verdict": 3
+}
+```

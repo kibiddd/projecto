@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2018-11-28 and the WHOIS database was last updated on 2025-03-10. This means the domain is not recent (less than 6 months) and is not expiring soon (less than a year).",
+  "answer2": "The contact information provided by the registrar (NameCheap, Inc.) is complete and not redacted or partial. The abuse contact email and phone number are also provided.",
+  "answer3": "The registrar, NameCheap, Inc., is a well-known and reputable registrar. There is no indication that they are known for hosting malicious sites or lacking verification.",
+  "answer4": "The domain status indicates that client transfers are prohibited, which is a common restriction for domains managed by registrars. The DNSSEC is unsigned, which is not necessarily a red flag, but it could be a concern depending on the context. The domain name is a generic one (MYSTRIKINGLY.COM), which could be used for various purposes, including legitimate ones. No other suspicious registration factors are evident.",
+  "verdict": 2
+}
+```

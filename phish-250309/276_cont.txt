@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting an email address and password, which is a common tactic in phishing attempts.",
+  "Suspicious offer": "N/A",
+  "Format": "The website's design is simple, but the login form appears legitimate. However, the URL is highly suspicious.",
+  "Transparency": "N/A",
+  "Impersonation": "The website is impersonating AT&T's login page. The logo and branding match AT&T.",
+  "Other": "The URL 'loginnscreen.ubpages.com' is highly suspicious. It does not match AT&T's official domain.",
+  "verdict": 9
+}
+```

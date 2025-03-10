@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2025-03-07 and is set to expire on 2026-03-07, which is less than a year from the current date. This is a potential fraud indicator as it is very recent.",
+  "answer2": "The registrant, admin, and tech contact information is redacted for privacy. This is a potential fraud indicator as it prevents verification of the domain's ownership and legitimacy.",
+  "answer3": "The registrar, Nominalia Internet SL, is not widely recognized and the WHOIS server is hosted by Nominalia, which could be a red flag. However, without more information on the registrar's reputation, it's difficult to definitively say if it's known for hosting malicious sites or lacking verification.",
+  "answer4": "The domain name'securaccount.info' is suspicious as it does not follow common naming conventions and could be an attempt to mimic a legitimate domain.",
+  "verdict": 8
+}
+```

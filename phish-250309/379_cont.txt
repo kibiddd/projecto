@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website, as presented, appears to be a landing page for a cryptocurrency trading platform. It may request personal information and possibly payment later. Thus, phishing is a possibility.",
+  "Suspicious offer": "The website offers a platform for trading cryptocurrencies but doesn't promote any specific suspicious offers.",
+  "Format": "The website seems professionally designed with high-quality images and consistent branding. No typos were detected.",
+  "Transparency": "The image does not provide contact details. More investigation would be needed to check the transparency of the platform. ",
+  "Impersonation": "The website presents itself as a legitimate cryptocurrency exchange (NDAX). Further investigation is required to verify the platform's legitimacy, especially based on the provided URL, which seems to be potentially fake.",
+  "Other": "The provided URL is suspicious (sso----ndax-ca-io-sso.webflow.io), as it likely tries to impersonate the real website with a phishing URL. This is a strong indicator of potential fraud.",
+  "verdict": 8
+}
+```

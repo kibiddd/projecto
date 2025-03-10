@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2020-01-28 and the current date is 2025-03-07, which means it has been registered for 5 years and 1 month. This is not recent (less than 6 months) nor expiring soon (less than a year).",
+  "answer2": "The registrant, admin, and tech contact information is redacted for privacy. This is a common practice, but in the context of potential fraud, it can be a red flag if combined with other suspicious factors.",
+  "answer3": "The registrar, Tucows Domains Inc, is a well-known registrar and there is no indication that it hosts malicious sites or lacks verification. However, the domain status indicates that client transfers and updates are prohibited, which could be a security measure rather than an indicator of fraud.",
+  "answer4": "The domain status indicates that client transfers and updates are prohibited, which could be a security measure rather than an indicator of fraud. The domain is registered under a privacy protection service, which is common for legitimate users who wish to protect their personal information. The domain is also using Vercel's DNS servers, which is a legitimate service.",
+  "verdict": 2
+}
+```

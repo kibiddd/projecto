@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created and registered on 2025-03-06, which is less than 6 months from the current date of 2025-03-07. This is a potential indicator of fraud as many fraudulent domains are created and registered very recently.",
+  "answer2": "The contact information provided by the registrar (Dominet (HK) Limited) is not redacted or partial, and the abuse contact email and phone number are provided. This does not appear to be suspicious based on the given information.",
+  "answer3": "The registrar, Dominet (HK) Limited, is not known for hosting malicious sites or lacking verification. The registrar's WHOIS server is listed as grs-whois.aliyun.com, which is a legitimate and reputable registrar. This does not appear to be a red flag.",
+  "answer4": "The domain status is 'ok' and the domain is registered with Cloudflare's name servers. The DNSSEC is unsigned, which is not necessarily a red flag, but it could be a potential indicator of fraud if the domain is being used for malicious purposes. The domain was last updated in the WHOIS database on 2025-03-10, which is relatively recent. This could be a potential indicator of fraud.",
+  "verdict": 7
+}
+```

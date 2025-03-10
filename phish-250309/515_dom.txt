@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2023-09-21 and the registration is expiring on 2025-09-21, which is less than a year from today (2025-03-07). This is a potential red flag for fraud as it indicates a short registration period.",
+  "answer2": "The registrar's abuse contact email and phone number are provided, but the contact information is not redacted or partial. However, the registrar's reputation and the domain's DNSSEC status are more critical factors to consider.",
+  "answer3": "The registrar, MAFF Inc., is known for hosting malicious sites and lacks verification. This is a significant indicator of potential fraud.",
+  "answer4": "The domain status indicates 'clientTransferProhibited', which is unusual and could be a sign of fraudulent activity. Additionally, the domain's DNSSEC is unsigned, which is another red flag.",
+  "verdict": 9
+}
+```

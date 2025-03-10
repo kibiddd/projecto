@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website presents a 'forbidden' error, but this could be a precursor to a phishing attempt if it redirects to a login page or asks for information.",
+  "Suspicious offer": "N/A",
+  "Format": "The 'forbidden' page with generic error message is not a sign of quality. In addition, there are some symbols on the background related to gambling.",
+  "Transparency": "The lack of any information other than a vague 'customer service' contact is a major red flag. The site gives no details about the service or provider.",
+  "Impersonation": "N/A",
+  "Other": "The website is using an obscure domain name. The fact that there is no other information than the error message does not allow to determine the purpose of the website. Given the fact that there are gambling symbols, the website might be related to gambling.",
+  "verdict": 7
+}
+```

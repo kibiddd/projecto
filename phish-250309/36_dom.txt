@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain CYMCLOUD.COM was created on 2024-07-12 and has an expiration date of 2025-07-12, which is less than a year from the current date of 2025-03-07. This indicates that the domain registration is expiring soon.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or partial. The contact information for the registrar is also provided, including an abuse contact email and phone number.",
+  "answer3": "The registrar, SNAPNAMES 9, LLC, is listed as a legitimate registrar with an IANA ID of 1010. There is no indication that this registrar is known for hosting malicious sites or lacking verification.",
+  "answer4": "The domain status is 'ok' and the DNSSEC is unsigned, which is not necessarily a red flag. The domain is using shared DNS servers, which is common and not inherently suspicious.",
+  "verdict": 2
+}
+```

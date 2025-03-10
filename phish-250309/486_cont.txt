@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting a username/email and password, which is standard for a login page. However, since I do not have context on the URL, I cannot confirm its legitimacy.",
+  "Suspicious offer": "N/A",
+  "Format": "The website design is consistent with the official Facebook website. There are no obvious signs of a poor design or typo.",
+  "Transparency": "N/A",
+  "Impersonation": "The website appears to be impersonating the Facebook login page.",
+  "Other": "The url is suspicious. While the landing page looks like Facebook, the URL indicates a different domain.",
+  "verdict": 9
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2018-07-13 and the registration is expiring on 2025-07-13, which is less than a year from the current date of 2025-03-07. This indicates that the domain is expiring soon, which can be a potential fraud indicator as it may be a case of domain squatting or a domain being sold off shortly before expiration.",
+  "answer2": "The contact information provided (Registrant Organization, Admin Email, Tech Email, Billing Email, Registrar Abuse Contact Email, and Registrar Abuse Contact Phone) is not redacted or partial. However, the emails are not directly provided, and the user is advised to query the RDDS service of the Registrar of Record for contact information. This could be a red flag as it may be an attempt to obscure the actual contact details.",
+  "answer3": "The registrar, Gandi SAS, is a well-known and reputable registrar. There is no indication that Gandi hosts malicious sites or lacks verification. Therefore, this factor does not indicate potential fraud.",
+  "answer4": "The domain status is 'clientTransferProhibited', which means that the domain cannot be transferred to another registrar. This could be a red flag if the domain owner is trying to prevent the domain from being transferred to a more reputable registrar. However, this alone does not necessarily indicate fraud.",
+  "verdict": 6
+}
+```

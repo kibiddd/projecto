@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website requests an email address to create or restart a membership, which can be a phishing attempt to collect user information.",
+  "Suspicious offer": "The website offers unlimited movies and TV shows, which is the standard offering for Netflix, so there's no specific suspicious offer in this regard.",
+  "Format": "The website's design appears to be a clone of Netflix's homepage, but the image quality and layout seem slightly off and basic. There are no obvious typos.",
+  "Transparency": "There is no contact information or any information about the website's owner.",
+  "Impersonation": "The website is impersonating Netflix, attempting to create a false sense of legitimacy.",
+  "Other": "The URL suggests this is a personal project ('sangam941.github.io'), rather than the official Netflix website, which adds to suspicion.",
+  "verdict": 8
+}
+```

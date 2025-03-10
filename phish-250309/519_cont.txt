@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting User ID and Password, which is a sign of phishing.",
+  "Suspicious offer": "The website promotes credit card offers with sign-up bonuses and 0% APR, which may seem attractive. It also has a '$300 CHECKING OFFER,' which could be considered a suspicious offer.",
+  "Format": "The website design seems legitimate, but the 'Unable to load widget' errors suggest a problem with the site's functionality, which can indicate a low-quality design or a site under development. This can be a sign of potential fraud.",
+  "Transparency": "N/A",
+  "Impersonation": "The website attempts to mimic Bank of America. The branding is accurate, so it seems that it is trying to create a false sense of legitimacy.",
+  "Other": "The URL is very suspicious, and it is not the official website for Bank of America. This is the most significant red flag.",
+  "verdict": 10
+}
+```

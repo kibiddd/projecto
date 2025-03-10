@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website's URL suggests it is not a legitimate or official site and may be designed to steal information from users.",
+  "Suspicious offer": "N/A",
+  "Format": "The URL 'cahaulleteise-4177.vercel.app' is suspicious, and the page is blank. This indicates poor design and a lack of functionality.",
+  "Transparency": "The website provides no contact information.",
+  "Impersonation": "N/A",
+  "Other": "The combination of the suspicious URL and blank page is highly indicative of malicious intent.",
+  "verdict": 10
+}
+```

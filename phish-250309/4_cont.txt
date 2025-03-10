@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website appears to be a gambling site and doesn't explicitly request personal information in the screenshot.",
+  "Suspicious offer": "N/A",
+  "Format": "The website has a simple, albeit low-quality, design and there are no clear signs of typos.",
+  "Transparency": "The website provides contact information, indicating a degree of transparency.",
+  "Impersonation": "The website displays a forbidden error message, not an attempt at impersonation.",
+  "Other": "The website appears to be geo-restricted. The content is not visible, making it difficult to assess the authenticity of the site.",
+  "verdict": 3
+}
+```

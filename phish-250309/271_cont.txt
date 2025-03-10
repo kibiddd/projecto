@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website requests the user's recovery phrase, which is highly sensitive personal information and a common tactic in phishing scams. This is a red flag.",
+  "Suspicious offer": "N/A",
+  "Format": "The design appears clean, but the URL and the context of updating a wallet based on a specific date are unusual. The domain name is suspicious.",
+  "Transparency": "N/A",
+  "Impersonation": "The website is impersonating Ledger to gain access to the user's recovery phrase.",
+  "Other": "The domain 'dev.tapym.com' is not associated with Ledger. This is another significant red flag.",
+  "verdict": 10
+}
+```

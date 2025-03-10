@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is asking the user to visit their wallet, which could be a phishing attempt to steal cryptocurrency or gain access to sensitive information. Decentralized websites require users to interact with their wallets, so this request in itself may not be a red flag, but its context of the website and the lack of additional details of the site itself warrants a deeper look.",
+  "Suspicious offer": "N/A",
+  "Format": "The website does not have a full image of a proper website. The image shown is not a typical website design and lacks context.",
+  "Transparency": "The website doesn't provide any clear contact information and relies on the user taking action without any additional information. The link presented to 'copy link' has not been inspected for whether the website is using social engineering tactics or potentially installing malware onto the user's system.",
+  "Impersonation": "The website's intent is unclear as it presents no context. It gives off the impression of trying to create a false sense of legitimacy for a user.",
+  "Other": "The domain name 'bitfarmsmining-platform.top' does not contain a secure domain (HTTPS) and is not related to any real website or service. The website might be fake and used to phish the user.",
+  "verdict": 9
+}
+```

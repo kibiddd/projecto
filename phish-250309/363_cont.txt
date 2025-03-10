@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website requests an email address, which is typical for Netflix sign-up, but could be used for phishing if the user is not redirected to a real Netflix site. There is a risk of phishing.",
+  "Suspicious offer": "The offer of 'unlimited movies, TV shows and more' is a standard marketing claim for Netflix and not inherently suspicious.",
+  "Format": "The website's design, though attempting to mimic Netflix, may have minor imperfections which can be noticed by users and potentially can raise suspicion. The logo text is also blurry which can be a low quality indicator",
+  "Transparency": "N/A",
+  "Impersonation": "The website attempts to impersonate Netflix. This is a key indicator of potential fraud, aiming to trick users into entering information on a fake site.",
+  "Other": "The URL includes 'github.io' suggesting a personal or demonstration website rather than an official Netflix domain. This raises considerable suspicion. Furthermore, the blurry Netflix logo is an indicator.",
+  "verdict": 8
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2025-03-02 and the registration is expiring on 2026-03-02, which is less than a year from today (2025-03-07). This is a potential red flag for fraud as it indicates a very short registration period.",
+  "answer2": "The WHOIS information provided is complete and there is no redacted or suspicious contact information. This factor does not indicate fraud.",
+  "answer3": "The registrar, Hello Internet Corp, is not widely known for hosting malicious sites, and there is no direct evidence of it lacking verification. However, the registrar's IANA ID is 1924, which is not a common ID, and this could be a potential concern. This factor is somewhat suspicious but not conclusive.",
+  "answer4": "The domain status includes clientDeleteProhibited, clientTransferProhibited, and clientUpdateProhibited, which are unusual and could indicate that the domain is being managed in a way that prevents changes to its registration details. This is a potential fraud indicator.",
+  "verdict": 7
+}
+```

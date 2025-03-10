@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting User ID and Password, which are personal information. This is a classic phishing attempt to steal login credentials.",
+  "Suspicious offer": "N/A",
+  "Format": "The website's format (using Weebly) is inconsistent with a professional company like AT&T. There's no clear branding of AT&T Mail or Currently.com, suggesting a low-quality design.",
+  "Transparency": "The website doesn't provide any contact information or clear information about AT&T or Currently.com, which is not typical for a legitimate login page. The URL itself is suspicious",
+  "Impersonation": "The website attempts to impersonate the legitimate AT&T Mail login, which is a key tactic in phishing.",
+  "Other": "The URL contains a date, often used to create urgency in phishing scams.",
+  "verdict": 10
+}
+```

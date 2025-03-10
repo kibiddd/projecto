@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created and registered on 2025-03-04, which is less than 6 months from the current date of 2025-03-07. This is a potential indicator of fraud as newly registered domains are often used for malicious purposes before they are detected and taken down.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or suspicious. The registrar and contact information are clearly listed.",
+  "answer3": "NICENIC INTERNATIONAL GROUP CO., LIMITED is the registrar, and there is no immediate indication that it is known for hosting malicious sites or lacks verification. However, further investigation into the registrar's reputation and history would be necessary to make a definitive conclusion.",
+  "answer4": "The domain status indicates that both clientDelete and clientTransfer are prohibited, which could be a red flag. Additionally, the domain uses Cloudflare's name servers, which is common for legitimate sites, but the DNSSEC is unsigned, which is unusual for a legitimate domain. The domain name itself, STCAMCCOMMNUMNLTY.COM, appears to be misspelled or nonsensical, which could be a sign of a domain created for fraudulent purposes.",
+  "verdict": 7
+}
+```

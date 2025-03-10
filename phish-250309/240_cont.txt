@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website appears to be for Trezor, a cryptocurrency hardware wallet. There are no direct requests for personal information or payments in this context.",
+  "Suspicious offer": "The website doesn't offer anything suspicious. It is setting up and explaining their product.",
+  "Format": "The website uses a professional design. It's clear and well-structured. There are no obvious typos.",
+  "Transparency": "The website is on the webflow domain but has the appearance of the official Trezor website. I cannot confirm clear contact information without more research on the domain ownership.",
+  "Impersonation": "The website appears to impersonate the real Trezor website. The URL, which is a subdomain of webflow, is suspicious.",
+  "Other": "The use of a webflow.io subdomain for the official Trezor website is unusual and a significant red flag, suggesting a potential phishing attempt or a temporary page.",
+  "verdict": 8
+}
+```

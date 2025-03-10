@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting login credentials (mobile number and password), which is a common tactic used in phishing attacks to steal user accounts.",
+  "Suspicious offer": "N/A",
+  "Format": "The website's design and quality are not consistent with the official eBay website. The background image, typography, and overall layout appear unprofessional and low-quality.",
+  "Transparency": "N/A",
+  "Impersonation": "The website is attempting to impersonate the legitimate eBay login page. The presence of the eBay logo and login fields create a false sense of legitimacy.",
+  "Other": "The URL 'among2.me' is highly suspicious, as it is not associated with eBay, suggesting an attempt to redirect users to a fake website. The absence of a secure connection (HTTPS) further raises red flags.",
+  "verdict": 9
+}
+```

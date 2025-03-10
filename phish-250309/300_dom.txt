@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2023-02-08 and the registration is less than 6 months old. The domain is also set to expire in 2026, which is more than a year away. Therefore, it is not recent or expiring soon.",
+  "answer2": "The registrar's contact information is provided, including an email and phone number, so it is not redacted or partial. The contact information does not appear suspicious.",
+  "answer3": "The registrar, Nhan Hoa Software Company Ltd., is not known for hosting malicious sites or lacking verification. The registrar's WHOIS server is listed as whois.nhanhoa.com, which is a legitimate registrar.",
+  "answer4": "The domain status indicates that client transfers are prohibited, which is a common restriction for domains managed by registrars. The DNSSEC is unsigned, which is not necessarily a red flag, as many domains do not use DNSSEC. The name servers are listed as justin.ns.cloudfire.com and val.ns.cloudfire.com, which are legitimate Cloudflare nameservers. No other suspicious registration factors are apparent.",
+  "verdict": 1
+}
+```

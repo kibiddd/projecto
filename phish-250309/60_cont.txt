@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is promoting a Coinbase Wallet, which is a legitimate product. There are no apparent requests for personal information or payment within the shown interface.",
+  "Suspicious offer": "There are no suspicious offers or free products/services.",
+  "Format": "The website has a good design, high-quality images, and no obvious typos.",
+  "Transparency": "The website seems to be a landing page or presentation of Coinbase Wallet features. Contact information is not directly shown in the screenshot.",
+  "Impersonation": "The website is likely using the Coinbase brand, but appears to be presenting features rather than impersonating to steal credentials.",
+  "Other": "The URL 'home-coinbase-cdn-doc-io.webflow.io' looks somewhat suspicious. A legitimate Coinbase website would not likely be hosted under a 'webflow.io' domain for its main product offerings. It's possible that the website is a genuine Coinbase asset, but the unusual URL warrants a closer examination before any interaction.",
+  "verdict": 3
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website itself doesn't directly request personal information or payment on this landing page, but it directs users to interact with a Ledger product, which would then involve secure access and management of crypto assets. The context raises a low possibility of Phishing.",
+  "Suspicious offer": "No suspicious offers are present on the initial landing page. The focus is on introducing the product and service.",
+  "Format": "The website has a clean and professional design with high-quality images and layout, which are typical for a legitimate site.",
+  "Transparency": "The website doesn't explicitly display the contact information. However, since the image represents the legitimate Ledger website, there's no concern in terms of transparency.",
+  "Impersonation": "The website appears to be presenting legitimate Ledger product information.",
+  "Other": "The URL is not directly tied to Ledger's primary domain and is hosted on Webflow. This could indicate it is a test or a secondary website.",
+  "verdict": 2
+}
+```

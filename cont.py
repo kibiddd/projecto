@@ -3,22 +3,27 @@ from google.genai import types
 from PIL import Image
 from screenshot import screenshot
 
-def content_analysis(url):
+def content_analysis(url, file_name):
     client = genai.Client(
         api_key="AIzaSyAr92W1v_HCTp3swoRaLlntgTBKyIBMtaM"
     )
-    domain = screenshot(url)
-    file_name = "website-screenshot/" + domain + ".png"
-    image = Image.open(file_name)
+    #domain = screenshot(url)
+    #file_name = "website-screenshot/" + domain + ".png"
+    # try opening image file
+    try:
+        image = Image.open(file_name)
+    except Exception as e:
+        print(f"Error opening image file: {e}")
+        return "Error loading website screenshot."
     task = """Based on the URL and the screenshot of the website, how likely is the website fraudulent? 
 Specifically, look at (1) Phishing: Is the website requesting personal information or payment? 
-(2) Too-good-to-be-true offer: Is it offering free product or service? 
+(2) Suspicious offer: Is it offering too-good-to-be-true or free product/service? 
 (3) Format: Does the website have poor design or low-quality image? Is there any typo?
 (4) Transparency: Does the website provide clear and trustworthy contact information?
 (5) Impersonation: Is this website pretending to create a false sense of legitimacy? 
 (6) Other suspicious factors. Answer N/A if none.
 Based on the answer to the above questions, give your final verdict on a scale of 1 to 10, with 10 being most likely.
-Output should be a strict json format without any other comment. I.e. {\"answer1\": explanation1,..., \"answer6\": explanation6 or N/A, \"verdict\": 1-10}
+Output should be a strict json format without any other comment. I.e. {\"Phishing\": explanation1,..., \"Other\": explanation6 or N/A, \"verdict\": 1-10}
 url = """ + url
     model = "gemini-2.0-flash-lite"
     contents = [image,task]
@@ -43,6 +48,6 @@ url = """ + url
 
 
 if __name__ == "__main__":
-    result = content_analysis(url="https://www.paypal.com/ca/signin")
+    result = content_analysis(url="https://www.paypal.com/ca/signin", file_name="website-screenshot/paypal.com.png")
     if result:
         print("Result:", result)

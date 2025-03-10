@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "Yes, the website is requesting a BT ID or email address and password, which is typical of phishing attempts to steal login credentials.",
+  "Suspicious offer": "N/A",
+  "Format": "The website's format is questionable, and could be a fake login page. It could be an attempt to mimic the legitimate BT login, but it lacks the high-quality design and security features of a real BT website. The URL is also very suspicious.",
+  "Transparency": "N/A",
+  "Impersonation": "Yes, the website attempts to impersonate the official BT login page. The layout and logo are designed to mimic the real BT site, making it look legitimate and tricking users into entering their credentials.",
+  "Other": "The URL 'my-bt-c17730.webflow.io' is highly suspicious and doesn't look like the official BT domain. This is a red flag.",
+  "verdict": 10
+}
+```

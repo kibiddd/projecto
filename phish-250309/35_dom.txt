@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain registration is recent, as it was created on 2006-03-29 and the WHOIS update is from 2025-03-10. The domain is expiring soon, on 2025-03-28, which is less than a year from the current date of 2025-03-07.",
+  "answer2": "The contact information provided is complete and not redacted or partial. The registrar's abuse contact email and phone number are provided, which is not suspicious.",
+  "answer3": "SafeNames Ltd. is the registrar, and there is no immediate indication that it is known for hosting malicious sites or lacks verification. However, further investigation would be needed to confirm this.",
+  "answer4": "The domain status includes clientDeleteProhibited, clientTransferProhibited, and clientUpdateProhibited, which are unusual and could be a red flag. The DNSSEC is unsigned, which is also a potential concern.",
+  "verdict": 7
+}
+```

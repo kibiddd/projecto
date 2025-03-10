@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2024-09-27 and is set to expire on 2025-09-27, which is less than a year from the current date of 2025-03-07. This indicates that the domain is expiring soon, which can be a potential fraud indicator as it may be a short-term registration often used for malicious purposes.",
+  "answer2": "The contact information provided by the registrar (DomainRoyale.com LLC) is not redacted or partial, and the abuse contact email and phone number are provided. There is no immediate indication of suspicious contact information.",
+  "answer3": "The registrar, DomainRoyale.com LLC, is not widely known for hosting malicious sites, and there is no specific information indicating that it lacks verification. However, the registrar's reputation should be further investigated to ensure it is legitimate.",
+  "answer4": "The domain is registered with a relatively new domain name (PICUE.NET) and has a short registration period. The domain status is 'ok' according to ICANN, but the DNSSEC is unsigned, which is a potential security concern. The WHOIS update date is recent, which could indicate that the domain owner has recently taken steps to hide their identity, a common practice among fraudulent registrants.",
+  "verdict": 7
+}
+```

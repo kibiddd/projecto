@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2020-01-28 and is expiring on 2026-01-28, which is more than 6 months old and not expiring soon. Therefore, this factor does not indicate potential fraud.",
+  "answer2": "The registrant, admin, and tech contact information is redacted for privacy. This is a common practice and does not necessarily indicate fraud, but it does limit the ability to verify the legitimacy of the domain owner.",
+  "answer3": "The registrar, Tucows Domains Inc, is a well-known and reputable registrar. There is no indication that Tucows hosts malicious sites or lacks verification. Therefore, this factor does not indicate potential fraud.",
+  "answer4": "The domain status indicates that client transfers and updates are prohibited. This could be a security measure to prevent unauthorized changes to the domain. There are no other suspicious registration factors provided.",
+  "verdict": 2
+}
+```

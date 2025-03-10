@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting a donation (payment) via a bank transfer which could be a phishing attempt or for illegitimate purposes.",
+  "Suspicious offer": "N/A",
+  "Format": "The website appears to be a legitimate version of the Wikipedia website, but further investigation is needed to confirm its authenticity.",
+  "Transparency": "The website provides some contact information (IBAN, BIC, and Kontoinhaber), increasing trust, but does not have any suspicious factors.",
+  "Impersonation": "The website is impersonating the Wikipedia website, and it asks for donations in the same style as the Wikipedia website. The website is using the official logos, brand name, and other information to mimic the original website, but the URL is suspicious. Thus, it is a highly likely scenario.",
+  "Other": "The URL is highly suspicious. It does not match the official Wikipedia URL. This is the most significant red flag.",
+  "verdict": 9
+}
+```

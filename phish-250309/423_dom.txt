@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2014-01-22 and the registration information was last updated on 2024-12-21. This means the domain has been registered for over 11 years, which is not recent. Therefore, the domain is not recent.",
+  "answer2": "The contact information provided by the registrar (MarkMonitor Inc.) is complete and appears to be legitimate. There is no redacted or suspicious contact information.",
+  "answer3": "MarkMonitor Inc. is a well-known and reputable registrar. There is no indication that they are known for hosting malicious sites or lacking verification.",
+  "answer4": "The domain status indicates that clientDelete, clientTransfer, and clientUpdate are prohibited. This could be a red flag, but it is not necessarily indicative of fraud. The domain also has DNSSEC set to unsigned, which is not uncommon and does not necessarily indicate fraud.",
+  "verdict": 1
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2013-09-09, which is more than 6 months ago, and it is not expiring soon (less than a year). Therefore, this factor does not indicate fraud.",
+  "answer2": "The contact information is not provided in the given information, so it cannot be assessed for being redacted, partial, or suspicious.",
+  "answer3": "The registrar is 'whois.id', but there is no information provided about whether this registrar is known for hosting malicious sites or lacking verification. Therefore, this factor cannot be assessed.",
+  "answer4": "The domain is currently reserved, which can be a red flag for potential fraud, especially if the domain is being held without clear intent to use it. Additionally, the domain name'my.id' is generic and could be used for various purposes, which might be suspicious if combined with other factors.",
+  "verdict": 5
+}
+```

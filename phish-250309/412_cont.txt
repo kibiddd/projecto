@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is asking for an email address to sign up, which could be used for phishing if it's a fake site trying to collect user data.",
+  "Suspicious offer": "The offer of '$200 for getting started' could be considered a suspicious offer if the terms are not clearly outlined and seem too good to be true.",
+  "Format": "The website appears to have a professional design and a well-formatted layout, which is unlikely for a fraudulent site.",
+  "Transparency": "The website does not display any contact information, but its purpose is informational so the absence isn't a big red flag. It's hosted on Webflow, which is typically used to build legitimate websites.",
+  "Impersonation": "The website is impersonating Coinbase, which is a well-known cryptocurrency exchange. A fraudulent site would likely try to mimic the real website.",
+  "Other": "The URL is not directly to coinbase.com. The domain contains 'support-en-coinbase-sso-cdn.webflow.io', which looks like a legitimate sub-domain associated with Coinbase, but it may be a phishing attempt.",
+  "verdict": 6
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website requests email or mobile number, which is a standard login requirement for PayPal and not a phishing attempt.",
+  "Suspicious offer": "The website is a standard login page, not offering any suspicious deals or free services.",
+  "Format": "The website's design and quality are consistent with PayPal's official branding, with no obvious typos or design flaws.",
+  "Transparency": "The website is PayPal's official login page, and PayPal is a reputable company, although specific contact information isn't on this login page.",
+  "Impersonation": "The website is the official PayPal login page, not impersonating anyone or attempting to create a false sense of legitimacy.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

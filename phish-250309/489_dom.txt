@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2018-07-07 and the WHOIS database was last updated on 2025-03-10. This means the domain is older than 6 months but less than a year old, so it does not meet the criteria for being recent or expiring soon.",
+  "answer2": "The contact information provided (Registrar Abuse Contact Email and Phone) is not redacted or partial, and it appears to be legitimate. Therefore, there are no suspicious contact details.",
+  "answer3": "Cloudflare, Inc. is a reputable registrar known for hosting many legitimate websites. There is no indication that Cloudflare is known for hosting malicious sites or lacking verification.",
+  "answer4": "The domain status includes several prohibitions such as clientTransferProhibited, clientUpdateProhibited, serverDeleteProhibited, serverTransferProhibited, and serverUpdateProhibited. These prohibitions can be a red flag, but they are not necessarily indicative of fraud. However, the domain is also DNSSEC unsigned, which is unusual for a legitimate domain and could be a potential indicator of fraud.",
+  "verdict": 5
+}
+```

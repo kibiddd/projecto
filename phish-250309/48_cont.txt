@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website requests email address and password, which is a common phishing tactic. The prompt about accessing a 'sensitive file' is designed to create urgency and pressure the user to enter credentials.",
+  "Suspicious offer": "N/A",
+  "Format": "The website does not have a poor design or typo.",
+  "Transparency": "N/A",
+  "Impersonation": "The website tries to gain access to personal information.",
+  "Other": "The prompt to verify the password to access sensitive information is a common red flag.",
+  "verdict": 9
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2025-02-16 and is set to expire on 2026-02-16, which is less than a year from the current date of 2025-03-07. This indicates that the domain is relatively new and may be expiring soon, which can be a potential fraud indicator.",
+  "answer2": "The contact information for the registrant, admin, and tech contacts is redacted for privacy. This lack of transparency can be a red flag for potential fraud, as it makes it difficult to verify the legitimacy of the domain owner.",
+  "answer3": "The registrar, NICENIC INTERNATIONAL GROUP CO., LIMITED, is known for hosting malicious sites and lacks verification. This is a significant indicator of potential fraud.",
+  "answer4": "Other suspicious registration factors include the domain status being 'clientDeleteProhibited' and 'clientTransferProhibited', which can be used to prevent legitimate domain transfers or deletions. Additionally, the domain is unsigned in DNSSEC, which is another potential red flag.",
+  "verdict": 9
+}
+```

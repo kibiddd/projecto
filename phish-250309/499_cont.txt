@@ -1,0 +1,3 @@
+```json
+{"Phishing": "The website is asking for a Login ID, which is typical for a banking login, but the context is insufficient to determine if this is a phishing attempt.", "Suspicious offer": "N/A", "Format": "The website has a professional design, and I did not find any typos.", "Transparency": "The website provides copyright information.", "Impersonation": "N/A", "Other": "N/A", "verdict": 2}
+```

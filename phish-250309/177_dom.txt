@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2019-02-08, which is more than 6 years ago, so it is not recent. The expiration date is 2026-02-08, which is more than a year away, so it is not expiring soon. Verdict: 0",
+  "answer2": "The contact information for the registrant, admin, and tech contacts is redacted for privacy. This is a common practice, but it can also be a red flag for potential fraud. Verdict: 5",
+  "answer3": "CloudFlare, Inc. is a reputable registrar known for hosting malicious sites. Verdict: 7",
+  "answer4": "The domain status includes clientDeleteProhibited, clientTransferProhibited, and clientUpdateProhibited, which are unusual and can be a sign of potential fraud. Verdict: 8",
+  "verdict": 6
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is informing the user that their account has been suspended, which could be a tactic to get the user to provide personal information to restore the account. This could lead to a phishing attempt if the user is asked to provide credentials or other sensitive data to regain access.",
+  "Suspicious offer": "N/A",
+  "Format": "The website format appears unprofessional and lacks polish with a generic appearance. The font usage is also questionable, especially in the headline. The wording 'We got suspend your page' is grammatically incorrect and raises immediate suspicion.",
+  "Transparency": "N/A. The website lacks clear contact information or details about the organization behind it, which raises a red flag.",
+  "Impersonation": "The website is trying to impersonate Facebook/Meta by using their logo and similar design elements. This creates a false sense of legitimacy to trick users into believing they are interacting with the real service.",
+  "Other": "The combination of an account suspension message, poor grammar, and lack of contact information strongly indicates a fraudulent site.",
+  "verdict": 9
+}
+```

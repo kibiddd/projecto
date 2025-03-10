@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is asking for an email address, which could be a preliminary step to a phishing attack. It does not ask for sensitive information such as passwords at this step, but could lead to it.",
+  "Suspicious offer": "N/A",
+  "Format": "The format looks professional, with a clear logo and input field. There are no immediately apparent design flaws or typos.",
+  "Transparency": "The website is associated with elisapolystar.com. The legitimacy depends on the URL and the domain of the website.",
+  "Impersonation": "The website appears to be an attempt to mimic a legitimate sign-in page, possibly for elisapolystar.com.",
+  "Other": "The URL is suspicious. It includes 'onedrive.service-office365.com' which might be trying to trick users into thinking the website is related to OneDrive, but then uses personal domain. The URL contains random strings, which could be a red flag.",
+  "verdict": 7
+}
+```

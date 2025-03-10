@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting security questions and answers to verify an online banking account, which is typical for legitimate banking websites. However, without further information, it is difficult to tell if the site is safe or not.",
+  "Suspicious offer": "N/A",
+  "Format": "The website's format appears professional and similar to other financial institutions. There are no obvious typos or design issues apparent in the provided image.",
+  "Transparency": "N/A",
+  "Impersonation": "N/A",
+  "Other": "The provided URL does not match the brand name displayed on the website.",
+  "verdict": 8
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2025-03-07, which is less than 6 months from the current date of 2025-03-07. This is a potential indicator of fraud as many fraudulent domains are registered very recently.",
+  "answer2": "The contact information for the registrant, admin, and tech contacts is redacted for privacy. This is a common practice, but in the context of potential fraud, it can be a red flag as it prevents verification of the domain's legitimacy.",
+  "answer3": "The registrar, GMO Internet, Inc. d/b/a Onamae.com, is known for hosting malicious sites. This is a significant indicator of potential fraud.",
+  "answer4": "The domain status is 'addPeriod', which is unusual and could indicate that the domain is not in a standard operational state. Additionally, the domain is unsigned for DNSSEC, which is another potential indicator of fraud.",
+  "verdict": 9
+}
+```

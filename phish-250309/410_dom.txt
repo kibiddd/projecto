@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created and registered on 2024-07-06, which is less than 6 months from the current date of 2025-03-07. This is a potential red flag for recent domain registration, which is often associated with fraudulent activities.",
+  "answer2": "The contact information provided (Abuse Contact Email: hdung@nhanhoa.com and Phone: +84.2473086680) appears to be valid and not redacted or partial. Therefore, this factor does not indicate fraud.",
+  "answer3": "The registrar, Nhan Hoa Software Company Ltd., is not widely recognized as hosting malicious sites, and there is no immediate indication that it lacks verification. However, further investigation into the registrar's reputation and history would be necessary to make a definitive conclusion.",
+  "answer4": "The domain status indicates 'clientTransferProhibited', which means the domain cannot be transferred to another registrar. This could be a legitimate restriction, but it could also be a tactic used by fraudulent domain owners to prevent domain recovery. Additionally, the DNSSEC is unsigned, which is a security concern but not necessarily indicative of fraud.",
+  "verdict": 7
+}
+```

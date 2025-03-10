@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting User ID, Password and Zipcode, which is a form of phishing, as it is asking for sensitive information.",
+  "Suspicious offer": "N/A",
+  "Format": "The website's format is simple and uses official logo of AT&T. The design is not very professional but seems legitimate.",
+  "Transparency": "N/A",
+  "Impersonation": "The website is impersonating AT&T to steal user credentials.",
+  "Other": "The URL uses 'weeblysite.com', which is a free website hosting platform. Scammers often use these to quickly set up fake websites. Additionally, it appears to be an onboarding site, indicating potential malicious intent.",
+  "verdict": 9
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website's purpose is to get the user to login, which could be a phishing attempt if it's trying to steal credentials to access crypto accounts. The URL is also suspicious.",
+  "Suspicious offer": "N/A",
+  "Format": "The website seems to use images of Gemini, but has a suspicious URL. This, plus the poor typography, points to a low-quality, potentially fraudulent attempt.",
+  "Transparency": "N/A",
+  "Impersonation": "The website is impersonating Gemini to steal credentials. It's using their logo and branding.",
+  "Other": "The URL appears to be a suspicious variation of the legitimate Gemini website, including 'logginuss'.",
+  "verdict": 9
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2020-09-02 and the current date is 2025-03-07, which means it has been registered for approximately 4 years and 6 months. This is not recent (less than 6 months) nor expiring soon (less than a year).",
+  "answer2": "The contact information for the registrant, admin, and tech contacts is redacted for privacy. This is a common practice, but in the context of potential fraud, it can be a red flag if combined with other suspicious factors.",
+  "answer3": "Cloudflare, Inc. is a reputable registrar known for hosting a wide range of websites, including many legitimate businesses. There is no known history of hosting malicious sites or lacking verification. However, the domain status indicates that client actions such as delete, transfer, and update are prohibited, which could be a sign of a domain being managed by a third party or a service provider.",
+  "answer4": "Other suspicious registration factors include the domain status indicating that client actions are prohibited, which could suggest that the domain is managed by a third party or a service provider. Additionally, the domain has been registered for a long time, which could be a sign of a domain being used for spam or other malicious activities.",
+  "verdict": 6
+}
+```

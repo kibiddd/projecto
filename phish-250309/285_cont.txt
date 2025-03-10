@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website displays a fake Microsoft Windows Defender security warning, a common phishing tactic to scare users into calling a provided phone number. This can lead to the theft of personal information or malware installation.",
+  "Suspicious offer": "The website doesn't offer a product or service, but it creates a sense of urgency through the false security warning, which is designed to trick victims.",
+  "Format": "The pop-up window's design is relatively basic. It includes a German language warning, but it may appear unprofessional to some and could contain grammatical errors.",
+  "Transparency": "The website provides a phone number (0670-308-0773) with a supposed affiliation to 'Windows-Sicherheit'. However, it is likely that it is a fake number. There is no other contact information or details about the alleged service.",
+  "Impersonation": "The website pretends to be a Windows Defender security alert, which is a clear attempt to impersonate a legitimate system tool. It uses the Microsoft logo to gain user trust.",
+  "Other": "The URL is suspicious, using a combination of seemingly random words that is not a typical legitimate website URL. The use of a content delivery network (CDN) for hosting adds a slight level of complexity to detect these types of phishing.",
+  "verdict": 10
+}
+```

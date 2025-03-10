@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website itself doesn't directly request personal information or payments in the provided screenshot.",
+  "Suspicious offer": "The website's primary offer is a platform for trading crypto, which isn't inherently suspicious.",
+  "Format": "The website appears to have a clean and professional design.",
+  "Transparency": "No contact information is visible in the screenshot. However, it's difficult to assess the level of transparency with just the homepage.",
+  "Impersonation": "The website's intent is to impersonate the legit company. The real company is ndax.io.",
+  "Other": "The url is not a legitimate domain. The website is a webflow.io domain, which is often used for creating mockups and prototypes. It's unlikely that this is the real website. ",
+  "verdict": 9
+}
+```

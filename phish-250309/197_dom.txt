@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2016-01-29 and is expiring on 2026-01-29, which is more than 6 years from now. Therefore, it is not recent or expiring soon.",
+  "answer2": "The registrant, admin, and tech contact information is redacted for privacy, which is common practice but can also be a red flag if combined with other suspicious factors.",
+  "answer3": "Gandi SAS is a well-known registrar, but without specific information on their hosting practices, it's difficult to determine if they are known for hosting malicious sites or lacking verification. However, the domain status indicates 'clientTransferProhibited', which could be a sign of a domain that is not easily transferable, potentially due to disputes or other issues.",
+  "answer4": "The domain status 'clientTransferProhibited' and the redacted contact information are suspicious factors. The domain is not recent and is not expiring soon, which is unusual for a domain that might be involved in fraudulent activities. The lack of transparency in contact information could be an attempt to hide the identity of the domain owner.",
+  "verdict": 7
+}
+```

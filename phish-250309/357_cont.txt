@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting account balance information, which could be used for phishing. However, this is a financial institution and is expected.",
+  "Suspicious offer": "The website is offering interest on cryptocurrency holdings. The rates appear standard and not overly suspicious.",
+  "Format": "The website appears to have a professional design, quality images, and no obvious typos based on the screenshot.",
+  "Transparency": "While contact information is not available in the screenshot, it is reasonable to expect that a financial institution has this information accessible on its website.",
+  "Impersonation": "The site promotes itself as a cryptocurrency platform, and appears to be a legitimate website based on the initial impression.",
+  "Other": "The URL is from Webflow, which may suggest it is a legitimate webpage, but it should be reviewed thoroughly.",
+  "verdict": 3
+}
+```

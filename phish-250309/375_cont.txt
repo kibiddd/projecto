@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website, as it is, doesn't directly request personal information in the provided image, however the landing page is a scam login page for NDAX.",
+  "Suspicious offer": "N/A",
+  "Format": "The website seems to be a copy of the actual NDAX, with low quality image and a webflow.io domain, it's clearly for phishing purposes.",
+  "Transparency": "N/A",
+  "Impersonation": "Yes, it impersonates the real NDAX website to steal credentials.",
+  "Other": "The domain is suspicious (.webflow.io is often used for free or temporary websites), and the overall intent is clearly to phish for login credentials.",
+  "verdict": 10
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting a mobile number/email and password, which is typical of a phishing attempt to steal credentials.",
+  "Suspicious offer": "N/A",
+  "Format": "The website's design is mimicking the Facebook login page, but the URL is highly suspicious and suggests an attempt at impersonation.",
+  "Transparency": "N/A",
+  "Impersonation": "The website is impersonating Facebook to trick users into entering their login credentials. The URL logco.nz/m/facebook/marketplace/listing67345346332/index.php is not a legitimate Facebook domain.",
+  "Other": "The URL and the context of the login page raises suspicion of the malicious intent of the website.",
+  "verdict": 10
+}
+```

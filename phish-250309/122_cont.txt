@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting an email and password, which is classic phishing behavior to steal credentials. The URL uses a Weebly domain which is also a red flag.",
+  "Suspicious offer": "N/A",
+  "Format": "The website format is simple and the design is not very professional. The URL does not match the AT&T branding.",
+  "Transparency": "N/A",
+  "Impersonation": "The website is attempting to impersonate an AT&T login page to steal user credentials.",
+  "Other": "The URL uses a Weebly domain which is typically used for free or low-cost websites. The use of 'att' with a series of numbers is suspicious.",
+  "verdict": 10
+}
+```

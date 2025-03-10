@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2024-06-01 and is set to expire on 2025-06-01, which is less than a year from the current date of 2025-03-07. This is a potential red flag for fraud as it indicates a very recent registration.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or suspicious. The contact information for the registrar is also provided, which is a positive sign.",
+  "answer3": "The registrar, FastDomain Inc., is not known for hosting malicious sites or lacking verification. The registrar's WHOIS information is provided, and there are no known issues with the registrar.",
+  "answer4": "The domain status indicates that client transfers are prohibited, which is a common practice for domains with sensitive or high-value content. The DNSSEC is unsigned, which is not necessarily a red flag, but it could be a concern depending on the context. The domain name is somewhat similar to 'AASPARYASFOUNDATION.COM', which could be a typo or an attempt to mimic a legitimate domain. However, without more context, it's difficult to determine if this is a significant factor.",
+  "verdict": 7
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2022-08-23 and is expiring on 2025-08-23, which is less than a year from the current date of 2025-03-07. This indicates that the domain is relatively new and has a short remaining registration period, which can be a potential fraud indicator.",
+  "answer2": "The contact information for the registrant, admin, and tech contacts is redacted for privacy. This lack of transparency in contact information can be a red flag for potential fraud.",
+  "answer3": "CloudFlare, Inc. is a reputable registrar known for hosting a wide range of websites, including both legitimate and malicious sites. However, the presence of malicious sites hosted by CloudFlare does not necessarily indicate that this specific domain is fraudulent. Therefore, this factor alone is not sufficient to determine fraud.",
+  "answer4": "The domain status includes clientDeleteProhibited, clientTransferProhibited, and clientUpdateProhibited, which are unusual and can be indicative of a domain that is being managed by a third party or is under some form of restriction. This could be a potential fraud indicator.",
+  "verdict": 7
+}
+```

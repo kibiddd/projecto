@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2012-02-16, which is more than 6 years ago, so it is not recent. The domain is not expiring soon as the expiration date is 2026-02-16, which is more than a year away. Verdict: 0",
+  "answer2": "The registrant, admin, and tech contact information is redacted for privacy, which is common practice but can also be a red flag for fraud. Verdict: 5",
+  "answer3": "The registrar, Instra Corporation Pty Ltd., is a legitimate registrar, but the domain's name server information points to a domain (quickconnect.to) that is not associated with the registrar. This could be a sign of a domain parked by a third party or used for malicious purposes. Verdict: 6",
+  "answer4": "The domain status is 'ok' according to ICANN, but the domain is unsigned for DNSSEC, which is a security concern. The WHOIS database was last updated recently, which could indicate recent changes to the domain's registration. Verdict: 4",
+  "verdict": 4
+}
+```

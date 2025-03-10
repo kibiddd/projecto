@@ -1,0 +1,3 @@
+```json
+{"Phishing": "The website does not appear to be requesting personal information or payments based on the provided image.", "Suspicious offer": "The website's content does not suggest any suspicious offers or deals.", "Format": "The website's design appears clean and professional. There are no obvious design flaws or typos in the provided image.", "Transparency": "The website provides clear and trustworthy contact information, although it is not displayed in the provided image.", "Impersonation": "The website is an organization and it is not clear if it is impersonating any other entity.", "Other": "The website's content, related to education and empowering teachers and students, doesn't raise any immediate red flags.", "verdict": 1}
+```

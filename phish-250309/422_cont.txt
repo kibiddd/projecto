@@ -1,0 +1,3 @@
+```json
+{"Phishing": "The website is requesting phone number, username, or email and a password, which is typical for a login page, but the context of a fake website is concerning", "Suspicious offer": "N/A", "Format": "The website design appears to be a basic recreation of the Instagram login page; it does not look professionally done but could be trying to mimic Instagram.", "Transparency": "N/A", "Impersonation": "The website attempts to impersonate the official Instagram login page.", "Other": "The provided URL uses 'tha-github.github.io', which is a GitHub page, and this often hosts simple websites, increasing the chance that it is fraudulent.", "verdict": 9}
+```

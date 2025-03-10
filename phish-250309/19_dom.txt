@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2025-01-29 and the current date is 2025-03-07, which means it is less than 6 months old. This is a potential fraud indicator as many fraudulent domains are registered recently to quickly exploit their short lifespan before being taken down or abandoned.",
+  "answer2": "The contact information provided is redacted, partial, or suspicious. The registrant, admin, and tech contact emails are not provided, and instead, it directs to query the RDDS service of the Registrar of Record. This lack of direct contact information is a common red flag for fraudulent domains.",
+  "answer3": "Gname.com Pte. Ltd. is a well-known registrar, but the domain status indicates that both server and client transfers are prohibited. This could be a legitimate restriction, but it is also a common practice among fraudulent domains to prevent easy transfer and removal. The domain status alone does not indicate malicious hosting, but it is a factor to consider.",
+  "answer4": "Other suspicious registration factors include the domain name 'B96W.XYZ' which is unusual and not indicative of a legitimate business or service. The domain status being 'unsigned' for DNSSEC is also a red flag, as legitimate domains typically have DNSSEC signed to ensure the authenticity of their DNS records.",
+  "verdict": 8
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is likely a phishing attempt. The language indicates that the site is an alternative for accessing a gambling platform (bet365) and that the current domain will soon be unavailable, which is a common tactic to lure users to a new, potentially malicious, website.",
+  "Suspicious offer": "N/A",
+  "Format": "The website's format, including the use of placeholder characters, appears to be low-quality, which is often associated with fraudulent sites. The use of \"70365xx.Com\" and masked text suggests the real URL is hidden.",
+  "Transparency": "The website lacks trustworthy contact information. The placeholder text and masked elements do not engender trust.",
+  "Impersonation": "The website impersonates Bet365 by using the brand logo and name. The language indicates that the current domain will soon be unavailable, which is a common tactic to lure users to a new, potentially malicious, website.",
+  "Other": "The text suggests that the website is trying to redirect users from the original website. It seems to be related to gambling, which is often the target of phishing scams.",
+  "verdict": 9
+}
+```

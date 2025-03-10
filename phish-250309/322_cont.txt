@@ -1,0 +1,3 @@
+```json
+{"Phishing": "The website is requesting a 6-digit code, which could be a phishing attempt to steal the user's account.", "Suspicious offer": "N/A", "Format": "The website appears to be a generic login page with a placeholder for the Idaho Central Credit Union logo. The design is minimal which could be an indicator.", "Transparency": "N/A", "Impersonation": "The website is attempting to impersonate Idaho Central Credit Union to gain access to sensitive user information.", "Other": "The URL itself, 'prosystemsug.com/backup/byxugqlc/ic-access/otp.html', raises immediate red flags.  A legitimate website would likely use the real Idaho Central Credit Union domain.", "verdict": 9}
+```

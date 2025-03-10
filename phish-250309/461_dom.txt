@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2024-02-21, which is less than 6 months from today (2025-03-07). This is a potential indicator of fraud as many fraudulent domains are registered recently.",
+  "answer2": "The contact information is redacted, which is a common indicator of fraudulent domain registrations. Fraudulent registrants often hide their contact details to avoid detection and accountability.",
+  "answer3": "NIC Chile is a legitimate registrar, and there is no indication that it hosts malicious sites or lacks verification. Therefore, this factor does not contribute to the fraud assessment.",
+  "answer4": "Other suspicious registration factors include the domain name 'vaonischile.cl' which could be a misspelling or an attempt to mimic a legitimate domain. Additionally, the WHOIS data indicates that the domain was registered by 'Surveying Control Systems Ltda', which could be a front company.",
+  "verdict": 8
+}
+```

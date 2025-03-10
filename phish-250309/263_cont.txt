@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website requests email/phone number, which is standard for sign-up. However, the provided URL, kkiocuccoin.webflow.io, is highly suspicious as it has typos in the domain and may be an attempt to impersonate the legitimate KuCoin platform to steal credentials.",
+  "Suspicious offer": "The website promotes 'Crypto Gem' which is not explicitly a suspicious offer, but in conjunction with the other red flags, could lead to investment scams.",
+  "Format": "The website is poorly designed with low-quality images and a domain name filled with typos, which doesn't instill trust. The use of 'Webflow.io' suggests it's a simple, potentially temporary site.",
+  "Transparency": "The website lacks clear and trustworthy contact information, which is typical for fraudulent websites. ",
+  "Impersonation": "The website's attempt to imitate KuCoin through its design and promotional language is a clear sign of impersonation. The typos in the domain name are a dead giveaway.",
+  "Other": "The URL is definitely not the official KuCoin website.",
+  "verdict": 10
+}
+```

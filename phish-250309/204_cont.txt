@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not appear to be asking for personal information or payment directly, but it's informing the user about account disabling, which could be a precursor to a phishing attempt if the user is directed to another site to appeal.",
+  "Suspicious offer": "There is no suspicious offer.",
+  "Format": "The design quality is acceptable but not polished; text is clean, and there is an illustration. There are no obvious typos.",
+  "Transparency": "There is no clear contact information visible.",
+  "Impersonation": "The website impersonates Meta (Facebook) with the logo and reporting center context, but this is not necessarily a negative factor as the intention might be to provide a testing environment",
+  "Other": "The website's function is to provide help about reporting copyright issues. Although the account disabling notification could be a phishing tactic. Also, the website is a domain hosted by vercel, which doesn't instill trust and it's not the official platform. It's not a fraudulent website but it's a testing environment.",
+  "verdict": 5
+}
+```

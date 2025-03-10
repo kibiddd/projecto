@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is a trading platform and may request personal information and payment information for trading.",
+  "Suspicious offer": "N/A",
+  "Format": "The website design looks professional. There are no obvious typos.",
+  "Transparency": "N/A",
+  "Impersonation": "The website claims to be Coinbase Pro.",
+  "Other": "The URL contains \"webflow.io\", which is a legitimate website builder. However, the fact that it's hosted on a Content Delivery Network (CDN) subdomain raises a slight concern, as malicious actors may use this for phishing.",
+  "verdict": 3
+}
+```

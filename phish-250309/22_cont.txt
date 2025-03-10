@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website has input fields, which could be for requesting personal information, such as an email or a password. It also has a submit button.",
+  "Suspicious offer": "N/A",
+  "Format": "The website has a very basic and minimalistic design. It's unclear if this is intentional or a sign of low quality.",
+  "Transparency": "N/A",
+  "Impersonation": "N/A",
+  "Other": "The 'undefined' label is strange. The very minimal design and unknown purpose are also suspicious.",
+  "verdict": 6
+}
+```

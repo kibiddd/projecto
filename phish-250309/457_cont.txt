@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting a password, which is personal information, making it potentially phishing.",
+  "Suspicious offer": "N/A",
+  "Format": "The website design is simple but appears functional. No obvious typos are visible in the provided image.",
+  "Transparency": "The website displays copyright information, indicating an attempt at transparency.",
+  "Impersonation": "The website appears to be a legitimate login page for Arvest Online Banking.",
+  "Other": "N/A",
+  "verdict": 5
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website requests a mobile number, landline, or internet information, which could be used for phishing.",
+  "Suspicious offer": "The 20% discount could be a suspicious offer if it is not clearly explained.",
+  "Format": "The website is likely a copy of an existing website and has a basic design. Poor image quality and typography would increase the risk of being a fraudulent website.",
+  "Transparency": "The website does not provide contact information, and the website itself is likely a copy of a legit website. ",
+  "Impersonation": "The website is likely impersonating the real Etisalat website. The domain name, 'reicharge-etlsaiat.com,' is very similar to the legitimate one but contains a typo and a misleading name to fool users. This can also be a method for creating a false sense of legitimacy.",
+  "Other": "The URL contains a spelling error, which is a red flag for a fraudulent website.",
+  "verdict": 9
+}
+```

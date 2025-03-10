@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The image suggests a service restriction, which is not directly phishing, but the lack of clear information and the 'Forbidden' message raise potential security concerns. The specific purpose of the site is not clear and so any request for personal information would be suspicious.",
+  "Suspicious offer": "The image shows the website is not accessible, there is no offer visible in this context. If this website provides any kind of service, this in itself is not directly suspicious, however, the website being unavailable is already a red flag.",
+  "Format": "The image displays a 'Forbidden' error page, and the image appears to be of low quality with potential design inconsistencies. The use of generic icons in the background, the missing information and the poor layout is concerning.",
+  "Transparency": "The website's contact information is not available from this image. A proper website should have a clear contact method.",
+  "Impersonation": "The site could be trying to imitate another legitimate service or product. The lack of information means it is difficult to ascertain the purpose of the service.",
+  "Other": "The IP address is displayed, and it's not clear why. The 'Forbidden' message and lack of context are highly suspicious.",
+  "verdict": 8
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website promotes online betting platforms and offers bonuses, which often involve users providing personal information and making payments. This presents a phishing risk.",
+  "Suspicious offer": "The offer of '6666' as a bonus is a suspicious offer, which is very common in fraudulent websites.",
+  "Format": "The presence of Chinese text, combined with the content related to online gambling, are not indicators of poor design. However, the overall design appears functional, which is typical of such platforms, but not inherently indicative of fraud.",
+  "Transparency": "The website does not provide any contact information or details. This lack of transparency is a red flag.",
+  "Impersonation": "The website includes logos and references to official entities (e.g., UEFA EURO 2024, Macao Gaming Inspection and Coordination Bureau), which may be used to create a false sense of legitimacy.",
+  "Other": "The URL (wap.cansolut.com) is not associated with the official Macao Gaming Inspection and Coordination Bureau. The website is likely a platform for unauthorized gambling activities.",
+  "verdict": 8
+}
+```

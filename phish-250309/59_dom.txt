@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2010-11-29 and the WHOIS database was last updated on 2025-03-10. This means the domain is not recent (less than 6 months) and is not expiring soon (less than a year).",
+  "answer2": "The contact information provided (Abuse Contact Email: abuse@ascio.com and Phone: +1.4165350123) is not redacted, partial, or suspicious. It appears to be complete and valid.",
+  "answer3": "The registrar, Ascio Technologies, Inc., is known for hosting malicious sites or lacking verification. This is a significant indicator of potential fraud.",
+  "answer4": "The domain status is 'ok' and the DNSSEC is unsigned, which could be a red flag. However, the domain has a long registration period until 2030-11-29, which might reduce the urgency of this concern.",
+  "verdict": 7
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created and registered on 2025-03-07, which is less than 6 months from the current date of 2025-03-07. This is a potential indicator of fraud as many fraudulent domains are created and registered very recently.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or suspicious. The registrar and contact information are provided clearly.",
+  "answer3": "Ultahost, Inc. is a legitimate registrar, and there is no widely known information suggesting that they host malicious sites or lack verification. However, further investigation into the registrar's reputation and any past incidents would be prudent.",
+  "answer4": "The domain status is 'ok' according to ICANN, and the DNSSEC is unsigned, which is not necessarily a red flag. The domain name itself does not contain any obvious suspicious elements.",
+  "verdict": 7
+}
+```

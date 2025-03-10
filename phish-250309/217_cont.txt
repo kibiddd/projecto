@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website prompts for login information (email and password) to access the account, which is a phishing attempt.",
+  "Suspicious offer": "N/A",
+  "Format": "The website appears to be a basic landing page with a simple design, which could indicate it's not a legitimate, well-established site. There's also a clear indication that the website is made in Webflow.",
+  "Transparency": "N/A",
+  "Impersonation": "The website is impersonating Gemini by using their branding and logo, which could be an attempt to trick users into entering their login credentials. Also, the URL has 'gemini' in it which looks like it's pretending to be Gemini's actual website.",
+  "Other": "The URL includes 'webflow.io' which is a clear indicator this is a website created by webflow. This is a red flag since it could be easily created to look like another website. Combining all the red flags makes this website very suspicious",
+  "verdict": 9
+}
+```

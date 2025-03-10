@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is likely a phishing attempt. It is trying to mimic the KuCoin website to obtain user login credentials or other sensitive information.  It is offering mystery boxes which may lure users to sign up.",
+  "Suspicious offer": "The offer of mystery boxes worth up to $500 exclusively for new users, coupled with a call to action to 'Sign Up', is a classic tactic to entice users to provide personal information.",
+  "Format": "The website does not have any poor design, low-quality image, or typo.",
+  "Transparency": "The website does not provide any contact information.",
+  "Impersonation": "The website is impersonating the legitimate KuCoin website. The title, logos, and overall design mimic the original website.",
+  "Other": "The shortened URL also signals a fraudulent website.",
+  "verdict": 9
+}
+```

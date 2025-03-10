@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website promotes a Trezor product, which is a hardware wallet for cryptocurrencies. It does not directly request personal information or payment on the main landing page. However, the 'Get your Trezor' button may redirect to a page where payment information is collected. This would depend on the specific page that button leads to.",
+  "Suspicious offer": "There's no obvious suspicious offer.",
+  "Format": "The website has a clean design and high-quality images, which is standard for the company in question. There are no obvious typos or grammatical errors visible on the main page.",
+  "Transparency": "The website does not show clear and trustworthy contact information on the first page, which is a potential warning sign.",
+  "Impersonation": "The website is trying to appear as a legitimate website of Trezor.",
+  "Other": "The website's URL 'trezoiiistart.webflow.io' is highly suspicious because the correct spelling is 'trezor.io' The double 'ii' suggests an attempt to impersonate the legitimate website. This would be an act of phishing.",
+  "verdict": 9
+}
+```

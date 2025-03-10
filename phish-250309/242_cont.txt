@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website appears to be for Ledger, a cryptocurrency hardware wallet provider. It doesn't directly ask for personal information or payment in the provided screenshot. The website could be a legitimate landing page or a help portal.",
+  "Suspicious offer": "There are no obvious offers in the screenshot. It's promoting Ledger's products and services.",
+  "Format": "The website has a modern and professional design. The image quality is high, and there are no obvious typos.",
+  "Transparency": "Based on the screenshot, there isn't enough information to evaluate transparency. More detail on the contact information or other pages is needed.",
+  "Impersonation": "The website seems to be promoting the Ledger product, so at first glance, it is not clear whether this website is impersonating the original one.",
+  "Other": "The webflow.io domain can be used to host legit website, so further verification of the domain is needed.",
+  "verdict": 3
+}
+```

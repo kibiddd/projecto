@@ -1,0 +1,3 @@
+```json
+{"Phishing": "The website requests an email address for membership, which is typical for Netflix but can be used for phishing. However, the primary purpose appears legitimate.", "Suspicious offer": "The offer is a standard Netflix subscription, so no suspicious elements are observed.", "Format": "The website design and image quality are good and mimic the real Netflix landing page.", "Transparency": "There is no contact information provided, but this is typical for a landing page.", "Impersonation": "The website impersonates Netflix, which is a red flag. The URL is suspicious.", "Other": "The URL `solocyberengineer.github.io/netflix/html/home.html` is a major red flag. This is unlikely to be the official Netflix website.", "verdict": 9}
+```

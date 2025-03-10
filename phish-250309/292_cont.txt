@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting username and password, which is a clear indicator of phishing. The design attempts to mimic a legitimate bank login page.",
+  "Suspicious offer": "N/A",
+  "Format": "The website is using the logo of 'Navy Federal Credit Union' with basic design. It appears to be trying to impersonate a legitimate login page.",
+  "Transparency": "N/A",
+  "Impersonation": "The website's attempt to mimic 'Navy Federal Credit Union' login page strongly suggests impersonation to steal credentials.",
+  "Other": "The URL itself is a random string on a glitch.me domain, which is often used for hosting temporary and potentially malicious websites.",
+  "verdict": 10
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting an email address, which could be used for phishing attempts. However, the website appears to be a mock-up or demonstration site, and it does not directly ask for payment information.",
+  "Suspicious offer": "N/A",
+  "Format": "The website's design is generally clean, with good image quality and typography, but the website is just a clone without interactivity.",
+  "Transparency": "N/A",
+  "Impersonation": "The website appears to be impersonating Netflix.",
+  "Other": "N/A",
+  "verdict": 5
+}
+```

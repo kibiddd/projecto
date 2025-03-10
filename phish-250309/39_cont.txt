@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website appears to be a legitimate Ledger Live platform, it's not directly requesting personal information or payments in this screenshot.",
+  "Suspicious offer": "N/A",
+  "Format": "The website has a clean design with a polished image, it does not appear to have any typos.",
+  "Transparency": "The website has a logo and menu options for Products, App, Coins, and Learn. This implies that it offers some level of transparency.",
+  "Impersonation": "The website is named 'ledgre' instead of 'ledger'. This slight misspelling strongly suggests impersonation of the legitimate 'Ledger' website.",
+  "Other": "The URL is suspicious. It uses a webflow.io subdomain with a slightly misspelled domain name and mentions 'desktpp' and 'live' which may indicates a testing/imitation site.",
+  "verdict": 9
+}
+```

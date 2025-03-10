@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is a Steam login page and requests login information. Although the screenshot shown doesn't directly ask for payment, the user may have been required to login, and provide the user with their account information",
+  "Suspicious offer": "The website offers a $20 gift card as part of a 'Winter Gift Marathon,' which could be a suspicious offer if it's not a legitimate promotion or requires too little effort to obtain.",
+  "Format": "The website seems to have a decent design, but the URL may contain typos, and the image doesn't seem to match with a legit steam web page. ",
+  "Transparency": "There's no information about contact details and it's difficult to determine the legitimacy. The URL may be fake.",
+  "Impersonation": "The website is impersonating Steam, a well-known gaming platform.",
+  "Other": "The URL contains the text 'staemcommunutly', which is likely a typo of the original website. Also, the text after 'activation=' is likely some form of malicious intent. There is no valid reason for the URL to have the string, making it likely malicious.",
+  "verdict": 9
+}
+```

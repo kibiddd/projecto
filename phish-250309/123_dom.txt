@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2012-12-19 and the registration is expiring on 2025-12-19, which is more than a year away. Therefore, it is not recent nor expiring soon.",
+  "answer2": "The contact information provided (abuse@safenames.net and +44.1908200022) appears to be complete and not redacted or suspicious.",
+  "answer3": "SafeNames Ltd. is the registrar, and there is no indication that it is known for hosting malicious sites or lacking verification. However, the domain status includes clientDeleteProhibited, clientTransferProhibited, and clientUpdateProhibited, which could be a red flag depending on the context.",
+  "answer4": "The domain status flags (clientDeleteProhibited, clientTransferProhibited, and clientUpdateProhibited) could be suspicious, but without additional context, it's hard to determine if this is a definitive indicator of fraud.",
+  "verdict": 3
+}
+```

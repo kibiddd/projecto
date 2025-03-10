@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2025-03-01 and the registration is less than 6 months old. The domain is also set to expire in less than a year (2026-03-01). This is a potential fraud indicator as it is a common tactic for fraudulent domains to have short registration periods to avoid detection and to quickly disappear after being flagged.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or partial. The contact information for the registrar is also provided, which is not suspicious on its own.",
+  "answer3": "The registrar, Hello Internet Corp, is not widely recognized as hosting malicious sites, and there is no immediate indication that it lacks verification. However, the registrar's WHOIS server is hosted by a domain that could potentially be associated with spam or fraudulent activities (whois.hello.co). This could be a red flag, but it is not conclusive evidence of malicious intent.",
+  "answer4": "The domain is using Cloudflare's name servers, which is a common practice for legitimate domains. The DNSSEC is unsigned, which is not necessarily a fraud indicator, as many legitimate domains do not use DNSSEC. The domain status is 'ok' according to ICANN, which is a positive sign. No other suspicious registration factors are immediately apparent.",
+  "verdict": 5
+}
+```

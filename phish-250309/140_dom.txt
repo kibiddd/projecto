@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2019-01-08 and the current date is 2025-03-07, which means it has been registered for approximately 6 years and 1 month. This is not recent (less than 6 months) nor expiring soon (less than a year).",
+  "answer2": "The registrant, admin, and tech contact information is redacted for privacy. This is a common practice, but it can also be a red flag if combined with other suspicious factors.",
+  "answer3": "The registrar, MarkMonitor Inc., is a well-known and reputable registrar. There is no indication that they are known for hosting malicious sites or lacking verification.",
+  "answer4": "The domain status includes clientDeleteProhibited, clientTransferProhibited, and clientUpdateProhibited, which are unusual and could indicate that the domain is being managed by a third party or is under some form of restriction. The domain is also using Google’s name servers, which is normal, but the DNSSEC is unsigned, which is not typical for a domain managed by a reputable registrar.",
+  "verdict": 3
+}
+```

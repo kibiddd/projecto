@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is not requesting personal information or payment directly, it provides a link to connect the Ledger.",
+  "Suspicious offer": "N/A",
+  "Format": "The website has a modern and professional design with high-quality images.",
+  "Transparency": "N/A",
+  "Impersonation": "The website appears to be a legitimate Ledger product.",
+  "Other": "The URL suggests it is a CDN (Content Delivery Network) and a development website, which might not be a full live site.",
+  "verdict": 2
+}
+```

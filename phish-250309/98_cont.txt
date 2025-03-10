@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not appear to be directly asking for personal information or payment.",
+  "Suspicious offer": "The website is displaying a 'forbidden' message. No offers are present.",
+  "Format": "The website has a basic error page design with a 'forbidden' message. There are no obvious typos.",
+  "Transparency": "The website's contact information is not clearly visible.",
+  "Impersonation": "The website's error page could potentially be used to impersonate a legitimate service, but it's not definitive.",
+  "Other": "The website uses an IP address and a generic error page. The fact that a user can't use the service because of the region could be due to geo-restriction reasons, or it could be potentially shady. The generic error message does not provide enough details, which is a red flag.",
+  "verdict": 6
+}
+```

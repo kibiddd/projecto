@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2024-11-03 and the registration is expiring on 2025-11-03, which is less than a year from today (2025-03-07). This is a potential red flag for fraud as it indicates a very short registration period.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or suspicious. The contact information for the registrar is also provided and seems legitimate.",
+  "answer3": "The registrar, DropCatch.com 1367 LLC, is associated with NameBright, which is known for hosting domains that are often used for spam and phishing. This is a potential indicator of fraud.",
+  "answer4": "The domain status is 'ok' and the DNSSEC is unsigned, which is not necessarily a red flag. However, the domain is hosted on ShareDNS, which is a legitimate DNS provider. No other suspicious registration factors are apparent.",
+  "verdict": 7
+}
+```

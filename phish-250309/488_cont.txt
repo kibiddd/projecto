@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting the user to reactivate their account or cancel it, which can be a phishing attempt to steal login credentials.",
+  "Suspicious offer": "N/A",
+  "Format": "The website's design is not professional, and it is hosted on a free platform (Weebly). The grammar and wording are not perfect. This suggests it may be a fraudulent site.",
+  "Transparency": "N/A",
+  "Impersonation": "The website impersonates Microsoft Outlook by using its logo and brand to appear legitimate.",
+  "Other": "The domain name `validar-cuenta-er.weebly.com` is suspicious, the use of a free website platform further raises red flags.",
+  "verdict": 9
+}
+```

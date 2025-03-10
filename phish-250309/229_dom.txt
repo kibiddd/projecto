@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2024-04-19 and the registration is expiring on 2025-04-19, which is less than a year from the current date of 2025-03-07. This indicates that the domain is expiring soon.",
+  "answer2": "The WHOIS information provided is complete and there is no redacted or suspicious contact information.",
+  "answer3": "The registrar, Gname Inc, is a well-known registrar and there is no indication that it hosts malicious sites or lacks verification.",
+  "answer4": "The domain status indicates that client transfers are prohibited, which is a common practice for domains with sensitive or high-value content. The DNSSEC is unsigned, which is not necessarily a red flag, but it could be a concern depending on the context. The domain name 'GZHYYYGS.COM' is unusual and could be a potential indicator of fraud, but without more context, it's hard to determine if this is a deliberate attempt to deceive or just a random choice of characters.",
+  "verdict": 3
+}
+```

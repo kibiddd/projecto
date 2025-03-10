@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is a cryptocurrency trading platform, so it likely requests personal information and potentially payment for transactions.",
+  "Suspicious offer": "N/A",
+  "Format": "The website appears to have a professional design and layout with no obvious typos.",
+  "Transparency": "N/A -  Contact information is not readily available for this preliminary assessment. However, the Webflow domain name used in the URL raises immediate concern about authenticity.",
+  "Impersonation": "The domain name sso-ndax--authdh.webflow.io is suspicious, it is not the official NDAX website. It attempts to impersonate the legitimate platform, and potentially used to harvest credentials or conduct scams. The \"sso\" in the domain suggests it may attempt to mimic a secure sign-on page.",
+  "Other": "The use of 'webflow.io' as the domain name is suspicious. This does not appear to be the official domain name for the company being represented. The website's purpose is to facilitate cryptocurrency transactions. The combination of these factors makes this website appear fraudulent",
+  "verdict": 9
+}
+```

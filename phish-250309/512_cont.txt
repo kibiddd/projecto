@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is asking for a Login ID, which is a form of personal information, raising a phishing concern. The website is also designed to look like a bank's online login page, which increases the likelihood of phishing as users may be tricked into entering their credentials.",
+  "Suspicious offer": "N/A",
+  "Format": "The image is a screenshot of a legitimate bank website, and it appears well-designed and professional. However, the analysis is based on the URL and the image provided, not the actual site. The URL provided does not look like a bank's website. ",
+  "Transparency": "The website includes a copyright notice and provides links to legal disclosures. However, this is only based on the screenshot provided.",
+  "Impersonation": "This website is impersonating a bank website to create a sense of legitimacy.",
+  "Other": "The URL itself, 'roseflowersdelivery.org,' has no connection with banking, which is very suspicious. A legitimate bank website would have a URL containing the bank's name.",
+  "verdict": 9
+}
+```

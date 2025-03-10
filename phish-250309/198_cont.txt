@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website requests email and password, which could be used for phishing attacks.",
+  "Suspicious offer": "N/A",
+  "Format": "The website has a simple format, but it's unclear if it's poorly designed or low-quality because the provided image is the sign-in portion of the website. The image does not show any typos.",
+  "Transparency": "N/A",
+  "Impersonation": "The website is designed to look like an AT&T sign-in page, which could be a form of impersonation.",
+  "Other": "The use of a free website builder like Weebly is sometimes associated with fraudulent websites. The URL is also suspicious.",
+  "verdict": 8
+}
+```

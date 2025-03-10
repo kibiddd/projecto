@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting User ID and password, which are personal information.",
+  "Suspicious offer": "N/A",
+  "Format": "The website has poor design and low-quality image, and there is a typo.",
+  "Transparency": "N/A",
+  "Impersonation": "The website is impersonating AT&T.",
+  "Other": "The URL is suspicious.",
+  "verdict": 9
+}
+```

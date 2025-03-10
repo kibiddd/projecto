@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is a landing page for Coinbase Pro, a cryptocurrency exchange, and does not directly request personal information or payment in this screenshot. However, a fraudulent site might mimic the login page.",
+  "Suspicious offer": "N/A",
+  "Format": "The website design appears to be of good quality, using a professional layout and branding that matches Coinbase Pro's style. The website is built with Webflow, which is a legitimate platform for website development.",
+  "Transparency": "N/A",
+  "Impersonation": "The URL is not the official Coinbase Pro domain. It's using a Webflow subdomain. It's possible that this is an imposter website.",
+  "Other": "The URL itself is the biggest red flag. It's using a Webflow subdomain that might be used for hosting a legitimate website. However, the domain name 'portal-coinbasepro--cdn-e--auth-cdn' is very suspicious. It attempts to mimic legitimate Coinbase branding to mislead users. Therefore it is highly likely to be a scam website. ",
+  "verdict": 9
+}
+```

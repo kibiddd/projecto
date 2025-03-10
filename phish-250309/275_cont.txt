@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is a login page for BlockFi, so it requests user credentials, which is typical for a legitimate login page but also a common target for phishing.",
+  "Suspicious offer": "The website promotes a rewards credit card with crypto rewards, which is a legitimate service offered by BlockFi. There's no indication of an overly suspicious offer here.",
+  "Format": "The website has a clean and professional design. The image quality is good. There are no obvious typos.",
+  "Transparency": "The website is not providing contact information, this could be a possible red flag",
+  "Impersonation": "The website's URL appears to be a Webflow domain and not the official BlockFi domain. This is a classic tactic to impersonate a legitimate service.",
+  "Other": "The use of a Webflow subdomain is a suspicious factor and a strong indicator that this website is fraudulent.",
+  "verdict": 9
+}
+```

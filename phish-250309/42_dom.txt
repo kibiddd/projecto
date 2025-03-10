@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2024-08-17 and is set to expire on 2025-08-17, which is less than a year from today (2025-03-07). This indicates that the registration is expiring soon.",
+  "answer2": "The contact information provided is partial, with the owner's ID redacted (***.642.243-**). This is suspicious and could be an attempt to hide the true identity of the domain owner.",
+  "answer3": "The registrar, HSTDOMAINS, is listed as a provider for the domain. There is no information provided about whether this registrar is known for hosting malicious sites or lacks verification. Further investigation would be needed to determine this.",
+  "answer4": "The domain name 'octgencia.com.br' and the URL provided (http://facebook.login.octgencia.com.br/mobile.php?uuid=) seem unusual and potentially related to phishing or malicious activities. The presence of a suspicious URL and the partial contact information are additional red flags.",
+  "verdict": 8
+}
+```

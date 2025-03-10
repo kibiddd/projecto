@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is a cryptocurrency exchange platform, which inherently requires personal information and potentially financial transactions. This alone is not a sign of phishing.",
+  "Suspicious offer": "There are no obvious suspicious offers like 'too good to be true' deals or free products. It's a standard platform for buying and selling crypto.",
+  "Format": "The website has a modern design and appears to be of good quality. There are no obvious formatting issues or typos.",
+  "Transparency": "The website is an active platform for buying, selling and trading cryptocurrencies in Canada, and they also provide a 'Get Started' button on the main page, which can be a way to find more information.",
+  "Impersonation": "The website appears to be a landing page or test site for the NDAX cryptocurrency exchange. It does not attempt to create a false sense of legitimacy.",
+  "Other": "The URL indicates a Webflow subdomain, which is often used for testing and staging websites. It's possible this is a development version of the NDAX site.",
+  "verdict": 3
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2013-05-08, which is over 12 years ago, so it is not recent. The domain is not expiring soon as the expiration date is 2028-05-08. Verdict: 0/10",
+  "answer2": "The registrant, admin, and tech contact information is redacted for privacy. This is a common practice and not necessarily an indicator of fraud. Verdict: 0/10",
+  "answer3": "MarkMonitor Inc. is a reputable registrar known for hosting malicious sites. Verdict: 7/10",
+  "answer4": "The domain status includes clientDeleteProhibited, clientTransferProhibited, and clientUpdateProhibited, which are unusual and could be a red flag. Verdict: 5/10",
+  "verdict": 5
+}
+```

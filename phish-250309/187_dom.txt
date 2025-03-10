@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain CREATIFY2.COM was created on 2024-12-25 and has an expiration date of 2025-12-25, which is less than a year from the current date of 2025-03-07. This indicates that the domain is relatively new and will expire soon, which can be a potential fraud indicator.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or suspicious. The contact information for the registrar is also provided, including an abuse contact email and phone number.",
+  "answer3": "The registrar, GMO Internet Group, Inc. d/b/a Onamae.com, is known for hosting malicious sites or lacking verification. This is a significant red flag and a strong indicator of potential fraud.",
+  "answer4": "The domain is registered with the DNSSEC set to 'unsigned', which is another potential fraud indicator as it means the domain does not have DNSSEC enabled, which is a security measure to prevent DNS spoofing.",
+  "verdict": 9
+}
+```

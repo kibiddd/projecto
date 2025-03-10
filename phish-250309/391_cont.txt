@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The URL includes 'login' which is a common tactic for phishing, making it likely to request login credentials.",
+  "Suspicious offer": "N/A",
+  "Format": "The website uses a template with a 'Made in Webflow' badge which can indicate a low barrier of entry, potentially used for less secure sites.",
+  "Transparency": "N/A",
+  "Impersonation": "The website is attempting to impersonate the legitimate Uphold platform, as suggested by the name.",
+  "Other": "The URL is not an official Uphold domain, which is a significant red flag. The use of 'sso' and a non-official domain further increases suspicion.",
+  "verdict": 9
+}
+```

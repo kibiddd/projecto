@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting personal information (email address and zip code) which is typical of phishing attempts to steal personal data.",
+  "Suspicious offer": "N/A",
+  "Format": "The design seems simplistic. However, I cannot tell for certain the quality.",
+  "Transparency": "N/A",
+  "Impersonation": "The website is using the Idaho Central Credit Union logo and branding, potentially to impersonate the legitimate financial institution. The URL does not seem to be related to the official Idaho Central Credit Union website. ",
+  "Other": "The URL does not seem to be related to Idaho Central Credit Union, which is suspicious.",
+  "verdict": 9
+}
+```

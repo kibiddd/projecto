@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting an appeal which may require the user to provide personal information. Although it is not explicitly asking for personal information or payment, it's the first step to potentially ask for it later in the appeal process.",
+  "Suspicious offer": "N/A",
+  "Format": "The design of the website seems simplistic and the image quality is not of high resolution, which could suggest a lack of attention to detail. The font is basic.",
+  "Transparency": "N/A",
+  "Impersonation": "The website claims to be a Privacy Center, implying an affiliation with a legitimate company, although the URL and basic design raise concerns about its authenticity. The specific page says your page has been suspended which increases the potential for impersonation, as this could be a way to trick people into providing sensitive information under the guise of resolving an issue.",
+  "Other": "The URL `tductlm.vercel.app/xkjg.cno` does not match a legitimate company URL and the page content warns of suspension.",
+  "verdict": 8
+}
+```

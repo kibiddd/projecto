@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting information to sign up, which is not inherently phishing, but it is still requesting personal data, so it is somewhat suspicious.",
+  "Suspicious offer": "N/A",
+  "Format": "The website has a modern design, but the lack of details about the product makes it questionable. Typo can not be confirmed with only one screenshot.",
+  "Transparency": "The website is not providing clear contact information.",
+  "Impersonation": "The website appears to be promoting a wallet app, but there is no clear information about the developers and its purpose which raise concerns.",
+  "Other": "The website URL, 611104.com, is not what you'd expect for a legitimate business. The lack of information on the product and company is another red flag.",
+  "verdict": 7
+}
+```

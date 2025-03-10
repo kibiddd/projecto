@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is related to cryptocurrency trading, which often involves financial transactions, making it a potential target for phishing attempts. However, the provided image doesn't show any explicit phishing attempts, such as requesting login credentials or personal information.",
+  "Suspicious offer": "The website promotes buying, selling and trading crypto. However, it's not offering any suspiciously good deals that would suggest a fraudulent operation.",
+  "Format": "The website has a clean and professional design.",
+  "Transparency": "N/A",
+  "Impersonation": "N/A",
+  "Other": "The URL (my-ndax-connect-aauth.webflow.io) seems a bit odd. A legitimate website might be expected to have a more direct and professional domain name. This could be an attempt to appear legitimate but is not the official website. Webflow is a website builder which is used by many legitimate and scam websites.",
+  "verdict": 7
+}
+```

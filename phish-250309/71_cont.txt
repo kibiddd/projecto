@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website appears to be a Ledger product landing page, and it does not ask for personal information or payment directly on this specific page. However, fraudulent websites often lead to phishing pages after a user clicks through a link or button.",
+  "Suspicious offer": "The website does not offer any suspicious offers on this page. It is promoting its services as a legitimate Ledger website.",
+  "Format": "The website has a professional design and appears to be of good quality. There are no obvious typos visible on this page.",
+  "Transparency": "The website does not contain contact information or other details to assess transparency.",
+  "Impersonation": "The use of 'Ledgar' instead of 'Ledger' in the URL indicates an attempt to impersonate the legitimate website, which is a strong indication of fraud.",
+  "Other": "The URL is highly suspicious and indicates the website may be attempting to mimic the Ledger website, likely to steal user credentials or install malware. The \"sso\" in the URL further suggests it might be related to a single sign-on attempt, making it a potential phishing attack.",
+  "verdict": 9
+}
+```

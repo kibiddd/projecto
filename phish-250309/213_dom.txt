@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2020-02-25 and the registration is less than 6 months old as of 2025-03-07. The domain is not expiring soon as the expiration date is 2026-02-25, which is more than a year away. So, the domain is neither recent nor expiring soon.",
+  "answer2": "The contact information for the registrant, admin, and tech contacts is redacted for privacy. This is a common practice, but it can also be a red flag if combined with other suspicious factors.",
+  "answer3": "GoDaddy.com, LLC is a well-known and reputable registrar. There is no indication that GoDaddy hosts malicious sites or lacks verification. Therefore, this factor does not indicate fraud.",
+  "answer4": "The domain status indicates that client actions such as renew, delete, transfer, and update are prohibited. This could be a red flag if the domain is being used for malicious purposes, as it would prevent the owner from making changes. However, it could also be a legitimate setup for certain types of websites, such as those that are static or do not require frequent updates.",
+  "verdict": 3
+}
+```

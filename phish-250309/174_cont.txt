@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website requests an email address, which could be used for phishing attempts to gather further personal information. This is a standard practice for subscription services, but it's a point of potential vulnerability if the site is not secure.",
+  "Suspicious offer": "The website is a Netflix clone, so it is offering a subscription to content. This is not an overly suspicious offer in and of itself, but a clone could be used to collect information.",
+  "Format": "The website appears to be a basic clone of Netflix with decent design and no apparent typos.",
+  "Transparency": "N/A",
+  "Impersonation": "The website is impersonating Netflix.",
+  "Other": "The URL indicates this is a personal project, making the legitimacy of the website questionable.",
+  "verdict": 7
+}
+```

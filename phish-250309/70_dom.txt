@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain registration is not recent; it was created on 2013-05-08, which is well over 6 months ago. The domain is not expiring soon; it has a registration expiry date of 2028-05-08, which is more than a year away. Verdict: 0/10",
+  "answer2": "The contact information for the registrant, admin, and tech contacts is redacted for privacy. This is a common practice and not necessarily indicative of fraud. Verdict: 0/10",
+  "answer3": "MarkMonitor Inc. is a reputable registrar known for hosting malicious sites, but it is also a legitimate registrar. There is no clear evidence of malicious activity from the registrar itself. Verdict: 0/10",
+  "answer4": "The domain status includes clientDeleteProhibited, clientTransferProhibited, and clientUpdateProhibited, which are standard protections against unauthorized changes. The domain is also using Cloudflare's DNS servers, which is a common practice. There are no other suspicious registration factors provided. Verdict: 0/10",
+  "verdict": 0
+}
+```

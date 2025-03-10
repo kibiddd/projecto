@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2017-08-23 and the registration is expiring on 2025-08-23, which is less than a year from the current date of 2025-03-07. This indicates that the domain is expiring soon, which can be a potential fraud indicator.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or partial. The contact information for the registrar is also provided, which is not suspicious.",
+  "answer3": "The registrar, 1API GmbH, is known for hosting malicious sites or lacking verification. This is a potential fraud indicator.",
+  "answer4": "The domain status is 'clientTransferProhibited', which can be a potential fraud indicator. The DNSSEC is unsigned, which can also be a potential fraud indicator.",
+  "verdict": 8
+}
+```

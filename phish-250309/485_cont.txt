@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website requests email or phone number and password, which are personal information. The red text at the top of the screen with a warning about community standards violations could be a tactic to cause a user to input their credentials.",
+  "Suspicious offer": "N/A",
+  "Format": "The website format is similar to Facebook's login page, but there is an error message in red font on top of the interface.",
+  "Transparency": "N/A",
+  "Impersonation": "The website impersonates the Facebook login page, using the Facebook logo and design.",
+  "Other": "The URL contains \"unbouncepages.com\", which could be used by scammers to host phishing pages.",
+  "verdict": 9
+}
+```

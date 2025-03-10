@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website requests an email address, which could be used for phishing attempts.",
+  "Suspicious offer": "The website is likely a landing page to provide crypto services. This is not a suspicious offer itself, however the legitimacy of the website is uncertain.",
+  "Format": "The website has a modern, clean design, but it is not possible to judge its quality from a screenshot. No typo detected.",
+  "Transparency": "It's difficult to ascertain the contact information and transparency of the website from this screenshot.",
+  "Impersonation": "The website seems to be impersonating Coinbase.",
+  "Other": "The URL (cioinbasextension.webflow.io) is a strong indicator of a fraudulent website, as it's not the official Coinbase domain, and uses a similar name to trick users.",
+  "verdict": 9
+}
+```

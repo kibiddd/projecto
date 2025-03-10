@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website displays a message with a call to action to visit a specific URL (94365.com), implying a potential for account login or data entry, thus raising phishing concerns.",
+  "Suspicious offer": "The website promotes the \"bet365\" brand which can involve gambling, and may offer bonuses or promotions that could be considered a suspicious offer, especially if the website's legitimacy is questionable.",
+  "Format": "The overall format appears unprofessional, and the website's interface may contain low-quality images, suggesting a lack of attention to detail which is often a red flag.",
+  "Transparency": "The website does not explicitly show clear and trustworthy contact information.",
+  "Impersonation": "The website is impersonating the well-known brand \"bet365\" to create a false sense of legitimacy and gain the trust of users.",
+  "Other": "The URL is not the official bet365 website. The website also encourages users to visit the official website which is a suspicious behavior.",
+  "verdict": 9
+}
+```

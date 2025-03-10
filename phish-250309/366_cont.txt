@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting sensitive personal information (birth number) to log in, which is a classic phishing tactic. The combination of a login page with a generic URL that does not reflect an official Nordea domain is highly suspicious.",
+  "Suspicious offer": "N/A",
+  "Format": "The design and formatting of the page appear basic and may be attempting to mimic a Nordea login page.",
+  "Transparency": "The website provides minimal contact information and is hosted on a platform that is not the official Nordea one. This lacks transparency.",
+  "Impersonation": "The website is impersonating Nordea's login page to collect user credentials.",
+  "Other": "The URL is suspicious and does not belong to Nordea. Using 'wpenginepowered' suggests it is built on a generic platform that is often used for hosting phishing sites.",
+  "verdict": 10
+}
+```

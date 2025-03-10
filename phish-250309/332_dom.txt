@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2020-01-28 and the current date is 2025-03-07, which means it has been registered for 5 years and 1 month. This is not recent (less than 6 months) nor expiring soon (less than a year).",
+  "answer2": "The registrant, admin, and tech contact information is redacted for privacy. This is a common practice, but it can also be a red flag if combined with other suspicious factors.",
+  "answer3": "The registrar, Tucows Domains Inc, is a well-known and reputable registrar. There is no indication that it hosts malicious sites or lacks verification.",
+  "answer4": "The domain status indicates that client transfers and updates are prohibited. This could be a security measure to prevent unauthorized changes, but it could also be a red flag if combined with other suspicious factors.",
+  "verdict": 3
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain pavelvouk.shop was registered on 2023-03-07, which is less than 6 months from the current date of 2025-03-07. This is a potential indicator of fraud as many fraudulent domains are registered for short periods to quickly exploit their services before being taken down.",
+  "answer2": "The provided information does not include the contact information for the domain pavelvouk.shop. Without this information, it is impossible to determine if the contact details are redacted, partial, or suspicious.",
+  "answer3": "The registrar for the domain pavelvouk.shop is not provided in the given information. To assess if the registrar is known for hosting malicious sites or lacks verification, the registrar's name would be needed. Without this information, it is not possible to evaluate this factor.",
+  "answer4": "The server status message 'Server is busy now, please try again later' could be a red flag, as it might indicate that the site is not properly maintained or is being used to host a service that is not ready for public use. However, this alone is not a definitive indicator of fraud.",
+  "verdict": 7
+}
+```

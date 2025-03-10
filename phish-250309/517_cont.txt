@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website prominently displays a 'register and receive' offer with a large bonus amount, which could be used to lure users to provide personal information.",
+  "Suspicious offer": "The '6666' bonus is a suspicious offer as it is too good to be true and common strategy in fraudulent websites.",
+  "Format": "The screenshot shows the website potentially containing a low-quality image, typo, and poor design, which is a red flag. Note: this is based on the screenshot.",
+  "Transparency": "The website's contact information is unknown from the screenshot, it is hard to assess its transparency, but often the website lack this aspect if it's fraudulent.",
+  "Impersonation": "The presence of logos such as \"bet365\" and \"EURO2024\" suggest that the website may be impersonating legitimate brands and organizations to build a false sense of legitimacy.",
+  "Other": "The website is related to gambling and sport betting, which is often associated with fraud. The combination of a large bonus, logo impersonation, and unknown transparency increases the likelihood of fraud.",
+  "verdict": 8
+}
+```

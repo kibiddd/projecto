@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website requests an email address, which could be used for phishing attempts.",
+  "Suspicious offer": "N/A",
+  "Format": "The website's design seems to mimic Netflix, but the URL indicates it is a personal project (calmxprince.github.io). This is potentially a fraudulent or imitation site. Minor typo \"Emain\" instead of \"Email\".",
+  "Transparency": "N/A",
+  "Impersonation": "The website attempts to impersonate Netflix to collect user data.",
+  "Other": "The URL's domain and the typo raise suspicion.",
+  "verdict": 9
+}
+```

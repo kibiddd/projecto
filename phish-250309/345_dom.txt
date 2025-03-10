@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2024-12-25 and today is 2025-03-07, which is less than 6 months. Therefore, the registration is recent.",
+  "answer2": "The contact information provided is http://timeweb.name/contact-admin, which appears to be a partial URL. It is not clear if this is a valid contact method or if it is suspicious.",
+  "answer3": "The registrar, TIMEWEB-RU, is not widely known for hosting malicious sites, but it is not a well-known registrar either. The domain is also listed as UNVERIFIED, which could be a red flag.",
+  "answer4": "The domain is registered for a year (2025-12-25), which is not suspicious. However, the domain is registered under a private person, which could be a potential red flag.",
+  "verdict": 6
+}
+```

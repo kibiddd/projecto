@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created and registered on 2025-02-20, which is less than 6 months from the current date of 2025-03-07. This is a potential indicator of fraud as newly registered domains are often used for malicious purposes before they are detected and taken down.",
+  "answer2": "The contact information provided by the registrar (NICENIC INTERNATIONAL GROUP CO., LIMITED) is not redacted or partial, and the abuse contact email and phone number are provided. This does not appear to be suspicious based on the given information.",
+  "answer3": "The registrar, NICENIC INTERNATIONAL GROUP CO., LIMITED, is not widely known for hosting malicious sites, and there is no immediate indication that it lacks verification. However, the domain status indicates that client transfers and deletions are prohibited, which could be a red flag depending on the context. The domain also has an unsigned DNSSEC, which is not inherently malicious but could be a concern for security.",
+  "answer4": "The domain name 'VERIFICATION-IBNAB.COM' could be suspicious if it is trying to impersonate a legitimate entity, but without further context, it is difficult to determine if this is the case. The domain status indicating client transfer and deletion prohibitions could also be a red flag, as it may suggest the domain owner is trying to prevent changes to the domain, which could be a tactic used by fraudulent actors.",
+  "verdict": 7
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2025-03-08 and the registry expiry date is 2026-03-08, which means it is less than 6 months old and not expiring soon (less than a year). Therefore, it is recent.",
+  "answer2": "The contact information provided is redacted, partial, or suspicious. The emails for the registrant, admin, and tech contacts are not provided, and instead, it directs to query the RDDS service of the Registrar of Record for contact information.",
+  "answer3": "Porkbun, LLC is the registrar, and there is no direct information provided about whether Porkbun hosts malicious sites or lacks verification. However, Porkbun is a well-known registrar, and there is no widespread report of it hosting malicious sites. Therefore, this factor is not strongly indicative of fraud.",
+  "answer4": "Other suspicious registration factors include the domain status flags such as'serverTransferProhibited', 'clientHold', 'clientTransferProhibited', 'clientDeleteProhibited', and 'addPeriod'. These flags suggest that there are restrictions on the domain's transfer and deletion, which could be indicative of a domain that is being managed under unusual circumstances or potentially involved in fraudulent activities.",
+  "verdict": 7
+}
+```

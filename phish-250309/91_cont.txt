@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is asking for a 12-word recovery phrase, which is highly sensitive personal information used to access cryptocurrency wallets. This is a classic phishing tactic.",
+  "Suspicious offer": "N/A",
+  "Format": "The website appears to be a simplified version of a Coinbase login form. It lacks some details and design elements, and the URL is suspicious.",
+  "Transparency": "N/A",
+  "Impersonation": "The website is attempting to impersonate Coinbase, a well-known cryptocurrency exchange.",
+  "Other": "The URL 'ringed-liberating-adasaurus.glitch.me' is not an official Coinbase URL, raising a red flag.",
+  "verdict": 10
+}
+```

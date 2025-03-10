@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2025-03-05 and the registration is less than 6 months old. It is also expiring soon, less than a year from the current date (2025-03-07).",
+  "answer2": "The WHOIS information provided is complete and there is no redacted or suspicious contact information.",
+  "answer3": "IONOS SE is a reputable registrar, and there is no indication that it hosts malicious sites or lacks verification. The registrar's abuse contact email and phone number are provided, which is a positive sign.",
+  "answer4": "The domain status indicates 'clientTransferProhibited', which is a common restriction for domains purchased through certain platforms. The DNSSEC is unsigned, which is not necessarily a red flag but could be a concern depending on the context. The domain name 'ANELECTRICIANCOM.COM' is generic and could be used for various purposes, which is not inherently suspicious.",
+  "verdict": 2
+}
+```

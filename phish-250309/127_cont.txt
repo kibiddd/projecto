@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting user ID and password, which are personal information.",
+  "Suspicious offer": "N/A",
+  "Format": "The website has a basic design and likely low-quality images. It's a login page without many elements.",
+  "Transparency": "N/A",
+  "Impersonation": "The website is impersonating AT&T to collect user credentials.",
+  "Other": "The URL uses 'weebly.com', which raises a red flag, as legitimate AT&T websites would not use this domain.",
+  "verdict": 9
+}
+```

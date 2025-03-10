@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2024-12-25 and today is 2025-03-07, which is less than 6 months. Therefore, the registration is recent.",
+  "answer2": "The contact information provided is http://timeweb.name/contact-admin, which appears to be a partial URL. This could be considered suspicious as it does not provide a direct email or phone number.",
+  "answer3": "The registrar, TIMEWEB-RU, is associated with the domain timeweb.org, which is listed as a suspicious registrar in the WHOIS information. This registrar is known for hosting malicious sites or lacking verification.",
+  "answer4": "The domain is registered with a private person, and the WHOIS information is in Russian, which could be a red flag for fraud. Additionally, the domain is set to expire in less than a year, which is another potential indicator of fraud.",
+  "verdict": 8
+}
+```

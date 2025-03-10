@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website requests users to update their data, which could involve sensitive personal information. This is a common tactic in phishing attempts.",
+  "Suspicious offer": "The website's primary focus is on updating terms of service, not offering anything overtly suspicious.",
+  "Format": "The design appears clean but the URL is highly suspicious.  A banking website should have a professional domain.",
+  "Transparency": "The website doesn't provide contact information.",
+  "Impersonation": "The website is impersonating Sparkasse.",
+  "Other": "The URL `pushtan-spk3.top` is a major red flag. It does not seem to be the official domain of Sparkasse.",
+  "verdict": 9
+}
+```

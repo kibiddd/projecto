@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website has a clean design. There are no obvious typos in the provided text.",
+  "Transparency": "N/A",
+  "Impersonation": "N/A",
+  "Other": "The provided URL (http://commerzbank.myddns.me) is highly suspicious. It uses a dynamic DNS service and the domain name appears to impersonate a bank (Commerzbank). This, combined with the lack of information about the website's purpose from the screenshot, strongly suggests malicious intent.  The screenshot shows the site is a 'Website Screenshot API', this could be used to get screenshots of bank accounts, which is very dangerous.",
+  "verdict": 9
+}
+```

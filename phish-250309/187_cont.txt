@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website itself doesn't appear to be actively requesting personal information or payment, but the message 'Sitzung ist abgelaufen' (Session Expired) could be a tactic used in phishing attempts to get users to re-enter credentials. The blue button says 'Anmelden' (Login).",
+  "Suspicious offer": "N/A",
+  "Format": "The design appears clean and modern, though the limited view makes it hard to assess fully. There appears to be no typos.",
+  "Transparency": "N/A, the visible part is just a notification for the session expiring.",
+  "Impersonation": "N/A",
+  "Other": "The appearance of a session expiry message alone is not inherently fraudulent, but a malicious site might use such a message to trick users into re-entering their login information.",
+  "verdict": 3
+}
+```

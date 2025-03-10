@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting login credentials (username and password), which is a characteristic of phishing attempts.",
+  "Suspicious offer": "N/A",
+  "Format": "The website appears to be a legitimate login page for Outlook Web App.",
+  "Transparency": "The website claims to be associated with Microsoft, however, the URL does not appear to be legitimate.",
+  "Impersonation": "The website is trying to impersonate the Outlook Web App login page to steal credentials.",
+  "Other": "The URL is very long and contains gibberish characters, which is a common tactic in phishing scams.",
+  "verdict": 10
+}
+```

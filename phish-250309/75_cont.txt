@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website itself doesn't appear to directly request personal information or payment in the screenshot, but a login page could be a potential phishing vector depending on the full scope.",
+  "Suspicious offer": "N/A",
+  "Format": "The design seems clean and professional but it is difficult to tell the quality based only on the image. There is no typo.",
+  "Transparency": "Contact information is not available based only on the screenshot of the image.",
+  "Impersonation": "The website is trying to impersonate Metamask",
+  "Other": "The URL is suspicious. It attempts to mimic the official Metamask, but the domain is not legitimate.",
+  "verdict": 9
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting login information. The login page has a clear phishing attempt.",
+  "Suspicious offer": "N/A",
+  "Format": "The website has poor design and low-quality images.",
+  "Transparency": "The website does not provide any contact information.",
+  "Impersonation": "The website is impersonating Coinbase to steal user credentials.",
+  "Other": "The domain name is highly suspicious (coinebsprilogin.webflow.io), indicating it's not a legitimate Coinbase domain.",
+  "verdict": 10
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting email address and password, which is a classic sign of phishing.",
+  "Suspicious offer": "N/A",
+  "Format": "The website has a very basic design and the URL uses 'weebly.com', which is unusual for a major service provider like Spectrum. This raises red flags.",
+  "Transparency": "N/A",
+  "Impersonation": "The website is attempting to impersonate Spectrum's webmail login.",
+  "Other": "The combination of a phishing login form, the generic website design, and a non-Spectrum domain are highly suspicious.",
+  "verdict": 9
+}
+```

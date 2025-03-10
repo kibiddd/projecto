@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website appears to be for the crypto.com platform, which involves financial transactions. However, this is a Webflow.io domain, which isn't the official crypto.com domain. This is suspicious, but it is not requesting personal information or payment on its own.",
+  "Suspicious offer": "The website promotes crypto trading which could potentially be viewed as a high-risk endeavor in certain contexts but doesn't offer unrealistic deals. It's promoting its platform as a reliable one which is not necessarily a suspicious offer.",
+  "Format": "The website has a clean, professional design. However, it is running on Webflow which is a common platform to use to prototype sites.",
+  "Transparency": "The website does not display contact information, which is a red flag.",
+  "Impersonation": "The website is using the crypto.com branding, content, and layout, but the domain name (auth--crypto-sso--x-cdn.webflow.io) is not the official domain. This is a clear attempt to impersonate the legitimate website.",
+  "Other": "The webflow.io domain is suspicious.",
+  "verdict": 8
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting User ID and Password, which is a common tactic used in phishing attempts to steal login credentials.",
+  "Suspicious offer": "N/A",
+  "Format": "The website appears to be a basic login page with standard design elements, but the URL 'ujguijbjkg.weebly.com' is highly suspicious. This is a free web hosting platform, which are often used by scammers for quick and easy deployment.",
+  "Transparency": "N/A",
+  "Impersonation": "The website is impersonating the AT&T login page. The logo and the login form suggests that it is legitimate.",
+  "Other": "The extremely suspicious URL on a free hosting platform is a major red flag. It has nothing to do with AT&T.",
+  "verdict": 10
+}
+```

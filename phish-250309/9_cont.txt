@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting a card number, which is personal information, indicating a phishing attempt.",
+  "Suspicious offer": "N/A",
+  "Format": "The website has a clean and professional design.",
+  "Transparency": "N/A",
+  "Impersonation": "The website attempts to impersonate a legitimate banking website.",
+  "Other": "The suspicious URL with a generic domain (closte.com) and the login page's address further suggests that this could be a phishing site.",
+  "verdict": 9
+}
+```

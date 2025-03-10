@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2025-03-06 and is set to expire on 2026-03-06, which is less than a year from the current date of 2025-03-07. This indicates that the domain is relatively new and may be at risk of being used for short-term fraudulent activities.",
+  "answer2": "The contact information for the registrant, admin, and tech contacts is redacted for privacy. This lack of transparency is a common indicator of potential fraud, as it prevents verification of the domain's ownership and purpose.",
+  "answer3": "The registrar, west263 International Limited, is not widely recognized as a malicious registrar. However, the domain status indicates that the domain is in the 'addPeriod' state, which may suggest that the domain is not fully compliant with ICANN's policies. This could be a red flag, but it is not a definitive indicator of malicious intent.",
+  "answer4": "Other suspicious registration factors include the domain being unsigned for DNSSEC, which means it does not have DNS security extensions enabled. This could be a sign that the domain owner is not taking standard security measures, which is often associated with fraudulent activities.",
+  "verdict": 7
+}
+```

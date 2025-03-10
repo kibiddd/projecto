@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2015-12-14 and the registration is expiring on 2025-12-14, which is more than a year away. Therefore, it is not recent nor expiring soon.",
+  "answer2": "The contact information provided by the registrar (abuse@namecheap.com and +1.6613102107) is not redacted, partial, or suspicious. It appears to be complete and valid.",
+  "answer3": "NameCheap, Inc. is a well-known registrar and there is no indication that it hosts malicious sites or lacks verification. The registrar's WHOIS server is whois.namecheap.com, which is a legitimate and recognized WHOIS server.",
+  "answer4": "The domain status indicates 'clientTransferProhibited', which means the domain cannot be transferred to another registrar. This is a common restriction and not necessarily indicative of fraud. The DNSSEC is unsigned, which is not uncommon and does not necessarily indicate fraud either.",
+  "verdict": 1
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting login credentials (email/phone and password), which is characteristic of phishing attempts.",
+  "Suspicious offer": "N/A",
+  "Format": "The design appears to be an imitation of the Facebook login page, but the URL (pagina.pro) raises suspicion.",
+  "Transparency": "There is no clear contact information available, and the URL does not seem to belong to Facebook.",
+  "Impersonation": "The website is impersonating Facebook to steal user login credentials.",
+  "Other": "The URL itself is highly suspicious, and the domain does not appear to be affiliated with Facebook.",
+  "verdict": 10
+}
+```

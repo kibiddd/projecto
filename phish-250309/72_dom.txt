@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2024-03-23 and the registration is less than 6 months old. The domain is also set to expire in less than a year (2026-03-23). This is a potential fraud indicator as it is a common tactic for fraudulent domains to have short registration periods to avoid detection and to quickly disappear after being flagged.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or partial. The contact information for the registrar is also provided, which is not suspicious on its own.",
+  "answer3": "The registrar, Gname.com Pte. Ltd., is known for hosting domains that are often associated with spam and fraudulent activities. This is a potential fraud indicator as registrars with a history of hosting malicious sites are more likely to be involved in fraudulent activities.",
+  "answer4": "The domain status indicates that client transfers are prohibited, which is a common tactic used by fraudulent domain owners to prevent their domains from being transferred to legitimate owners. The DNSSEC is unsigned, which is another potential fraud indicator as it means the domain's DNS records are not being secured with DNSSEC, making it easier for attackers to manipulate the domain's DNS records.",
+  "verdict": 8
+}
+```

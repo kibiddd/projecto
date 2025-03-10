@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website itself does not request personal information or payment, based on the provided screenshot. However, the promotional offer of a discount could potentially lead to phishing attempts if clicked on from an external source. This is unlikely based on the screenshot alone.",
+  "Suspicious offer": "The website displays a 'Limited time offer! Get 30% off' promotion. This is a common marketing tactic and not inherently suspicious, but could be used to entice users into providing information. ",
+  "Format": "The website appears to have a professional design with high-quality images and no obvious typos, but given the Webflow.io domain, it may be an unofficial or temporary site.",
+  "Transparency": "There is no information about transparency such as contact information or terms of service.",
+  "Impersonation": "The website uses the Trezor brand and logo, suggesting it is directly related to the official Trezor product. However, the Webflow.io domain raises concerns.",
+  "Other": "The use of a Webflow.io domain is suspicious, as it may indicate a temporary or unofficial site. Also, the URL does not match the official Trezor website (trezor.io).",
+  "verdict": 6
+}
+```

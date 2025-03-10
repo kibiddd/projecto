@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2025-03-03 and the registration is expiring on 2026-03-03, which is less than a year from today (2025-03-07). This is a potential red flag for fraud as it indicates a very short lifespan for the domain.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or suspicious. The contact information for the registrar is also provided and seems legitimate.",
+  "answer3": "The registrar, Global Domain Group LLC, is not known for hosting malicious sites or lacking verification. The registrar's contact information is provided and appears to be legitimate.",
+  "answer4": "The domain status indicates that client transfers are prohibited, which is a common practice for domains with sensitive or high-value content. The DNSSEC is unsigned, which is not necessarily a red flag for fraud but could be a security concern. The domain is using Cloudflare's name servers, which is a reputable DNS service provider.",
+  "verdict": 7
+}
+```

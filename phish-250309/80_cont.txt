@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is an e-commerce site and likely requests payment information.",
+  "Suspicious offer": "N/A",
+  "Format": "The image is low quality, also the website is most likely an imitation of a real website.",
+  "Transparency": "N/A",
+  "Impersonation": "The website is pretending to be an e-commerce site. The domain name does not align with the brand.",
+  "Other": "The domain name seems suspicious and unrelated to the brand Lovers & Friends.",
+  "verdict": 9
+}
+```

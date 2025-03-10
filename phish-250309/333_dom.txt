@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was last modified on 2024-02-11, which is less than 6 months from the current date of 2025-03-07. This indicates that the registration is recent.",
+  "answer2": "The registrar contact information is redacted, which is a potential fraud indicator.",
+  "answer3": "The registrar, Web Address Registration Pty Ltd, is not known for hosting malicious sites or lacking verification, but the domain is registered with a registrar that has a server renewal prohibition status, which could be a red flag.",
+  "answer4": "The domain is registered under the name of Richard P Seares and Thor A Nancarrow, which could be a red flag if these names are not legitimate or if they are used to hide the true owner's identity.",
+  "verdict": 7
+}
+```

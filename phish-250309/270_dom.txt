@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2019-02-15 and the registration information was last updated on 2025-02-05. This means the domain has been registered for over 6 years, so it is not recent nor expiring soon.",
+  "answer2": "The contact information provided by the registrar (NameCheap, Inc.) is complete and appears to be legitimate.",
+  "answer3": "The registrar, NameCheap, Inc., is a well-known and reputable registrar. There is no indication that they are known for hosting malicious sites or lacking verification.",
+  "answer4": "The domain status indicates that client transfers are prohibited, which is a common restriction for domains managed by certain registrars or registries. The DNSSEC is unsigned, which is not necessarily a red flag, but it could be a concern depending on the context. The domain name 'MEMMSERVE.COM' does not immediately suggest any suspicious activity, but it could be a vanity domain or a domain used for phishing.",
+  "verdict": 2
+}
+```

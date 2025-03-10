@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website likely aims to collect personal information or payment, as suggested by the promotional nature in the URL (e.g., a 'Ramadan' offer at a fake page of 'Carrefour').",
+  "Suspicious offer": "It probably offers unrealistic discounts or free products/services to lure visitors.",
+  "Format": "The website is likely to have poor design, low-quality images, and typos due to it's nature of fraud.",
+  "Transparency": "The website will most likely not provide clear or trustworthy contact information.",
+  "Impersonation": "The website is trying to impersonate Carrefour to create a false sense of legitimacy.",
+  "Other": "The domain 'pages.dev' raises suspicion as it can be easily used for hosting temporary fraudulent pages.",
+  "verdict": 9
+}
+```

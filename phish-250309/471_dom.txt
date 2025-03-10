@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain registration is recent, as it was registered on 2024-06-17 and today is 2025-03-07, which is less than 6 months. It is also expiring soon, as the expiration date is 2025-06-17, which is less than a year. This is a potential fraud indicator.",
+  "answer2": "The contact information provided is partial, as the email address 2362979316@qq.com does not include a full name or additional contact details. This is a potential fraud indicator.",
+  "answer3": "The registrar, 阿里云计算有限公司（万网）, is a well-known and reputable registrar, so this is not a potential fraud indicator.",
+  "answer4": "The domain status is 'ok', and the DNSSEC is unsigned, which is not necessarily a fraud indicator. However, the domain name 'texvt.cn' is a generic top-level domain (gTLD) that could be used for various purposes, including fraudulent activities. This is a potential fraud indicator.",
+  "verdict": 7
+}
+```

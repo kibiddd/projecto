@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2012-05-08 and the WHOIS database was last updated on 2025-03-10. This means the domain is not recent (less than 6 months) and is not expiring soon (less than a year).",
+  "answer2": "The contact information provided by the registrar (abuse@godaddy.com and phone number 480-624-2505) is not redacted, partial, or suspicious. It is a valid and accessible contact method.",
+  "answer3": "GoDaddy.com, LLC is a well-known and reputable registrar. There is no indication that GoDaddy hosts malicious sites or lacks verification. The domain is registered with GoDaddy, which is a trusted registrar.",
+  "answer4": "There are no other suspicious registration factors mentioned in the provided information.",
+  "verdict": 1
+}
+```

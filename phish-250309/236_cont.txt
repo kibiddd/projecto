@@ -1,0 +1,3 @@
+```json
+{"Phishing": "The website is designed to resemble the Instagram login page, requesting a phone number, username, or email and a password. This is a classic phishing attempt to steal user credentials.", "Suspicious offer": "N/A", "Format": "The website's layout and design attempt to mimic the official Instagram login page, but the URL is suspicious. This imitation can deceive users.", "Transparency": "N/A", "Impersonation": "The website is impersonating Instagram to trick users into entering their login information.", "Other": "The URL does not belong to Instagram. The purpose of this website is to harvest user credentials.", "verdict": 10}
+```

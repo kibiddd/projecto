@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website requests personal information for registration, which is expected for the service, but this can be misused, so caution is advised. The site is also asking for cookies permission, which is a normal practice for most websites to improve user experience and personalize the content.",
+  "Suspicious offer": "N/A",
+  "Format": "The website has a professional design with high-quality images, and there are no obvious typos.",
+  "Transparency": "The site appears to be from a legitimate entity (Correos Prepago) which adds a layer of trust, but it’s important to verify independently through a reliable source.",
+  "Impersonation": "N/A",
+  "Other": "The cookie consent pop-up could potentially be used to harvest user data if the website were malicious, however, this functionality exists on most websites.",
+  "verdict": 3
+}
+```

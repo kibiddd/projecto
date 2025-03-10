@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created and registered on 2025-03-07, which is less than 6 months from the current date of 2025-03-07. This is a potential indicator of fraud as many fraudulent domains are created and registered very recently.",
+  "answer2": "The contact information provided by the registrar (Dynadot Inc) is complete and appears legitimate. There is no redacted or suspicious contact information.",
+  "answer3": "Dynadot Inc is a well-known and reputable registrar. There is no indication that Dynadot hosts malicious sites or lacks verification. Therefore, this factor does not indicate fraud.",
+  "answer4": "The domain status indicates 'clientTransferProhibited', which means the domain cannot be transferred to another registrar. This is a common restriction for domains registered through certain services and does not indicate fraud.",
+  "verdict": 7
+}
+```

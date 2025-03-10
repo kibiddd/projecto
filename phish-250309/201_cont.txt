@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is promoting a credit card and encouraging users to sign up, which could involve providing personal information. This is a potential phishing risk, although not evident here. However, the URL suggests this might not be the legitimate BlockFi website.",
+  "Suspicious offer": "The offer of up to 3.5% back in crypto on every purchase could be seen as a bit too good to be true, especially given the high rewards are usually for a limited time.",
+  "Format": "The website has a professional design, but the URL 'secure--blockfie-sso--ccdn.webflow.io' raises a red flag. The inclusion of terms like 'sso' and 'ccdn' could be a clue of attempting to impersonate a trusted brand.",
+  "Transparency": "The website design doesn't include clear contact information, which can indicate a lack of transparency and authenticity.",
+  "Impersonation": "The website's design and branding are similar to the legitimate BlockFi website. The URL indicates that this website is trying to impersonate the real website to lure users.",
+  "Other": "The URL is very suspicious. It contains 'secure', 'sso', and 'ccdn', which could be a tactic to make the website look legitimate to some users while being created to fool users. The use of Webflow, while not inherently suspicious, is also potentially used by scammers.",
+  "verdict": 8
+}
+```

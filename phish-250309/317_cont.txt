@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The URL suggests an attempt to impersonate Spotify to offer rewards, which is a common phishing tactic to steal user credentials or payment information.",
+  "Suspicious offer": "The promise of 'recompensas' (rewards) is highly suspicious as it's likely offering something that is too good to be true, aiming to lure users into providing their information.",
+  "Format": "The website itself isn't visible, but the use of a URL with a generic domain name such as '.click' instead of a legitimate Spotify domain is a red flag. Also, the wording of the URL is in Spanish, which is not the main language of the domain name.",
+  "Transparency": "The website is using an anonymous domain name, which is not transparent, and lacks any legitimate contact information.",
+  "Impersonation": "The URL is designed to impersonate Spotify and create a false sense of legitimacy to deceive users.",
+  "Other": "The use of a URL with a generic domain name, combined with the promise of rewards, strongly suggests malicious intent.",
+  "verdict": 10
+}
+```

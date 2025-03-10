@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website presents a Facebook login screen, requesting the user to 'accept' or 'ignore' the suspension. This is a classic phishing attempt to steal account credentials.",
+  "Suspicious offer": "N/A",
+  "Format": "The website's design is simple, mimicking a Facebook suspension notification. It's possible that the website's low quality is to avoid the overhead of complicated design.",
+  "Transparency": "N/A, the website likely does not provide any valid contact information.",
+  "Impersonation": "The website is directly impersonating Facebook, aiming to deceive users into providing their login information.",
+  "Other": "The URL itself, 'saddfghjkl.github.io/asdfghhhjkl', is nonsensical and clearly not an official Facebook domain. This, combined with the suspension message, strongly indicates malicious intent.",
+  "verdict": 10
+}
+```

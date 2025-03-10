@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2022-07-08, which is less than 6 months from today (2025-03-07). This is a potential red flag for recent registration.",
+  "answer2": "The contact information is redacted, which is suspicious and could indicate an attempt to hide the identity of the registrant.",
+  "answer3": "NIC Chile is a legitimate registrar, but the domain name 'hackingetico.cl' and the website URL 'https://hackingetico.cl/bases/index.html' are suspicious and could potentially be associated with malicious activities. However, without further evidence, it's not possible to definitively say if NIC Chile hosts malicious sites or lacks verification.",
+  "answer4": "The domain name 'hackingetico.cl' and the website URL 'https://hackingetico.cl/bases/index.html' are suspicious and could potentially be associated with malicious activities. The redacted contact information is also a concern.",
+  "verdict": 7
+}
+```

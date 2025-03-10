@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website itself is a Steam storefront and does not directly request personal information or payment. However, the displayed content warning suggests the user might be prompted to interact with content that could be malicious, which would be a phishing risk.",
+  "Suspicious offer": "N/A",
+  "Format": "The design and layout appear to be consistent with Steam's style. The content warning and blurred image are expected in this context.",
+  "Transparency": "The website appears to be the official platform but the displayed content warning is a little suspicious",
+  "Impersonation": "The site appears to be impersonating the Steam platform by its layout, URL.",
+  "Other": "The URL is slightly unusual, adding a specific file path which raises a slight concern. However, the core URL seems legitimate and similar to Steam.  The content being displayed may violate Steam's content policies.",
+  "verdict": 5
+}
+```

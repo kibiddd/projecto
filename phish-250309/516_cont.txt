@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not appear to be requesting personal information or payment at this time.",
+  "Suspicious offer": "The website offers a 'Start for free' button. This may be a suspicious offer depending on the service provided.",
+  "Format": "The website has a clean design and appears professional.",
+  "Transparency": "The website does not provide any clear and trustworthy contact information. There is no 'About Us' or contact page. The footer only contains social media links and a link to see more apps.",
+  "Impersonation": "N/A",
+  "Other": "The website is promoting 'direct links to mobile apps.' This could be a legitimate service. The lack of contact information and the free offer raise some suspicion.",
+  "verdict": 4
+}
+```

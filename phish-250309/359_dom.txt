@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2024-02-29, which is a non-existent date (2024 was not a leap year). This is a clear indicator of fraudulent activity.",
+  "answer2": "The registrant, admin, and tech contact information is redacted for privacy, which is common for legitimate domains but can also be a red flag for fraudulent domains.",
+  "answer3": "Cloudflare is a reputable registrar known for hosting legitimate sites. However, the domain status indicates 'clientTransferProhibited', which could be a red flag depending on the context. This alone is not enough to determine fraud without further investigation.",
+  "answer4": "The domain was registered on a non-existent date, and the contact information is redacted. The domain status indicates 'clientTransferProhibited'. These factors are suspicious and could indicate potential fraud.",
+  "verdict": 9
+}
+```

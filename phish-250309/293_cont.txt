@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is a cryptocurrency trading platform and asks for account login to start trading, this itself is not phishing, but if the website is fake, then it could lead to phishing.",
+  "Suspicious offer": "N/A",
+  "Format": "The website uses a clean, modern design, which is consistent with the real Coinbase Pro website, however, this is likely a placeholder or test site, as indicated by the URL.",
+  "Transparency": "N/A",
+  "Impersonation": "The website attempts to mimic Coinbase Pro, potentially impersonating the legitimate platform, by using its branding and layout, however the URL suggests a development or testing instance.",
+  "Other": "The URL contains 'webflow.io', which is a web design platform. Also, the use of hyphens in the URL is slightly unusual and could be an attempt at obfuscation. These elements raise concern that the site might not be what it appears.",
+  "verdict": 6
+}
+```

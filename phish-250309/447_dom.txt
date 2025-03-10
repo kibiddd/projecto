@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2014-04-22 and is set to expire on 2025-04-22, which is less than a year from today (2025-03-07). This is a potential red flag for fraud as it indicates a very recent registration.",
+  "answer2": "The contact information provided is complete and appears legitimate, with a full name and a phone number.",
+  "answer3": "The registrar 'nicar' is not widely known for hosting malicious sites, and there is no immediate indication that it lacks verification. However, further investigation into the registrar's reputation would be necessary.",
+  "answer4": "The domain name 'wedoit.com.ar' and the registrar 'nicar' do not immediately suggest any other suspicious factors. The information provided seems to be in line with standard domain registration details.",
+  "verdict": 7
+}
+```

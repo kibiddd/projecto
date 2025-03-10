@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2025-01-15 and the registration is expiring on 2026-01-15, which is less than a year from the current date of 2025-03-07. This indicates that the domain is relatively new and has less than a year before it expires, which can be a potential fraud indicator as it may be used for short-term malicious activities.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or partial. The contact information for the registrar is also provided, including an abuse contact email and phone number. There are no red flags in the contact information.",
+  "answer3": "The registrar, PDR Ltd. d/b/a PublicDomainRegistry.com, is known for hosting domains that are often associated with spam and fraudulent activities. This could be a potential fraud indicator as the registrar has a reputation for hosting malicious sites.",
+  "answer4": "The domain status indicates that client transfers are prohibited, which is a common practice for domains that are under investigation or have been flagged for suspicious activities. The DNSSEC is unsigned, which is another potential fraud indicator as it means the domain's DNS records are not secured with DNSSEC, making it easier for attackers to manipulate the DNS records.",
+  "verdict": 8
+}
+```

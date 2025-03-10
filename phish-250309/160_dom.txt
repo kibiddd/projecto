@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain registration is recent, as the WHOIS lookup was made on 10-Mar-2025, which is less than 6 months from today, 2025-03-07.",
+  "answer2": "The contact information is redacted, which is a potential fraud indicator.",
+  "answer3": "The registrar is Nominet UK, which is a legitimate and well-known registrar, so this factor does not indicate fraud.",
+  "answer4": "The domain name contains too many parts, which is a violation of Nominet UK's naming rules and could be a red flag for fraudulent intent.",
+  "verdict": 8
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website itself doesn't seem to be directly requesting personal information or payments in this screenshot. However, it advertises a credit card, and any sign-up process for that credit card could potentially involve phishing attempts if the site is fraudulent. It is also likely that once the user gets on the platform, the site could ask for personal information",
+  "Suspicious offer": "The offer of 'up to 3.5% back in crypto' on purchases could be seen as slightly suspicious, as it's higher than some typical credit card rewards, and the introductory offer could be subject to change, and the maximum capped value might be lower than it sounds. However, this is not completely unheard of in the crypto/rewards space.",
+  "Format": "The website looks professionally designed and of high quality. No obvious typos are visible in this screenshot. However, the fact that it's hosted on a webflow.io subdomain is somewhat unusual for a major financial institution and might suggest a staging or demo site, raising suspicion. The URL structure (app--secure...) also seems unconventional, raising concerns.",
+  "Transparency": "The screenshot does not provide enough information to evaluate the website's transparency. Contact information, terms of service, and privacy policies are not visible in the provided image. Without this information it's difficult to evaluate its trustworthiness.",
+  "Impersonation": "The website is presenting itself as BlockFi. It is possible that the website is impersonating BlockFi in order to steal user's information or funds.",
+  "Other": "The use of webflow.io subdomain is unusual for a live financial platform. The URL construction also seems to indicate some development/test stage and raise concerns",
+  "verdict": 7
+}
+```

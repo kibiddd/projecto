@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting information to appeal a policy violation, which could be used to gather personal details if the website is not legitimate.",
+  "Suspicious offer": "N/A",
+  "Format": "The format appears to be a legitimate Meta/Facebook notification, but the URL is suspicious, potentially indicating a phishing attempt.",
+  "Transparency": "N/A",
+  "Impersonation": "The website is impersonating Meta/Facebook by using its branding and messaging to make it appear legitimate.",
+  "Other": "The URL is highly suspicious, using a random subdomain and generic domain, indicating it is not a legitimate Meta site.",
+  "verdict": 9
+}
+```

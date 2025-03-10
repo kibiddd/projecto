@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2021-01-26 and is expiring on 2029-01-26, which is more than 6 years from now. Therefore, it is not recent or expiring soon.",
+  "answer2": "The registrant, admin, and tech contact information is redacted for privacy, which is common practice but can be a red flag when combined with other suspicious factors.",
+  "answer3": "Cloudflare is a reputable registrar known for hosting many legitimate websites. However, it is also known for hosting some malicious sites, which could be a potential indicator of fraud.",
+  "answer4": "The domain status indicates 'clientTransferProhibited', which means the domain cannot be transferred to another registrar. This could be a red flag if the domain is being used for fraudulent purposes.",
+  "verdict": 5
+}
+```

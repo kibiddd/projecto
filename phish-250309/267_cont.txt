@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website prompts users to 'Sign Up' for mystery boxes, potentially leading to phishing attempts if the sign-up process requests sensitive information. There is also login.",
+  "Suspicious offer": "The offer of mystery boxes worth up to $500, especially for new users, could be seen as a suspicious offer if it's not clearly explained how it works and is possibly used to lure users in.",
+  "Format": "The website name is 'kukoinlogzn.webflow.io,' which is a clear attempt to impersonate the genuine KuCoin domain. The format is also very simple with poor design compared to a real exchange site.",
+  "Transparency": "N/A",
+  "Impersonation": "The website's name 'kukoinlogzn.webflow.io' is a clear attempt to impersonate KuCoin.",
+  "Other": "The combination of impersonation, suspicious offers (mystery boxes), and potentially phishing attempts make this website highly suspicious.",
+  "verdict": 9
+}
+```

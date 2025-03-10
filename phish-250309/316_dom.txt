@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2020-01-28 and the registration is not recent (less than 6 months). The domain is not expiring soon (less than a year).",
+  "answer2": "The registrant, admin, and tech contact information is redacted for privacy, which is common but can also be a red flag for fraud.",
+  "answer3": "Tucows Domains Inc is a legitimate registrar, but the domain is hosted on Vercel, which has been associated with hosting malicious sites in the past. This could be a potential indicator of fraud.",
+  "answer4": "The domain status indicates that client transfers and updates are prohibited, which is unusual and could be a sign of fraud. The domain is also DNSSEC unsigned, which is not a common practice for legitimate domains.",
+  "verdict": 7
+}
+```

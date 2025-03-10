@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2024-08-19 and is expiring on 2025-08-19, which is less than a year from the current date of 2025-03-07. This indicates that the domain is relatively new and has less than a year before it expires, which can be a potential fraud indicator.",
+  "answer2": "The registrant, admin, and tech contact information is redacted for privacy. This lack of transparency in contact information can be a red flag for potential fraud.",
+  "answer3": "The registrar, GNAME.COM PTE. LTD., is known for hosting malicious sites and lacking verification. This is a significant indicator of potential fraud.",
+  "answer4": "Other suspicious registration factors include the domain name 'among2.me' which is short and unusual, and the domain status indicating 'clientTransferProhibited'. These factors further increase the likelihood of fraud.",
+  "verdict": 9
+}
+```

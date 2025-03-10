@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2020-04-30 and the registration is expiring on 2025-04-30, which is less than a year from the current date of 2025-03-07. This indicates that the domain is expiring soon, which can be a potential fraud indicator as it may be a short-term registration often used for malicious purposes.",
+  "answer2": "The contact information provided by the registrar (Cloudflare, Inc.) is complete and not redacted or partial. The abuse contact email and phone number are also provided, which does not raise any immediate red flags.",
+  "answer3": "Cloudflare, Inc. is a well-known and reputable registrar, and there is no indication that they are known for hosting malicious sites or lacking verification. They are a trusted service provider in the industry.",
+  "answer4": "The domain status indicates that client transfers are prohibited, which is a common practice to prevent unauthorized transfers. The DNSSEC is unsigned, which is not necessarily a fraud indicator but could be a security concern. The domain name 'DATAGIVERS.COM' does not immediately suggest any suspicious activity, but the short registration period could be a potential red flag.",
+  "verdict": 6
+}
+```

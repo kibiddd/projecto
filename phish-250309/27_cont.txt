@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is a Trezor hardware wallet landing page. It does not explicitly request personal information or payment directly, but it directs users to download the Trezor Suite, which could be a vector for phishing if the download link is compromised.",
+  "Suspicious offer": "The website itself doesn't offer anything suspicious, it is advertising the Trezor suite.",
+  "Format": "The website has a clean, modern design with a clear layout. However, the URL 'bridge-trrizor-iobr.webflow.io' looks suspicious. The word 'bridge' combined with a misspelling of 'Trezor' ('trrizor') raises a red flag. Also, the use of Webflow domain may not be related to official Trezor website.",
+  "Transparency": "The website lacks contact information.",
+  "Impersonation": "The website is attempting to impersonate the official Trezor website. The branding (logo, style) and the product advertised strongly suggest this.",
+  "Other": "The domain name is the strongest indicator of fraud. The combination of 'bridge' and a typo in the brand name (trrizor) is unusual and highly suspicious.",
+  "verdict": 9
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2018-08-22 and the registration is not recent (less than 6 months). It is also not expiring soon (less than a year), as the expiry date is 2025-08-22. Therefore, this factor does not indicate potential fraud.",
+  "answer2": "The contact information provided (Registrant Organization, Admin Email, Tech Email, Billing Email, Registrar Abuse Contact Email, Registrar Abuse Contact Phone) is redacted or partial, which is a common practice for privacy reasons. However, the lack of specific contact information could be a red flag, especially if the domain is not actively managed or if there is no clear way to verify the legitimacy of the registrant.",
+  "answer3": "Gandi SAS is a well-known registrar, but the domain is hosted by AWSDNS, which has been associated with hosting malicious sites in the past. This could be a potential indicator of fraud, especially if the domain is not actively managed or if there is no clear way to verify the legitimacy of the registrant.",
+  "answer4": "The domain status is 'clientTransferProhibited', which means that the domain cannot be transferred to another registrar. This could be a red flag if the domain is not actively managed or if there is no clear way to verify the legitimacy of the registrant. Additionally, the domain is not using DNSSEC, which could be a potential indicator of fraud.",
+  "verdict": 7
+}
+```

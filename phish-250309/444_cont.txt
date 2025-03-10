@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting username and password, which is a sign of a potential phishing attempt.",
+  "Suspicious offer": "N/A",
+  "Format": "The image contains text but it is an image, not a website. It looks professional, but without seeing the full website, it's hard to assess this.",
+  "Transparency": "N/A",
+  "Impersonation": "It is impersonating Navy Federal Credit Union.",
+  "Other": "The url is suspicious because the domain name seems to be unrelated to a financial institution.  The `secure-secure.co.uk` part is also not a legitimate domain for this site.",
+  "verdict": 9
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain HAACKEN.COM was created on 2022-09-13 and has an expiration date of 2025-09-13. This means the domain is not recent (less than 6 months) and is not expiring soon (less than a year).",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or partial. The contact information for the registrar is also provided, including an abuse contact email and phone number.",
+  "answer3": "The registrar, eNom, LLC, is a well-known registrar and does not have a reputation for hosting malicious sites or lacking verification. The domain status is listed as 'ok' and the domain is registered with the ICANN.",
+  "answer4": "There are no other suspicious registration factors mentioned in the provided information.",
+  "verdict": 1
+}
+```

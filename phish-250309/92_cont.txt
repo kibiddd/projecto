@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "Yes, the website is requesting a User ID and password, which are personal information.",
+  "Suspicious offer": "N/A",
+  "Format": "The website's design is extremely basic and looks unprofessional. There's a misspelling ('Passwørd' instead of 'Password'). This is a red flag.",
+  "Transparency": "N/A",
+  "Impersonation": "The website attempts to impersonate the legitimate AT&T login page. However, the URL is obviously not the real AT&T website.",
+  "Other": "The combination of the poor design, the misspelling, and the suspicious URL strongly suggest this is a phishing attempt.",
+  "verdict": 10
+}
+```

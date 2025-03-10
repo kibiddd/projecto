@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is asking to 'Connect My Ledger' which might lead to phishing for credentials if the user is redirected to a fake login page.",
+  "Suspicious offer": "N/A",
+  "Format": "The website has a simple, somewhat legitimate design, but it is hosted on Webflow, which is not typical for a well-established financial website. The name 'ladgerlivewaler' raises a red flag.",
+  "Transparency": "N/A",
+  "Impersonation": "The site is attempting to impersonate the legitimate Ledger website. It seems like it is trying to create a false sense of legitimacy by mimicking the look of the actual Ledger website. This is a key indicator of a phishing attempt.",
+  "Other": "The URL itself is highly suspicious, using 'ladgerlivewaler' instead of 'ledgerlive', a very close misspelling to trick users.",
+  "verdict": 9
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website appears to be a directory listing for a web server. It is not asking for any personal information or payment.",
+  "Suspicious offer": "The website is not offering anything at all. It is just displaying an index of files on the server.",
+  "Format": "The website has a basic format of a directory listing. This isn't indicative of fraud, but more of a default setup.",
+  "Transparency": "The website doesn't provide any contact information or information about the owner. This is a factor that could be suspicious, but could also be explained by it just being a web server.",
+  "Impersonation": "It's unlikely to be impersonating anyone since there's little content.",
+  "Other": "The lack of content, and lack of information about the owner makes the domain slightly suspicious. But this is a weak signal given the nature of the website as an index.",
+  "verdict": 2
+}
+```

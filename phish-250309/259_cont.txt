@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting User ID and Password, which are personal information, suggesting a phishing attempt.",
+  "Suspicious offer": "N/A",
+  "Format": "The website is a sign-in page with an odd spelling for Password and the website is created by weebly.com. This suggests a low-quality design and possible impersonation.",
+  "Transparency": "N/A",
+  "Impersonation": "The website is impersonating AT&T, likely to steal user credentials.",
+  "Other": "The website uses a free web hosting service, which can be easily be created to host phishing website and easily be shut down.  Also, the URL is not associated with the official AT&T domain.",
+  "verdict": 9
+}
+```

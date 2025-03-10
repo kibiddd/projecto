@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2019-06-03 and the registration is expiring on 2025-06-03, which is more than a year away. Therefore, it is not recent nor expiring soon.",
+  "answer2": "The contact information provided (Abuse Contact Email: abuse@ovh.net and Phone: +33.972101007) is complete and not redacted or suspicious.",
+  "answer3": "The registrar, OVH, is a well-known and reputable registrar. There is no indication that OVH hosts malicious sites or lacks verification.",
+  "answer4": "The domain status indicates that both clientDeleteProhibited and clientTransferProhibited are set, which is unusual and could be a red flag. Additionally, the DNSSEC is unsigned, which is not typical for a legitimate domain.",
+  "verdict": 5
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2025-03-04, which is less than 6 months from the current date of 2025-03-07. This is a potential indicator of fraud as newly registered domains are often used for malicious purposes before they are detected and taken down.",
+  "answer2": "The contact information provided is redacted and partial. The emails for the registrant, admin, and tech contacts are not provided, which is suspicious and a common tactic used by fraudulent domain owners to avoid detection and accountability.",
+  "answer3": "The registrar, OwnRegistrar, Inc., is not widely known, and there is no readily available information about their reputation. The WHOIS server provided is also not a standard WHOIS server, which could indicate a lack of transparency or a potential for hosting malicious sites. This is a potential indicator of fraud.",
+  "answer4": "The domain status indicates that both server and client transfers are prohibited, which is unusual and could be a tactic to prevent the domain from being moved to a more reputable registrar. The domain is also DNSSEC unsigned, which is not a common practice for legitimate domains and could be a sign of malicious intent.",
+  "verdict": 8
+}
+```

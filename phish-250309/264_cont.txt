@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is a cryptocurrency exchange platform, and thus requesting personal information (email/phone number) for sign-up. However, this is expected for such a service, so it is not inherently suspicious.",
+  "Suspicious offer": "There is a 'Rewards Hub' but it does not appear to be offering anything that is 'too good to be true'.",
+  "Format": "The website appears to have a professional design and high-quality images, though it may have some text rendering issues. However, there are no obvious typos.",
+  "Transparency": "The provided information does not give enough information to answer. No contact details are visible in this screenshot.",
+  "Impersonation": "The website is very similar to other sites with a similar name and logo.",
+  "Other": "The URL has a strange domain name that is a combination of words and numbers, and the website is hosted on Webflow, which is sometimes used for scam sites. The website uses an image of a QR code to download the app, which is typical for cryptocurrency exchanges.",
+  "verdict": 7
+}
+```

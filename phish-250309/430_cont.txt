@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is selling a hardware wallet (Trezor Model T), and it does not seem to be requesting unnecessary personal information. No immediate red flags for phishing.",
+  "Suspicious offer": "While there is a holiday deal with 40% off, and an additional 50% off on accessories, the discount is within a reasonable range and does not automatically raise suspicion.",
+  "Format": "The website's design is clean and professional, with good-quality images. I did not find any typos.",
+  "Transparency": "The website does not provide clear contact information (no about us or contact us sections).",
+  "Impersonation": "The URL `trezor-us-t-moddel.webflow.io` looks suspicious because it could be trying to impersonate the real Trezor website by adding an extra word.",
+  "Other": "The URL, the lack of a privacy policy, and the lack of contact information all suggest this is a potentially fraudulent site. The product is also not the one shown in the screenshot.",
+  "verdict": 8
+}
+```

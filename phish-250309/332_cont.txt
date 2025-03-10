@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website doesn't directly request personal information or payment in the visible content, but the context suggests the user might need to submit an appeal to restore their account, which could potentially involve providing personal information if the user proceeds to that step.",
+  "Suspicious offer": "The website doesn't offer anything suspicious.",
+  "Format": "The website has a professional design and quality images, but the fact that the ad account and pages are scheduled for deletion, and that the website URL is a Vercel project URL (implying the site might be a test or temporary site) is suspicious.",
+  "Transparency": "The website is a bit opaque about the business or contact information, which is often a red flag, and it's hosted on a Vercel project instead of a dedicated domain. It's unclear who operates the 'Privacy Center'.",
+  "Impersonation": "The website is impersonating Meta's Privacy Center with the Meta logo, which is a suspicious factor.",
+  "Other": "The URL `quassevugazei-4647-git-main-dunghfts-projects.vercel.app` and the lack of a proper domain name are very concerning and suggestive of a phishing attempt.",
+  "verdict": 8
+}
+```

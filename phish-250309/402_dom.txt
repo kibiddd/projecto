@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2025-01-27 and the registration is expiring on 2026-01-27, which is less than a year from today (2025-03-07). This is a potential red flag for fraud as it indicates a very short lifespan for the domain, which is often associated with fraudulent activities.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or suspicious. The contact information for the registrar is also provided, which is a positive sign.",
+  "answer3": "The registrar, Global Domain Group LLC, is not widely known for hosting malicious sites, and there is no immediate indication that it lacks verification. However, further investigation into the registrar's reputation and history would be necessary to make a definitive judgment.",
+  "answer4": "The domain status indicates that client transfers are prohibited, which is a common practice for domains that are not intended for resale or are under a specific agreement. The DNSSEC is unsigned, which is not necessarily a red flag, but it could be a concern depending on the context. The registrar's abuse contact information is provided, which is a positive sign.",
+  "verdict": 7
+}
+```

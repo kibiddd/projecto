@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting origin and destination information, which is standard for flight searches, so this by itself isn't phishing.",
+  "Suspicious offer": "The website is offering up to 60% discount on domestic flights, which is a common marketing tactic for airlines, but could potentially be a fake promotion.",
+  "Format": "The website may have poor design since the URL is suspicious. The screenshot image of the website looks legitimate.",
+  "Transparency": "The URL 'latambaratonacional.xyz' is not the official LATAM domain. This raises red flags regarding the legitimacy of the website.",
+  "Impersonation": "The website is attempting to impersonate the legitimate LATAM Airlines website.",
+  "Other": "The domain name is very suspicious, suggesting a fraudulent intent.",
+  "verdict": 9
+}
+```

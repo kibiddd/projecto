@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "Yes, the website is requesting login credentials (email/username and password).",
+  "Suspicious offer": "N/A",
+  "Format": "The website appears to be a login page for a BT service, but it is hosted on a Weebly subdomain, which is unusual for a large company like BT, and the design is basic.",
+  "Transparency": "N/A",
+  "Impersonation": "Yes, the website is impersonating BT to collect login credentials.",
+  "Other": "The suspicious URL (b-temailsjnsissjsjsnsb3dx.weebly.com) is a strong indicator of a fraudulent site.",
+  "verdict": 9
+}
+```

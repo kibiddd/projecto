@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2025-01-31 and the current date is 2025-03-07, which means it is less than 6 months old. This is a potential fraud indicator as many fraudulent domains are created and registered quickly to exploit their short lifespan before being taken down or abandoned.",
+  "answer2": "The registrant, admin, and tech contact information is redacted for privacy. This is a common practice for privacy protection, but it can also be a red flag for fraud as it makes it difficult to verify the legitimacy of the domain owner.",
+  "answer3": "The registrar, Gname.com Pte. Ltd., is known for hosting malicious sites and lacking verification. This is a significant red flag and a strong indicator of potential fraud.",
+  "answer4": "The domain status indicates that client transfers are prohibited, which is unusual and could be a sign of a domain being managed by a fraudulent entity to prevent unauthorized transfers.",
+  "verdict": 9
+}
+```

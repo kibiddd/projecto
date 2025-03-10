@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is prompting the user to sign up, potentially to collect personal information, however, it is not clear what information is being requested in this sign up process.",
+  "Suspicious offer": "The website is offering rewards, which could be a tactic to lure users. However, it is also possible that this is a legitimate marketing offer.",
+  "Format": "The website appears to be a well-designed, modern website. There are no obvious typos in the screenshot.",
+  "Transparency": "The website does not provide clear contact information. The domain itself is highly suspicious.",
+  "Impersonation": "The website is impersonating KuCoin.",
+  "Other": "The URL is highly suspicious. It is a clear attempt to mimic the real KuCoin website, but with a misspelled domain name, which is the biggest red flag. The use of webflow.io, a free website builder, also raises suspicion.",
+  "verdict": 10
+}
+```

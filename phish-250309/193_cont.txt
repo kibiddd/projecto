@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "Yes, the website is requesting personal information (User ID and Password).",
+  "Suspicious offer": "N/A",
+  "Format": "The website design and quality is subpar, which is a common red flag for fraudulent websites. It lacks a professional appearance.",
+  "Transparency": "The website does not provide any contact information, which is a significant red flag. A legitimate website would provide clear contact details.",
+  "Impersonation": "The website attempts to impersonate AT&T's sign-in page, which is a clear sign of phishing.",
+  "Other": "The URL uses \"weebly.com,\" which is a free website platform. Fraudsters often use such platforms for their scams to avoid the cost of creating and hosting a domain. The combination of factors increases the likelihood of fraud.",
+  "verdict": 9
+}
+```

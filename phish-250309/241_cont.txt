@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is not requesting personal information or payment.",
+  "Suspicious offer": "The offer of free shipping is plausible for a hardware wallet promotion.",
+  "Format": "The design and images appear professional, with no obvious typos.",
+  "Transparency": "The website does not provide clear contact information, which is a negative point.",
+  "Impersonation": "The use of Ledger's branding without a clear link to the official website could be impersonation.",
+  "Other": "The 'help-ledger-livedesktop.webflow.io' domain is not a typical Ledger domain which raises a red flag.",
+  "verdict": 7
+}
+```

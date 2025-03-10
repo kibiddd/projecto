@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website prompts users to connect their wallets, which could be a phishing attempt to steal their cryptocurrency or access their funds. This is the primary red flag.",
+  "Suspicious offer": "The offer of a large sum of BNB (400,000) is unusually high and potentially a lure to attract users.",
+  "Format": "The website seems to be a basic landing page. While not definitive, the simplicity could be a sign of a fraudulent site.",
+  "Transparency": "The image does not provide any contact information or details about the entity behind the giveaway.",
+  "Impersonation": "The website uses the Binance logo, which is a common tactic used by scammers to create a false sense of legitimacy.",
+  "Other": "The URL itself is highly suspicious. The domain 'web.app' is a free hosting service, and the domain name 'binances-aps' is very close to the actual name.",
+  "verdict": 9
+}
+```

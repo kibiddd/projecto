@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting an email and password, which is a sign of phishing.",
+  "Suspicious offer": "N/A",
+  "Format": "The interface looks legitimate, but it's hard to assess the quality since the underlying document is blurred.",
+  "Transparency": "N/A",
+  "Impersonation": "The website is impersonating a legitimate PDF online service by asking for login credentials.",
+  "Other": "N/A",
+  "verdict": 8
+}
+```

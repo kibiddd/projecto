@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website's main call to action is a login button, which could be used to phish credentials. The context of 'Wallet withdrawals' raises a red flag, as financial information is involved.",
+  "Suspicious offer": "N/A",
+  "Format": "The website has a basic, clean design, but the URL is suspicious. Using Webflow is not inherently bad, but a subdomain like 'blockfilogi--official' is a common tactic used by phishers.",
+  "Transparency": "N/A",
+  "Impersonation": "The website attempts to impersonate BlockFi, a real company.",
+  "Other": "The URL is highly suspicious. 'blockfilogi--official' is clearly an attempt to mimic the legitimate domain.",
+  "verdict": 9
+}
+```

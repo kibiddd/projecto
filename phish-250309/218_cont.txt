@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not seem to be requesting personal information or payment directly in the displayed content.",
+  "Suspicious offer": "The website advertises buying Bitcoin and crypto, which is a legitimate service, but the context of the website's authenticity is unclear. It doesn't show any obviously suspicious offers.",
+  "Format": "The website's format is clean and the design appears relatively modern. There are no obvious typos in the visible content. However, the URL 'godaddysites.com' raises a red flag.",
+  "Transparency": "The website displays a copyright notice. However, it does not provide detailed contact information or further details about the company.",
+  "Impersonation": "The website is using 'gemminilogin' in the domain name. It also presents itself in a way that seems to be connected to Gemini, which is a cryptocurrency exchange platform, but it is hosted on 'godaddysites.com' which is suspicious.",
+  "Other": "The use of GoDaddy's website builder, combined with a URL that implies a connection to the real Gemini platform, makes the website's legitimacy questionable. It is very likely trying to impersonate Gemini.",
+  "verdict": 8
+}
+```

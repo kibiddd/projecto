@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not appear to be asking for personal information or payment.",
+  "Suspicious offer": "The website does not offer anything suspicious or too good to be true.",
+  "Format": "The website appears to be professionally designed with no obvious typos or low-quality images, but it is hosted on a suspicious webflow subdomain. This is a significant red flag.",
+  "Transparency": "The website is not the real Ledger site and it lacks proper contact information, it is a malicious impersonation.",
+  "Impersonation": "The website impersonates Ledger.com. It attempts to create a false sense of legitimacy by mimicking Ledger's branding and design.",
+  "Other": "The website's URL uses a suspicious format, is hosted on a Webflow subdomain that suggests the website is not legitimate.",
+  "verdict": 9
+}
+```

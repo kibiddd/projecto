@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website asks for additional information which is typical in phishing attempts to gather more information. The purpose of the website is also to address a policy violation which might be a common pretext for phishing.",
+  "Suspicious offer": "N/A",
+  "Format": "The website includes a Facebook logo but the generic template and the unusual URL (hjgf678iuyshdfd7f8ydhgfhisdfjio-t26.vercel.app) raise strong suspicion.",
+  "Transparency": "The URL and the generic content of the page do not suggest a legitimate source for the information.",
+  "Impersonation": "The site attempts to impersonate Meta/Facebook by using the Facebook logo and branding to request additional information.",
+  "Other": "The very unusual and random-looking URL is highly suspicious. The fact that it requests information to appeal a policy violation makes this likely a phishing attempt.",
+  "verdict": 9
+}
+```

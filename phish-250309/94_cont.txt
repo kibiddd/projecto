@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting information to appeal a policy violation, which could be used to obtain personal information or gain access to the account. The request for 'Additional information' is a red flag.",
+  "Suspicious offer": "N/A",
+  "Format": "The design appears generic and the layout is simple. Although this may not be a direct indication, it lacks the polish and branding of a legitimate Meta interface. The use of a Vercel domain instead of a meta domain is a red flag.",
+  "Transparency": "The lack of clear contact information, the generic wording, and the unusual URL raise suspicion.",
+  "Impersonation": "The website is impersonating Meta by using the Meta logo and a similar layout to their Privacy Center.",
+  "Other": "The very unusual URL (a long string of random characters) is highly suspicious. The stated 'Policy Violation' and the account deletion threat are tactics to create urgency, which is often used in phishing scams.",
+  "verdict": 9
+}
+```

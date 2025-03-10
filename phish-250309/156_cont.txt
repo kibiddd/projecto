@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is likely attempting to collect personal information or payment. It's a suspicious promotional site.",
+  "Suspicious offer": "The website is likely offering a too-good-to-be-true offer related to Carrefour during Ramadan.",
+  "Format": "The website utilizes a potentially basic or quickly-made format. The URL indicates it's hosted on a pages.dev domain, which raises suspicions of being an easily spun-up, temporary phishing site.",
+  "Transparency": "The website lacks any clear contact information or details about Carrefour.",
+  "Impersonation": "The website attempts to impersonate Carrefour's Ramadan promotion.",
+  "Other": "The domain 'pages.dev' is commonly used for hosting free websites, making it a popular choice for phishing sites due to its ease of setup.",
+  "verdict": 10
+}
+```

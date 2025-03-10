@@ -1,0 +1,3 @@
+```json
+{"Phishing": "The website is asking for an email or username and password, which is typical of a phishing attempt.", "Suspicious offer": "N/A", "Format": "The website is simple and basic, which is not typical of a professional company. There's nothing inherently wrong with the image, however, weebly.com is a website builder that allows anyone to make websites very easily.", "Transparency": "N/A", "Impersonation": "The website appears to be trying to impersonate BT (British Telecom).", "Other": "The URL is not a valid URL. It's using weebly.com which is a free website builder, which is a red flag. The design and structure are also very basic.", "verdict": 9}
+```

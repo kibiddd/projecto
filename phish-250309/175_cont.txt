@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting sensitive information such as contract number, access code, and mobile number, which is a classic phishing attempt.",
+  "Suspicious offer": "N/A",
+  "Format": "The website design appears simple, potentially lacking sophistication, which could be a red flag. The image quality and the design does not seem suspicious.",
+  "Transparency": "N/A. No contact information is visible.",
+  "Impersonation": "The website attempts to impersonate a bank login page by requesting login details.",
+  "Other": "The domain name does not match the official name of the bank (Caixa), which is another strong indicator of phishing. The URL looks suspicious.",
+  "verdict": 9
+}
+```

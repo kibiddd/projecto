@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain registration is recent, as it was created on 2006-03-29 and the WHOIS database was last updated on 2025-03-10. The domain is expiring soon, on 2025-03-28, which is less than a year from the last update date. This is a potential fraud indicator as it could be a short-term registration attempt to quickly set up a site before it expires.",
+  "answer2": "The contact information provided is complete and not redacted or suspicious. The registrar's abuse contact email and phone number are provided, which is a positive sign.",
+  "answer3": "SafeNames Ltd. is the registrar, and there is no immediate indication that it is known for hosting malicious sites or lacks verification. However, further investigation into the registrar's reputation would be necessary to make a definitive conclusion.",
+  "answer4": "The domain status indicates that clientDelete, clientTransfer, and clientUpdate are prohibited, which is unusual and could be a red flag. Additionally, the DNSSEC is unsigned, which is not a common practice for legitimate domains. These factors could be indicative of a fraudulent registration.",
+  "verdict": 7
+}
+```

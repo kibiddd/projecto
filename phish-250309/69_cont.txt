@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website requests the user's 'Codice Titolare' and PIN, which are personal information used to access bank accounts. This is a classic phishing attempt.",
+  "Suspicious offer": "N/A",
+  "Format": "The design looks like it's trying to imitate the Intesa Sanpaolo website, but it's basic and could be considered low quality. The website does not have any typos.",
+  "Transparency": "N/A",
+  "Impersonation": "The website uses the Intesa Sanpaolo logo and branding to impersonate the legitimate bank and create a sense of legitimacy. The URL is clearly not the official Intesa Sanpaolo website.",
+  "Other": "The URL is suspicious, as it does not match the official Intesa Sanpaolo website.",
+  "verdict": 10
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain registration is not recent, as it was created on 2013-05-08, which is well over 6 months ago. It is also not expiring soon, as the expiration date is 2028-05-08, which is more than a year away. Therefore, this factor does not indicate fraud.",
+  "answer2": "The contact information for the registrant, admin, and tech contacts is redacted for privacy. While this is common practice, it can sometimes be a red flag if combined with other suspicious factors. However, in this case, it is not enough to indicate fraud on its own.",
+  "answer3": "MarkMonitor Inc. is a reputable registrar known for hosting malicious sites. This could be a potential indicator of fraud, but it is not definitive proof. It is important to consider this factor in conjunction with others.",
+  "answer4": "The domain status indicates that clientDelete, clientTransfer, and clientUpdate are prohibited. This could be a red flag, as it may indicate that the domain is being managed by a third party who wants to prevent changes to the domain's ownership or administrative contact. However, this factor alone is not enough to indicate fraud.",
+  "verdict": 3
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is asking for User ID and Password, which is a typical phishing attempt to steal credentials. The URL is also not the official AT&T website URL.",
+  "Suspicious offer": "N/A",
+  "Format": "The website is a basic sign-in page that may appear legitimate at a glance. The formatting is not professional with the suspicious URL.",
+  "Transparency": "N/A",
+  "Impersonation": "The website is impersonating AT&T to steal the user's information.",
+  "Other": "The URL is suspicious, using \"weebly.com\" and \"currently742190\" instead of AT&T's official domain.",
+  "verdict": 10
+}
+```

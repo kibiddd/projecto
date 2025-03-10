@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website displays a message indicating the user's page has been suspended, prompting a 'restore review'. This could be a phishing attempt to get the user to enter their login information or provide personal data.",
+  "Suspicious offer": "N/A",
+  "Format": "The website's design is plain, which could indicate a rushed development. There are no obvious typos.",
+  "Transparency": "N/A",
+  "Impersonation": "The website attempts to impersonate Meta's privacy center to appear legitimate and request the user's information to restore their account.",
+  "Other": "The URL uses 'vercel.app', which is often used for temporary or test websites, raising suspicion. The page informs you about the suspension of a page.",
+  "verdict": 8
+}
+```

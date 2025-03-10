@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2024-04-18 and the registration is expiring on 2025-04-18, which is less than a year from today (2025-03-07). This is a potential fraud indicator as it suggests the domain may be set up for short-term use, possibly for phishing or other malicious activities.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or suspicious. The contact information is also provided and appears legitimate.",
+  "answer3": "The registrar, NameCheap, Inc., is a well-known and reputable registrar. There is no indication that they are known for hosting malicious sites or lacking verification.",
+  "answer4": "The domain status indicates that client transfers are prohibited, which is a common practice to prevent unauthorized transfers. The DNSSEC is unsigned, which is not necessarily a fraud indicator but could be a security concern. The domain is using Cloudflare's name servers, which is a common practice and not inherently suspicious.",
+  "verdict": 5
+}
+```

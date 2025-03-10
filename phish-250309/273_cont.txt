@@ -1,0 +1,3 @@
+```json
+{"Phishing": "Yes, the website is requesting personal information such as 'Codice Titolare' and 'PIN', which are used to access an online bank account. This is a classic phishing attempt.", "Suspicious offer": "N/A", "Format": "The website's format is a mimic of a legitimate bank login page. However, this is likely a copy, but is made to look convincing.", "Transparency": "N/A", "Impersonation": "Yes, the website is impersonating Intesa Sanpaolo's login page to steal user credentials.", "Other": "The URL `lno.rtj.mybluehost.me` and the php file indicate this site is likely not from Intesa Sanpaolo.", "verdict": 10}
+```

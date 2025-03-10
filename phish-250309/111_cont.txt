@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website requests information to help investigate, which is a common tactic in phishing attempts. The context of account review due to violation of terms further increases suspicion.",
+  "Suspicious offer": "N/A",
+  "Format": "The website's design and the alert message are simple. However, the combination of an alert prompt with a generic format is suspicious",
+  "Transparency": "N/A",
+  "Impersonation": "The website uses the Meta logo and branding, attempting to impersonate the legitimate company.",
+  "Other": "The URL `alert-user-breach-six.vercel.app` strongly suggests a phishing attempt. Vercal is a hosting platform that is frequently used by phishers.",
+  "verdict": 9
+}
+```

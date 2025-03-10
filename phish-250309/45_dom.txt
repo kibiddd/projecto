@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2025-03-06 and is expiring on 2026-03-06, which is less than a year from the current date of 2025-03-07. This is a potential fraud indicator as domains registered very recently and expiring soon are often used for short-term scams or malicious activities.",
+  "answer2": "The contact information for the registrant, admin, and tech contacts is redacted and requires querying the RDDS service of the Registrar of Record. This is a potential fraud indicator as it is common for fraudulent domains to obscure contact details to avoid detection and accountability.",
+  "answer3": "The registrar, HOSTINGER, is known for hosting a large number of domains, some of which may be malicious. However, without specific evidence of HOSTINGER hosting malicious sites, this remains a potential fraud indicator rather than a definitive one.",
+  "answer4": "The domain status includes several prohibitions such as serverTransferProhibited, clientHold, and clientDeleteProhibited. These statuses can be indicative of a domain being managed by a third party or under some form of restriction, which can be a red flag for fraudulent activity.",
+  "verdict": 7
+}
+```

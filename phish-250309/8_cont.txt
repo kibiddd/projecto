@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is likely attempting to steal personal information or obtain payment details by impersonating bet365.",
+  "Suspicious offer": "The offer of a betting site, particularly one with an unusual URL, could be considered a suspicious offer, as the legitimacy of the site is questionable.",
+  "Format": "The website displays poor formatting and low-quality images, and also includes suspicious characters.",
+  "Transparency": "The website does not provide clear and trustworthy contact information. The provided URL is also not the official one.",
+  "Impersonation": "The website is pretending to be bet365, a well-known betting site, to create a false sense of legitimacy.",
+  "Other": "The unusual domain name '4000.top' and the presence of Chinese characters also indicates a high likelihood of fraud.",
+  "verdict": 10
+}
+```

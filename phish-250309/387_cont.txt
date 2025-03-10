@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is designed to prompt users to 'sign up', which could be used to collect personal information.",
+  "Suspicious offer": "N/A",
+  "Format": "The design appears professional, but the URL (sso-auth--i-o-ca-ndax.webflow.io) suggests it could be a test or a temporary site and not the actual site.",
+  "Transparency": "N/A",
+  "Impersonation": "The website impersonates the real NDAX website.",
+  "Other": "The URL domain name does not match a common NDAX website.",
+  "verdict": 8
+}
+```

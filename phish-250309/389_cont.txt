@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is for a cryptocurrency exchange and, based on the content, likely asks for personal information (name, email, etc.) and potentially payment information to buy/sell crypto. Therefore, it may be susceptible to phishing attempts if not properly secured.",
+  "Suspicious offer": "The website advertises the ability to buy, sell, and trade cryptocurrency. This itself is not a suspicious offer, but users need to be cautious of potential investment scams within the cryptocurrency space.",
+  "Format": "The design appears clean, but the URL raises immediate red flags due to the use of \"---\" and \"webflow.io\". This suggests potential impersonation or a temporary, possibly compromised, or unauthorized version of a legitimate site.",
+  "Transparency": "The website does not provide clear contact information.",
+  "Impersonation": "The URL (sso---ca-ndax-com-auth.webflow.io) strongly suggests an attempt to impersonate the legitimate NDAX website. The domain name structure is highly irregular, and 'webflow.io' suggests this might be a test or unauthorized deployment.",
+  "Other": "The combination of the suspicious URL and the lack of immediate and visible security indicators (like an SSL certificate) is a significant concern.",
+  "verdict": 9
+}
+```

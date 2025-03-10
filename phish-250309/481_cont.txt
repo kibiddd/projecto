@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is offering crypto wallet services which may potentially involve the user entering personal information, although the screenshot itself doesn't explicitly show this. Phishing attempts often target cryptocurrency wallets.",
+  "Suspicious offer": "N/A",
+  "Format": "The website uses a professional design, but since the URL ends in 'webflow.io' rather than a legitimate domain it's more likely to be fraudulent.",
+  "Transparency": "N/A",
+  "Impersonation": "The website is impersonating the Trezor Suite wallet login page. The official site is trezor.io. This increases the likelihood of a phishing attempt to steal login information or compromise crypto assets.",
+  "Other": "The URL immediately raises suspicion. A legitimate crypto wallet website would not likely use a Webflow subdomain to host its main login/landing page.",
+  "verdict": 9
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2020-01-28 and is expiring on 2026-01-28, which is more than 6 months from now. Therefore, it is not recent.",
+  "answer2": "The registrant, admin, and tech contact information is redacted for privacy, which is common but can also be a red flag if combined with other suspicious factors.",
+  "answer3": "The registrar, Tucows Domains Inc, is a well-known registrar and does not have a reputation for hosting malicious sites. However, the domain status indicates that client transfer and update are prohibited, which is unusual and could be a sign of potential issues.",
+  "answer4": "The domain name'vercel-app' is similar to'vercel.app', which could be a typo or an attempt to mimic a legitimate domain. The domain status indicating client transfer and update are prohibited is also suspicious.",
+  "verdict": 7
+}
+```

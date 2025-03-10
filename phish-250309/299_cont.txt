@@ -1,0 +1,3 @@
+```json
+{"Phishing": "The website is a crypto exchange, so it will likely require personal information and possibly payment if you were to sign up. However, it could be a phishing attempt since the URL does not seem legit.", "Suspicious offer": "The website is advertising as a crypto exchange platform. It is not offering any suspicious offers, but the URL looks suspicious", "Format": "The website seems to have a good design.", "Transparency": "The website is a landing page, it does not give enough information about the legitimacy. It does not provide clear and trustworthy contact information.", "Impersonation": "It could be a phishing site that is impersonating NDAX", "Other": "The URL is suspicious, and is not the official website.", "verdict": 8}
+```

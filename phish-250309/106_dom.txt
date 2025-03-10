@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2025-03-07 and is set to expire on 2026-03-07, which is less than a year from the current date. This is a potential fraud indicator as it suggests the domain may be newly created and possibly used for short-term malicious activities.",
+  "answer2": "The contact information for the registrant, admin, and tech is redacted for privacy. This is a common practice, but in the context of potential fraud, it can be a red flag as it prevents verification of the domain's ownership and legitimacy.",
+  "answer3": "The registrar, Gname.com Pte. Ltd., is known for hosting malicious sites and lacking verification. This is a significant indicator of potential fraud.",
+  "answer4": "Other suspicious registration factors include the domain being clientTransferProhibited and serverTransferProhibited, which can be used to prevent legitimate transfers and may indicate a domain used for malicious purposes.",
+  "verdict": 9
+}
+```

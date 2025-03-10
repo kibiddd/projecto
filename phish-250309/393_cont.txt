@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is asking the user to sign in which could be used to phish credentials.",
+  "Suspicious offer": "The offer of a $50 gift card is a suspicious offer, especially given the high number of cards already received (251,122 out of 300,000).",
+  "Format": "The image looks similar to Steam's layout, this could be impersonation. However, there are no clear quality issues or typos in the provided image.",
+  "Transparency": "Contact information is not present in the provided image.",
+  "Impersonation": "The website is impersonating Steam by using their logo, layout, and gift card promotion to try to trick the user.",
+  "Other": "The domain name 'staemcommuniity' is a clear indication of fraud due to the typo. The URL doesn't match the actual Steam domain.",
+  "verdict": 9
+}
+```

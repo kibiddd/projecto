@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is offering a modded APK of Spotify Premium, which could potentially contain malicious code that could steal personal information or credentials. However, the website itself doesn't explicitly request for personal information.",
+  "Suspicious offer": "The website offers a 'Spotify Premium MOD APK', which provides premium features for free. This is a suspicious offer because it circumvents the official Spotify subscription model.",
+  "Format": "The website's design appears functional but slightly outdated. There are no apparent typos in the provided text.",
+  "Transparency": "The website lacks clear contact information, which is a red flag for trustworthiness.",
+  "Impersonation": "The website claims to offer Spotify Premium, which is technically impersonation of official Spotify.",
+  "Other": "The domain (.co) does not seem official.",
+  "verdict": 8
+}
+```

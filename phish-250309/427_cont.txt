@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is likely related to cryptocurrency hardware wallets, so it may request payment or personal information related to account setup and transactions.",
+  "Suspicious offer": "N/A",
+  "Format": "The website's design and images are of good quality, but the URL 'trezor-au-io.com' is suspicious. It's not the official Trezor domain, which raises red flags.",
+  "Transparency": "N/A",
+  "Impersonation": "The website is attempting to impersonate the official Trezor website to steal user's credentials or cryptocurrency. The URL is designed to look similar to the authentic site.",
+  "Other": "The non-official domain name of the website is a significant red flag.",
+  "verdict": 9
+}
+```

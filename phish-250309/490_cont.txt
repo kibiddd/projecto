@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website requests to connect to crypto wallets. This could be a phishing attempt to steal credentials or drain wallets if the connection is not properly implemented.",
+  "Suspicious offer": "N/A",
+  "Format": "The website has a basic design, which isn't necessarily indicative of fraud, but the simplicity could be used to hide malicious intent.",
+  "Transparency": "N/A",
+  "Impersonation": "The site uses the \"WalletConnect\" name and potentially other wallet provider names, which could be an attempt to impersonate legitimate services.",
+  "Other": "The use of a free hosting service (pages.dev) is a common tactic for hosting malicious websites.",
+  "verdict": 7
+}
+```

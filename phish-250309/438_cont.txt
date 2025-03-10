@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting the user to sign in, which could lead to phishing to steal login credentials.",
+  "Suspicious offer": "The offer of a free $50 gift card is too good to be true and a common tactic used in scams.",
+  "Format": "The website appears to have a legitimate design, however, it's hosted on a suspicious domain (.ru).",
+  "Transparency": "There's no clear or trustworthy contact information.",
+  "Impersonation": "The website is impersonating Steam to create a false sense of legitimacy.",
+  "Other": "The website uses a suspicious domain which indicates a high likelihood of fraud.",
+  "verdict": 9
+}
+```

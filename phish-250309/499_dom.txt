@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2025-03-05 and the registration is less than 6 months old. The expiry date is 2026-03-05, which is less than a year away. This is a potential fraud indicator as it is very recent and short-term.",
+  "answer2": "The contact information provided by the registrar (abuse@ionos.com and +1.6105601459) appears to be valid and not redacted or suspicious.",
+  "answer3": "The registrar, IONOS SE, is a well-known and reputable registrar. There is no indication that they are known for hosting malicious sites or lacking verification.",
+  "answer4": "The domain status indicates 'clientTransferProhibited', which means the domain cannot be transferred to another registrar. This could be a red flag if the domain owner is trying to hide their identity or ownership. Additionally, the DNSSEC is unsigned, which is not necessarily a fraud indicator but could be a security concern.",
+  "verdict": 7
+}
+```

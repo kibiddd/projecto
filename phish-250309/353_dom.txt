@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2013-03-08, which is more than 6 months ago, so it is not recent. The domain is set to expire on 2027-03-08, which is more than a year away, so it is not expiring soon. Verdict: 0",
+  "answer2": "The registrant, admin, and tech contact information is redacted for privacy, which is common practice and not necessarily a fraud indicator. Verdict: 0",
+  "answer3": "MarkMonitor Inc. is a reputable registrar known for hosting malicious sites, but it is also a legitimate registrar. Verdict: 0",
+  "answer4": "The domain status includes clientDeleteProhibited, clientTransferProhibited, and clientUpdateProhibited, which are common restrictions for GitHub-owned domains. Verdict: 0",
+  "verdict": 0
+}
+```

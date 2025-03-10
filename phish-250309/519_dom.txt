@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain registration is not recent; it was created on 2017-08-28 and is expiring on 2025-08-28, which is more than 6 months from the current date of 2025-03-07. Therefore, it does not meet the criteria of being recent or expiring soon.",
+  "answer2": "The contact information provided by the registrar (abuse@godaddy.com and phone number 480-624-2505) is complete and does not appear to be redacted or suspicious.",
+  "answer3": "GoDaddy.com, LLC is a well-known and reputable registrar. There is no indication that GoDaddy hosts malicious sites or lacks verification. Therefore, this factor does not indicate fraud.",
+  "answer4": "The domain status indicates that client actions such as delete, renew, transfer, and update are prohibited. This could be a red flag, but it is not necessarily indicative of fraud without additional context. The domain is also using DNS servers from NSONE, which is a legitimate DNS provider, and the DNSSEC is unsigned, which is common for many domains. No other suspicious registration factors are evident.",
+  "verdict": 2
+}
+```

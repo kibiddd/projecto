@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website promotes gambling platforms, which often require registration and potentially financial transactions, increasing the risk of phishing attempts to steal user credentials and payment information.",
+  "Suspicious offer": "The website displays an offer for '6666' bonuses upon registration and additional bonuses with each deposit. Such large incentives are often used to attract users to fraudulent platforms.",
+  "Format": "The website seems to be providing advertising banner, there is nothing to point out.",
+  "Transparency": "The website contains information about the Macau Gaming Inspection and Coordination Bureau, which is a sign of legitimacy.",
+  "Impersonation": "The website is trying to associate itself with the official Euro 2024 event and official platforms, which seems to be creating a sense of legitimacy to encourage people to use the gambling website.",
+  "Other": "The website may be a portal that redirects to different gambling websites.",
+  "verdict": 7
+}
+```

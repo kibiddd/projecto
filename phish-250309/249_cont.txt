@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not appear to directly request personal information or payments in the displayed screenshot, but the 'Get Started' button could lead to a phishing attempt on subsequent pages. Further investigation needed.",
+  "Suspicious offer": "The offer of 'up to 3.5% back in crypto' could be seen as a potentially attractive offer, but not inherently suspicious on its own.",
+  "Format": "The design seems professional. However, the 'Made in Webflow' branding at the bottom may indicate this is a demo or template, which could be used for phishing. No obvious typos detected.",
+  "Transparency": "N/A. Insufficient information to assess transparency in the given snapshot.",
+  "Impersonation": "N/A. Insufficient information to assess impersonation. The BlockFi logo suggests it is impersonating BlockFi",
+  "Other": "The URL itself is suspicious. While it does include 'blockfi,' the '.webflow.io' domain is not a standard BlockFi domain. This suggests that the site is likely a Webflow-hosted site, which is often used for creating quick, simple sites, and therefore increases likelihood of being fraudulent.",
+  "verdict": 8
+}
+```

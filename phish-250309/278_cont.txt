@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting username and password, which is a phishing attempt to steal credentials. The website is also asking to stay signed in, which may result in credential compromise.",
+  "Suspicious offer": "N/A",
+  "Format": "The website is asking username and password without any branding. There is no information about the actual service, making it seem like a fake login page.",
+  "Transparency": "There is no clear contact information, and the website is hosted on Netlify, raising red flags. Also, the domain name seems suspicious",
+  "Impersonation": "The website may be impersonating an email login page",
+  "Other": "The URL is highly suspicious as it uses the .netlify.app domain, which is often used for hosting temporary or test websites. This is further exacerbated by the domain name `mail-cfenet-ubc-ca`, which is likely an attempt to impersonate a legitimate email login for a university, but it is not the correct domain.",
+  "verdict": 10
+}
+```

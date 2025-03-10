@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2025-03-07 and is set to expire on 2026-03-07, which is less than a year. This is a potential fraud indicator as it is very recent and short-lived.",
+  "answer2": "The registrant, admin, and tech contact information is redacted for privacy. This is a potential fraud indicator as it prevents verification of the domain's ownership and legitimacy.",
+  "answer3": "The registrar, LiquidNet Limited, is not widely known for hosting malicious sites, but it is not a well-known registrar either. This could be a potential fraud indicator as it may not have strong verification processes in place.",
+  "answer4": "The domain status indicates that client transfers are prohibited and that the domain is in a period of renewal. This could be a potential fraud indicator as it may be an attempt to renew the domain without proper verification.",
+  "verdict": 8
+}
+```

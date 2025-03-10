@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is asking for origin and destination, which is standard for flight booking. This in itself is not phishing.",
+  "Suspicious offer": "The website promotes offers but does not seem suspicious based on the screenshot provided.",
+  "Format": "The website has a clean design and appears professional based on the provided screenshot.",
+  "Transparency": "The contact information is not available in this view.",
+  "Impersonation": "The website uses the LATAM Airlines branding and layout. Without further context, it is difficult to tell if it is impersonating the real website.",
+  "Other": "N/A",
+  "verdict": 3
+}
+```

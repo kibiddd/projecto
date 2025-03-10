@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is asking the user to connect a wallet. This can be a phishing attempt to steal crypto or gain access to funds. The user may be tricked into providing their seed phrase or approving a malicious transaction.",
+  "Suspicious offer": "N/A",
+  "Format": "The website seems to have a clean design, but the domain 'pepetocoinsupport.pages.dev' raises suspicion. The use of a free domain from a platform like pages.dev is often a red flag, as it can be easily set up for malicious purposes and might be impersonating a legitimate website.",
+  "Transparency": "The website does not provide clear and trustworthy contact information, which increases the likelihood of being a scam.",
+  "Impersonation": "The website's intention is to create a false sense of legitimacy by offering connection with popular wallets.",
+  "Other": "The context in which the user encounters this website matters as well. Given that it is asking users to 'choose your wallet', it may try to extract users' seed phrases. The domain name might be deceptive to trick users into thinking they are visiting the actual website. Also, it is likely that the website is associated with the Pepe coin. Pepe coin is a meme coin and could be associated with scams.",
+  "verdict": 9
+}
+```

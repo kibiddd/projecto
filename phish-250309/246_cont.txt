@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not appear to be directly asking for personal information or payment upfront. However, the 'Get Started' and 'Call Now' buttons could lead to such requests later in the process.",
+  "Suspicious offer": "The website promises 'superior internet solutions' and 'unparalleled connectivity experiences', which might be a slightly exaggerated marketing claim, but it's not necessarily a 'too-good-to-be-true' offer. The website primarily focuses on offering different internet providers, which is a standard business practice.",
+  "Format": "The website has a professional design with good-quality images and appears well-formatted. There are no obvious typos.",
+  "Transparency": "The website has an 'About' and 'Contact' section, implying some level of transparency, although I cannot assess the trustworthiness of these links without further investigation.",
+  "Impersonation": "The website identifies itself as an AT&T Preferred Dealer, which could be interpreted as an attempt to leverage AT&T's brand. However, this may be a legitimate business practice.",
+  "Other": "The website's domain name 'highspeedinternet.deals' could be a generic name, increasing the likelihood of fraudulent activity, but this observation in isolation is insufficient to definitively say the website is fraudulent.",
+  "verdict": 3
+}
+```

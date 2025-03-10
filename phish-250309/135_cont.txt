@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is not directly requesting personal information or payment in this view, but it's a landing page for a crypto service that could lead to those requests later.",
+  "Suspicious offer": "N/A",
+  "Format": "The website uses a clean and professional design, but it's hosted on Webflow, which might raise a slight concern. Check the legit Ledger website on the real domain. The layout seems okay. I could not see any obvious typos.",
+  "Transparency": "N/A",
+  "Impersonation": "The website's branding closely mimics Ledger, a legitimate hardware wallet provider, making it appear official. The use of 'Ledger Live Web' is consistent with Ledger's offerings. However, the URL 'authu-app-ledegr.webflow.io' is highly suspicious. The use of 'authu' and the misspelling of 'Ledger' strongly suggests it is a phishing attempt or a fraudulent site attempting to impersonate Ledger.",
+  "Other": "The URL is a significant red flag due to misspelling and the use of Webflow which can be used by phishing or other malicious activities.",
+  "verdict": 9
+}
+```

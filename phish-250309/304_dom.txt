@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2018-12-07 and expires on 2025-12-08, which is more than 6 months old and not expiring soon (less than a year). Therefore, this factor does not indicate potential fraud.",
+  "answer2": "The contact information provided is complete and appears legitimate. There are no redacted or suspicious details in the contact information.",
+  "answer3": "MarkMonitor, Inc. is a reputable registrar known for hosting legitimate domains. There is no indication that this registrar is known for hosting malicious sites or lacking verification.",
+  "answer4": "There are no other suspicious registration factors mentioned in the provided information.",
+  "verdict": 1
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting a User ID and password, which is personal information, to access AT&T Mail and Currently.com. This is a common tactic in phishing attacks.",
+  "Suspicious offer": "N/A",
+  "Format": "The website's design, including the use of the AT&T logo, attempts to mimic a legitimate login page. However, the provided URL raises immediate suspicion.",
+  "Transparency": "N/A",
+  "Impersonation": "The website is attempting to impersonate the legitimate AT&T login page to steal credentials.",
+  "Other": "The domain name, 'att-currently-03-08-2025.weeblysite.com' does not use an official domain name. Weebly is a free website builder, making it easy to create a quick, low-cost site for malicious purposes. The use of a generic URL structure like this is highly indicative of phishing. Additionally, the specific dates in the domain name suggest an attempt to create a sense of urgency or a limited-time offer, a technique often used in phishing.",
+  "verdict": 9
+}
+```

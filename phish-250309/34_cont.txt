@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website seems to be related to cryptocurrency trading, which often involves financial transactions and the collection of personal information like account details, thus making it prone to phishing attacks.",
+  "Suspicious offer": "The website's value proposition, 'Buy, Sell & Trade Crypto in Canada', doesn't appear inherently suspicious.",
+  "Format": "The website has a professional design, the images are high-quality, and there are no typos, it doesn't exhibit any signs of poor design or low-quality images.",
+  "Transparency": "There is no contact information provided.",
+  "Impersonation": "The website could be an attempt to impersonate a legitimate cryptocurrency trading platform.",
+  "Other": "The URL 'console-ndax-connect.webflow.io' is a webflow.io domain, which may indicate that the website is not the official one. ",
+  "verdict": 7
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2022-10-16 and the registration is expiring on 2025-10-16, which is less than a year from today (2025-03-07). This indicates that the domain registration is expiring soon, which can be a potential fraud indicator.",
+  "answer2": "The contact information provided by the registrar (NameCheap) is complete and does not appear to be redacted or partial. Therefore, there are no suspicious contact details in this case.",
+  "answer3": "The registrar, NameCheap, is a well-known and reputable registrar. There is no indication that NameCheap hosts malicious sites or lacks verification. Therefore, this factor does not indicate fraud.",
+  "answer4": "The domain status indicates 'clientTransferProhibited', which means the domain cannot be transferred to another registrar. This could be a red flag if the domain owner is trying to prevent transfer to a more reputable registrar. However, this alone does not necessarily indicate fraud.",
+  "verdict": 6
+}
+```

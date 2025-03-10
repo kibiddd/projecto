@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created and registered on 2025-02-19, which is less than 6 months from the current date of 2025-03-07. This is a potential indicator of fraud as newly registered domains are often used for malicious purposes before they are detected and taken down.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or suspicious. The contact information for the registrar is also provided, which is a positive sign.",
+  "answer3": "The registrar, NICENIC INTERNATIONAL GROUP CO., LIMITED, is known for hosting malicious sites and lacks verification. This is a significant indicator of potential fraud.",
+  "answer4": "The domain status indicates that clientDeleteProhibited and clientTransferProhibited, which means that the domain cannot be easily transferred or deleted. This is another potential indicator of fraud.",
+  "verdict": 9
+}
+```

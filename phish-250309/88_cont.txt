@@ -1,0 +1,3 @@
+```json
+{"Phishing": "The website requests email and password, which could be used for phishing if the site is not legitimate.", "Suspicious offer": "N/A", "Format": "The website design appears professional with no obvious typos or low-quality images.", "Transparency": "N/A", "Impersonation": "The website attempts to impersonate Stripe. The domain name is not associated with the original company.", "Other": "The given URL is suspicious, as it's not a standard Stripe domain and appears to be hosted on a development platform. This raises a red flag.", "verdict": 9}
+```

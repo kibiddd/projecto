@@ -1,0 +1,3 @@
+```json
+{"Phishing": "The website is requesting login credentials (phone number, username, email, and password) which is a characteristic of phishing.", "Suspicious offer": "N/A", "Format": "The website's format and design are similar to the official Instagram login page but can also be a copy to deceive users. No obvious typo.", "Transparency": "The website shows a copyright and mentions Instagram, but the URL is not the official Instagram domain, which lacks transparency.", "Impersonation": "The website is impersonating the Instagram login page.", "Other": "N/A", "verdict": 8}
+```

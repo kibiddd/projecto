@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website requests an email address for sign-up, which could be a phishing attempt to collect user credentials.",
+  "Suspicious offer": "The offer of '$200 in crypto' could be a suspicious offer to lure users into providing their information.",
+  "Format": "The website appears to be a simplified version of a legitimate Coinbase login or signup page.",
+  "Transparency": "The lack of detailed company information and a contact method raises concerns.",
+  "Impersonation": "The website is impersonating Coinbase to collect personal information and credentials.",
+  "Other": "The 'webflow.io' domain does not match the official coinbase.com domain, and the simplified design and lack of security features indicate it's not a genuine website.",
+  "verdict": 9
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website requests authentication to proceed. The ultimate goal of the site is to receive payment, which is something that fraudulent websites may also want to get.",
+  "Suspicious offer": "N/A",
+  "Format": "The website design and logo seem legitimate. There's a technical error displayed.",
+  "Transparency": "The website is missing contact information and is showing a technical error.",
+  "Impersonation": "The website is impersonating the French tax authority (impots.gouv.fr).",
+  "Other": "The domain 'impots-gouv-particuliers.fr' is not the official one which is impots.gouv.fr, and the URL is static, showing a fake error page. This is a clear indication of phishing.",
+  "verdict": 9
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting account security measures, which could be a phishing attempt to gain access to account credentials. It is asking to verify password status and activate alerts, which might be used to steal account information.",
+  "Suspicious offer": "N/A",
+  "Format": "The image appears to be professionally designed. However, the website's URL is suspicious and not professional.",
+  "Transparency": "N/A",
+  "Impersonation": "The website attempts to create a sense of legitimacy by focusing on account security and the appearance of a login process.",
+  "Other": "The URL, policy-violation-100029395937.aplewisandsons.co.uk, suggests that the website is malicious and that the user should stay away from the website.",
+  "verdict": 9
+}
+```

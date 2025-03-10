@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is asking for email and password, which is personal information, but it is a login page for AT&T mail. So, potentially phishing, but it depends on the legitimacy of the website.",
+  "Suspicious offer": "N/A",
+  "Format": "The website is designed using Wix, which is a legitimate website builder. The website is basic, but not necessarily poor design. There are no obvious typos.",
+  "Transparency": "The website doesn't provide contact information. It only has a sign-in page for AT&T mail.",
+  "Impersonation": "The website appears to be impersonating the AT&T sign-in page, hosted on a Wix subdomain.",
+  "Other": "The website is hosted on a Wix subdomain which is an indicator of a personal website instead of an official AT&T site. The user is asked to sign in to AT&T Mail and Currently.com.",
+  "verdict": 8
+}
+```

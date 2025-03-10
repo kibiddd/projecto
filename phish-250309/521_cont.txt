@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The provided image shows a screenshot of a Facebook post. Based on the screenshot, the format appears to be normal.",
+  "Transparency": "N/A",
+  "Impersonation": "N/A",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

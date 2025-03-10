@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is asking for a username and password, which is a common phishing tactic.",
+  "Suspicious offer": "N/A",
+  "Format": "The website's design appears clean and professional, but the URL suggests a landing page, which can be used in phishing attempts.",
+  "Transparency": "The website does not provide any contact information, which is a red flag.",
+  "Impersonation": "The website is impersonating a Microsoft login page.",
+  "Other": "The URL itself is very suspicious, with a random string after the landing page id.",
+  "verdict": 9
+}
+```

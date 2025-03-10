@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting an email address and password, which is a common phishing tactic. However, it could be legitimate.",
+  "Suspicious offer": "N/A",
+  "Format": "The website design is basic, and the warning at the top suggests it's built using a website builder, which is not inherently suspicious. However, it lacks the polish of a professional website.",
+  "Transparency": "N/A",
+  "Impersonation": "The website uses the AT&T logo and branding, which could be an attempt to impersonate the company and steal user credentials.",
+  "Other": "The URL uses the Wix platform, which allows anyone to create websites. This increases the possibility of fraudulent sites. The warning message at the top could indicate that the user is navigating to a phishing site, and the message is there to prompt the user to create their website.",
+  "verdict": 7
+}
+```

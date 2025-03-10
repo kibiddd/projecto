@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2021-02-20 and the registration is less than 6 months old as of 2025-03-07. The domain is not expiring soon as the expiration date is 2027-02-20. Therefore, this factor does not indicate fraud.",
+  "answer2": "The registrant, admin, and tech contact information is redacted for privacy. This is a common practice and does not necessarily indicate fraud, but it does limit the ability to verify the legitimacy of the domain owner.",
+  "answer3": "Porkbun LLC is a well-known registrar, and there is no indication that it hosts malicious sites or lacks verification. Therefore, this factor does not indicate fraud.",
+  "answer4": "The domain status includes 'clientDeleteProhibited' and 'clientTransferProhibited', which are common restrictions set by registrars to prevent unauthorized changes to the domain. This factor does not indicate fraud.",
+  "verdict": 2
+}
+```

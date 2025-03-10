@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is promoting a credit card and potentially requesting personal information during the application process. This is normal for this type of website and not necessarily indicative of phishing, but the next points needs to be considered.",
+  "Suspicious offer": "The offer of up to 3.5% back in crypto on every purchase is typical of cryptocurrency credit cards. There are some conditions like limited cap on the introductory offer.  It is not inherently suspicious.",
+  "Format": "The website uses poor format and low quality images. There is a typo in 'bllockf'.",
+  "Transparency": "The website's authenticity is questionable.",
+  "Impersonation": "The URL `sso-bllockf-auth-s-sso.webflow.io` suggests an attempt to impersonate BlockFi's official website. The typo in the domain name (bllockf instead of BlockFi) is a common tactic used in phishing attempts. The 'sso' in the domain name is used to make it look legit and it can be misleading.",
+  "Other": "The combination of typos, unusual URL, and the attempt to promote a financial product significantly increase the likelihood of it being fraudulent.",
+  "verdict": 9
+}
+```

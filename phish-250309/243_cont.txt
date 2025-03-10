@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is promoting Trezor Suite app and does not appear to be directly asking for sensitive personal information or payment information, as a first impression.",
+  "Suspicious offer": "The website appears to be an advertisement and does not offer anything too good to be true.",
+  "Format": "The website has a clean and professional design, suggesting it is a legitimate website.",
+  "Transparency": "The website does not show contact information, but at first glance, it may be a landing page that links to legitimate Trezor services.",
+  "Impersonation": "The website's design and branding aligns with the legitimate Trezor brand, however, the URL seems fishy, and that is a huge red flag.",
+  "Other": "The URL (help-suite-io-trezrr.webflow.io) is highly suspicious. It includes 'help', but the spelling of Trezor is incorrect ('trezrr') and is hosted on Webflow, suggesting it's not the official Trezor website.",
+  "verdict": 8
+}
+```

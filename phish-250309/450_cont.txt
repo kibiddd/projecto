@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website requests username and password, which is a classic phishing tactic.",
+  "Suspicious offer": "N/A",
+  "Format": "The website's design is simple but could be a low-effort imitation of a legitimate banking website.",
+  "Transparency": "N/A",
+  "Impersonation": "The website attempts to impersonate Navy Federal Credit Union.",
+  "Other": "The use of a potentially temporary domain like 'glitch.me' is a red flag.",
+  "verdict": 9
+}
+```

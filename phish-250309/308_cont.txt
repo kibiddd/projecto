@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website promotes cryptocurrency trading which often involves financial transactions, but the provided image doesn't show any direct requests for personal information or payment.",
+  "Suspicious offer": "The website doesn't offer any suspicious deals or too-good-to-be-true offers. It appears to be a platform for trading cryptocurrencies.",
+  "Format": "The website design looks modern and professional with high-quality images and a clean layout. There are no obvious typos in the provided image.",
+  "Transparency": "The screenshot doesn't show contact information, but it is a preview of a website and not the final product.",
+  "Impersonation": "The website seems to be related to a crypto trading platform, which can be susceptible to impersonation. However, there's no direct indication of impersonation in the current view.",
+  "Other": "The website is in Webflow and doesn't seem to be hosted by a legitimate source based on the URL.",
+  "verdict": 4
+}
+```

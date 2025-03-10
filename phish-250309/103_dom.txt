@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2020-01-28 and is expiring on 2026-01-28, which is more than 6 months from now. Therefore, it is not recent.",
+  "answer2": "The registrant, admin, and tech contact information is redacted for privacy, which is common but can also be a red flag if combined with other suspicious factors.",
+  "answer3": "The registrar, Tucows Domains Inc, is a well-known registrar and does not have a reputation for hosting malicious sites. However, the domain status indicates that client transfers and updates are prohibited, which is unusual and could be a sign of a domain being locked or restricted.",
+  "answer4": "The domain status indicating client transfer and update prohibitions, combined with redacted contact information, could be suspicious. The domain is not expired yet, which is a positive sign, but the other factors could indicate potential fraud.",
+  "verdict": 5
+}
+```

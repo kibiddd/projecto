@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website requests a 12-word recovery phrase, which is highly sensitive personal information.",
+  "Suspicious offer": "N/A",
+  "Format": "The image has a simple, but potentially deceptive format resembling a legitimate Coinbase login.",
+  "Transparency": "N/A",
+  "Impersonation": "The website attempts to impersonate Coinbase.",
+  "Other": "The URL itself (glitch.me) raises a red flag, as it is commonly used for temporary or testing websites.",
+  "verdict": 9
+}
+```

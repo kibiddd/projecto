@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2025-03-08 and the current date is 2025-03-07, which means the registration is very recent. This is a potential fraud indicator as many fraudulent domains are registered very recently to quickly set up malicious activities. The domain's expiry date is 2026-03-08, which is less than a year from now, adding to the suspicion. Therefore, the answer is 10.",
+  "answer2": "The registrant organization and contact information are redacted for privacy reasons. This is a common practice for legitimate domains, but it can also be a red flag for fraudulent domains as it makes it difficult to verify the legitimacy of the domain owner. Therefore, the answer is 8.",
+  "answer3": "The registrar, Namecheap, is a well-known and reputable registrar. There is no indication that they are known for hosting malicious sites or lacking verification. Therefore, the answer is 2.",
+  "answer4": "The domain status includes'serverTransferProhibited' and 'clientTransferProhibited', which means the domain cannot be transferred to another registrar or client. This could be a red flag for fraudulent domains as it may indicate that the domain owner is trying to prevent the domain from being moved to a more reputable registrar. Therefore, the answer is 5.",
+  "verdict": 7
+}
+```

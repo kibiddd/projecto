@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website asks for information that will help them investigate a potential violation of terms of service, which could be an attempt to gather sensitive information.",
+  "Suspicious offer": "N/A",
+  "Format": "The website's design is simple, but the layout and the overall appearance are similar to the official Meta Business Help Centre website, except it's running on vercel app domain.",
+  "Transparency": "N/A",
+  "Impersonation": "The website is attempting to impersonate Meta's Business Help Centre to collect information from users and create a false sense of legitimacy",
+  "Other": "The URL 'ad-help-notification.vercel.app' raises a red flag. It's not an official Meta domain. The combination of this URL and the account review notification suggests a phishing attempt.",
+  "verdict": 9
+}
+```

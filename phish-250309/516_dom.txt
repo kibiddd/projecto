@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2024-01-22 and is expiring on 2025-10-03, which is less than a year from today (2025-03-07). This is a potential red flag for fraud as it indicates a short registration period.",
+  "answer2": "The contact information provided is complete and appears legitimate, with no redaction or suspicious details. This factor does not indicate fraud.",
+  "answer3": "The registrar, 1Api GmbH, is known for hosting malicious sites or lacking verification. This is a significant indicator of potential fraud.",
+  "answer4": "The domain was created and last updated on the same day, which is unusual and could indicate a fraudulent registration. Additionally, the domain name 'taap.it' is not a well-known or established domain, which could be another red flag.",
+  "verdict": 8
+}
+```

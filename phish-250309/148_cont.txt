@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "Yes, the website is requesting email/phone number and password, typical of phishing attempts.",
+  "Suspicious offer": "N/A",
+  "Format": "The design closely mimics Facebook's, but a closer look might reveal inconsistencies or poor rendering.",
+  "Transparency": "N/A",
+  "Impersonation": "The website is impersonating Facebook to steal user credentials.",
+  "Other": "The URL is a GitHub page and is not an official Facebook domain. This is a strong indicator of fraud.",
+  "verdict": 10
+}
+```

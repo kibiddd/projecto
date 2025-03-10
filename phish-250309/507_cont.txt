@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website is showing an error message in multiple languages, suggesting that it's a legitimate website experiencing temporary technical issues. However, the text itself is formatted in plain text, not a poor design",
+  "Transparency": "The website is not asking for any personal information.",
+  "Impersonation": "N/A",
+  "Other": "The website is currently unavailable. This does not necessarily indicate it is fraudulent.",
+  "verdict": 1
+}
+```

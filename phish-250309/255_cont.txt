@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting access to the user's camera, which could be a pretext for accessing sensitive information or for malicious purposes.",
+  "Suspicious offer": "N/A",
+  "Format": "The website displays a simple message in Russian, requesting camera access. The lack of any other content suggests it's a basic setup, which could indicate a scam.",
+  "Transparency": "The website provides no clear contact information.",
+  "Impersonation": "The URL's domain does not appear to be affiliated with Instagram. This suggests that the website may be attempting to impersonate a legitimate website to harvest user data.",
+  "Other": "The combination of the URL's suspicious origin, and the camera access request further raises red flags.",
+  "verdict": 9
+}
+```

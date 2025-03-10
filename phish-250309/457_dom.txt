@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2025-03-05 and is set to expire on 2026-03-05, which is less than a year from the current date of 2025-03-07. This indicates that the domain is relatively new and may be at risk of being used for short-term fraudulent activities.",
+  "answer2": "The registrant, admin, and tech contact information is redacted for privacy. This lack of transparency can be a red flag for potential fraud, as it makes it difficult to verify the legitimacy of the domain owner.",
+  "answer3": "IONOS SE is a well-known registrar, but it is not specifically known for hosting malicious sites. However, the domain status indicates that client transfers are prohibited, which could be a security measure to prevent unauthorized changes. This does not directly indicate malicious intent but is worth noting.",
+  "answer4": "Other suspicious registration factors include the domain being registered very recently and the complete redaction of contact information. These factors combined suggest a higher likelihood of fraudulent activity.",
+  "verdict": 7
+}
+```

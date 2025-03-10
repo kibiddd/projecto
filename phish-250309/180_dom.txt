@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2021-04-08 and is set to expire on 2026-04-08, which is less than a year from the current date of 2025-03-07. This indicates that the registration is expiring soon.",
+  "answer2": "The contact information provided is partial, with the owner's ID redacted (***.955.209-**). This is suspicious and could be an attempt to hide the true identity of the domain owner.",
+  "answer3": "The registrar used is 'dns-parking.com', which is known for hosting a large number of domains, some of which may be malicious. This raises concerns about the legitimacy of the domain.",
+  "answer4": "The domain name 'clinicaecomedsaude.com.br' and the partial contact information, combined with the registrar's reputation, are suspicious indicators of potential fraud.",
+  "verdict": 8
+}
+```

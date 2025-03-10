@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website prompts for a username, which could be part of a phishing attempt to collect login credentials.",
+  "Suspicious offer": "N/A",
+  "Format": "The website has some formatting issues (the text on the page is not displayed correctly) and possible typos, but the website's appearance looks professional, which makes it hard to assess its quality.",
+  "Transparency": "The website is missing contact information such as a phone number or email",
+  "Impersonation": "N/A",
+  "Other": "The website's domain name does not seem to match the brand name Appru, which is a suspicious factor. Moreover, some of the text displayed looks corrupted which further casts doubt about its legitimacy. The lack of transparency (missing contact info) also raises suspicion.",
+  "verdict": 7
+}
+```

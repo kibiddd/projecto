@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2012-02-16, which is more than 6 years ago, so it is not recent. The domain is not expiring soon as the expiration date is 2026-02-16, which is more than a year away. Verdict: 0/10",
+  "answer2": "The registrant, admin, and tech contact information is redacted for privacy, which is common practice but can also be a red flag for fraud. Verdict: 5/10",
+  "answer3": "The registrar, Instra Corporation Pty Ltd., is a legitimate registrar, but the domain's association with a suspicious URL and redacted contact information raises concerns. Verdict: 4/10",
+  "answer4": "The domain name'myds.me' is not a common or recognizable domain, and the URL provided is suspicious. The domain is also associated with redacted contact information. Verdict: 6/10",
+  "verdict": 5
+}
+```

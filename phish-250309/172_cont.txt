@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is displaying a 404 error, and not asking for personal information or payment. Therefore, it does not appear to be phishing.",
+  "Suspicious offer": "The website is displaying a 404 error and does not appear to be offering any product or services.",
+  "Format": "The website shows a generic 404 error page, which is a sign of a potential problem, and not a high-quality webpage. There are no obvious typos.",
+  "Transparency": "The website provides no information about the company or its purpose.",
+  "Impersonation": "It's difficult to tell if the website is impersonating someone without further context. However, a 404 error makes impersonation unlikely as there is no content to impersonate.",
+  "Other": "The URL uses potentially obfuscated parameters, and the page is a 404 error, which is not inherently fraudulent, but it is a sign of a website issue or potential redirect to another page.",
+  "verdict": 3
+}
+```

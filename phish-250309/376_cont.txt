@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is likely a landing page and does not directly request personal information or payment in this view. However, the purpose of the website is to create an account where you might enter sensitive financial information.",
+  "Suspicious offer": "N/A",
+  "Format": "The website design appears modern and professional; there are no obvious signs of poor design or low-quality images.",
+  "Transparency": "N/A",
+  "Impersonation": "The website's intention to resemble a real exchange makes it appear legitimate. I can not rule out the possibility of impersonation without further assessment.",
+  "Other": "The URL itself, 'sso-ca-ndax-sso-auth.webflow.io', raises a flag. It appears to be a subdomain pointing to a website builder ('webflow.io') which, in itself, doesn't necessarily indicate fraud, but should be considered in conjunction with other factors. Without being able to further explore the site and determine the true functionality, and connection to NDAX, it is more difficult to assess its validity. It is important to verify the official URL of NDAX.",
+  "verdict": 6
+}
+```

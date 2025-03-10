@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting an email address and password, which is typical for a login page but could be used for phishing if the site is fake.",
+  "Suspicious offer": "N/A",
+  "Format": "The website appears to have a clean, professional design and layout. There are no apparent typos.",
+  "Transparency": "The website includes a copyright notice, and links to privacy policy, which suggest some level of transparency.",
+  "Impersonation": "It appears to be impersonating the Earthlink login page.",
+  "Other": "The presence of the Earthlink logo, combined with the login fields and website elements, strongly suggests this is the intended branding.",
+  "verdict": 5
+}
+```

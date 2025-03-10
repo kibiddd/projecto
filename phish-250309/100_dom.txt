@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2024-11-08 and is set to expire on 2025-11-08, which is less than a year from the current date of 2025-03-07. This indicates that the domain is expiring soon, which can be a potential fraud indicator as it may be a short-term registration often used for malicious purposes.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or partial. The contact information, including the registrar's abuse contact email and phone number, is also provided. There are no red flags in the contact information.",
+  "answer3": "Dynadot Inc is a well-known registrar and is not typically associated with hosting malicious sites. However, the domain status indicates that client transfers are prohibited, which is a common practice for domains that are not intended for resale or transfer. This alone does not indicate malicious intent.",
+  "answer4": "The domain is using NS1.DNS.COM and NS2.DNS.COM as its name servers, which are not unusual. The DNSSEC is unsigned, which is not necessarily a fraud indicator as many domains do not use DNSSEC. The domain status indicates that client transfers are prohibited, which is a common practice for domains that are not intended for resale or transfer. There are no other suspicious registration factors provided.",
+  "verdict": 5
+}
+```

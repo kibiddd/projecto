@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting login credentials (username/email and password) which is typical of phishing attempts to steal user account information.",
+  "Suspicious offer": "N/A",
+  "Format": "The website's design appears to be trying to impersonate a Microsoft login page. It does not look like a legitimate login page.",
+  "Transparency": "N/A as the website's origin is unknown.",
+  "Impersonation": "The website is impersonating Microsoft's login page to steal user credentials.",
+  "Other": "The URL is a random string, and the site's certificate is likely invalid. These are typical signs of phishing scams.",
+  "verdict": 10
+}
+```

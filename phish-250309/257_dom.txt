@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2025-03-01 and today is 2025-03-07, which means it is less than 6 months old. This is a potential fraud indicator as many fraudulent domains are registered very recently.",
+  "answer2": "The contact information provided is a link to the TCI Whois Service, which is in Russian. The information is not redacted or partial, but it is not directly provided in the WHOIS data. This could be considered suspicious as it may be an attempt to obscure the true contact details.",
+  "answer3": "The registrar, RU-CENTER-RU, is not widely recognized as a reputable registrar. This could be a potential red flag, especially if the registrar is known for hosting malicious sites or lacking verification.",
+  "answer4": "The domain name 'JD2.RU' and the URL provided (https://jd2.ru/store.steampowered.com/app/1644320/STALKER_2_Heart_of_Chornobyl) are not inherently suspicious. However, the combination of a recently registered domain, a less reputable registrar, and the potential for obscured contact information could be concerning.",
+  "verdict": 7
+}
+```

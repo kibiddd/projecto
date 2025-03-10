@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain registration is recent, as it was created on 2006-03-29 and is expiring soon, on 2025-03-28. This is a potential fraud indicator as it is a short-term registration, which is often used by scammers to quickly set up and take down fraudulent websites.",
+  "answer2": "The contact information provided by the registrar is not redacted, partial, or suspicious. The registrar's abuse contact email and phone number are provided, which is a positive sign.",
+  "answer3": "The registrar, SafeNames Ltd., is known for hosting malicious sites or lacking verification. This is a potential fraud indicator as it suggests that the registrar may not have proper verification processes in place to prevent fraudulent domain registrations.",
+  "answer4": "Other suspicious registration factors include the domain status being clientDeleteProhibited, clientTransferProhibited, and clientUpdateProhibited. This means that the domain cannot be deleted, transferred, or updated by the current registrant, which is a potential fraud indicator.",
+  "verdict": 8
+}
+```

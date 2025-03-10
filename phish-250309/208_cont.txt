@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting login credentials (phone number/email and password) similar to the genuine Instagram login page, which is a typical phishing attempt.",
+  "Suspicious offer": "N/A",
+  "Format": "The website's design appears to be an imitation of the legitimate Instagram login page, but the overall quality might be slightly lower, with potential inconsistencies. While there are no obvious typos, the website's appearance is not entirely polished.",
+  "Transparency": "N/A, it appears that no contact information is provided, which is not consistent with a professional service.",
+  "Impersonation": "The website is designed to mimic the legitimate Instagram login page to steal users' credentials. This constitutes impersonation.",
+  "Other": "The URL uses a personal GitHub page which is another suspicious sign.",
+  "verdict": 9
+}
+```

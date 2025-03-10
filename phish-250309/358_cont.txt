@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is asking the user to log in, and the specific reason (wallet withdrawals) could be a topic of interest, increasing the chances of users entering credentials without verifying the website's legitimacy. However, the website alone doesn't directly ask for personal information or payments on the main page. The context of \"wallet withdrawals\" is a red flag.",
+  "Suspicious offer": "N/A",
+  "Format": "The website's design appears clean and professional, but this alone isn't a guarantee of legitimacy. There is no obvious typo.",
+  "Transparency": "The website does not display any contact information.",
+  "Impersonation": "The website is a landing page on a \"webflow.io\" domain, which is a website building platform, which may indicate that the site is NOT a legitimate BlockFi site. The website's content aims to appear legitimate by addressing \"wallet withdrawals\" and linking the content with BlockFi. This can create a false sense of legitimacy.",
+  "Other": "The URL \"secure-blokifi--sso-cdn.webflow.io\" is unusual and raises concerns. The use of a double hyphen is not a standard practice for domain names and could be used as a tactic for impersonating the original brand. Furthermore, the absence of more information on the website is strange. This is unusual and may indicate fraudulent intent, potentially to get users to follow links to a phishing login page.",
+  "verdict": 7
+}
+```

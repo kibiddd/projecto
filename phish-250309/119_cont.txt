@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is a landing page and does not seem to directly ask for personal information or payments on this page. However, the context of being a cryptocurrency exchange means it will eventually require personal data. The security of subsequent pages is unknown from the provided screenshot.",
+  "Suspicious offer": "The website promotes the ease of buying and selling crypto but doesn't make any specific promises that are too good to be true. This isn't inherently suspicious.",
+  "Format": "The website has a modern and professional design, with high-quality images. No obvious typos or formatting issues are apparent in the provided screenshot.",
+  "Transparency": "The website does not provide clear and trustworthy contact information on the landing page, based on the screenshot.",
+  "Impersonation": "The website is branded as NDAX, a legitimate cryptocurrency exchange, so it could be an attempt to impersonate the platform.",
+  "Other": "The URL 'app-help-ndax-s-auth.webflow.io' is a red flag.  'webflow.io' indicates the site might be hosted on Webflow, which is not inherently malicious, but this sub-domain of ndax isn't in a form that indicates it is controlled by them.  The combination of potential impersonation and a non-standard subdomain increases the risk.",
+  "verdict": 7
+}
+```

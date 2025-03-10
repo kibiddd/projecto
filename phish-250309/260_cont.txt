@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website doesn't request personal information or payment in the visible elements. However, since this is a clone webpage, the actual action upon clicking the links are not known. It's possible that clicking the 'Join free for a month' or 'Sign in' buttons might lead to a phishing attempt on the real Netflix website if the backend is not properly handled.",
+  "Suspicious offer": "Offers a free trial, which is consistent with Netflix's usual promotion, but the site's purpose is unknown.",
+  "Format": "The website appears to be a well-designed clone, but the URL raises a red flag. The image quality and formatting are good, but the true origin is highly doubtful",
+  "Transparency": "No clear contact information is provided on the site, which is expected for a basic cloned version.",
+  "Impersonation": "This website is a clear impersonation of the Netflix landing page for educational purposes. It does not attempt to impersonate a legitimate version.",
+  "Other": "The website exists on GitHub under a suspicious URL that does not match Netflix's official domain, indicating it is a cloned project. It's likely the creator is a beginner trying to learn website development skills. It is unlikely to be malicious, but it could be repurposed for malicious intent.",
+  "verdict": 3
+}
+```

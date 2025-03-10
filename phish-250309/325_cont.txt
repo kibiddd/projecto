@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website requests a secret recovery phrase, which is a sensitive piece of information, making it a phishing attempt.",
+  "Suspicious offer": "N/A",
+  "Format": "The website has a relatively clean design, but the lack of a clear origin and the unusual URL raise concerns.",
+  "Transparency": "N/A",
+  "Impersonation": "The website is pretending to be Metamask.",
+  "Other": "The URL is suspicious as it doesn't belong to Metamask. Also, the unusual URL structure makes it less trustworthy.",
+  "verdict": 9
+}
+```

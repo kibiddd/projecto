@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2024-04-13 and the registration is expiring on 2025-04-13, which is less than a year from the current date of 2025-03-07. This indicates that the domain is expiring soon, which can be a potential fraud indicator as it may be a short-term registration often used for phishing or other malicious activities.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or suspicious. The contact information for the registrar is also provided, which is a positive sign.",
+  "answer3": "The registrar, Domainplace LLC, is listed as a WHOIS server for Network Solutions, which is a well-known registrar. There is no indication that this registrar is known for hosting malicious sites or lacks verification. However, it is always good to check the registrar's reputation and history.",
+  "answer4": "The domain status is 'ok' and the DNSSEC is unsigned, which is not necessarily a red flag. The domain is using Cloudflare's name servers, which is a common practice for many legitimate websites. There are no other suspicious registration factors mentioned.",
+  "verdict": 3
+}
+```

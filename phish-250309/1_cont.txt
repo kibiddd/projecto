@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is likely requesting personal information and/or payments, as indicated by the association with bet365, a betting site. The use of the top-level domain .top is a red flag as these domains are often used for malicious websites.",
+  "Suspicious offer": "The website is likely offering the chance to bet on sports or other events, which could be considered a suspicious offer if the site is not legitimate.",
+  "Format": "The website appears to have poor design or low-quality images, and contains typos, suggesting a fraudulent website.",
+  "Transparency": "The website doesn't seem to provide trustworthy contact information.",
+  "Impersonation": "The website is impersonating a legitimate betting site, bet365.",
+  "Other": "The URL '4000.top' is highly suspicious, as it's unusual for a reputable betting site.",
+  "verdict": 9
+}
+```

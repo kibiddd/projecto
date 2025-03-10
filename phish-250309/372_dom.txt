@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain registration is not recent; it was created on 2011-02-24, which is well over 6 months ago. It is also not expiring soon; the expiration date is 2026-02-24, which is more than a year away. Therefore, this factor does not indicate fraud.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or partial. The contact information for the registrar is also provided, including an abuse contact phone number and email. This factor does not indicate fraud.",
+  "answer3": "Hetzner Online GmbH is a reputable registrar known for hosting a variety of domains, including those of legitimate businesses. There is no indication that Hetzner is known for hosting malicious sites or lacks verification. This factor does not indicate fraud.",
+  "answer4": "The domain status is 'ok' according to the ICANN Whois Inaccuracy Complaint Form, and the domain is not listed as suspended or in a questionable status. The DNSSEC is unsigned, which is not uncommon and does not necessarily indicate fraud. The domain name 'SMOTON.COM' does not immediately raise suspicion, but without additional context, it is difficult to determine if this is a legitimate domain or not. This factor does not strongly indicate fraud.",
+  "verdict": 1
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain TREZOR-AU-IO.COM was registered on 2025-03-08 and has an expiration date of 2026-03-08, which is less than a year from the current date of 2025-03-07. This indicates that the domain is relatively new and may be expiring soon, which can be a potential fraud indicator.",
+  "answer2": "The WHOIS information provided does not indicate that the contact information is redacted, partial, or suspicious. The registrar's contact email and phone number are provided, and the domain status does not indicate any redaction or suspicious contact details.",
+  "answer3": "The registrar NICENIC INTERNATIONAL GROUP CO., LIMITED is known for hosting malicious sites or lacking verification. This is a significant red flag and a strong indicator of potential fraud.",
+  "answer4": "Other suspicious registration factors include the domain status indicating 'clientDeleteProhibited' and 'clientTransferProhibited', which can be used to prevent legitimate domain transfers or deletions. Additionally, the domain's DNSSEC is unsigned, which is not a common practice for legitimate domains and can be a security concern.",
+  "verdict": 9
+}
+```

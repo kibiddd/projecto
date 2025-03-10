@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain BUBYED.CC was created on 2024-12-20 and has an expiration date of 2025-12-20, which is less than a year from the current date of 2025-03-07. Therefore, it is expiring soon.",
+  "answer2": "The contact information provided by the registrar (Domain International Services Limited) is complete and appears legitimate, with an abuse contact email and phone number provided.",
+  "answer3": "The registrar, Domain International Services Limited, is not known for hosting malicious sites or lacking verification. The registrar's WHOIS information is provided and appears to be legitimate.",
+  "answer4": "The domain is using Cloudflare's name servers, which is a common practice and not inherently suspicious. The DNSSEC is unsigned, which is not uncommon for many domains, especially those not handling sensitive transactions. No other suspicious registration factors are apparent.",
+  "verdict": 2
+}
+```

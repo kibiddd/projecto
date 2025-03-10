@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website appears to be a legitimate wallet, but the URL `ttiaruxzrewalt.webflow.io` is suspicious. It's trying to mimic a genuine hardware wallet website and there are requests for personal information, such as a private key.",
+  "Suspicious offer": "N/A",
+  "Format": "The website seems to use poor design, and a very long and not recognizable URL. There is no typo.",
+  "Transparency": "Contact information is likely not provided, given the URL.",
+  "Impersonation": "The website is impersonating Trezor, a legitimate hardware wallet provider, by using their logo, branding, and offering similar services.",
+  "Other": "The URL itself is highly suspicious.",
+  "verdict": 9
+}
+```

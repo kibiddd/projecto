@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2025-03-08 and is expiring on 2026-03-08, which is less than a year from the current date of 2025-03-07. This is a potential red flag for fraud as it indicates a very recent registration.",
+  "answer2": "The contact information provided (abuse@wildwestdomains.com and 480-624-2505) appears to be complete and not redacted or suspicious. Therefore, this factor does not indicate fraud.",
+  "answer3": "The registrar, Wild West Domains, LLC, is not widely recognized as hosting malicious sites, and there is no immediate indication that it lacks verification. However, the domain status indicates that client actions such as deletion, renewal, transfer, and update are prohibited, which could be a sign of a domain being managed by a less reputable registrar. This factor alone does not strongly indicate fraud but warrants further investigation.",
+  "answer4": "The domain status indicates that client actions are prohibited, which is unusual and could be a sign of a domain being managed by a less reputable registrar. Additionally, the domain is not using DNSSEC, which is a security measure that can help prevent certain types of attacks. These factors could be considered suspicious.",
+  "verdict": 7
+}
+```

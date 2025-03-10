@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "Yes, the website is requesting user ID and password, which is a typical phishing attempt to steal credentials.",
+  "Suspicious offer": "N/A",
+  "Format": "The website has a basic design and uses the AT&T logo, which could be a sign of impersonation. The password field shows a masked prompt.",
+  "Transparency": "The website footer indicates that it is hosted by Weebly, which could imply that it is not the official AT&T website. The URL further confirms this.",
+  "Impersonation": "The website is impersonating AT&T's login page to harvest credentials.",
+  "Other": "The URL is a free Weebly site, which increases the likelihood of it being a phishing attempt as it's easy to create these type of websites. The use of 'Passvv*(0)rd.' as the password field placeholder could be an attempt to create a feeling of validity.",
+  "verdict": 9
+}
+```

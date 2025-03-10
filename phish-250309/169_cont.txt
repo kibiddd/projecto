@@ -1,0 +1,3 @@
+```json
+{"Phishing": "The website doesn't seem to be directly asking for personal information or payment.", "Suspicious offer": "N/A", "Format": "The page displays a 404 error, suggesting a broken or unfinished website.  The code snippet '&B=true<=5.' isn't typical for a legitimate website.", "Transparency": "N/A", "Impersonation": "N/A", "Other": "The URL contains seemingly random characters which is often used in scams and redirects. The 404 error itself can be a red flag because it might be the first step of scamming.", "verdict": 7}
+```

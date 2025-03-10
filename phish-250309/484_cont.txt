@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is asking for email/phone number and password, which are personal credentials, indicating a phishing attempt.",
+  "Suspicious offer": "N/A",
+  "Format": "The red error message at the top, coupled with the language, and the fact that a user is being asked to enter personal information (email/phone, password) on a URL that is not the official Facebook domain, raises red flags.",
+  "Transparency": "N/A",
+  "Impersonation": "The website is attempting to impersonate Facebook to steal login credentials.",
+  "Other": "The URL is not the official Facebook domain and is hosted on unbouncepages.com which increases the likelihood of being a malicious website",
+  "verdict": 10
+}
+```

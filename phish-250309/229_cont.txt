@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website itself does not appear to be directly requesting information or payments in this snapshot, however, the error message indicates a problem loading a URL. This alone does not indicate phishing but the context of a site that potentially intended to load something could.",
+  "Suspicious offer": "N/A",
+  "Format": "The image is a standard 404 or error page displayed by Yahoo Japan. The content is minimal, the overall design is of average quality.",
+  "Transparency": "N/A",
+  "Impersonation": "The website is Yahoo Japan. The error message is the only available information.",
+  "Other": "The provided URL is a third-party domain, and this is the 404 error page. The URL looks a little suspicious.",
+  "verdict": 4
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2024-07-08 and is set to expire on 2025-07-08, which is less than a year from the current date of 2025-03-07. This makes the domain relatively new and expiring soon, which can be a potential fraud indicator.",
+  "answer2": "The contact information for the registrant, admin, and tech contacts is redacted for privacy. This lack of transparency can be a red flag for potential fraud.",
+  "answer3": "The registrar, Spaceship, Inc., is known for hosting malicious sites and lacks verification. This is a significant indicator of potential fraud.",
+  "answer4": "Other suspicious registration factors include the domain being clientTransferProhibited, which means it cannot be transferred to another registrar. This can be a tactic used by fraudulent domain owners to maintain control over the domain.",
+  "verdict": 9
+}
+```

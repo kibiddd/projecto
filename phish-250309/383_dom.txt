@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2006-03-29 and is expiring on 2025-03-28, which is more than 19 years from now. Therefore, it is not recent nor expiring soon.",
+  "answer2": "The contact information provided (Registrar Abuse Contact Email: abuse@safenames.net and Phone: +44.1908200022) is complete and does not appear to be redacted or suspicious.",
+  "answer3": "SafeNames Ltd. is the registrar, and there is no indication that it is known for hosting malicious sites or lacks verification. The registrar's contact information is provided, which suggests a level of legitimacy.",
+  "answer4": "The domain status indicates that clientDeleteProhibited, clientTransferProhibited, and clientUpdateProhibited, which are unusual for a legitimate domain. Additionally, the DNSSEC is unsigned, which is a common practice for many domains but can also be a red flag for some. However, these factors alone do not necessarily indicate fraud.",
+  "verdict": 2
+}
+```

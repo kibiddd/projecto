@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2025-03-08 and the registry expiry date is 2026-03-08, which means it is less than 6 months old and not expiring soon (less than a year). Therefore, it is recent.",
+  "answer2": "The registrant, admin, and tech contact information is redacted for privacy. This is a common practice, but in the context of potential fraud, it could be a red flag if combined with other suspicious factors.",
+  "answer3": "NICENIC INTERNATIONAL GROUP CO., LIMITED is the registrar. There is no widely known information about NICENIC being associated with malicious activities or lacking verification. However, further investigation into the registrar's reputation and history would be necessary to make a definitive judgment.",
+  "answer4": "The domain status includes 'clientDeleteProhibited', 'clientTransferProhibited', and 'addPeriod', which are unusual and could indicate that the domain is being managed in a way that prevents typical domain management actions. This could be a sign of a domain being used for malicious purposes or by someone trying to obscure their activities.",
+  "verdict": 7
+}
+```

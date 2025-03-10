@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2006-03-29 and the registration is expiring on 2025-03-28, which is less than a year from today (2025-03-07). This is a potential red flag for fraud as it indicates a very recent registration.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or suspicious.",
+  "answer3": "SafeNames Ltd. is a legitimate registrar, and there is no indication that they are known for hosting malicious sites or lacking verification.",
+  "answer4": "The domain status includes clientDeleteProhibited, clientTransferProhibited, and clientUpdateProhibited, which are unusual and could be indicative of a domain being managed by a third party with malicious intent.",
+  "verdict": 8
+}
+```

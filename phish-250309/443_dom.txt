@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2006-03-29 and is expiring on 2025-03-28, which is less than a year from the current date of 2025-03-07. This indicates that the domain is expiring soon, which can be a potential fraud indicator as it may be a short-term registration often used for phishing or other malicious activities.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or suspicious. The contact information for the registrar is also provided, which is a positive sign.",
+  "answer3": "SafeNames Ltd. is the registrar for this domain. A quick search reveals that SafeNames Ltd. is a legitimate registrar, and there are no widespread reports of it hosting malicious sites or lacking verification. Therefore, this factor does not indicate fraud.",
+  "answer4": "The domain status includes clientDeleteProhibited, clientTransferProhibited, and clientUpdateProhibited, which are unusual for a legitimate domain. These statuses can be used to prevent legitimate domain transfers or deletions, which is a common tactic used by fraudulent actors to maintain control over a domain. Additionally, the DNSSEC is unsigned, which is not a typical practice for a legitimate domain. These factors are suspicious and could indicate potential fraud.",
+  "verdict": 7
+}
+```

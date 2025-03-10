@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not appear to be directly requesting personal information or payment.",
+  "Suspicious offer": "The offer for a 'Trezor Expert Now at 20% Off!' might be a suspicious offer. The context is not very clear and could be used to phish for information. Webflow is also known to be a platform which is often used for phishing.",
+  "Format": "The website design appears to be of relatively high quality, but there's a lack of polish. Using Webflow could potentially mean that this website is made by an amateur.",
+  "Transparency": "The website does not show any contact information, which makes it untrustworthy.",
+  "Impersonation": "The website tries to impersonate the Trezor website.",
+  "Other": "The url is suspicious; it contains the name of a legitimate company with a very similar name plus other terms, which is a typical pattern used for phishing.",
+  "verdict": 9
+}
+```

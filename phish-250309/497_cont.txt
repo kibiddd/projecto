@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website may ask for wallet recovery phrase which could be used to steal cryptocurrency.",
+  "Suspicious offer": "N/A",
+  "Format": "The design might be a bit generic, potentially to mimic an existing design, and the domain name is suspicious.",
+  "Transparency": "N/A",
+  "Impersonation": "The website is impersonating Coinbase.",
+  "Other": "The domain name (000121-coinbase.com) is very suspicious and likely a phishing attempt.",
+  "verdict": 10
+}
+```

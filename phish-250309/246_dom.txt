@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2023-08-13 and is expiring on 2025-08-13, which is less than a year from the current date of 2025-03-07. This indicates that the domain is relatively new and has less than a year before it expires, which can be a potential fraud indicator as fraudulent domains often have short registration periods to avoid detection.",
+  "answer2": "The contact information for the registrant, admin, and tech contacts is redacted for privacy. This lack of transparency in contact information can be a red flag for potential fraud, as it makes it difficult to verify the legitimacy of the domain owner.",
+  "answer3": "GoDaddy.com, LLC is a well-known and reputable registrar. However, the domain is hosted on ns2.wordpress.com, ns1.wordpress.com, and ns3.wordpress.com, which are known to host blogs and forums. While GoDaddy itself is reputable, the association with WordPress hosting could be a concern if the domain is being used for malicious purposes, as WordPress sites can be used for phishing or other fraudulent activities.",
+  "answer4": "The domain status includes clientDeleteProhibited, clientRenewProhibited, clientTransferProhibited, and clientUpdateProhibited. These prohibitions can be a red flag, as they may indicate that the domain owner is trying to prevent changes to the domain, which could be a tactic used by fraudulent actors to maintain control over the domain.",
+  "verdict": 7
+}
+```
