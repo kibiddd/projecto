@@ -17,5 +17,6 @@ def anal_domain(path, url):
 
 
 if __name__ == '__main__':
-    info = load_txt('phish-250309/0.txt')
+    url = load_dataset('phishing-links-250309.txt')
+    info = anal_domain('phish-250309/0.txt', url[0])
     print(info)
