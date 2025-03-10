@@ -1,0 +1,17 @@
+   Domain Name: BUBYED.CC
+   Registry Domain ID: 203684639_DOMAIN_CC-VRSN
+   Registrar WHOIS Server: whois.wdomain.com
+   Registrar URL: http://www.wdomain.com
+   Updated Date: 2024-12-20T06:09:01Z
+   Creation Date: 2024-12-20T06:06:01Z
+   Registry Expiry Date: 2025-12-20T06:06:01Z
+   Registrar: Domain International Services Limited
+   Registrar IANA ID: 3863
+   Registrar Abuse Contact Email: abuse@wdomain.com
+   Registrar Abuse Contact Phone: +852 59855337
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: DELILAH.NS.CLOUDFLARE.COM
+   Name Server: PAUL.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-10T01:25:28Z 

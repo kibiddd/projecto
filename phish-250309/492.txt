@@ -1,0 +1,11 @@
+Domain Name: hutianwei.cn
+ROID: 20231129s10001s55476231-cn
+Domain Status: ok
+Registrant: 苏晓云
+Registrant Contact Email: comeebefa@gmail.com
+Sponsoring Registrar: 江苏邦宁科技有限公司
+Name Server: ns1.judns.com
+Name Server: ns2.judns.com
+Registration Time: 2023-11-29 13:35:44
+Expiration Time: 2025-11-29 13:35:44
+DNSSEC: unsigned

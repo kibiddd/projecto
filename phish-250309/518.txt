@@ -1,0 +1,18 @@
+   Domain Name: VERIFICATION-IBNAB.COM
+   Registry Domain ID: 2960951705_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.nicenic.net
+   Registrar URL: https://nicenic.net/
+   Updated Date: 2025-02-20T15:19:08Z
+   Creation Date: 2025-02-20T15:19:08Z
+   Registry Expiry Date: 2026-02-20T15:19:08Z
+   Registrar: NICENIC INTERNATIONAL GROUP CO., LIMITED
+   Registrar IANA ID: 3765
+   Registrar Abuse Contact Email: abuse@nicenic.net
+   Registrar Abuse Contact Phone: +852.68584411
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.VIP-DNS90.COM
+   Name Server: NS2.VIP-DNS90.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-10T01:29:05Z 

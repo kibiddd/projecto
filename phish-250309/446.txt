@@ -1,0 +1,26 @@
+Domain Name: WEBFUN.WEBSITE
+Registry Domain ID: D71894709-CNIC
+Registrar WHOIS Server: whois.gandi.net
+Registrar URL: http://www.gandi.net/
+Updated Date: 2024-08-06T11:51:50.0Z
+Creation Date: 2018-07-13T08:17:12.0Z
+Registry Expiry Date: 2025-07-13T23:59:59.0Z
+Registrar: Gandi SAS
+Registrar IANA ID: 81
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Organization: Trend Micro Inc
+Registrant State/Province:
+Registrant Country: TW
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: NS-801.AWSDNS-36.NET
+Name Server: NS-1430.AWSDNS-50.ORG
+Name Server: NS-25.AWSDNS-03.COM
+Name Server: NS-1701.AWSDNS-20.CO.UK
+DNSSEC: unsigned
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: abuse@support.gandi.net
+Registrar Abuse Contact Phone: +33.170377661
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-10T01:28:30.0Z 

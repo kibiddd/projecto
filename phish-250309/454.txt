@@ -1,0 +1,24 @@
+Domain Name: KEONHACAI.LUXURY
+Registry Domain ID: D452607450-CNIC
+Registrar WHOIS Server: whois.spaceship.com
+Registrar URL: https://www.spaceship.com/
+Updated Date: 2024-06-24T09:05:25.0Z
+Creation Date: 2024-05-06T06:45:27.0Z
+Registry Expiry Date: 2025-05-06T23:59:59.0Z
+Registrar: Spaceship, Inc.
+Registrar IANA ID: 3862
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Organization: Privacy service provided by Withheld for Privacy ehf
+Registrant State/Province: Capital Region
+Registrant Country: IS
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: ADDYSON.NS.CLOUDFLARE.COM
+Name Server: DANE.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: abuse@spaceship.com
+Registrar Abuse Contact Phone: +1.6613102107
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-10T01:27:36.0Z 

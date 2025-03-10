@@ -1,0 +1,24 @@
+Domain Name: LATAMBARATONACIONAL.XYZ
+Registry Domain ID: D531986916-CNIC
+Registrar WHOIS Server: whois.ownregistrar.com
+Registrar URL: http://www.ownregistrar.com
+Creation Date: 2025-03-04T23:50:38.0Z
+Registry Expiry Date: 2026-03-04T23:59:59.0Z
+Registrar: OwnRegistrar, Inc.
+Registrar IANA ID: 1250
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Organization: WhoisSecure
+Registrant State/Province: California
+Registrant Country: US
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: CLOUD3.DEFAULTSERVER.NET
+Name Server: CLOUD4.DEFAULTSERVER.NET
+DNSSEC: unsigned
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: abuse@ownregistrar.com
+Registrar Abuse Contact Phone: +1.2124016235
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-10T01:25:06.0Z 

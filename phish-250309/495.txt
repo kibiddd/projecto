@@ -1,0 +1,17 @@
+   Domain Name: WEEPOPPETS.COM
+   Registry Domain ID: 2921157572_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: www.gname.com/whois
+   Registrar URL: http://www.gname.com
+   Updated Date: 2024-10-04T05:20:04Z
+   Creation Date: 2024-09-29T18:13:36Z
+   Registry Expiry Date: 2025-09-29T18:13:36Z
+   Registrar: Gname 216 Inc
+   Registrar IANA ID: 4229
+   Registrar Abuse Contact Email: ZYS@GNAME.COM
+   Registrar Abuse Contact Phone: +65.65189986
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.GNAME-DNS.COM
+   Name Server: NS2.GNAME-DNS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-10T01:28:50Z 

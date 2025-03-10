@@ -1,0 +1,26 @@
+Domain Name: realitybytes.net.au
+Registry Domain ID: 0840468d9ed145e6b472059074ffb7e8-AU
+Registrar WHOIS Server: whois.auda.org.au
+Registrar URL: https://www.crazydomains.com.au/contact/
+Last Modified: 2024-02-11T09:41:42Z
+Registrar Name: Web Address Registration Pty Ltd
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: 
+Reseller Name: 
+Status: serverRenewProhibited https://identitydigital.au/get-au/whois-status-codes#serverRenewProhibited
+Status Reason: Not Currently Eligible For Renewal
+Registrant Contact ID: 28d4226bce0c4932b65eacbd3fad37f1-AU
+Registrant Contact Name: Richard Searles
+Tech Contact ID: e39c636acb1d4bd6bb3bceef64fbdfba-AU
+Tech Contact Name: Richard Searles
+Name Server: ns3.parkme.com.au
+Name Server IP: 27.124.125.1
+Name Server IP: 2a00:fd80:aaaa:ffff::bbbb:1
+Name Server: ns4.parkme.com.au
+Name Server IP: 27.124.125.2
+Name Server IP: 2a00:fd80:aaaa:ffff::bbbb:2
+DNSSEC: unsigned
+Registrant: RICHARD P SEARLES and THOR A NANCARROW
+Registrant ID: ABN 76567296583
+Eligibility Type: Other
+>>> Last update of WHOIS database: 2025-03-10T01:27:28Z 

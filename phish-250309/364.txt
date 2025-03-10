@@ -1,0 +1,22 @@
+   Domain Name: WIXSITE.COM
+   Registry Domain ID: 1719029895_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.godaddy.com
+   Registrar URL: http://www.godaddy.com
+   Updated Date: 2024-05-01T08:41:15Z
+   Creation Date: 2012-05-08T23:35:02Z
+   Registry Expiry Date: 2026-05-08T23:35:02Z
+   Registrar: GoDaddy.com, LLC
+   Registrar IANA ID: 146
+   Registrar Abuse Contact Email: abuse@godaddy.com
+   Registrar Abuse Contact Phone: 480-624-2505
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: DNS1.P07.NSONE.NET
+   Name Server: DNS2.P07.NSONE.NET
+   Name Server: DNS3.P07.NSONE.NET
+   Name Server: DNS4.P07.NSONE.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-10T01:27:34Z 

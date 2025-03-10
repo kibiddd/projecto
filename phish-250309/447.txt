@@ -1,0 +1,33 @@
+% La información a la que estás accediendo se provee exclusivamente para
+% fines relacionados con operaciones sobre nombres de dominios y DNS,
+% quedando absolutamente prohibido su uso para otros fines.
+%
+% La DIRECCIÓN NACIONAL DEL REGISTRO DE DOMINIOS DE INTERNET es depositaria
+% de la información que los usuarios declaran con la sola finalidad de
+% registrar nombres de dominio en ‘.ar’, para ser publicada en el sitio web
+% de NIC Argentina.
+%
+% La información personal que consta en la base de datos generada a partir
+% del sistema de registro de nombres de dominios se encuentra amparada por
+% la Ley N° 25326 “Protección de Datos Personales” y el Decreto
+% Reglamentario 1558/01.
+
+domain:		wedoit.com.ar
+registrant:	27253196497
+registrar:	nicar
+registered:	2014-04-22 00:00:00
+changed:	2024-05-23 19:28:50.157928
+expire:		2025-04-22 00:00:00
+
+contact:	27253196497
+name:		SANCHEZ FERNANDEZ MARIA FERNANDA
+registrar:	nicar
+created:	2020-04-08 12:48:53.991272
+changed:	2024-05-23 19:29:17.641944
+
+nserver:	ns1.nuthost.com ()
+nserver:	ns2.nuthost.com ()
+registrar:	nicar
+created:	2016-06-30 22:54:16.318649
+
+

@@ -1,0 +1,26 @@
+DOMAIN NAME:                    cfolks.pl
+registrant type:                organization
+nameservers:                    ns1.cyberfolks.pl. [94.152.254.111]
+                                ns2.cyberfolks.pl. [94.152.255.111]
+                                ns3.cyberfolks.pl. [94.152.254.161]
+created:                        2020.02.26 17:45:22
+last modified:                  2023.11.30 15:54:59
+renewal date:                   2031.02.26 17:45:22
+
+option:                         no
+
+dnssec:                         Unsigned
+
+REGISTRAR:
+cyber_Folks S.A.
+ul. Wierzbięcice 1B
+61-569 Poznań
+Polska/Poland
+Tel: +48.122963663
+https://cyberfolks.pl/
+domeny@cyberfolks.pl
+
+WHOIS database responses:       https://dns.pl/en/whois
+
+WHOIS displays data with a delay not exceeding 15 minutes in relation to the .pl Registry system
+

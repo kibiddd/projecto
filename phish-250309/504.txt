@@ -1,0 +1,30 @@
+Domain Name: E-DVLTAIDATT.XYZ
+Registry Domain ID: D533110542-CNIC
+Registrar WHOIS Server: whois.porkbun.com
+Registrar URL: https://porkbun.com/
+Updated Date: 2025-03-09T21:08:06.0Z
+Creation Date: 2025-03-08T14:40:19.0Z
+Registry Expiry Date: 2026-03-08T23:59:59.0Z
+Registrar: Porkbun, LLC
+Registrar IANA ID: 1861
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: clientHold https://icann.org/epp#clientHold
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: addPeriod https://icann.org/epp#addPeriod
+Registrant Organization: Private by Design, LLC
+Registrant State/Province: NC
+Registrant Country: US
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: CURITIBA.NS.PORKBUN.COM
+Name Server: FORTALEZA.NS.PORKBUN.COM
+Name Server: MACEIO.NS.PORKBUN.COM
+Name Server: SALVADOR.NS.PORKBUN.COM
+DNSSEC: unsigned
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: abuse@porkbun.com
+Registrar Abuse Contact Phone: +1.8557675286
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-10T01:29:05.0Z 

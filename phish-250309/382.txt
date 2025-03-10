@@ -1,0 +1,19 @@
+   Domain Name: SOW-VERIFICA.COM
+   Registry Domain ID: 2963773231_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.hello.co
+   Registrar URL: http://www.hello.co
+   Updated Date: 2025-03-02T19:34:54Z
+   Creation Date: 2025-03-02T17:27:22Z
+   Registry Expiry Date: 2026-03-02T17:27:22Z
+   Registrar: Hello Internet Corp
+   Registrar IANA ID: 1924
+   Registrar Abuse Contact Email: abuse@hello.co
+   Registrar Abuse Contact Phone: +1.9175129417
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: ARIA.NS.CLOUDFLARE.COM
+   Name Server: CHASE.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-10T01:27:34Z 

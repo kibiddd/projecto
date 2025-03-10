@@ -1,0 +1,18 @@
+% TCI Whois Service. Terms of use:
+% https://tcinet.ru/documents/whois_ru_rf.pdf (in Russian)
+% https://tcinet.ru/documents/whois_su.pdf (in Russian)
+
+domain:        JD2.RU
+nserver:       jermaine.ns.cloudflare.com.
+nserver:       kenia.ns.cloudflare.com.
+state:         REGISTERED, DELEGATED, VERIFIED
+person:        Private Person
+registrar:     RU-CENTER-RU
+admin-contact: https://www.nic.ru/whois
+created:       2025-03-01T12:18:31Z
+paid-till:     2026-03-01T12:18:31Z
+free-date:     2026-04-01
+source:        TCI
+
+Last updated on 2025-03-10T01:23:01Z
+

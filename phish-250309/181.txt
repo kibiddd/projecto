@@ -1,0 +1,24 @@
+%%
+%% This is the NIC Chile Whois server (whois.nic.cl).
+%%
+%% Rights restricted by copyright.
+%% See https://www.nic.cl/normativa/politica-publicacion-de-datos-cl.pdf
+%%
+
+Domain name: clubpalestino.cl
+Registrant name: Carlos Rabi
+Registrant organisation: 
+Registrar name: NIC Chile
+Registrar URL: https://www.nic.cl
+Creation date: 2008-07-29 15:56:39 CLST
+Expiration date: 2025-08-28 11:56:03 CLST
+Name server: ns11.cloudns.net
+Name server: ns12.cloudns.net
+Name server: ns13.cloudns.net
+Name server: ns14.cloudns.net
+Name server: pns11.cloudns.net
+
+%%
+%% For communication with domain contacts please use website.
+%% See https://www.nic.cl/registry/Whois.do?d=clubpalestino.cl
+%%

@@ -1,0 +1,17 @@
+   Domain Name: CREATIFY2.COM
+   Registry Domain ID: 2945094318_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.discount-domain.com
+   Registrar URL: http://gmo.jp
+   Updated Date: 2024-12-25T07:54:32Z
+   Creation Date: 2024-12-25T06:21:44Z
+   Registry Expiry Date: 2025-12-25T06:21:44Z
+   Registrar: GMO Internet Group, Inc. d/b/a Onamae.com
+   Registrar IANA ID: 49
+   Registrar Abuse Contact Email: abuse@gmo.jp
+   Registrar Abuse Contact Phone: +81.337709199
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: JAVON.NS.CLOUDFLARE.COM
+   Name Server: MARIA.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-10T01:26:06Z 

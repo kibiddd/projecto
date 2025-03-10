@@ -1,0 +1,17 @@
+   Domain Name: MIDASBUY-PAGE.COM
+   Registry Domain ID: 2926114545_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: https://whois.cloud.tencent.com
+   Registrar URL: https://www.dnspod.com
+   Updated Date: 2024-10-17T06:59:08Z
+   Creation Date: 2024-10-17T06:56:46Z
+   Registry Expiry Date: 2025-10-17T06:56:46Z
+   Registrar: Aceville Pte. Ltd.
+   Registrar IANA ID: 3858
+   Registrar Abuse Contact Email: abuse@dnspod.com
+   Registrar Abuse Contact Phone: +86 10 62671188 x803707
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: DEBORAH.NS.CLOUDFLARE.COM
+   Name Server: JAKUB.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-10T01:27:06Z 

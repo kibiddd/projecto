@@ -1,0 +1,17 @@
+   Domain Name: BULF163.COM
+   Registry Domain ID: 2963529137_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.hello.co
+   Registrar URL: http://www.hello.co
+   Updated Date: 2025-03-08T08:27:39Z
+   Creation Date: 2025-03-01T13:42:48Z
+   Registry Expiry Date: 2026-03-01T13:42:48Z
+   Registrar: Hello Internet Corp
+   Registrar IANA ID: 1924
+   Registrar Abuse Contact Email: abuse@hello.co
+   Registrar Abuse Contact Phone: +1.9175129417
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: AUGUSTUS.NS.CLOUDFLARE.COM
+   Name Server: HOPE.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-10T01:25:36Z 

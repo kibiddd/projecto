@@ -1,0 +1,23 @@
+%%
+%% This is the NIC Chile Whois server (whois.nic.cl).
+%%
+%% Rights restricted by copyright.
+%% See https://www.nic.cl/normativa/politica-publicacion-de-datos-cl.pdf
+%%
+
+Domain name: vaonischile.cl
+Registrant name: Surveying Control Systems Ltda
+Registrant organisation: 
+Registrar name: NIC Chile
+Registrar URL: https://www.nic.cl
+Creation date: 2024-02-21 14:11:07 CLST
+Expiration date: 2026-02-21 14:11:07 CLST
+Name server: ns-1314.awsdns-36.org
+Name server: ns-1905.awsdns-46.co.uk
+Name server: ns-252.awsdns-31.com
+Name server: ns-892.awsdns-47.net
+
+%%
+%% For communication with domain contacts please use website.
+%% See https://www.nic.cl/registry/Whois.do?d=vaonischile.cl
+%%

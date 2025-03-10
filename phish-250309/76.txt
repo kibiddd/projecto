@@ -1,0 +1,25 @@
+DOMAIN NAME:                    naszepogorzale.pl
+registrant type:                organization
+nameservers:                    dns112.ovh.net. 
+                                ns112.ovh.net. 
+created:                        2015.06.02 20:27:06
+last modified:                  2025.02.22 20:22:36
+renewal date:                   2026.06.02 20:27:06
+
+option:                         no
+
+dnssec:                         Signed
+DS:                             43622 8 2 010EEF86DCD25CCF152398415CFCAF8B034F2CC8E651461C12905D617FB2D8A8
+
+REGISTRAR:
+OVH SAS
+2 Rue Kellermann
+59100 Roubaix
+Francja/France
+Tel: +48.717500200
+https://www.ovhcloud.com
+
+WHOIS database responses:       https://dns.pl/en/whois
+
+WHOIS displays data with a delay not exceeding 15 minutes in relation to the .pl Registry system
+

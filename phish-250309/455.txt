@@ -1,0 +1,17 @@
+   Domain Name: RAISINGRENTS.COM
+   Registry Domain ID: 2871909044_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.yoursrs.com
+   Registrar URL: http://www.realtimeregister.com
+   Updated Date: 2025-02-18T12:13:38Z
+   Creation Date: 2024-04-13T06:14:31Z
+   Registry Expiry Date: 2025-04-13T06:14:31Z
+   Registrar: Realtime Register B.V.
+   Registrar IANA ID: 839
+   Registrar Abuse Contact Email: rtr-security-threats@realtimeregister.com
+   Registrar Abuse Contact Phone: +31.384530759
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.JULYDNS.COM
+   Name Server: NS2.JULYDNS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-10T01:28:21Z 

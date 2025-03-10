@@ -1,0 +1,18 @@
+   Domain Name: STEAMCUOMMUNITY.COM
+   Registry Domain ID: 2898999656_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.squarespace.domains
+   Registrar URL: http://squarespace.domains
+   Updated Date: 2024-11-17T19:29:31Z
+   Creation Date: 2024-07-13T19:09:15Z
+   Registry Expiry Date: 2025-07-13T19:09:15Z
+   Registrar: Squarespace Domains LLC
+   Registrar IANA ID: 3827
+   Registrar Abuse Contact Email: abuse-complaints@squarespace.com
+   Registrar Abuse Contact Phone: 1-646-693-5324
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: JAIME.NS.CLOUDFLARE.COM
+   Name Server: POLA.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-10T01:28:06Z 

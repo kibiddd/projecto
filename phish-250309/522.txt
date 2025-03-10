@@ -1,0 +1,11 @@
+Domain Name: juewa.cn
+ROID: 20230919s10001s54086409-cn
+Domain Status: ok
+Registrant: 武汉市空间云网络科技有限公司
+Registrant Contact Email: cnkjy2@126.com
+Sponsoring Registrar: 阿里云计算有限公司（万网）
+Name Server: dns31.hichina.com
+Name Server: dns32.hichina.com
+Registration Time: 2023-09-19 00:15:53
+Expiration Time: 2025-09-19 00:15:53
+DNSSEC: unsigned

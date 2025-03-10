@@ -1,0 +1,25 @@
+Domain Name: 371012.XYZ
+Registry Domain ID: D493815456-CNIC
+Registrar WHOIS Server: whois.namesilo.com
+Registrar URL: https://www.namesilo.com
+Updated Date: 2025-03-10T00:06:46.0Z
+Creation Date: 2024-10-15T07:56:32.0Z
+Registry Expiry Date: 2033-10-15T23:59:59.0Z
+Registrar: NameSilo, LLC
+Registrar IANA ID: 1479
+Domain Status: clientHold https://icann.org/epp#clientHold
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Organization: See PrivacyGuardian.org
+Registrant State/Province: AZ
+Registrant Country: US
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: ASHLEY.NS.CLOUDFLARE.COM
+Name Server: STEVEN.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: abuse@namesilo.com
+Registrar Abuse Contact Phone: +1.4805240066
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-10T01:23:55.0Z 

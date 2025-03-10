@@ -1,0 +1,18 @@
+   Domain Name: SMOTON.COM
+   Registry Domain ID: 1641932659_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.your-server.de
+   Registrar URL: http://www.hetzner.com
+   Updated Date: 2025-02-25T08:19:38Z
+   Creation Date: 2011-02-24T14:34:44Z
+   Registry Expiry Date: 2026-02-24T14:34:44Z
+   Registrar: Hetzner Online GmbH
+   Registrar IANA ID: 828
+   Registrar Abuse Contact Email: abuse@hetzner.com
+   Registrar Abuse Contact Phone: +49 9831 5050
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS1.FIRST-NS.DE
+   Name Server: ROBOTNS2.SECOND-NS.DE
+   Name Server: ROBOTNS3.SECOND-NS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-10T01:27:34Z 

@@ -1,0 +1,18 @@
+   Domain Name: STAEMCOMMUNUTLY.COM
+   Registry Domain ID: 2950974993_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.nicenic.net
+   Registrar URL: https://nicenic.net/
+   Updated Date: 2025-03-04T17:30:20Z
+   Creation Date: 2025-01-15T19:55:42Z
+   Registry Expiry Date: 2026-01-15T19:55:42Z
+   Registrar: NICENIC INTERNATIONAL GROUP CO., LIMITED
+   Registrar IANA ID: 3765
+   Registrar Abuse Contact Email: abuse@nicenic.net
+   Registrar Abuse Contact Phone: +852.68584411
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NOVALEE.NS.CLOUDFLARE.COM
+   Name Server: TATE.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-10T01:27:50Z 

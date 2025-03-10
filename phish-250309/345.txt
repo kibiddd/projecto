@@ -1,0 +1,20 @@
+% TCI Whois Service. Terms of use:
+% https://tcinet.ru/documents/whois_ru_rf.pdf (in Russian)
+% https://tcinet.ru/documents/whois_su.pdf (in Russian)
+
+domain:        RTU-QUIZ.RU
+nserver:       ns1.timeweb.ru.
+nserver:       ns2.timeweb.ru.
+nserver:       ns3.timeweb.org.
+nserver:       ns4.timeweb.org.
+state:         REGISTERED, DELEGATED, UNVERIFIED
+person:        Private Person
+registrar:     TIMEWEB-RU
+admin-contact: http://timeweb.name/contact-admin
+created:       2024-12-25T10:27:25Z
+paid-till:     2025-12-25T10:27:25Z
+free-date:     2026-01-25
+source:        TCI
+
+Last updated on 2025-03-10T01:23:01Z
+

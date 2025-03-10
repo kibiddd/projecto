@@ -1,0 +1,38 @@
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-09T22:24:53-03:00 - 2a09:bac5:c82e:db9::15e:ed
+
+domain:      octgencia.com.br
+owner:       Fernando Jorge
+ownerid:     ***.642.243-**
+country:     BR
+owner-c:     FEJOR69
+tech-c:      FEJOR69
+nserver:     ns1.dns-suspended.com
+nsstat:      20250309 AA
+nslastaa:    20250308
+nserver:     ns2.dns-suspended.com
+nsstat:      20250309 AA
+nslastaa:    20250308
+saci:        yes
+created:     20240817 #28324340
+changed:     20250308
+expires:     20250817
+status:      published
+provider:    HSTDOMAINS (127)
+
+nic-hdl-br:  FEJOR69
+person:      Fernando Jorge
+e-mail:      fellipdaiany@gmail.com
+country:     BR
+created:     20240817
+changed:     20240817
+provider:    HSTDOMAINS (127)
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

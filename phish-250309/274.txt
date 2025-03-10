@@ -1,0 +1,13 @@
+Domain Name: logco.nz
+Registrar URL: https://www.crazydomains.com.au/
+Updated Date: 2025-03-08T08:00:30Z
+Creation Date: 2020-04-29T11:19:11Z
+Original Created: 2020-04-29T11:19:11Z
+Registrar: Dreamscape Networks International Pte Ltd t/a Crazy Domains
+Domain Status: ok https://icann.org/epp#ok
+Domain Status: renewPeriod https://icann.org/epp#renewPeriod
+Name Server: ns1.syrahost.com
+Name Server: ns2.syrahost.com
+DNSSEC: unsigned
+URL of the Domain Name Commission Limited Inaccuracy Complaint Form: https://dnc.org.nz/enquiry-form/
+>>> Last update of WHOIS database: 2025-03-10T01:26:58Z 

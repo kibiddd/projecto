@@ -1,0 +1,19 @@
+   Domain Name: AZEXPRESSBD.COM
+   Registry Domain ID: 2470707236_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.PublicDomainRegistry.com
+   Registrar URL: http://www.publicdomainregistry.com
+   Updated Date: 2024-11-22T10:26:42Z
+   Creation Date: 2019-12-23T08:17:55Z
+   Registry Expiry Date: 2025-12-23T08:17:55Z
+   Registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
+   Registrar IANA ID: 303
+   Registrar Abuse Contact Email: abuse-contact@publicdomainregistry.com
+   Registrar Abuse Contact Phone: +1.2013775952
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.SUPERCP.COM
+   Name Server: NS2.SUPERCP.COM
+   Name Server: NS3.SUPERCP.COM
+   Name Server: NS4.SUPERCP.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-10T01:25:36Z 

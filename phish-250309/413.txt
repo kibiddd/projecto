@@ -1,0 +1,19 @@
+   Domain Name: S-TAEM.COM
+   Registry Domain ID: 2914093465_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.reg.com
+   Registrar URL: http://www.reg.ru
+   Updated Date: 2025-01-03T12:57:12Z
+   Creation Date: 2024-09-05T07:31:34Z
+   Registry Expiry Date: 2025-09-05T07:31:34Z
+   Registrar: Registrar of Domain Names REG.RU LLC
+   Registrar IANA ID: 1606
+   Registrar Abuse Contact Email: abuse@reg.ru
+   Registrar Abuse Contact Phone: +74955801111
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.BEGET.COM
+   Name Server: NS1.BEGET.PRO
+   Name Server: NS2.BEGET.COM
+   Name Server: NS2.BEGET.PRO
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-10T01:27:50Z 

@@ -1,0 +1,17 @@
+   Domain Name: GZHYYYGS.COM
+   Registry Domain ID: 2873760899_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: WWW.GNAME.COM/WHOIS
+   Registrar URL: http://WWW.GNAME.COM
+   Updated Date: 2025-03-07T06:33:09Z
+   Creation Date: 2024-04-19T18:03:53Z
+   Registry Expiry Date: 2025-04-19T18:03:53Z
+   Registrar: Gname 031 Inc
+   Registrar IANA ID: 4000
+   Registrar Abuse Contact Email: fwicann@gname.com
+   Registrar Abuse Contact Phone: +6531581391
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: ALINA.NS.CLOUDFLARE.COM
+   Name Server: JACOB.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-10T01:26:22Z 

@@ -1,0 +1,17 @@
+   Domain Name: ZYXSTAR.COM
+   Registry Domain ID: 2893071731_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namebright.com
+   Registrar URL: http://www.NameBright.com
+   Updated Date: 2024-12-13T07:21:05Z
+   Creation Date: 2024-06-22T18:30:54Z
+   Registry Expiry Date: 2025-06-22T18:30:54Z
+   Registrar: DropCatch.com 648 LLC
+   Registrar IANA ID: 2128
+   Registrar Abuse Contact Email: support@namebright.com
+   Registrar Abuse Contact Phone: 17204960020
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: EVAN.NS.CLOUDFLARE.COM
+   Name Server: GLORIA.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-10T01:28:33Z 

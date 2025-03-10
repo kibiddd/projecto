@@ -1,0 +1,36 @@
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-09T22:26:09-03:00 - 2a09:bac5:c82c:1678::23d:4b
+
+domain:      clinicaecomedsaude.com.br
+owner:       Dario Sczimanski Junior
+ownerid:     ***.955.209-**
+country:     BR
+owner-c:     DASJU156
+tech-c:      DASJU156
+nserver:     ns1.dns-parking.com
+nsstat:      20250306 AA
+nslastaa:    20250306
+nserver:     ns2.dns-parking.com
+nsstat:      20250306 AA
+nslastaa:    20250306
+saci:        yes
+created:     20210408 #22669089
+changed:     20250218
+expires:     20260408
+status:      published
+
+nic-hdl-br:  DASJU156
+person:      Dario Sczimanski Junior
+e-mail:      dario31907@gmail.com
+country:     BR
+created:     20201001
+changed:     20250218
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

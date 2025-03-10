@@ -1,0 +1,24 @@
+Domain Name: shorten.so
+Registry Domain ID: 217216-sonic
+Registrar WHOIS Server: whois.namecheap.com
+Updated Date: 2025-01-09T14:49:52Z
+Creation Date: 2022-10-16T16:03:24Z
+Registry Expiry Date: 2025-10-16T16:03:24Z
+Registrar Registration Expiration Date: 2025-10-16T16:03:24Z
+Registrar: NameCheap
+Registrar IANA ID: 1068
+Registrar Street Address: Street No. 4600, East Washington Street, Suite 305
+Registrar City: Phoenix
+Registrar State: AZ
+Registrar Postal Code: 85034
+Registrar Email: registry@namecheap.com
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.6613102107
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 217214-sonic
+Registrant Name: MEGA WORLD LLC
+Name Server: grant.ns.cloudflare.com
+Name Server: yolanda.ns.cloudflare.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-10T01:27:48.016Z 

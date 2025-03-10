@@ -1,0 +1,30 @@
+Domain Name: FINANMAISCREDWWSW.SITE
+Registry Domain ID: D532591116-CNIC
+Registrar WHOIS Server: whois.hostinger.com
+Registrar URL: https://www.hostinger.com/
+Updated Date: 2025-03-09T12:12:53.0Z
+Creation Date: 2025-03-06T19:09:54.0Z
+Registry Expiry Date: 2026-03-06T23:59:59.0Z
+Registrar: HOSTINGER operations, UAB
+Registrar IANA ID: 1636
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: clientHold https://icann.org/epp#clientHold
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: addPeriod https://icann.org/epp#addPeriod
+Registrant Organization: Privacy Protect, LLC (PrivacyProtect.org)
+Registrant State/Province: MA
+Registrant Country: US
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: LARA.NS.CLOUDFLARE.COM
+Name Server: COEN.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: abuse@hostinger.com
+Registrar Abuse Contact Phone: +370.68424669
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-10T01:24:54.0Z 

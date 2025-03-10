@@ -1,0 +1,19 @@
+   Domain Name: PLHHOVYJ.COM
+   Registry Domain ID: 2620509373_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2024-05-24T06:32:39Z
+   Creation Date: 2021-06-18T07:31:09Z
+   Registry Expiry Date: 2025-06-18T07:31:09Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: PDNS107.ULTRADNS.BIZ
+   Name Server: PDNS107.ULTRADNS.COM
+   Name Server: PDNS107.ULTRADNS.NET
+   Name Server: PDNS107.ULTRADNS.ORG
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-10T01:25:51Z 

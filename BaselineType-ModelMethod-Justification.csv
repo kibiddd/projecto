@@ -1,0 +1,6 @@
+"Baseline Type","Model/Method","Justification"
+"Single-Modality","Random Forest","Traditional ML approach for URL analysis."
+"Single-Modality","URLBERT or DomURLs_BERT","Transformer-based model fine-tuned for URL classification."
+"Multimodal","Multi-Modal CNN ()","Combines textual and image-based features for malicious webpage detection."
+"Multimodal","Gemini Flash ()","State-of-the-art large multimodal agent integrating URL and visual analysis."
+"Industry Standard","Google Safe Browsing API","Blacklist-based system widely used in practice."

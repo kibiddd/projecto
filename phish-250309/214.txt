@@ -1,0 +1,17 @@
+   Domain Name: FUJIANZHIYUNTONG.COM
+   Registry Domain ID: 2894546313_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.web.com
+   Registrar URL: http://www.networksolutions.com
+   Updated Date: 2024-12-11T05:20:25Z
+   Creation Date: 2024-06-27T18:25:34Z
+   Registry Expiry Date: 2025-06-27T18:25:34Z
+   Registrar: SNAPNAMES 39, LLC
+   Registrar IANA ID: 1279
+   Registrar Abuse Contact Email: abuse@web.com
+   Registrar Abuse Contact Phone: +1.8003337680
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: EVAN.NS.CLOUDFLARE.COM
+   Name Server: GLORIA.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-10T01:26:06Z 

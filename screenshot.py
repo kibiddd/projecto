@@ -15,17 +15,17 @@ def screenshot(url, n):
     data = res.read()
 
     domain = get_domain(url)
-    filename = "today-phish/" + n + ".png"
+    filename = "phish-250309/" + n + ".png"
     with open(filename, "wb") as file:
         file.write(data)
-    print("Screenshot saved as screenshot.png")
+    print("Screenshot saved as "+filename)
     return domain
 
 
 
 if __name__ == "__main__":
-    path1 = "phishing-links-NEW-today.txt"
-    path2 = "phishing-links-NEW-last-hour.txt"
+    path1 = "phishing-links-250309.txt"
+    path2 = "phishing-links-250308.txt"
     dataset = new_only(load_dataset(path1), load_dataset(path2))
     for idx, url in enumerate(dataset):
         print(f"Screenshotting URL {idx}/{len(dataset)}: {url}")

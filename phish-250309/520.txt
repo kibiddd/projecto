@@ -1,0 +1,11 @@
+Domain Name: zevie.cn
+ROID: 20241205s10001s63256891-cn
+Domain Status: ok
+Registrant: 苏晓云
+Registrant Contact Email: comeebefa@gmail.com
+Sponsoring Registrar: 上海有孚网络股份有限公司
+Name Server: ns1.judns.com
+Name Server: ns2.judns.com
+Registration Time: 2024-12-05 04:03:37
+Expiration Time: 2025-12-05 04:03:37
+DNSSEC: unsigned

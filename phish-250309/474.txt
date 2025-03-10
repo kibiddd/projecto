@@ -1,0 +1,17 @@
+   Domain Name: TIKTOKSHOPSTORE.COM
+   Registry Domain ID: 2946536821_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: www.gname.com/whois
+   Registrar URL: http://www.gname.com
+   Updated Date: 2024-12-30T23:38:45Z
+   Creation Date: 2024-12-30T19:29:31Z
+   Registry Expiry Date: 2025-12-30T19:29:31Z
+   Registrar: Gname 231 Inc
+   Registrar IANA ID: 4244
+   Registrar Abuse Contact Email: ZYS@GNAME.COM
+   Registrar Abuse Contact Phone: +65.65189986
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: A.SHARE-DNS.COM
+   Name Server: B.SHARE-DNS.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-10T01:28:33Z 

@@ -1,0 +1,17 @@
+   Domain Name: CANSOLUT.COM
+   Registry Domain ID: 2927165294_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: www.gname.com/whois
+   Registrar URL: http://www.gname.com
+   Updated Date: 2025-01-08T03:25:37Z
+   Creation Date: 2024-10-20T18:36:19Z
+   Registry Expiry Date: 2025-10-20T18:36:19Z
+   Registrar: Gname 241 Inc
+   Registrar IANA ID: 4254
+   Registrar Abuse Contact Email: zys@gname.com
+   Registrar Abuse Contact Phone: +65.65189986
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.GNAME-DNS.COM
+   Name Server: NS2.GNAME-DNS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-10T01:28:50Z 

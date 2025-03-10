@@ -1,0 +1,17 @@
+   Domain Name: VPNDNS.NET
+   Registry Domain ID: 2174072064_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2024-09-14T08:09:15Z
+   Creation Date: 2017-10-14T08:10:24Z
+   Registry Expiry Date: 2025-10-14T08:10:24Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.NOW-DNS.COM
+   Name Server: NS2.NOW-DNS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-10T01:25:21Z 

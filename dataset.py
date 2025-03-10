@@ -77,14 +77,14 @@ def new_only(dataset1, dataset2):
     return only_new
 
 if __name__ == "__main__":
-    path1 = "phishing-links-NEW-today.txt"
-    path2 = "phishing-links-NEW-last-hour.txt"
+    path1 = "phishing-links-250309.txt"
+    path2 = "phishing-links-250308.txt"
     dataset = new_only(load_dataset(path1), load_dataset(path2))
     for idx, url in enumerate(dataset):
         print(f"Screenshotting URL {idx}/{len(dataset)}: {url}")
         raw = whois_info(url)
         # save raw to txt file
-        filename = "today-phish/" + str(idx) + ".txt"
+        filename = "phish-250309/" + str(idx) + ".txt"
 
         # Open the file in text mode ("w") since raw is a string
         with open(filename, "w", encoding="utf-8") as file:

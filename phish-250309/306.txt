@@ -1,0 +1,17 @@
+   Domain Name: PAGE-SUSPENSION.COM
+   Registry Domain ID: 2961506601_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.fastdomain.com
+   Registrar URL: http://www.fastdomain.com
+   Updated Date: 2025-02-22T10:13:47Z
+   Creation Date: 2025-02-22T10:06:36Z
+   Registry Expiry Date: 2026-02-22T10:06:36Z
+   Registrar: FastDomain Inc.
+   Registrar IANA ID: 1154
+   Registrar Abuse Contact Email: domain.operations@web.com
+   Registrar Abuse Contact Phone: +1.8777228662
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: PAIGE.NS.CLOUDFLARE.COM
+   Name Server: PORTER.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-10T01:27:06Z 

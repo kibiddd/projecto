@@ -1,0 +1,11 @@
+Domain Name: pcqygl.cn
+ROID: 20230919s10001s54241680-cn
+Domain Status: clientTransferProhibited
+Registrant: 苏晓云
+Registrant Contact Email: comeebefa@gmail.com
+Sponsoring Registrar: 山东开创集团股份有限公司
+Name Server: ns1.judns.com
+Name Server: ns2.judns.com
+Registration Time: 2023-09-19 14:36:14
+Expiration Time: 2025-09-19 14:36:14
+DNSSEC: unsigned

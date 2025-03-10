@@ -1,0 +1,20 @@
+Domain name: mijn-abn-controle.nl
+Status:      active
+
+Registrar:
+   Cronon GmbH
+   Otto-Ostrowski-StraBe 7
+   10249 Berlin
+   Germany
+
+DNSSEC:      no
+
+Domain nameservers:
+   docks19.rzone.de
+   shades14.rzone.de
+
+Creation Date: 2018-03-24
+
+Updated Date: 2024-11-18
+
+Record maintained by: SIDN BV

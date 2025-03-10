@@ -1,0 +1,28 @@
+Domain Name: PLL-OFERTA-FIRMOWA821574.ICU
+Registry Domain ID: D533116152-CNIC
+Registrar WHOIS Server: whois.webnic.cc
+Registrar URL: https://www.webnic.cc
+Updated Date: 2025-03-08T15:17:24.0Z
+Creation Date: 2025-03-08T15:16:58.0Z
+Registry Expiry Date: 2026-03-08T23:59:59.0Z
+Registrar: Web Commerce Communications Ltd
+Registrar IANA ID: 460
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: addPeriod https://icann.org/epp#addPeriod
+Registrant Organization: TrafficDomains INC
+Registrant State/Province: Poznan
+Registrant Country: MY
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: JAMIE.NS.CLOUDFLARE.COM
+Name Server: BEN.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: support@webnic.cc
+Registrar Abuse Contact Phone: +60.389966788
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-10T01:25:33.0Z 

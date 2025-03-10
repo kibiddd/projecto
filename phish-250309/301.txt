@@ -1,0 +1,17 @@
+   Domain Name: TEMPISITE.COM
+   Registry Domain ID: 2757011443_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.nhanhoa.com
+   Registrar URL: https://nhanhoa.com/
+   Updated Date: 2025-01-24T03:35:40Z
+   Creation Date: 2023-02-08T08:53:10Z
+   Registry Expiry Date: 2026-02-08T08:53:10Z
+   Registrar: Nhan Hoa Software Company Ltd.
+   Registrar IANA ID: 1710
+   Registrar Abuse Contact Email: hdung@nhanhoa.com
+   Registrar Abuse Contact Phone: +84.2473086680
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: JUSTIN.NS.CLOUDFLARE.COM
+   Name Server: VAL.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-10T01:27:06Z 

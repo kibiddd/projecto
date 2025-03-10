@@ -1,0 +1,17 @@
+   Domain Name: 551007S.CC
+   Registry Domain ID: 204329419_DOMAIN_CC-VRSN
+   Registrar WHOIS Server: whois.gname.com
+   Registrar URL: http://www.gname.com
+   Updated Date: 2025-02-20T04:58:20Z
+   Creation Date: 2025-02-20T04:50:56Z
+   Registry Expiry Date: 2026-02-20T04:50:56Z
+   Registrar: Gname.com Pte. Ltd.
+   Registrar IANA ID: 1923
+   Registrar Abuse Contact Email: complaint@gname.com
+   Registrar Abuse Contact Phone: +65.65189986
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: FELIPE.NS.CLOUDFLARE.COM
+   Name Server: ROBIN.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-10T01:24:09Z 

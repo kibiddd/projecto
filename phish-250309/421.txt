@@ -1,0 +1,11 @@
+Domain Name: qhoyzs.cn
+ROID: 20240604s10001s57817791-cn
+Domain Status: ok
+Registrant: 赵董
+Registrant Contact Email: iin87824201@21cn.com
+Sponsoring Registrar: 阿里云计算有限公司（万网）
+Name Server: ns1.judns.com
+Name Server: ns2.judns.com
+Registration Time: 2024-06-04 22:14:11
+Expiration Time: 2025-06-04 22:14:11
+DNSSEC: unsigned
