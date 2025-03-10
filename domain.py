@@ -2,8 +2,8 @@
 from transformers import pipeline
 import whois
 
-def domain_analysis(url, info):
-	pipe = pipeline("text-generation", model="microsoft/Phi-4-mini-instruct", trust_remote_code=True)
+def domain_analysis(pipe, url, info):
+	# pipe = pipeline("text-generation", model="microsoft/Phi-4-mini-instruct", trust_remote_code=True)
 	task = """Based on the domain registration information, analyze potential fraud indicators:
 (1) Is the registration recent (less than 6 months) or expiring soon (less than a year)? Today is 2025-03-07.
 (2) Is the contact information redacted, partial, or suspicious?
