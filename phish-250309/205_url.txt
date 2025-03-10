@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of'service' and an unusual character'mm' instead of'm', which could be an attempt to deceive or obfuscate the true nature of the website.",
+  "TLD": "The TLD '.page' is not uncommon, but it is not a standard TLD for websites, which could be a red flag.",
+  "Patterns": "The URL is excessively long and contains a random string'mm' which is not typical for a legitimate website.",
+  "Other": "The URL lacks a clear and recognizable domain name, which is often a sign of a fraudulent website.",
+  "verdict": 8
+}
+```

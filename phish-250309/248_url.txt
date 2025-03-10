@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a mix of letters and numbers, which could be an attempt to obfuscate the true nature of the domain. However, there are no obvious misspellings or character substitutions that are commonly used in deceptive domains.",
+  "TLD": "The TLD '.app' is commonly used for hosting applications and is not considered high-risk. It is a legitimate TLD.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "The domain name 'hjgf678iuyshdfd7f8ydhgfhisdfjio-t26' does not immediately suggest any other suspicious factors. It is a long string of characters, but without additional context, it is not possible to determine if it is fraudulent.",
+  "verdict": 2
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'blocxchain.co' does not contain obvious misspellings or character substitutions that would typically indicate a deceptive domain. It appears to be a legitimate-looking domain name.",
+  "TLD": "The TLD '.co' is commonly used for companies and organizations, especially in the United States. It is not considered high-risk or uncommon.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "There are no other obvious suspicious URL factors present in the given URL.",
+  "verdict": 1
+}
+```

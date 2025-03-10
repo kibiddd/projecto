@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'haacken.com' contains a misspelling of 'hackers.com', which is a common tactic used by fraudulent sites to deceive users.",
+  "TLD": "The TLD '.com' is a common and trusted TLD, so it does not indicate a high risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters, so it does not show suspicious patterns.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 3
+}
+```

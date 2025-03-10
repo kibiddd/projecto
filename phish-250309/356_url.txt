@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The URL contains a deceptive domain with a double hyphen ('--') which is not a standard character in domain names and could be an attempt to mislead or confuse.",
+  "TLD": "The TLD used in the URL is '.webflow.io', which is a legitimate and commonly used TLD for web services, so it is not considered high-risk or uncommon.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters that are typically associated with fraudulent URLs.",
+  "Other": "The URL includes a double hyphen which is not a standard character in domain names and could be an attempt to mislead or confuse.",
+  "verdict": 3
+}
+```

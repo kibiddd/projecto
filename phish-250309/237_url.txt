@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelled 'chrisstanton' instead of 'chrisstanton'.",
+  "TLD": "The TLD '.co.uk' is common and not high-risk.",
+  "Patterns": "The URL contains a long and complex string of characters, which may be suspicious.",
+  "Other": "The URL contains a Facebook Business Insights link, which is not inherently suspicious.",
+  "verdict": 7
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain'mystrikingly.com' is not deceptive as it does not contain misspellings, character substitutions, or deceptive subdomains. It is a legitimate domain used by a known web hosting service.",
+  "TLD": "The TLD '.com' is a common and high-risk TLD, but it is not considered high-risk or uncommon. It is widely used for legitimate websites.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It follows a standard URL structure.",
+  "Other": "The URL does not contain any other suspicious factors. It appears to be a legitimate login page for a website hosted by MyStrikingly.",
+  "verdict": 1
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain'spotify.recompensas.click' contains misspellings and character substitutions, which are common indicators of a deceptive domain.",
+  "TLD": "The TLD '.click' is uncommon and could be considered high-risk, as it is not a standard TLD and is often used in deceptive practices.",
+  "Patterns": "The URL contains an unusual TLD and a misspelled domain, which are suspicious patterns. However, it does not contain excessive length or random strings.",
+  "Other": "The URL is short and does not contain any other obvious suspicious factors.",
+  "verdict": 7
+}
+```

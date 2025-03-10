@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain name contains a misspelling of 'webflow.io' which is a legitimate domain, but the addition of 'app-coinbase-sso-pro-login' could be an attempt to deceive users into thinking it's related to Coinbase's official SSO login page.",
+  "TLD": "The TLD '.io' is commonly used by startups and is not inherently high-risk, but it is not as common as '.com', '.net', or '.org'.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a structured and somewhat expected format for a web application.",
+  "Other": "The URL does not contain any other obvious suspicious factors such as misspelled words, unusual characters, or patterns that are commonly associated with phishing or fraudulent sites.",
+  "verdict": 3
+}
+```

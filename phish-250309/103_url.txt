@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain name contains a misspelling of 'adhelp' as 'ad-help-notification'. This is a common tactic used by fraudsters to create a domain that is similar to a legitimate one, potentially to deceive users.",
+  "TLD": "The TLD '.app' is commonly used for mobile apps and is not considered high-risk. It is a legitimate TLD.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure for a web application.",
+  "Other": "The URL uses'vercel.app', which is a legitimate hosting service. There are no other obvious suspicious factors.",
+  "verdict": 2
+}
+```

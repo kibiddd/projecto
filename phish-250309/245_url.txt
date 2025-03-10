@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The URL contains a misspelling of 'triezorhardwre' which should be 'tricerotatus'. This is a deceptive domain as it uses a misspelled word to potentially mislead users.",
+  "TLD": "The TLD '.webflow.io' is a legitimate and commonly used TLD for web services, so it is not considered high-risk or uncommon.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure for a web service.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 2
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'push' as 'pushtan', which is a common tactic used by fraudsters to create deceptive domains that are visually similar to legitimate ones.",
+  "TLD": "The TLD '.top' is considered high-risk as it is often associated with spam, phishing, and fraudulent websites.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters, but the presence of a misspelled domain and a high-risk TLD are already strong indicators of potential fraud.",
+  "Other": "The URL lacks additional suspicious factors such as excessive length or unusual characters, but the combination of a deceptive domain and a high-risk TLD is concerning.",
+  "verdict": 8
+}
+```

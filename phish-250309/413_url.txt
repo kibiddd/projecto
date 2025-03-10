@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain's-taem.com' contains a misspelling of'steam.com', which is a common gaming platform. This could be an attempt to deceive users into thinking the URL is legitimate.",
+  "TLD": "The TLD '.com' is a common and trusted TLD, so it does not indicate a high risk of fraud.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 3
+}
+```

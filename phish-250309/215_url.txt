@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'gamalellyfe3ionk.com' contains misspellings and character substitutions, which are common indicators of a deceptive domain.",
+  "TLD": "The TLD '.com' is a common and low-risk TLD, so this factor does not indicate fraud.",
+  "Patterns": "The URL contains an excessive length and unusual characters, which could be indicative of a fraudulent URL.",
+  "Other": "The URL contains a suspicious pattern of characters and a misspelled domain, which are both indicators of potential fraud.",
+  "verdict": 7
+}
+```

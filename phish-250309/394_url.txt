@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain'staemcommunutly.com' contains a misspelling of 'community'.",
+  "TLD": "The TLD '.com' is common and not considered high-risk.",
+  "Patterns": "The URL contains an unusual character '5' in the path, which could be a red flag.",
+  "Other": "The URL is relatively short and does not contain excessive length or random strings.",
+  "verdict": 4
+}
+```

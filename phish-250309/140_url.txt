@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'binaceaps' contains a misspelling of 'bank', which is a common tactic used by fraudsters to create deceptive domains that appear legitimate.",
+  "TLD": "The TLD '.web.app' is not uncommon and is typically associated with legitimate websites, so it does not indicate a high-risk domain.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters, so it does not exhibit suspicious patterns.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 3
+}
+```

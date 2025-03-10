@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'programming' and a character substitution in 'ramadhan' (using'my' instead of'me').",
+  "TLD": "The TLD '.id' is uncommon and considered high-risk as it is not a standard TLD and is often used for fraudulent purposes.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters, but the domain itself is suspicious due to the misspellings and character substitutions.",
+  "Other": "The URL structure itself is not inherently suspicious, but the domain and TLD raise concerns.",
+  "verdict": 7
+}
+```

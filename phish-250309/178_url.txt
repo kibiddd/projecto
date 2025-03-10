@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain name contains a misspelling of 'inbase', which could be an attempt to deceive users into thinking it is a legitimate domain.",
+  "TLD": "The TLD '.webflow.io' is a common and safe TLD, as it is associated with the popular web design platform Webflow.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 2
+}
+```

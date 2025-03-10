@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The URL contains a deceptive domain with a misspelling ('www-secure--' instead of 'www-secure'). Additionally, the use of hyphens and double dashes is unusual and may be an attempt to obfuscate the URL.",
+  "TLD": "The TLD used in the URL is '.webflow.io', which is a legitimate and commonly used TLD for web services. It is not uncommon or high-risk.",
+  "Patterns": "The URL contains an unusual pattern with double dashes ('--') which is not typical for standard URLs. This could be an attempt to confuse or mislead users.",
+  "Other": "The URL does not contain any other obvious suspicious factors such as excessive length, random strings, or unusual characters.",
+  "verdict": 6
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain name contains a misspelling of 'loginengine.com' with 'logongeiminn.webflow.io'. This is a common tactic used by fraudsters to create deceptive URLs that appear similar to legitimate ones.",
+  "TLD": "The TLD '.webflow.io' is a subdomain of '.io', which is commonly used by legitimate tech companies. However, it is not uncommon and not typically considered high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 3
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'rfrancis.synology.me' contains a misspelling of 'francis' and a deceptive subdomain'synology.me' which is not the official domain for Synology, a well-known company. This could be an attempt to deceive users into thinking the site is legitimate.",
+  "TLD": "The TLD '.me' is considered a high-risk TLD as it is often used for fraudulent activities and is not commonly associated with legitimate businesses.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters that are typically associated with phishing or fraudulent URLs. It appears to be a standard URL structure for a web service.",
+  "Other": "The URL uses a '.me' TLD which is known for being associated with fraudulent activities. The deceptive subdomain'synology.me' is also a red flag.",
+  "verdict": 8
+}
+```

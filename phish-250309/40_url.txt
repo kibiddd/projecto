@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'deceptive' which could be an attempt to mislead users.",
+  "TLD": "The TLD '.dev' is commonly used for development and testing purposes, not typically high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters.",
+  "Other": "The URL structure itself does not contain any other obvious suspicious factors.",
+  "verdict": 2
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'pagina.pro' contains a misspelling of 'pagina.com', which is a common tactic used by fraudsters to deceive users into thinking they are visiting a legitimate site.",
+  "TLD": "The TLD '.pro' is not uncommon and is typically associated with professional services, so it does not indicate a high-risk domain.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "The URL contains the word 'facebook', which could be a red flag as it may be an attempt to trick users into thinking they are visiting a Facebook support page. However, without more context, it's not possible to determine if this is a deliberate attempt to deceive or a coincidence.",
+  "verdict": 5
+}
+```

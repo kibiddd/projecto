@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of'secure' as'sikker', which is a common tactic used by fraudsters to create deceptive URLs that appear legitimate.",
+  "TLD": "The TLD '.wpenginepowered.com' is not uncommon, but it is not a standard TLD and could be used to mislead users into thinking the site is associated with a legitimate service.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters, so there are no obvious suspicious patterns in this aspect.",
+  "Other": "The URL structure itself does not contain any other obvious suspicious factors.",
+  "verdict": 3
+}
+```

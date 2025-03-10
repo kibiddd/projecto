@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'keonhacai.luxury' contains a misspelling of 'keonhacai.com' which is a common tactic used in phishing attempts to deceive users into thinking they are visiting a legitimate site.",
+  "TLD": "The TLD '.luxury' is uncommon and could be considered high-risk as it is not a standard TLD used for legitimate websites.",
+  "Patterns": "The URL contains an excessive length and a random string '0945er787i6785' which is not typical for a legitimate website and could be used to mislead users.",
+  "Other": "The URL lacks a clear and recognizable domain name, which is a common indicator of a fraudulent website.",
+  "verdict": 8
+}
+```

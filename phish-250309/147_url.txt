@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'glitch.me' as 'glitch.me'.",
+  "TLD": "The TLD '.glitch.me' is not uncommon and is associated with a legitimate service, so it is not high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters.",
+  "Other": "The URL contains a misspelled domain, which could be an attempt to deceive users into thinking it is associated with a legitimate service.",
+  "verdict": 5
+}
+```

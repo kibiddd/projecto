@@ -1,0 +1,7 @@
+```json
+{
+  "Deceptive Domain": "The domain 'glitch.me' is a known platform for creating temporary websites, which can be used for deceptive purposes. However, it does not contain misspellings or character substitutions that are typically associated with phishing or fraudulent sites.",
+  "TLD": "The TLD '.me' is commonly used for personal websites and is not considered high-risk. It is not uncommon and does not inherently indicate a high risk of fraud.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters that would be immediately suspicious. It appears to be a standard URL structure.",
+  "Other": "The URL uses 'glitch.me' as a hosting service, which is not inherently suspicious. However, the use of 'glitch.me' could be a red flag if the content of the website is not what it appears to be, as it could be a temporary or deceptive site.",
+  "verdict":

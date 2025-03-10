@@ -1,0 +1,6 @@
+```json
+{
+  "Deceptive Domain": "The domain 'vaonischile.cl' appears to be a misspelling of 'vanguardisle.cl'. This could be an attempt to deceive users into thinking they are visiting a legitimate site.",
+  "TLD": "The TLD '.cl' is a country code top-level domain for Chile, which is not uncommon or high-risk. It is a legitimate TLD for Chilean websites.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure for a webpage.",
+  "Other": "The URL contains a mix of uppercase and lowercase letters, which is not inherently suspicious. However, the presence of 'wp-includes' in the path could be a sign of a WordPress installation, which is common for legitimate websites. The 'IXR/gqocfipm/ic-access/otp.html' part of the URL does not

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'anthem.synology.me' contains a misspelling of 'anthem' and a character substitution in'synology' (using'me' instead of 'com').",
+  "TLD": "The TLD '.me' is considered a high-risk TLD, often associated with fraudulent activities.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters, but it does use a deceptive subdomain.",
+  "Other": "The URL uses a subdomain that is not typical for a legitimate service, which is a common indicator of phishing or fraudulent sites.",
+  "verdict": 8
+}
+```

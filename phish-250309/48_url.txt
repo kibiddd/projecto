@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'fleek.ipfs.io' appears to be a misspelling of 'files.ipfs.io', which is a legitimate IPFS domain. However, the subdomain 'fleek' is not a standard or common subdomain for IPFS, which could be a red flag.",
+  "TLD": "The TLD '.io' is commonly used for domains associated with startups and tech companies, and it is not considered high-risk. It is a legitimate TLD.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It follows a standard URL structure.",
+  "Other": "The URL contains a '.html' extension, which is typical for web pages. There are no other obvious suspicious factors.",
+  "verdict": 2
+}
+```

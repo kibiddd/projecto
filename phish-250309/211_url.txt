@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'pages.dev' is a known legitimate domain used by Vercel for hosting websites. It does not contain misspellings, character substitutions, or deceptive subdomains.",
+  "TLD": "The TLD '.dev' is commonly used for development and testing purposes and is not considered high-risk or uncommon.",
+  "Patterns": "The URL is relatively short and does not contain excessive length, random strings, or unusual characters.",
+  "Other": "The URL does not contain any other suspicious factors.",
+  "verdict": 1
+}
+```

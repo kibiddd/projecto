@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain name contains misspellings and character substitutions, which are common indicators of a deceptive domain.",
+  "TLD": "The TLD used is.godaddysites, which is uncommon and considered high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters, so this factor does not indicate fraud.",
+  "Other": "The URL uses a known domain generation algorithm (DGA) service, which is often associated with malicious activities.",
+  "verdict": 9
+}
+```

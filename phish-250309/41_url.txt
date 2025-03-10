@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "No misspellings or character substitutions detected. The domain 'educatsy.co.uk' appears to be a legitimate variation of 'educatesy.co.uk'.",
+  "TLD": "The TLD '.co.uk' is common and not considered high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "No other suspicious URL factors are present.",
+  "verdict": 1
+}
+```

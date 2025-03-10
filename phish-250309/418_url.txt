@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain'steamcommunity.com' is a legitimate domain, but the URL provided is incorrect as it should be'steamcommunity.com/app/23490/rust'. The URL provided seems to be a misspelling or a typo.",
+  "TLD": "The TLD '.com' is a common and trusted TLD, so there is no indication of fraud here.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It follows a standard URL structure.",
+  "Other": "The URL provided is not a valid URL for the Steam community app. It seems to be a typo or a misspelling. The correct URL should be 'https://steamcommunity.com/app/23490/rust'.",
+  "verdict": 2
+}
+```

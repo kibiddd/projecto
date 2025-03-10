@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'azexpressbd.com' appears to be a misspelling of 'amazonexpressbd.com'. The 'az' instead of 'am' is a common deceptive practice to trick users into thinking they are visiting a legitimate site.",
+  "TLD": "The TLD '.com' is a common and trusted TLD, so it does not indicate a high risk.",
+  "Patterns": "The URL contains a mix of alphanumeric characters and hyphens, which is typical for many legitimate websites. There are no obvious suspicious patterns such as excessive length or random strings.",
+  "Other": "The URL contains a query string with parameters that could potentially be used for phishing or malicious purposes. The presence of a numeric sequence at the end of the URL ('N0123N') could be an attempt to obfuscate the actual destination.",
+  "verdict": 6
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'authentication' and a suspicious subdomain 'auth-m---stert-treezor'.",
+  "TLD": "The TLD '.webflow.io' is a common and safe TLD, not high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters.",
+  "Other": "The URL structure itself does not contain any other obvious suspicious factors.",
+  "verdict": 3
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'yhgvg.juewa.cn' contains misspellings and character substitutions, which are common indicators of a deceptive domain.",
+  "TLD": "The TLD '.cn' is a common country code top-level domain for China, which is not typically considered high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters, so there are no suspicious patterns in this aspect.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 3
+}
+```

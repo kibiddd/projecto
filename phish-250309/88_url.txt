@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelled 'r2' instead of 'r2dev', which is a common tactic used by fraudsters to deceive users into thinking they are visiting a legitimate site.",
+  "TLD": "The TLD '.dev' is commonly used for development and testing purposes, and while it is not inherently high-risk, it is not a standard TLD for commercial websites, which could be a red flag.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters that are typically associated with phishing or fraudulent websites.",
+  "Other": "The URL structure itself does not contain any other obvious signs of being fraudulent.",
+  "verdict": 3
+}
+```

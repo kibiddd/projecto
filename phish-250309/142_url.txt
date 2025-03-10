@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'bitfarmsmining' as 'bitfarmsmining-platform'. This is a common tactic used by fraudsters to create deceptive URLs that appear legitimate at first glance.",
+  "TLD": "The TLD '.top' is considered high-risk and uncommon. It is often associated with fraudulent websites and is used by scammers to trick users into visiting their sites.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a straightforward URL with a clear structure.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 8
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a sequence of numbers (111111) which is unusual and may be a red flag for deception.",
+  "TLD": "The TLD used is.wixsite, which is a legitimate domain extension for Wix, a popular website builder. It is not uncommon or high-risk.",
+  "Patterns": "The URL contains a long sequence of numbers (111111) which is unusual and may be a red flag for deception.",
+  "Other": "The URL contains a language tag and a unique identifier (cid) which are not inherently suspicious.",
+  "verdict": 7
+}
+```

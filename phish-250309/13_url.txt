@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain name contains a misspelling of 'auth' as 'auth-ca', which could be an attempt to deceive users into thinking it is a legitimate domain.",
+  "TLD": "The TLD '.webflow.io' is commonly used for legitimate websites, especially those created with the Webflow platform, so it is not considered high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters that are typically associated with fraudulent URLs.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 2
+}
+```

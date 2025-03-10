@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'formulir' which could be an attempt to deceive users into thinking it is a legitimate domain.",
+  "TLD": "The TLD '.my.id' is uncommon and could be considered high-risk as it is not a standard TLD used for commercial websites.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters, but the misspelling in the domain name is a suspicious pattern.",
+  "Other": "The URL structure itself does not contain any other obvious suspicious factors.",
+  "verdict": 6
+}
+```

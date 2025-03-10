@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain'securaccount.info' does not contain obvious misspellings or character substitutions that would typically indicate a deceptive domain. It appears to be a legitimate-looking domain name.",
+  "TLD": "The TLD '.info' is commonly used for informational websites and is not considered high-risk or uncommon. It is a trusted TLD.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "There are no other suspicious URL factors present in this URL.",
+  "verdict": 1
+}
+```

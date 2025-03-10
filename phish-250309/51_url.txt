@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'google' (g551000 instead of google.com).",
+  "TLD": "The TLD.cc is uncommon and considered high-risk.",
+  "Patterns": "The URL is excessively long and contains a random string of characters, which is unusual for a legitimate domain.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 9
+}
+```

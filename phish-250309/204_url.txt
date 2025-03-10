@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'enforcementleadsplus.vercel.app' does not contain obvious misspellings or character substitutions. However, the use of'vercel.app' as a subdomain could be considered deceptive as it is not a standard domain extension and may be used to mislead users.",
+  "TLD": "The TLD '.app' is commonly used for mobile apps and is not typically considered high-risk. However, it is not a standard TLD for websites, which could be a red flag.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "The URL contains a subdomain'vercel.app' which is not a standard domain extension and could be used to mislead users. This could be considered a suspicious factor.",
+  "verdict": 5
+}
+```

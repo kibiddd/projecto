@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'glitch.me' which could be an attempt to deceive users into thinking it's a legitimate site.",
+  "TLD": "The TLD '.glitch.me' is associated with Glitch, a platform for web development, and is not inherently high-risk or uncommon.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters that are typically associated with fraudulent URLs.",
+  "Other": "The URL uses a subdomain of 'glitch.me', which is a known platform for creating and sharing web projects, so it is not inherently suspicious.",
+  "verdict": 2
+}
+```

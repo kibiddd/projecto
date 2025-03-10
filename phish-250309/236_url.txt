@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'hackingetico.cl' contains a misspelling of 'hackingetico.com'. The use of a non-standard domain name can be a red flag for phishing or fraudulent activities.",
+  "TLD": "The TLD '.cl' is associated with Chile and is not uncommon. It is not considered high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 3
+}
+```

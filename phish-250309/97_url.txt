@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'com' as 'k'.",
+  "TLD": "The TLD '.cc' is uncommon and considered high-risk.",
+  "Patterns": "The URL is excessively long and contains unusual characters.",
+  "Other": "The URL structure is suspicious due to the misspelled domain and uncommon TLD.",
+  "verdict": 9
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'logco.nz' appears to be a misspelling of 'logco.com' or 'logco.net'. This could be an attempt to deceive users into thinking the website is legitimate.",
+  "TLD": "The TLD '.nz' is a country code top-level domain for New Zealand, which is not considered high-risk or uncommon.",
+  "Patterns": "The URL contains an excessive length and a random string '67345346332', which could be an attempt to obfuscate the true destination of the link.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 7
+}
+```

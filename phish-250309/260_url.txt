@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'jlka101.github.io' does not contain misspellings or character substitutions. It appears to be a legitimate GitHub user handle followed by a common subdomain 'github.io'.",
+  "TLD": "The TLD '.io' is commonly used for hosting services and is not typically considered high-risk. It is a legitimate TLD.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It follows a standard URL structure.",
+  "Other": "The URL appears to be a GitHub repository page, which is a legitimate source. There are no other suspicious factors present.",
+  "verdict": 1
+}
+```

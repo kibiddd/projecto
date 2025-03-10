@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The URL contains a deceptive domain with a misspelled 'coinbasepro' and an unusual subdomain 'portal-coinbasepro--cdn-e--auth-cdn.webflow.io'.",
+  "TLD": "The TLD '.webflow.io' is uncommon and could be considered high-risk as it is not a standard TLD and is associated with a specific platform.",
+  "Patterns": "The URL contains unusual characters and a pattern that includes double dashes '--' which is not typical for standard URLs.",
+  "Other": "The URL structure is unusual and contains elements that are not commonly found in legitimate URLs, which could be indicative of a phishing attempt or a fraudulent site.",
+  "verdict": 8
+}
+```

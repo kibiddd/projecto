@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain name contains a deceptive subdomain 'webflow.io' which is a legitimate service, but the inclusion of 'login-en-us-auth' could be misleading as it suggests a specific service or country, which might not be the case. However, there are no obvious misspellings or character substitutions.",
+  "TLD": "The TLD '.io' is commonly used by startups and is not typically considered high-risk. It is a legitimate TLD.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure for a web application.",
+  "Other": "The URL does not contain any other obvious suspicious factors. It is a standard URL for a web application, and the domain name does not contain any deceptive elements.",
+  "verdict": 2
+}
+```

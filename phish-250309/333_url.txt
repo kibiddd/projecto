@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain'realitybytes.net.au' does not contain obvious misspellings or character substitutions. However, the subdomain'mswiss' could be considered deceptive as it might be an attempt to mimic a legitimate domain or company name.",
+  "TLD": "The TLD '.net.au' is a legitimate and commonly used TLD for Australian websites. It is not considered high-risk or uncommon.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 2
+}
+```

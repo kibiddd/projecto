@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'ndax' as 'ndax-connect', which could be an attempt to deceive users into thinking it's a legitimate domain.",
+  "TLD": "The TLD '.webflow.io' is commonly used for websites built with Webflow, a popular website building platform, and is not considered high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters that are typically associated with fraudulent URLs.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 2
+}
+```

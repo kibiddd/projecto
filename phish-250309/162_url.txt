@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'dafea.co.uk' which could be an attempt to deceive users into thinking it is a legitimate domain.",
+  "TLD": "The TLD '.co.uk' is common and not considered high-risk, so this factor does not indicate fraud.",
+  "Patterns": "The URL contains a long and complex string of characters that could be used to obfuscate the true destination, which is a common pattern in fraudulent URLs.",
+  "Other": "The URL contains a numeric sequence that could be used to track or identify users, which is another common indicator of a fraudulent URL.",
+  "verdict": 7
+}
+```

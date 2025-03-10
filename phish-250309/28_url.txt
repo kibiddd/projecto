@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'weebly.com' is legitimate, but the subdomain 'broadband667877' is unusual and could be a deceptive attempt to mimic a legitimate domain.",
+  "TLD": "The TLD '.weebly.com' is a legitimate and commonly used domain extension, so it is not considered high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 2
+}
+```

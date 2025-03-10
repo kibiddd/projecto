@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'glitch.me' is a known service for creating temporary websites, which can be used for deceptive purposes. However, it does not contain misspellings or character substitutions.",
+  "TLD": "The TLD '.me' is commonly used for personal websites and is not considered high-risk.",
+  "Patterns": "The URL is relatively short and does not contain excessive length, random strings, or unusual characters.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 2
+}
+```

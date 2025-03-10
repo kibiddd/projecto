@@ -1,0 +1,6 @@
+```json
+{
+  "Deceptive Domain": "The domain 'bryt237.github.io' appears to be a misspelling of 'bit237.github.io'. The misspelling of 'bit' to 'bryt' is a common tactic used by fraudsters to create deceptive domains that are visually similar to legitimate ones.",
+  "TLD": "The TLD '.io' is commonly associated with startups and is not inherently high-risk. However, it is not as common as.com,.net, or.org, which could be a minor red flag.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "The URL contains a '.github.io' subdomain, which is a legitimate hosting service for GitHub projects. However, the presence of 'Facebook-bt' in the URL is suspicious as it suggests a potential phishing attempt to mimic a Facebook

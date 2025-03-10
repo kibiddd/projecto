@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'old-art' as 'old-art.dzvg'. This could be an attempt to deceive users into thinking it's a legitimate domain.",
+  "TLD": "The TLD '.dzvg' is uncommon and not widely recognized, which could be a sign of a high-risk domain.",
+  "Patterns": "The URL contains an unusual TLD and a misspelled domain, which are both suspicious patterns.",
+  "Other": "The URL uses a subdomain '.workers.dev' which is associated with a legitimate service, but the overall domain structure is suspicious.",
+  "verdict": 8
+}
+```

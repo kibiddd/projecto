@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain'shorten.so' is a legitimate shortening service, but the subdomain '@handle_inquiries_789789' is unusual and could be deceptive as it resembles a social media handle or a personal identifier, which is not typical for a URL shortening service.",
+  "TLD": "The TLD '.so' is not uncommon and is typically associated with shortening services, so it does not indicate a high-risk domain.",
+  "Patterns": "The URL does not contain excessive length or random strings, and it does not have unusual characters. It follows a standard URL shortening service pattern.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 2
+}
+```

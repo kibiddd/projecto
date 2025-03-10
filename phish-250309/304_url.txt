@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'paypal' which is a common tactic used by fraudsters to deceive users into thinking they are visiting a legitimate site.",
+  "TLD": "The TLD '.lt' is not uncommon and is associated with Lithuania, which is not typically considered high-risk. However, the use of a TLD that is not directly related to the expected domain name can be a red flag.",
+  "Patterns": "The URL is excessively long and contains a random string of characters after the domain name, which is not typical for a legitimate website and could indicate an attempt to obfuscate the true destination.",
+  "Other": "The URL does not contain any other immediately obvious suspicious factors.",
+  "verdict": 7
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'trycloudflare.com' with 'than-rr-connector-nato'. This could be an attempt to deceive users into thinking they are visiting a legitimate site.",
+  "TLD": "The TLD '.trycloudflare.com' is not uncommon, but it is not a standard TLD and could be used to mislead users. However, it is not inherently high-risk.",
+  "Patterns": "The URL does not contain excessive length or random strings, but it does have unusual characters and a misspelled domain, which could be a red flag.",
+  "Other": "The URL does not contain any other obvious suspicious factors such as a long string of numbers or special characters that are not part of the domain name.",
+  "verdict": 6
+}
+```

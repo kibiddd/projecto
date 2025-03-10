@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'jd2.ru' contains a misspelling of 'jd2.com'. This is a common tactic used by fraudsters to create deceptive domains that appear similar to legitimate ones.",
+  "TLD": "The TLD '.ru' is common and not considered high-risk. It is the country code top-level domain for Russia.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure for a Steam store page.",
+  "Other": "The URL leads to a legitimate Steam store page for the game 'STALKER 2: Heart of Chornobyl'. There are no other suspicious factors present.",
+  "verdict": 1
+}
+```

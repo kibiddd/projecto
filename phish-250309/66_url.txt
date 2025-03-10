@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'lombard', which is a common city name in Brazil, and the addition of 'national' which is not a typical part of the domain name. This could be an attempt to deceive users into thinking the site is related to a legitimate Brazilian entity.",
+  "TLD": "The TLD '.xyz' is uncommon and considered high-risk as it is often used by fraudulent sites to avoid detection by users and search engines.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters that are typically associated with phishing or fraudulent sites.",
+  "Other": "The URL does not contain any other obvious suspicious factors such as the use of IP addresses, lack of HTTPS, or misleading domain names that are common in phishing attempts.",
+  "verdict": 7
+}
+```

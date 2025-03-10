@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'winnatech.site' contains a misspelling of 'winnatech.com', which is a deceptive domain as it may be intended to mimic a legitimate domain.",
+  "TLD": "The TLD '.site' is not uncommon, but it is not a high-risk TLD. However, it is not typically associated with legitimate services, which could be a red flag.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 3
+}
+```

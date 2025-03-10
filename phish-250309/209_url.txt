@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'findcare.za.com' does not appear to contain misspellings, character substitutions, or deceptive subdomains. It seems to be a legitimate domain with a clear and recognizable structure.",
+  "TLD": "The TLD '.za' is a country code top-level domain (ccTLD) for South Africa. It is not uncommon or high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "There are no other suspicious URL factors present in this URL.",
+  "verdict": 1
+}
+```

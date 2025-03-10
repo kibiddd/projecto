@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The URL contains a misspelling of 'logged' as 'logon' and an extra hyphen in 'ledgar'.",
+  "TLD": "The TLD '.io' is commonly used by legitimate businesses, especially in the tech industry, and is not considered high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters.",
+  "Other": "The URL uses a subdomain that is not typical for a well-known service, which could be a red flag.",
+  "verdict": 4
+}
+```

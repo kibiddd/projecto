@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'weeblysite.com' as 'weeblysite.com'.",
+  "TLD": "The TLD '.weeblysite.com' is uncommon and associated with a specific website builder, which could be a red flag.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters.",
+  "Other": "The URL uses a subdomain that is not typical for a high-risk domain, but the use of a less common TLD could be suspicious.",
+  "verdict": 5
+}
+```

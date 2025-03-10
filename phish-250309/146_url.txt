@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'booga.life' contains a misspelling of 'booga.com'. This is a common tactic used by fraudsters to create deceptive domains that are visually similar to legitimate ones.",
+  "TLD": "The TLD '.life' is uncommon and could be considered high-risk as it is not a standard TLD used for legitimate websites.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a simple and straightforward URL.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 7
+}
+```

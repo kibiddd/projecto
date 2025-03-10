@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of'spotifiy' instead of'spotify', which is a common tactic used by fraudsters to create deceptive domains that are visually similar to legitimate ones.",
+  "TLD": "The TLD '.co' is commonly used by legitimate businesses, especially in Colombia, and is not considered high-risk. However, it is not as common as.com,.org, or.net, which might raise some suspicion.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 3
+}
+```

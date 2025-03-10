@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains misspellings and character substitutions, such as 'ttiaruxzrewalt' instead of a more standard domain name.",
+  "TLD": "The TLD '.webflow.io' is a common and reputable TLD used by the Webflow platform, which is not considered high-risk.",
+  "Patterns": "The URL is excessively long and contains unusual characters, which could be indicative of an attempt to obfuscate the true destination.",
+  "Other": "The URL does not contain any other immediately apparent suspicious factors.",
+  "verdict": 7
+}
+```

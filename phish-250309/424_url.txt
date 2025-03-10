@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain name contains a misspelling of'stirring-pixie', which could be an attempt to deceive users into thinking it's a legitimate or related domain.",
+  "TLD": "The TLD '.netlify.app' is a subdomain of a legitimate service, but the use of a subdomain can sometimes be a tactic to hide the true nature of the site.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters that are typically associated with fraudulent URLs.",
+  "Other": "The URL uses a subdomain of a known service, which could be a legitimate use case, but the deceptive domain name could be a red flag.",
+  "verdict": 3
+}
+```

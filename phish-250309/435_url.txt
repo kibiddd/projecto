@@ -1,0 +1,6 @@
+```json
+{
+  "Deceptive Domain": "The domain'vercel.app' is a legitimate service, but the URL contains a misspelled 'admasters' instead of 'admasters.com'. This could be an attempt to deceive users into thinking it's a legitimate site.",
+  "TLD": "The TLD '.app' is commonly used for mobile apps and is not considered high-risk. However, the URL does not end with a traditional TLD like '.com', '.net', or '.org'.",
+  "Patterns": "The URL contains a mix of alphanumeric characters and symbols, which is not inherently suspicious. However, the presence of a URL encoded string ('3a36efff&cf6=5a&1eG=K9dHF3da4b=D400e.html') within the URL is unusual and could be a sign of an attempt to obfuscate the true destination.",
+  "Other": "The URL contains a mix

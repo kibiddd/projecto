@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains misspellings and character substitutions, such as 'pay-pay-pay' instead of a proper domain name, and 'ne-jp18js' instead of a standard domain extension.",
+  "TLD": "The TLD '.replit.app' is uncommon and associated with a platform that is primarily used for educational purposes, which could be a red flag for fraud.",
+  "Patterns": "The URL contains excessive length and unusual characters, which are not typical for standard URLs and could indicate an attempt to deceive or obfuscate the true destination.",
+  "Other": "The URL does not contain any other immediately recognizable suspicious factors, but the combination of the above points still raises concerns.",
+  "verdict": 8
+}
+```

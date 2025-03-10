@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain name contains a misspelling of 'binance' as 'binances'. This is a common tactic used by fraudsters to create a domain that looks similar to a legitimate one but is actually different.",
+  "TLD": "The TLD '.web.app' is not uncommon, but it is not typically associated with high-risk domains. However, it is not a standard TLD for financial services, which could be a red flag.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 3
+}
+```

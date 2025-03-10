@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain '5510005.net' contains a numeric sequence which could be a misspelling or a deceptive attempt to mimic a legitimate domain. The use of a numeric sequence instead of a word or a common domain name is a red flag.",
+  "TLD": "The TLD '.net' is a common and trusted TLD, so it does not indicate a high risk on its own.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "The URL lacks a recognizable company name or website, which is often a sign of a fraudulent site. The numeric sequence in the domain name is unusual and could be an attempt to deceive users.",
+  "verdict": 6
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'govaere.be' contains a misspelling of 'Google'. This is a common tactic used by fraudsters to create deceptive domains that appear legitimate.",
+  "TLD": "The TLD '.be' is a country code top-level domain for Belgium, which is not uncommon or high-risk. However, the presence of '.com' in the URL is not suspicious.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a straightforward link to a webpage.",
+  "Other": "The URL contains 'earthlinkWITHPIN', which could be a deceptive attempt to include a legitimate company name with an added string to mislead users. However, without further context, it's hard to determine if this is a red flag.",
+  "verdict": 3
+}
+```

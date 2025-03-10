@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain'vercel.app' is a legitimate domain, but the URL contains a misspelled 'admasters' instead of 'admasters'.",
+  "TLD": "The TLD '.app' is commonly used for mobile apps and is not considered high-risk.",
+  "Patterns": "The URL contains a mix of alphanumeric characters and symbols, but it does not exhibit excessive length or random strings.",
+  "Other": "The URL contains a query string with parameters that could be used for tracking or malicious purposes.",
+  "verdict": 3
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'cdn.trytraffics.com' contains a misspelling of 'cdn.trafflics.com', which is a deceptive domain.",
+  "TLD": "The TLD '.com' is a common and low-risk TLD, so this factor does not indicate fraud.",
+  "Patterns": "The URL contains a long string of characters that appears to be random and does not follow a typical URL structure, which could be a sign of a phishing attempt.",
+  "Other": "The URL contains an encoded string that could be used to hide malicious content or to bypass security filters.",
+  "verdict": 8
+}
+```

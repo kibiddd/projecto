@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The URL contains a misspelled domain name 'auth-s-started-traizor' instead of a more common 'auth-s-started-trustor'. This is a clear indicator of a deceptive domain.",
+  "TLD": "The TLD '.webflow.io' is a legitimate and commonly used TLD for web hosting services, so it is not considered high-risk or uncommon.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 7
+}
+```

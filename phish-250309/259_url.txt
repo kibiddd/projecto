@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'weebly.com' is a legitimate and commonly used platform for website hosting. There are no misspellings, character substitutions, or deceptive subdomains present in this URL.",
+  "TLD": "The TLD '.com' is a common and trusted domain extension. It is not considered high-risk or uncommon.",
+  "Patterns": "The URL does not contain any suspicious patterns such as excessive length, random strings, or unusual characters. It follows a standard URL structure.",
+  "Other": "There are no other suspicious URL factors present in this URL.",
+  "verdict": 1
+}
+```

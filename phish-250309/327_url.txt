@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling ('pub' instead of 'pub') and a deceptive subdomain ('r2.dev' instead of a more standard domain name).",
+  "TLD": "The TLD '.r2.dev' is uncommon and could be considered high-risk as it is not a standard TLD and is often used for staging or development purposes.",
+  "Patterns": "The URL contains an unusual character ('2') in the subdomain and an excessive length with a random string ('pub-5d83f6276a7e4a26a7b61ce5b5707056').",
+  "Other": "The URL contains an email parameter ('email=3mail@b.c') which is unusual and could be used for phishing or other malicious purposes.",
+  "verdict": 8
+}
+```

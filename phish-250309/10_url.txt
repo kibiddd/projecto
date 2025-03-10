@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The URL contains a hyphen (-) instead of a dot (.), which is not a common practice and could be a deceptive attempt to confuse users.",
+  "TLD": "The TLD used is.io, which is commonly associated with startups and tech companies, but it is not inherently high-risk. However, it is not as common as.com,.net, or.org.",
+  "Patterns": "The URL contains hyphens and underscores, which are not typical in standard URL structures. The URL also has an excessive length, which could be a red flag.",
+  "Other": "The URL does not contain any obvious misspellings or character substitutions, but the use of hyphens and underscores could be a tactic to obfuscate the true destination.",
+  "verdict": 6
+}
+```

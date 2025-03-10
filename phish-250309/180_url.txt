@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'clinicaecomedsaude.com.br' appears to be a legitimate Brazilian domain, with no obvious misspellings or character substitutions. It does not contain deceptive subdomains.",
+  "TLD": "The TLD '.com.br' is a common and trusted TLD for Brazil, not considered high-risk or uncommon.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It follows a standard URL structure.",
+  "Other": "The URL appears to be a legitimate website for a Brazilian clinic, with no other suspicious factors present.",
+  "verdict": 1
+}
+```

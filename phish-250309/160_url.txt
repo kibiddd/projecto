@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'it' as 'iti', which is a common tactic used by fraudsters to create deceptive URLs that are visually similar to legitimate domains.",
+  "TLD": "The TLD '.iti-kirkby.co.uk' is not a standard TLD and appears to be a deceptive subdomain, which is a common indicator of a fraudulent URL.",
+  "Patterns": "The URL contains an unusual combination of characters and a subdomain that does not follow the standard domain structure, which could be indicative of a phishing attempt.",
+  "Other": "The URL lacks a clear and recognizable company name, which is often a red flag for fraudulent websites.",
+  "verdict": 9
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The URL contains a misspelling of'steemcommunity' as'steemcommunity'.",
+  "TLD": "The TLD '.com' is common and not considered high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters.",
+  "Other": "The URL seems to be a legitimate-looking URL, but the misspelling in the domain name could be a red flag.",
+  "verdict": 3
+}
+```

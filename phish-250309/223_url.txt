@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain'myds.me' contains a misspelling of'me', which is a common tactic used in deceptive domains to trick users into thinking they are visiting a legitimate site.",
+  "TLD": "The TLD '.me' is uncommon and considered high-risk as it is often used for phishing and fraudulent activities.",
+  "Patterns": "The URL contains an excessive length and unusual characters, which are common indicators of a fraudulent URL.",
+  "Other": "The URL lacks a clear and recognizable domain name, which is another red flag for potential fraud.",
+  "verdict": 9
+}
+```

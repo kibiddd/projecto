@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'koutroprautraza' which could be an attempt to deceive users into thinking it's a legitimate domain.",
+  "TLD": "The TLD '.app' is commonly used for mobile apps and is not inherently high-risk, but it is not a standard TLD for websites, which could be a red flag.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters, so there are no obvious suspicious patterns in the URL structure itself.",
+  "Other": "The use of'vercel.app' as a subdomain is unusual for a website, as'vercel' is a platform for deploying web applications, not a domain name. This could be a sign of a fraudulent setup.",
+  "verdict": 6
+}
+```

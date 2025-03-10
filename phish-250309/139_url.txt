@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The URL contains a deceptive domain with a misspelled 'bc5' instead of 'bc5' and a suspicious subdomain 'pages.dev'.",
+  "TLD": "The TLD '.dev' is commonly used for development and testing, but it is not inherently high-risk. However, the use of '.dev' in a commercial context could be suspicious.",
+  "Patterns": "The URL contains a suspicious pattern with an excessive length and unusual characters, such as '%5C' which is a URL-encoded backslash.",
+  "Other": "The URL contains a suspicious string 'impression_pixel' which could be an attempt to disguise a malicious script or tracking pixel.",
+  "verdict": 7
+}
+```

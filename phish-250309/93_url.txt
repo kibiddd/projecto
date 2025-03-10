@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'google' (fanga instead of google).",
+  "TLD": "The TLD '.cloudns.org' is uncommon and could be considered high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters.",
+  "Other": "The URL structure itself does not contain any other obvious suspicious factors.",
+  "verdict": 7
+}
+```

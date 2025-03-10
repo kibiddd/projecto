@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain'steamcommunnty.com' contains a misspelling of'steamcommunity.com'. This is a common tactic used by fraudsters to create deceptive domains that appear similar to legitimate ones.",
+  "TLD": "The TLD '.com' is a common and trusted TLD. It is not considered high-risk or uncommon.",
+  "Patterns": "The URL contains a mix of alphanumeric characters and symbols, but it does not exhibit excessive length, random strings, or unusual characters that are typically associated with fraudulent URLs.",
+  "Other": "The URL contains a token parameter, which is not inherently suspicious. However, the presence of a token parameter in a URL can sometimes be a red flag, especially if it is not clear what the token is used for or if it is not part of a legitimate service.",
+  "verdict": 3
+}
+```

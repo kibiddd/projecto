@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'pub' as 'pub-be72959801ce4a2abd2a1c0f02eacb07'. This is a common tactic used by fraudsters to create deceptive URLs.",
+  "TLD": "The TLD '.r2.dev' is uncommon and not typically associated with legitimate websites. It is often used by fraudsters to create deceptive URLs.",
+  "Patterns": "The URL contains an excessive length and unusual characters, which are common indicators of a fraudulent URL.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 8
+}
+```

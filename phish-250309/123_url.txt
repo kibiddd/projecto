@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The URL contains a misspelled 'weeblysite' instead of 'weeblysite.com'.",
+  "TLD": "The TLD '.weeblysite.com' is a legitimate domain extension used by Weebly, a website building platform.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters.",
+  "Other": "The URL does not contain any other suspicious factors.",
+  "verdict": 2
+}
+```

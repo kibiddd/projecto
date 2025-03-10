@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain appears to be a misspelled version of 'onedrive.service-office365.com', which is a common domain for Microsoft's OneDrive service. The misspelling could be an attempt to deceive users into thinking it's a legitimate service.",
+  "TLD": "The TLD '.com' is a common and low-risk TLD, so this does not indicate a high risk of fraud.",
+  "Patterns": "The URL contains a long and complex path with random strings and unusual characters, which could be an attempt to obfuscate the true destination of the link.",
+  "Other": "The URL contains a query parameter 'e=rF2mfd' which could be an encoded string, potentially used to hide malicious intent or to bypass simple URL filters.",
+  "verdict": 7
+}
+```

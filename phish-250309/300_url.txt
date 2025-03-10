@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'tempisite.com' contains a misspelling of 'tempest.com', which is a common tactic used by fraudsters to create deceptive domains that appear similar to legitimate ones.",
+  "TLD": "The TLD '.com' is a common and low-risk TLD, so this does not indicate a high risk of fraud.",
+  "Patterns": "The URL contains an excessive length and a mix of alphanumeric characters, which could be considered suspicious. However, it does not contain random strings or unusual characters.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 3
+}
+```

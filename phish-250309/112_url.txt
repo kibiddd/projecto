@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'localnie.pl' which is a Polish word for 'local'. The '.icu' TLD is unusual and could be a red flag.",
+  "TLD": "The '.icu' TLD is uncommon and could be associated with phishing or fraudulent activities.",
+  "Patterns": "The URL contains an excessive length and a random string '821574.icu', which could be an attempt to obfuscate the true destination.",
+  "Other": "The URL contains a misspelled domain and an unusual TLD, both of which are suspicious.",
+  "verdict": 8
+}
+```

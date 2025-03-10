@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'e-dvltadatt', which could be an attempt to deceive users into thinking it's a legitimate domain.",
+  "TLD": "The TLD '.xyz' is uncommon and considered high-risk, often associated with fraudulent activities.",
+  "Patterns": "The URL does not contain excessive length or random strings, but the unusual characters in the domain name could be a red flag.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 8
+}
+```

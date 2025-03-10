@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'hj88.loans' does not contain obvious misspellings or character substitutions, but it is not a well-known or trusted domain name, which could be a red flag.",
+  "TLD": "The TLD '.loans' is not uncommon, but it is not a standard TLD for financial services, which could be suspicious.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters, so it does not exhibit suspicious patterns in this regard.",
+  "Other": "The URL lacks a recognizable brand or company name, which could be a sign of a fraudulent site.",
+  "verdict": 6
+}
+```

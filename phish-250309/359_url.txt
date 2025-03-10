@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain'securepage.cloud' does not appear to contain misspellings, character substitutions, or deceptive subdomains. It seems to be a legitimate-looking domain.",
+  "TLD": "The TLD '.cloud' is not uncommon and is generally considered safe. It is used by many legitimate cloud service providers.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "There are no other suspicious URL factors present in this URL.",
+  "verdict": 1
+}
+```

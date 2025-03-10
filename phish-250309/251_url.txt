@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'imbhaumik168.github.io' does not contain misspellings or character substitutions. It appears to be a legitimate GitHub user handle followed by a repository name. The subdomain 'github.io' is commonly used for GitHub pages and is not deceptive.",
+  "TLD": "The TLD '.io' is commonly used for organizations and is not considered high-risk. It is a legitimate TLD for the British Indian Ocean Territory.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It follows a standard URL structure.",
+  "Other": "The URL appears to be a legitimate GitHub repository for a Netflix clone project. There are no other suspicious factors present.",
+  "verdict": 1
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'texvt.cn' appears to be a misspelling of 'textrank.cn', which is a legitimate domain. No deceptive subdomains or character substitutions are present.",
+  "TLD": "The TLD '.cn' is common and considered low-risk for China. It is not uncommon or high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "The URL does not contain any other suspicious factors. The presence of 'idtoken=s8gkz' could be a legitimate parameter for a secure token, but without further context, it is not possible to determine if it is suspicious.",
+  "verdict": 1
+}
+```

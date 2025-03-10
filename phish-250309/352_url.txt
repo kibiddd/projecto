@@ -1,0 +1,7 @@
+```json
+{
+  "Deceptive Domain": "The domain'sakshi25-ghb.github.io' does not contain obvious misspellings or character substitutions. However, the use of 'ghb' instead of 'ghb' (GitHub Pages) could be considered a slight misspelling or unconventional naming, which might be a red flag.",
+  "TLD": "The TLD '.github.io' is commonly used for GitHub Pages and is not considered high-risk or uncommon.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure for a GitHub Pages site.",
+  "Other": "The URL contains a personal name'sakshi25' which could be a red flag if it is not the actual name of the user. However, without more context, it's hard to determine if this is a deliberate attempt to deceive or a coincidence.",
+  "verdict": 2

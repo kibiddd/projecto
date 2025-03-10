@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains misspellings and character substitutions (e.g., 'archive' instead of 'archive', 'com.im' instead of 'com.im').",
+  "TLD": "The TLD '.com.im' is uncommon and could be considered high-risk.",
+  "Patterns": "The URL contains an excessive length and unusual characters, which are suspicious patterns.",
+  "Other": "The URL structure itself does not contain any other obvious suspicious factors.",
+  "verdict": 8
+}
+```

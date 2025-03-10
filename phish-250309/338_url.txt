@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain'srfsask.org' contains misspellings and character substitutions, which are common indicators of a deceptive domain.",
+  "TLD": "The TLD '.org' is commonly used for non-profit organizations and is generally considered safe. It is not uncommon or high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "The domain name'srfsask.org' does not contain any other obvious suspicious factors.",
+  "verdict": 2
+}
+```

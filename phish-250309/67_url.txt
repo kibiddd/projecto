@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The URL contains a misspelling of 'trezor' as 'trezoor'.",
+  "TLD": "The TLD '.webflow.io' is commonly used for web hosting and is not considered high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters.",
+  "Other": "The URL structure itself does not contain any other obvious suspicious factors.",
+  "verdict": 2
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'trzr' instead of 'truzr' or 'truzr'. This could be an attempt to deceive users into thinking the domain is legitimate.",
+  "TLD": "The TLD '.webflow.io' is a common and safe TLD, as it is associated with the Webflow platform, which is a legitimate website builder.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "The domain name 'portals-secure-trzr' does not contain any other obvious signs of being a phishing or fraudulent site.",
+  "verdict": 2
+}
+```

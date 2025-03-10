@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains misspellings and character substitutions, such as 'groussuttoigatra' instead of 'groupstutoigatra'.",
+  "TLD": "The TLD '.app' is commonly used for hosting applications and is not considered high-risk.",
+  "Patterns": "The URL contains an unusual character ('ü') and an excessive length, which could be suspicious.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 6
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'example-d.pages.dev' does not contain obvious misspellings, character substitutions, or deceptive subdomains. It appears to be a legitimate-looking domain.",
+  "TLD": "The TLD '.dev' is commonly used for development and testing purposes, and is not considered high-risk or uncommon.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It follows a standard URL structure.",
+  "Other": "There are no other suspicious URL factors present.",
+  "verdict": 1
+}
+```

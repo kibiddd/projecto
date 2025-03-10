@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'bulf163.com' does not appear to contain misspellings, character substitutions, or deceptive subdomains. It is a straightforward and recognizable domain name.",
+  "TLD": "The TLD '.com' is a common and trusted TLD, not considered high-risk or uncommon.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "There are no other suspicious URL factors present in this URL.",
+  "verdict": 1
+}
+```

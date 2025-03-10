@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'tkmaxll.top' contains a misspelling of 'tkmaxll.com' which is a common misspelling used in phishing attempts to deceive users into thinking they are visiting a legitimate site.",
+  "TLD": "The TLD '.top' is uncommon and considered high-risk as it is often used by fraudulent sites to appear legitimate.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters, but the misspelling in the domain is a significant red flag.",
+  "Other": "The URL lacks other suspicious factors such as excessive length or unusual characters, but the deceptive domain and high-risk TLD are concerning.",
+  "verdict": 8
+}
+```

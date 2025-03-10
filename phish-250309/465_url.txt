@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The URL contains a deceptive subdomain'verification-accountt.click' which is a misspelling of'verification-accountt.click'. This is a common tactic used by fraudsters to create a sense of legitimacy.",
+  "TLD": "The TLD '.click' is not uncommon, but it is often associated with adware and phishing sites. It is not considered high-risk, but it is still a cause for suspicion.",
+  "Patterns": "The URL does not contain excessive length or random strings, but it does contain unusual characters such as the dot in'verification-accountt.click'.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 5
+}
+```

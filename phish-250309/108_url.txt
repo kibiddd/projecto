@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of'safety-profiles-fb-ads' and uses a deceptive subdomain'vercel.app' instead of a more recognizable domain name.",
+  "TLD": "The TLD '.app' is commonly used for mobile apps and is not inherently high-risk, but it is not a standard TLD for websites, which could be a red flag.",
+  "Patterns": "The URL is excessively long and contains a random string of characters, which could be an attempt to obfuscate the true destination.",
+  "Other": "The use of'vercel.app' as a subdomain instead of a more standard domain name could be a sign of an attempt to deceive users.",
+  "verdict": 7
+}
+```

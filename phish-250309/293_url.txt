@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The URL contains a deceptive domain with multiple hyphens and unusual characters, which could be an attempt to obfuscate the true nature of the domain.",
+  "TLD": "The TLD used in the URL is.io, which is commonly associated with startups and tech companies, but it is not inherently high-risk. However, it is not as common as.com or.org.",
+  "Patterns": "The URL contains an excessive number of hyphens and unusual characters, which could be a sign of an attempt to disguise the URL or make it less recognizable.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 5
+}
+```

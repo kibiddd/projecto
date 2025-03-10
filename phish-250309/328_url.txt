@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'pub' as 'pub-'. The use of a hyphen instead of a dot is a common tactic to deceive users into thinking they are visiting a legitimate site.",
+  "TLD": "The TLD '.r2.dev' is uncommon and could be considered high-risk as it is not a standard TLD and is often used by malicious actors to create deceptive URLs.",
+  "Patterns": "The URL contains an excessive length and a random string 'indexxxx.htm' which could be an attempt to obfuscate the true destination of the link.",
+  "Other": "The URL lacks a clear and recognizable domain name, which is a common characteristic of phishing and fraudulent websites.",
+  "verdict": 9
+}
+```

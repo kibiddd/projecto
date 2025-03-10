@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain '150manx.com' contains a misspelling of'manx', which is a real place, but the use of 'cn' as a subdomain could be deceptive, as it might be an attempt to mimic a legitimate domain.",
+  "TLD": "The TLD '.com' is common and considered safe, so there is no indication of a high-risk TLD here.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters, so there are no obvious suspicious patterns in the URL structure.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 2
+}
+```

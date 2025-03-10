@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'webflow.io' is a legitimate domain used by Webflow, a popular website building platform. There are no misspellings, character substitutions, or deceptive subdomains present in this URL.",
+  "TLD": "The TLD '.io' is commonly used by startups and tech companies, and while it is not as common as '.com' or '.net', it is not considered high-risk or uncommon.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It follows a standard URL structure.",
+  "Other": "The URL appears to be a legitimate Webflow domain used for hosting a login page. There are no other suspicious factors present.",
+  "verdict": 1
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of'mybluehost.me' which could be an attempt to deceive users into thinking it is a legitimate domain.",
+  "TLD": "The TLD '.rtj' is uncommon and could be considered high-risk, as it is not a standard TLD and may be used for fraudulent purposes.",
+  "Patterns": "The URL contains an excessive length and unusual characters, which are common indicators of a fraudulent URL.",
+  "Other": "The URL contains a '.my' subdomain, which is often used by scammers to create a sense of legitimacy.",
+  "verdict": 8
+}
+```

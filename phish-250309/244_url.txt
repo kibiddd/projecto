@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The URL contains a deceptive subdomain ('help-trezor--sso' instead of a more standard 'help-trezor-sso'). The double hyphen ('--') is unusual and could be a red flag.",
+  "TLD": "The TLD used is '.webflow.io', which is a legitimate and commonly used TLD for web services. It is not uncommon or high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure for a web service.",
+  "Other": "The URL does not contain any other obvious suspicious factors. The domain 'webflow.io' is associated with a legitimate service, and the URL structure is typical for a web application.",
+  "verdict": 2
+}
+```

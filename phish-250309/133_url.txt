@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The URL contains a deceptive domain with a hyphenated subdomain ('auth-logon----ttrzor'). The hyphen is not a standard character in domain names and could be used to mislead users.",
+  "TLD": "The TLD used is '.webflow.io', which is a legitimate and commonly used TLD for web applications. It is not uncommon or high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure for a web application.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 2
+}
+```

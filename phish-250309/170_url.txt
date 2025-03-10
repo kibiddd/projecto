@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'cdn.trytraffics.com' contains a misspelling of 'cdn.trafflics.com', which is a deceptive subdomain.",
+  "TLD": "The TLD '.com' is common and not considered high-risk.",
+  "Patterns": "The URL is excessively long and contains a random string of characters, which is suspicious.",
+  "Other": "The URL contains unusual characters and a random string that does not follow a recognizable pattern.",
+  "verdict": 8
+}
+```

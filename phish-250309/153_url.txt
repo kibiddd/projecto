@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'cafe' as 'cahaulleteise'. This is a common tactic used by fraudsters to create deceptive URLs that are visually similar to legitimate ones.",
+  "TLD": "The TLD '.app' is commonly used by legitimate services, but it is not uncommon. However, the presence of a non-standard TLD like '.app' in a URL that looks like a cafe could be suspicious.",
+  "Patterns": "The URL contains an excessive length and unusual characters, which are not typical for a legitimate cafe website. The presence of random strings like 'xuf.hgmok' is a strong indicator of a fraudulent URL.",
+  "Other": "The URL does not contain any other obvious suspicious factors such as a misspelled domain name, an unusual subdomain, or a high-risk TLD.",
+  "verdict": 8
+}
+```

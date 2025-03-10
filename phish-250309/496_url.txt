@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains misspellings and character substitutions, which are common indicators of a deceptive domain.",
+  "TLD": "The TLD.ghdsyw is uncommon and not a standard TLD, which could be a sign of a high-risk domain.",
+  "Patterns": "The URL contains an unusual TLD and a deceptive domain, which are suspicious patterns.",
+  "Other": "The URL is excessively long and contains unusual characters, which are additional suspicious factors.",
+  "verdict": 9
+}
+```

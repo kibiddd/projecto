@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'unbouncepages.com' appears to be a legitimate domain, but the URL contains a misspelled subdomain 'unbouncepages' instead of the correct 'unbounce'. This could be an attempt to deceive users into thinking they are visiting a legitimate site.",
+  "TLD": "The TLD '.com' is a common and trusted TLD, so it does not indicate a high risk of fraud.",
+  "Patterns": "The URL contains an unusual subdomain and a misspelled domain, which are suspicious patterns. The URL also contains a random string 'helpcenter-facebook-support-2027' which does not follow a typical URL structure.",
+  "Other": "The URL contains a misspelled domain and an unusual subdomain, which are suspicious factors.",
+  "verdict": 7
+}
+```

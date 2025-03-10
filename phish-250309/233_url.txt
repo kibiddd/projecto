@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'haacken.com' contains a misspelling of 'hackers.com', which is a common tactic used by fraudulent sites to deceive users.",
+  "TLD": "The TLD '.com' is a common and trusted TLD, so it does not indicate a high risk on its own.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters that are typically associated with fraudulent URLs.",
+  "Other": "The URL contains a mix of alphanumeric characters and hyphens, which is typical for many legitimate websites. However, the presence of 'backup/sngzamfl/ic-access/otp.html' in the path could be suspicious, as it does not clearly indicate the nature of the website or its content.",
+  "verdict": 4
+}
+```

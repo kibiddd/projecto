@@ -1,0 +1,7 @@
+```json
+{
+  "Deceptive Domain": "The URL contains a misspelling of 'paypal' and an unusual subdomain 'blogspot.com.cy', which is not a legitimate PayPal domain. Additionally, 'cy' is not a standard country code top-level domain (ccTLD) for any country, which is a strong indicator of a deceptive domain.",
+  "TLD": "The TLD '.cy' is not a standard ccTLD and is not commonly associated with legitimate PayPal domains. It is unusual and could be considered high-risk.",
+  "Patterns": "The URL contains an excessive length and a combination of characters that do not follow a typical URL structure. The presence of 'blogspot.com.cy' instead of a standard PayPal domain is suspicious.",
+  "Other": "The URL is attempting to mimic the PayPal domain but uses a deceptive subdomain and an unusual TLD, which are strong indicators of potential fraud.",
+  "verdict":

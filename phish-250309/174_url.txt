@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'changcarlos.github.io' contains a misspelling of 'changecarlos', which could be an attempt to deceive users into thinking it is related to a legitimate site.",
+  "TLD": "The TLD '.io' is commonly used by legitimate tech companies, but it is also used by fraudulent sites. It is not considered high-risk, but it is not entirely safe either.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a straightforward URL.",
+  "Other": "The URL contains a misspelled name and a deceptive subdomain, which are common indicators of a fraudulent site.",
+  "verdict": 7
+}
+```

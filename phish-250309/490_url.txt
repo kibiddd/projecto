@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling ('-5p9' instead of '-5p9') and a deceptive subdomain ('pages.dev' instead of 'pages.dev').",
+  "TLD": "The TLD is uncommon and high-risk (.dev is often used by scammers for temporary websites).",
+  "Patterns": "The URL contains an unusual character ('-') and an excessive length, which could be a sign of a deceptive URL.",
+  "Other": "The URL lacks a clear and recognizable brand name, which is often a sign of a fraudulent website.",
+  "verdict": 8
+}
+```

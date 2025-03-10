@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains misspellings and character substitutions, which are common indicators of a deceptive domain.",
+  "TLD": "The TLD used here is.dev, which is a common and low-risk TLD, so this factor does not indicate fraud.",
+  "Patterns": "The URL contains an excessive length and unusual characters, which are suspicious patterns often found in fraudulent URLs.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 7
+}
+```

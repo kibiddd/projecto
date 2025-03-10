@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain name contains a misspelling of'minilogo' as'minilogginuss'. This could be an attempt to deceive users into thinking it is related to a legitimate service or product.",
+  "TLD": "The TLD '.webflow.io' is a common TLD used by web design platforms and is not considered high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 3
+}
+```

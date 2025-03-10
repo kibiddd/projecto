@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of'sso' as'sso-ca-ndax-sso-auth', which could be an attempt to deceive users into thinking it's a legitimate service.",
+  "TLD": "The TLD '.webflow.io' is a legitimate and commonly used TLD for web services, so it does not indicate a high risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters that are typically associated with fraudulent URLs.",
+  "Other": "The URL structure itself does not contain any other obvious signs of being fraudulent.",
+  "verdict": 2
+}
+```

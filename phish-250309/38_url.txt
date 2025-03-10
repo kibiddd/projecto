@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain'vercel.app' is not deceptive as it does not contain misspellings, character substitutions, or deceptive subdomains. It is a legitimate domain used by Vercel, a popular cloud platform for static websites and serverless functions.",
+  "TLD": "The TLD '.app' is not uncommon and is not considered high-risk. It is commonly used by various companies for their mobile applications and services.",
+  "Patterns": "The URL does not contain suspicious patterns such as excessive length, random strings, or unusual characters. It is a standard URL structure.",
+  "Other": "There are no other suspicious URL factors present in this URL.",
+  "verdict": 1
+}
+```

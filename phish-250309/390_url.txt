@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'desk' as 'desk-trexor'. This could be an attempt to deceive users into thinking the website is legitimate.",
+  "TLD": "The TLD '.webflow.io' is a common TLD used by web design platforms and is not considered high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "The domain name'sso-desk-trexor' does not contain any other obvious signs of being suspicious.",
+  "verdict": 2
+}
+```

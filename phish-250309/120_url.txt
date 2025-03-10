@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'armythlonindia.com' appears to be a misspelling of 'armorylondonindia.com'. The misspelling could be an attempt to deceive users into thinking it is a legitimate domain.",
+  "TLD": "The TLD '.com' is a common and trusted TLD, so it does not indicate a high risk of fraud.",
+  "Patterns": "The URL contains an unusual character 'xm' at the beginning and 'byub' at the end, which could be random strings used to deceive users.",
+  "Other": "The URL length is relatively short and does not contain any other obvious suspicious factors.",
+  "verdict": 5
+}
+```

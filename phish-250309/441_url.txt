@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain'vexti.io' contains a misspelling of 'exti.io', which is a common tactic used by fraudsters to create deceptive domains that are visually similar to legitimate ones.",
+  "TLD": "The TLD '.io' is commonly associated with legitimate tech companies, but it is also used by scammers. However, it is not considered high-risk like '.xyz' or '.top'.",
+  "Patterns": "The URL contains an unusual pattern with the string 'omn=3mail@b.c' which does not follow standard URL encoding and could be an attempt to obfuscate malicious intent.",
+  "Other": "The URL lacks a clear and understandable path, which is unusual for legitimate websites and could be a sign of a phishing attempt.",
+  "verdict": 7
+}
+```

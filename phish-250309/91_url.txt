@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'glitch.me' as 'ringed-liberating-adasaurus.glitch.me'. This is a deceptive domain as it uses a misspelled version of a legitimate domain to potentially mislead users.",
+  "TLD": "The TLD '.me' is commonly used for personal websites and is not considered high-risk. It is a legitimate TLD.",
+  "Patterns": "The URL contains an unusual string 'ringed-liberating-adasaurus' which does not follow a recognizable pattern and could be an attempt to deceive users. The URL also contains an unusual character 'â' which is not typical in standard URLs.",
+  "Other": "The URL does not contain excessive length or random strings, but the use of a deceptive domain and unusual characters are concerning.",
+  "verdict": 7
+}
+```

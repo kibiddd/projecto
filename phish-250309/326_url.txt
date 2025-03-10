@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'r2' as 'r2.dev', which could be an attempt to deceive users into thinking it's a legitimate subdomain of a known service.",
+  "TLD": "The TLD '.dev' is commonly used for development and testing purposes, and is not typically considered high-risk. However, it is not a standard TLD for commercial websites, which could be a red flag.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters that are commonly associated with phishing or fraudulent URLs.",
+  "Other": "The URL contains a query parameter 'd1bedd73f447832edcd29fd93125ae' which could be a random string used to obfuscate the true destination of the link. This could be a sign of an attempt to hide the actual URL.",
+  "verdict": 4
+}
+```

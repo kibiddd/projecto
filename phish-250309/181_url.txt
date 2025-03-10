@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'clubpalestino.cl' contains a misspelling of 'club', which is a common tactic used in deceptive domains to mislead users.",
+  "TLD": "The TLD '.cl' is not uncommon and is associated with the Caribbean, but it is not typically considered high-risk. However, it is not a standard TLD for websites, which could be a red flag.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure for a website.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 3
+}
+```

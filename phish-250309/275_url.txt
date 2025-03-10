@@ -1,0 +1,6 @@
+```json
+{
+  "Deceptive Domain": "The domain name contains a misspelling of 'blockfi', which is a legitimate financial service. However, the use of 'webflow.io' instead of 'webflow.com' could be a red flag as it is not the standard domain for Webflow, which is a legitimate web design platform. This could be an attempt to deceive users into thinking the site is associated with Webflow.",
+  "TLD": "The TLD '.io' is commonly used by startups and tech companies, but it is not inherently high-risk. However, the use of '.webflow.io' instead of '.webflow.com' is unusual and could be a sign of a deceptive domain.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "The URL uses 'webflow.io', which is not the standard domain for Webflow

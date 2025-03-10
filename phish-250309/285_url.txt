@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains misspellings and character substitutions, such as 'coerlparmotiondetectiontwofiveemp1' instead of a more standard domain name.",
+  "TLD": "The TLD '.web.core.windows.net' is uncommon and associated with Microsoft Azure, which is not typically high-risk, but the presence of a non-standard TLD in the URL could be a red flag.",
+  "Patterns": "The URL contains an excessive length and unusual characters, which are not typical for standard URLs.",
+  "Other": "The URL structure is unusual and does not follow standard URL conventions, which could be indicative of an attempt to deceive or obfuscate the true destination.",
+  "verdict": 8
+}
+```

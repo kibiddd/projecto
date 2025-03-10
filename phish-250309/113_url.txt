@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain'santanderconcepts.com' appears to be a misspelled version of'santander.com', which is a legitimate bank. This could be an attempt to deceive users into thinking the site is associated with the real bank.",
+  "TLD": "The TLD '.com' is a common and low-risk TLD, so this does not indicate a high risk of fraud.",
+  "Patterns": "The URL contains a long and complex path with random strings and unusual characters, which could be an attempt to obfuscate the true destination of the link.",
+  "Other": "The URL contains a misspelled domain name and a complex path, which are both suspicious factors.",
+  "verdict": 7
+}
+```

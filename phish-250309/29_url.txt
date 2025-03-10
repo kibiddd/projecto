@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'weebly.com' is a legitimate domain, but the subdomain 'btinformationserver' could be deceptive as it contains a misspelled version of 'bitinformationserver'.",
+  "TLD": "The TLD '.com' is a common and trusted TLD, so it does not indicate a high risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It follows a standard URL structure.",
+  "Other": "The URL does not contain any other suspicious factors.",
+  "verdict": 2
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "No misspellings, character substitutions, or deceptive subdomains detected.",
+  "TLD": "The TLD is.com, which is a common and low-risk TLD.",
+  "Patterns": "The URL is of normal length and does not contain any suspicious patterns such as excessive length, random strings, or unusual characters.",
+  "Other": "The URL appears to be a legitimate GitHub page for a user named calmxprince, which is not typically associated with fraudulent activities.",
+  "verdict": 1
+}
+```

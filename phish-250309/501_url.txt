@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'coinbasewallet-initiate.com' appears to be a misspelled version of 'coinbase.com', which is a legitimate domain. There are no obvious character substitutions or deceptive subdomains.",
+  "TLD": "The TLD '.com' is a common and trusted TLD, not considered high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It follows a standard URL structure.",
+  "Other": "The URL contains the word 'initiate', which could be a red flag as it might be trying to mimic a legitimate service's name to deceive users. However, without more context, it's hard to determine if this is a deliberate attempt to mislead.",
+  "verdict": 3
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'fernandatozzih.github.io' contains a misspelling of 'Fernandattosz' which is a common name, but the misspelling could be an attempt to deceive. The use of a personal name instead of a generic term might be an attempt to appear more legitimate.",
+  "TLD": "The TLD '.io' is commonly used for hosting services and is not inherently high-risk. However, it is not as common as.com,.net, or.org, which could be a slight red flag.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a straightforward URL.",
+  "Other": "The URL does not contain any other obvious suspicious factors such as a lack of HTTPS, use of IP addresses, or other common phishing indicators.",
+  "verdict": 3
+}
+```

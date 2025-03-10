@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'onlineservicetech.website' contains a misspelling of 'onlineservices.com' and uses a deceptive subdomain 'website' instead of the standard 'www'.",
+  "TLD": "The TLD '.website' is uncommon and not typically associated with legitimate businesses, which could be a red flag.",
+  "Patterns": "The URL contains a long and complex string of characters that does not follow a recognizable pattern, which could be indicative of an attempt to obfuscate the true destination.",
+  "Other": "The URL lacks a clear and recognizable company name, which is often a sign of a fraudulent site.",
+  "verdict": 8
+}
+```

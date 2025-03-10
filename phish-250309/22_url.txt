@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'beevi.pages.dev' contains a misspelling of 'beavi', which is a common tactic used in deceptive domains to trick users into thinking they are visiting a legitimate site.",
+  "TLD": "The TLD '.dev' is commonly used by developers and is not inherently high-risk. However, it is not a standard TLD for commercial websites, which could be a red flag.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 3
+}
+```

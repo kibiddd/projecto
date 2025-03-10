@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains misspellings and character substitutions, which are common indicators of a deceptive domain.",
+  "TLD": "The TLD '.pl' is a common country code top-level domain for Poland and is not considered high-risk or uncommon.",
+  "Patterns": "The URL contains an excessive length and unusual characters, which could be indicative of a fraudulent URL.",
+  "Other": "The URL contains a mix of uppercase and lowercase letters, numbers, and special characters, which could be used to obfuscate the true intent of the URL.",
+  "verdict": 7
+}
+```

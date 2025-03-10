@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'bubyed.cc' contains a misspelling of 'bubblie', which is a common deceptive practice to trick users into visiting a fraudulent site.",
+  "TLD": "The TLD '.cc' is considered high-risk and is often associated with fraudulent activities.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters, so there are no suspicious patterns in this aspect.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 8
+}
+```

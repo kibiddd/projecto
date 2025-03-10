@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The URL contains a misspelled domain name 'help-portal-legderr-us-cdn.webflow.io' which is a deceptive subdomain.",
+  "TLD": "The TLD '.webflow.io' is a common and safe TLD, used by the Webflow platform for its services.",
+  "Patterns": "The URL is excessively long and contains unusual characters, which could be a sign of a deceptive URL.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 7
+}
+```

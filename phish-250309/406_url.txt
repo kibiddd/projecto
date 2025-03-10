@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain'steamncommunity.shop' contains a misspelling of'steamcommunity', which is a common gaming platform. The misspelling could be an attempt to deceive users into thinking the site is related to Steam, a legitimate gaming platform.",
+  "TLD": "The TLD '.shop' is not uncommon and is typically associated with e-commerce. It is not considered high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a straightforward URL.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 3
+}
+```

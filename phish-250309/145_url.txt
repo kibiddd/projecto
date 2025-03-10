@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'blooprint.one' contains a misspelling of 'blogprint.one', which is a common tactic used in deceptive domains to trick users into thinking they are visiting a legitimate site.",
+  "TLD": "The TLD '.one' is uncommon and not typically associated with reputable websites, which could be a red flag for fraud.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters that are commonly associated with fraudulent URLs.",
+  "Other": "The URL contains several parameters that are not typical for a standard website URL, such as 'openid.ns', 'openid.mode', 'openid.return_to', and 'openid.identity', which are more commonly found in OAuth 2.0 authentication URLs rather than in regular website URLs.",
+  "verdict": 7
+}
+```

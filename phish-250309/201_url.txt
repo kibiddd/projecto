@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The URL contains a misspelling in the domain name ('blockfie' instead of 'blockfi'). This is a common tactic used by fraudsters to create deceptive domains that are visually similar to legitimate ones.",
+  "TLD": "The TLD used in the URL is '.webflow.io', which is a legitimate and commonly used TLD for web hosting services. It is not uncommon or high-risk.",
+  "Patterns": "The URL contains an unusual character ('--') which is not typically used in standard URL structures. This could be an attempt to obfuscate the URL or make it harder to recognize as a potential phishing attempt.",
+  "Other": "The URL does not contain any other obvious suspicious factors such as excessive length, random strings, or unusual characters beyond the unusual character ('--').",
+  "verdict": 4
+}
+```

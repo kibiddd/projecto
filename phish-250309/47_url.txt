@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'findhelp.support' contains a misspelling of 'findhelp.support' which could be an attempt to deceive users into thinking it is a legitimate site.",
+  "TLD": "The TLD '.support' is not uncommon and is typically associated with legitimate support services, so it does not indicate a high risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters, so it does not exhibit suspicious patterns.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 2
+}
+```

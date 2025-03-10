@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain name contains a misspelling of 'trezor.io' with the addition of '-bridge' and a deceptive subdomain 'webflow.io'.",
+  "TLD": "The TLD '.io' is commonly used by legitimate tech companies, but it is also used by fraudulent sites. The subdomain 'webflow.io' is a legitimate service, but the deceptive domain name raises concerns.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "The URL contains a deceptive domain name, which is a common indicator of fraud. The use of a legitimate TLD with a deceptive subdomain is also a red flag.",
+  "verdict": 7
+}
+```

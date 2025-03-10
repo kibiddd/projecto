@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "No misspellings or character substitutions detected.",
+  "TLD": "The TLD.com is common and not considered high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters.",
+  "Other": "The domain name appears to be a legitimate Chinese company name, Fujian Zhiyuntong, which is not inherently suspicious.",
+  "verdict": 1
+}
+```

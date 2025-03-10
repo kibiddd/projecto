@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'treasure'.",
+  "TLD": "The TLD '.io' is commonly used for legitimate businesses, especially in the tech industry, but it can also be used for fraudulent purposes.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters.",
+  "Other": "The URL does not contain any other suspicious factors.",
+  "verdict": 3
+}
+```

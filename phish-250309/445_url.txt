@@ -1,0 +1,8 @@
+```json
+{
+  "Deceptive Domain": "The domain name contains a misspelling of 'webflow.io', which is a legitimate domain. However, the use of 'webapp-docs-treezor' instead of a more standard 'webapp-docs' could be considered deceptive, as it may be an attempt to mislead users into thinking the site is related to a different, possibly legitimate, service.",
+  "TLD": "The TLD '.webflow.io' is associated with Webflow, a legitimate web development platform. It is not uncommon or high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure for a Webflow-hosted website.",
+  "Other": "The URL does not contain any other obvious suspicious factors. It is a direct link to a Webflow-hosted page, which is a legitimate service.",
+  "verdict": 1
+}

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'trycloudflare.com' as 'trycloudflare.com'.",
+  "TLD": "The TLD '.com' is common and not considered high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters.",
+  "Other": "The URL may be attempting to deceive by using a misspelled domain name to mimic a legitimate domain.",
+  "verdict": 6
+}
+```

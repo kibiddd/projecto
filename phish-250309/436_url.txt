@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The URL contains a deceptive subdomain (ussoa-1313.vercel.app) which is a misspelling of 'ussoa'.",
+  "TLD": "The TLD (.app) is uncommon and could be considered high-risk.",
+  "Patterns": "The URL contains an unusual pattern with excessive length and a repeated subdomain (ussoa-1313.vercel.app).",
+  "Other": "The URL uses a port number (443) which is not typically used for web traffic, making it suspicious.",
+  "verdict": 8
+}
+```

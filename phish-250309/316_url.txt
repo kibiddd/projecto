@@ -1,0 +1,6 @@
+```json
+{
+  "Deceptive Domain": "The domain'vercel.app' is a legitimate domain, but the URL contains a misspelled 'postblockcontentgurus' instead of 'postblockcontentgurus'. This could be an attempt to deceive users into thinking it's a legitimate site.",
+  "TLD": "The TLD '.app' is commonly used for mobile apps and is not considered high-risk. It is a legitimate TLD.",
+  "Patterns": "The URL contains a mix of alphanumeric characters and symbols, which is not unusual. However, the presence of a misspelled domain name and the use of a URL shortener (indicated by 'cf6=5a&1eG=K9dHF3da4b=D400e') could be considered suspicious.",
+  "Other": "The URL contains a URL shortener, which is often used to hide the destination of a link. This could be a red flag for

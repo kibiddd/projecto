@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain'super-powered-marke.click' contains a misspelling of'superpoweredmarket' and uses a deceptive subdomain 'click' instead of the standard 'www'.",
+  "TLD": "The TLD '.click' is uncommon and considered high-risk, as it is often used by fraudulent sites to mimic legitimate domains.",
+  "Patterns": "The URL is excessively long and contains a random string '6' which could be an attempt to mislead or confuse users.",
+  "Other": "The URL lacks a clear and recognizable brand name, which is often a sign of a fraudulent site.",
+  "verdict": 8
+}
+```

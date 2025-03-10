@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'www' (551004s instead of www).",
+  "TLD": "The TLD '.cc' is commonly used for online scams and is considered high-risk.",
+  "Patterns": "The URL contains an excessive length and unusual characters, which could be indicative of a phishing attempt.",
+  "Other": "The URL structure itself does not contain any additional suspicious factors.",
+  "verdict": 8
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain'secure-blockfi-s-cdn.webflow.io' does not contain obvious misspellings, character substitutions, or deceptive subdomains. It appears to be a legitimate domain with a descriptive name.",
+  "TLD": "The TLD '.webflow.io' is a common and reputable TLD used by Webflow, a popular website building platform. It is not considered high-risk or uncommon.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It follows a standard URL structure.",
+  "Other": "The URL appears to be legitimate, as it is associated with a known and reputable service (Webflow). There are no other suspicious factors present.",
+  "verdict": 1
+}
+```

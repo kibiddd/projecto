@@ -2,7 +2,7 @@ import http.client
 from whois import get_domain
 from dataset import load_dataset, new_only
 
-def screenshot(url, n):
+def screenshot(url, n, path):
     conn = http.client.HTTPSConnection("sitepic1.p.rapidapi.com")
 
     headers = {
@@ -15,7 +15,7 @@ def screenshot(url, n):
     data = res.read()
 
     domain = get_domain(url)
-    filename = "phish-250309/" + n + ".png"
+    filename = path + n + ".png"
     with open(filename, "wb") as file:
         file.write(data)
     print("Screenshot saved as "+filename)
@@ -24,9 +24,10 @@ def screenshot(url, n):
 
 
 if __name__ == "__main__":
-    path1 = "phishing-links-250309.txt"
-    path2 = "phishing-links-250308.txt"
-    dataset = new_only(load_dataset(path1), load_dataset(path2))
+    #path1 = "phishing-links-250309.txt"
+    #path2 = "phishing-links-250308.txt"
+    #dataset = new_only(load_dataset(path1), load_dataset(path2))
+    dataset = load_dataset("legitimate_online_shop_urls.txt")
     for idx, url in enumerate(dataset):
         print(f"Screenshotting URL {idx}/{len(dataset)}: {url}")
-        screenshot(url, str(idx))
+        screenshot(url, str(idx), "legit/")

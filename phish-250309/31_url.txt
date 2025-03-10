@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'cb-new-notifs.top' contains a misspelling of 'new-notifs' and a deceptive subdomain 'top' which is often used by fraudulent sites.",
+  "TLD": "The TLD '.top' is considered high-risk and uncommon, often associated with fraudulent activities.",
+  "Patterns": "The URL contains excessive length and unusual characters, which are common in phishing and fraudulent URLs.",
+  "Other": "The URL contains random strings and characters that do not follow a logical pattern, which is suspicious.",
+  "verdict": 9
+}
+```

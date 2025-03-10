@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'dev' is a common subdomain used by developers and does not contain misspellings, character substitutions, or deceptive subdomains.",
+  "TLD": "The TLD '.dev' is a common and safe TLD used for development and testing purposes, not considered high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure for a development page.",
+  "Other": "No other suspicious URL factors are present.",
+  "verdict": 1
+}
+```

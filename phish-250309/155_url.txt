@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The URL contains a deceptive domain with a misspelled 'cdn' as 'candas'.",
+  "TLD": "The TLD '.io' is commonly used for legitimate businesses, especially in the tech industry, and is not typically considered high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters.",
+  "Other": "The URL structure is somewhat unusual due to the misspelled domain, but it is not highly suspicious on its own.",
+  "verdict": 3
+}
+```

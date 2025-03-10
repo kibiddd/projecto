@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The URL contains a misspelling of'start' as'starth', which could be an attempt to deceive users into thinking it's a legitimate domain.",
+  "TLD": "The TLD '.io' is commonly associated with startups and is not inherently high-risk, but it is less common than traditional TLDs like '.com' or '.org'.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters, so there are no obvious suspicious patterns in this aspect.",
+  "Other": "The URL uses a subdomain ('webflow.io') which is a legitimate service, but the misspelling in the domain name could be a red flag.",
+  "verdict": 3
+}
+```

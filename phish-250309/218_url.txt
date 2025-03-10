@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'godaddysites.com' is a known domain used by scammers to create deceptive URLs. It is not misspelled or substituted, but it is deceptive due to its association with fraudulent activities.",
+  "TLD": "The TLD '.com' is a common TLD and not considered high-risk. However, the use of a common TLD does not necessarily indicate a safe website.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "The URL contains a deceptive domain, which is a significant factor in determining its likelihood of being fraudulent.",
+  "verdict": 8
+}
+```

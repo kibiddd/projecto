@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The URL contains a deceptive domain with a misspelled 'i-o-ca' instead of 'i-o-ca' and an unusual subdomain 'webflow.io' which is not a standard domain for a secure service.",
+  "TLD": "The TLD '.io' is commonly used by legitimate companies, especially in the tech industry, but it can also be used by fraudulent sites. It is not inherently high-risk, but it is worth considering in the context of other factors.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters that are typically associated with phishing or fraudulent URLs.",
+  "Other": "The URL uses a hyphen in the subdomain which is not standard and could be a sign of an attempt to deceive users into thinking it is a legitimate domain.",
+  "verdict": 5
+}
+```

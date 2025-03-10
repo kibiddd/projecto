@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The URL contains a deceptive domain with a hyphen (-) instead of a dot (.), which is a common tactic used by fraudsters to create a domain that looks similar to a legitimate one.",
+  "TLD": "The TLD used in the URL is.com, which is a common and low-risk TLD. Therefore, this factor does not indicate fraud.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "The URL contains a hyphen (-) instead of a dot (.), which is a common tactic used by fraudsters to create a domain that looks similar to a legitimate one.",
+  "verdict": 6
+}
+```

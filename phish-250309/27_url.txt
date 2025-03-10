@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'bridge' as 'bridge' and 'iobr' instead of 'iob', which could be an attempt to deceive users into thinking it's a legitimate domain.",
+  "TLD": "The TLD '.webflow.io' is a common TLD used by web development platforms and is not considered high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters that are typically associated with fraudulent URLs.",
+  "Other": "The URL structure itself does not contain any other obvious signs of being fraudulent.",
+  "verdict": 2
+}
+```

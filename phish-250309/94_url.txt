@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains misspellings and character substitutions, which are common indicators of a deceptive domain.",
+  "TLD": "The TLD used is.vercel.app, which is a legitimate TLD, but it is not uncommon and does not inherently indicate a high-risk domain.",
+  "Patterns": "The URL contains an excessive length and unusual characters, which could be indicative of an attempt to obfuscate the true destination of the link.",
+  "Other": "The URL does not contain any other immediately obvious suspicious factors.",
+  "verdict": 7
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'hbbh.portfoliobox.net' contains a misspelling of 'portfolio' which could be an attempt to deceive users into thinking it's a legitimate financial service.",
+  "TLD": "The TLD '.net' is commonly used and considered low-risk, so this factor does not indicate fraud.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters, so this factor does not indicate fraud.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 3
+}
+```

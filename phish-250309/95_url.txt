@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains misspellings and character substitutions, such as 'worf.replit.dev' instead of 'work.replit.dev'.",
+  "TLD": "The TLD '.replit.dev' is uncommon and associated with a platform that can be used for both legitimate and fraudulent activities.",
+  "Patterns": "The URL contains an excessive length and unusual characters, which are not typical for standard URLs.",
+  "Other": "The URL structure itself does not immediately suggest a high level of risk, but the combination of factors raises concerns.",
+  "verdict": 7
+}
+```

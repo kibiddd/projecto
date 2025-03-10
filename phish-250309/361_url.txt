@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain'maganizeluiza.com' appears to be a misspelling of'magazineluiza.com', which could be an attempt to deceive users into thinking it is a legitimate site.",
+  "TLD": "The TLD '.com' is common and considered safe, so there is no indication of a high-risk TLD here.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It follows a standard URL structure.",
+  "Other": "The domain name does not contain any other obvious signs of being suspicious or fraudulent.",
+  "verdict": 2
+}
+```

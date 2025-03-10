@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'coinbase.com' with '000121' instead of 'coinbase'.",
+  "TLD": "The TLD '.com' is common and not considered high-risk.",
+  "Patterns": "The URL contains an excessive length and a random string '000121' which is not typical for a legitimate domain.",
+  "Other": "The URL structure is unusual and the domain name is not a recognizable misspelling of a known legitimate domain.",
+  "verdict": 8
+}
+```

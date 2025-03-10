@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'ubpages.com' is a legitimate domain, but the subdomain 'loginnscreen' could be deceptive as it is not a standard subdomain for a known service. The URL also contains a random string which could be an attempt to disguise the true destination.",
+  "TLD": "The TLD '.com' is a common and trusted TLD, so it does not indicate a high risk.",
+  "Patterns": "The URL contains a random string '1cc0658f-ff8e-4f7b-bac0-21fb0b551ab9' which is unusual and could be an attempt to disguise the true destination. The URL also contains an excessive length which could be a red flag.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 6
+}
+```

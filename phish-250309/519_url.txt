@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The URL contains a double 'w' in 'www', which is a common misspelling used to deceive users into thinking they are visiting a legitimate site.",
+  "TLD": "The TLD '.com' is a common and low-risk TLD, so this factor does not indicate fraud.",
+  "Patterns": "The URL contains an excessive length and unusual characters, which could be indicative of an attempt to obfuscate the true destination of the link.",
+  "Other": "The URL contains a suspicious pattern of double 'w' and an unusual character sequence, which are common indicators of phishing attempts.",
+  "verdict": 7
+}
+```

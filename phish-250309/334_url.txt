@@ -1,0 +1,6 @@
+```json
+{
+  "Deceptive Domain": "The URL contains a deceptive subdomain 'weeblysite.com' which is a known platform for creating websites, but it is not a legitimate domain for a specific service or product. This could be an attempt to mislead users into thinking the URL is associated with a legitimate service.",
+  "TLD": "The TLD '.weeblysite.com' is not uncommon, but it is associated with a website builder platform, which is not typically used for high-risk or uncommon TLDs. However, the use of a non-standard TLD in this context could be a red flag.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure for a website hosted on Weebly.",
+  "Other": "The URL does not contain any other obvious suspicious factors such as misspellings or character substitutions that are not already accounted for in the 'Decept

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'coin' as 'cocoin'.",
+  "TLD": "The TLD '.webflow.io' is a common and safe TLD used by web design platforms.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters.",
+  "Other": "The URL is short and lacks additional suspicious factors.",
+  "verdict": 2
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'closte.com' contains a misspelling of 'close.com', which is a common tactic used by fraudsters to deceive users into thinking they are visiting a legitimate site.",
+  "TLD": "The TLD '.com' is a common and trusted TLD, so it does not indicate a high risk of fraud.",
+  "Patterns": "The URL contains an excessive length and unusual characters, which could be indicative of a phishing attempt or a malicious site.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 7
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The URL contains a deceptive domain with a misspelled'secure' as'secure-blockfi-sso--cdn--b'. The use of hyphens and underscores instead of dots is also suspicious.",
+  "TLD": "The TLD '.webflow.io' is a common and safe TLD, as it is associated with the Webflow platform, which is a legitimate service.",
+  "Patterns": "The URL contains an unusual pattern with excessive length and hyphens, which are not typical in standard URLs.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 7
+}
+```

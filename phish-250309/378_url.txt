@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains misspellings and character substitutions, such as 'afternoon-crooked' instead of a proper word, and 'fleek.app' instead of a standard domain name. The use of hyphens and unconventional capitalization also suggests a deceptive domain.",
+  "TLD": "The TLD '.on' is uncommon and not typically associated with legitimate websites, which could be a red flag for fraud.",
+  "Patterns": "The URL contains an excessive length and unusual characters, such as'sghuqputdti11.html', which does not follow a recognizable pattern for a standard URL.",
+  "Other": "The URL lacks a recognizable domain name and uses a mix of hyphens and unconventional capitalization, which are not typical for legitimate websites.",
+  "verdict": 9
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'ebay' and an unusual subdomain 'among2.me', which could be an attempt to deceive users into thinking it's a legitimate eBay site.",
+  "TLD": "The TLD '.among2.me' is uncommon and not a standard TLD, which could be a sign of a fraudulent site.",
+  "Patterns": "The URL does not contain excessive length or random strings, but the unusual characters and misspellings are concerning.",
+  "Other": "The URL lacks a clear and recognizable structure, which is often a sign of a fraudulent site.",
+  "verdict": 8
+}
+```

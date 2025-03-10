@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'kueconluo' which could be an attempt to deceive users into thinking it is a legitimate domain.",
+  "TLD": "The TLD '.webflow.io' is a legitimate and commonly used TLD for web hosting services, so it is not considered high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters, so it does not exhibit suspicious patterns.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 2
+}
+```

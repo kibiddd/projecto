@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'icu' is a common TLD and does not contain misspellings or character substitutions that are typically associated with deceptive domains.",
+  "TLD": "The TLD '.icu' is uncommon and could be considered high-risk as it is not a standard TLD for commercial websites.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a straightforward URL.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 3
+}
+```

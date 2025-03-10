@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'vaonischile.cl' appears to be a misspelling of 'vanishingile.cl', which is a deceptive domain as it is intended to mislead users into thinking it is a legitimate site.",
+  "TLD": "The TLD '.cl' is a country code top-level domain for Chile, which is not uncommon or high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters that are typically associated with phishing or fraudulent URLs.",
+  "Other": "The URL contains a mix of uppercase and lowercase letters, which is not inherently suspicious. However, the presence of 'wp-includes' in the path could be a red flag as it is a directory commonly used by WordPress sites, which can sometimes be exploited for phishing.",
+  "verdict": 3
+}
+```

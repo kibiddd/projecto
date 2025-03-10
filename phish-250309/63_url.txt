@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'info.loginhelp.help' contains a misspelling of 'info.loginhelp.help' which is a common tactic used by fraudsters to create deceptive URLs that appear similar to legitimate ones.",
+  "TLD": "The TLD '.help' is not uncommon and is typically associated with legitimate services, so it does not indicate a high-risk domain.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a straightforward URL.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 2
+}
+```

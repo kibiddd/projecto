@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains misspellings and character substitutions, such as'serv00.net' instead of'serve00.net'.",
+  "TLD": "The TLD '.net' is common and not considered high-risk.",
+  "Patterns": "The URL contains an excessive length and unusual characters, which are suspicious patterns.",
+  "Other": "The URL lacks a clear and recognizable domain name, which is a common indicator of fraud.",
+  "verdict": 8
+}
+```

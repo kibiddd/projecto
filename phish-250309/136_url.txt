@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain'sayeedjunied.cmyportal.com' contains a misspelling of'sayeedjunied.com', which could be an attempt to deceive users into thinking it is a legitimate domain.",
+  "TLD": "The TLD '.cmyportal.com' is uncommon and not a standard TLD, which could be a red flag for a fraudulent site.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters, so there are no obvious patterns that suggest fraud.",
+  "Other": "The URL structure itself does not contain any other obvious suspicious factors.",
+  "verdict": 6
+}
+```

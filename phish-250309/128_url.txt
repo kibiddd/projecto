@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain name contains a deceptive subdomain ('webflow.io' which is a legitimate service, but used in a suspicious context).",
+  "TLD": "The TLD is '.io', which is commonly used by legitimate businesses, especially in the tech industry, and is not typically considered high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "The URL contains a subdomain that is not typically associated with a known service, which could be a red flag.",
+  "verdict": 3
+}
+```

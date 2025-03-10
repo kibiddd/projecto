@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'xn--' which is commonly used in phishing attacks to bypass filters and appears deceptive.",
+  "TLD": "The TLD '.my.id' is not uncommon and does not fall into the high-risk category.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters that are typically associated with phishing or fraudulent URLs.",
+  "Other": "The URL structure itself does not contain any other obvious signs of being suspicious.",
+  "verdict": 2
+}
+```

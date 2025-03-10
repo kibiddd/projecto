@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains misspellings and character substitutions, such as 'finanmaiscred' instead of 'financialcredit' and 'ww' instead of 'ww' which could be a typo or an attempt to obfuscate the domain name.",
+  "TLD": "The TLD '.site' is not uncommon, but it is not a high-risk TLD. However, the domain name itself is deceptive, which is a concern.",
+  "Patterns": "The URL contains an excessive length and unusual characters, which could be an attempt to trick users into thinking it is a legitimate URL.",
+  "Other": "The URL does not contain any other obvious suspicious factors, but the deceptive domain and patterns are enough to raise concerns.",
+  "verdict": 7
+}
+```

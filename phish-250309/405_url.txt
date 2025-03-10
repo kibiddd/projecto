@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain'steamgames-bonus.com' appears to be a misspelling of'steamgamesbonus.com' or'steamgamesbonus.com'. The'steam' part is correct, but the rest of the domain is suspiciously misspelled, which could be an attempt to deceive users.",
+  "TLD": "The TLD '.com' is a common and trusted TLD, so it does not indicate a high risk of fraud.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure for a website.",
+  "Other": "The URL contains a numeric string '638465669311' which could be a gift card number or a product ID. While this is not inherently suspicious, it could be used in phishing attempts to trick users into thinking they are on a legitimate site.",
+  "verdict": 3
+}
+```

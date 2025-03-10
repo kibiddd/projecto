@@ -1,0 +1,7 @@
+```json
+{
+  "Deceptive Domain": "The domain 'pages.dev' is a known service for hosting websites, but the inclusion of 'petecoinsupport' could be a deceptive attempt to mimic a legitimate domain. The misspelling of 'petecoins' is a potential indicator of fraud.",
+  "TLD": "The TLD '.dev' is commonly used for development and testing purposes and is not typically considered high-risk. However, it is not a standard TLD for commercial websites, which could be a red flag.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "The URL uses a subdomain 'pages.dev' which is not commonly associated with financial services, and the main domain 'petecoinsupport' could be an attempt to deceive users into thinking it is a legitimate cryptocurrency-related site.",
+  "verdict": 6

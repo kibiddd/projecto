@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The URL contains a deceptive domain with a misspelled 'blokifi' instead of 'blockify'.",
+  "TLD": "The TLD '.webflow.io' is a common and safe TLD, not high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters.",
+  "Other": "The URL uses a subdomain ('secure-blokifi--sso-cdn') which could be a red flag for phishing or malicious intent.",
+  "verdict": 7
+}
+```

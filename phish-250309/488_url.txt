@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'validate' as 'validar', which could be an attempt to deceive users into thinking it's a legitimate site.",
+  "TLD": "Weebly is a legitimate platform, and the TLD.com is common and not high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters.",
+  "Other": "The URL structure itself does not contain any other obvious signs of being fraudulent.",
+  "verdict": 2
+}
+```

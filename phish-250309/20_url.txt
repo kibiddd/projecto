@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelled 'b' instead of 'o' in 'www', which is a common tactic used in phishing and fraudulent websites.",
+  "TLD": "The TLD '.xyz' is uncommon and considered high-risk as it is often used by scammers and fraudulent sites.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters, so this factor does not indicate fraud.",
+  "Other": "The URL does not contain any other suspicious factors such as misspelled words, excessive length, or unusual characters.",
+  "verdict": 8
+}
+```

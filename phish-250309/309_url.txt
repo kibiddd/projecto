@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The URL contains a deceptive domain with a misspelled 'coinbasepro' and an unusual subdomain 'webflow.io'.",
+  "TLD": "The TLD '.io' is commonly used by legitimate businesses, especially in the tech industry, and is not typically considered high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters that are commonly associated with fraudulent URLs.",
+  "Other": "The URL includes a subdomain that is not standard for a financial service, which could be a red flag.",
+  "verdict": 5
+}
+```

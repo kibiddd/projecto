@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'naszepogorzale.pl' contains a misspelling of 'naspiegole.pl', which is a common tactic used in phishing attacks to deceive users into thinking they are visiting a legitimate site.",
+  "TLD": "The TLD '.pl' is a country code top-level domain for Poland, which is not uncommon or high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "The URL contains a misspelled domain, which is a common indicator of phishing attempts.",
+  "verdict": 7
+}
+```

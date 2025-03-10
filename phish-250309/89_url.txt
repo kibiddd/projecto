@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'publicenemy-amazoon.sytes.net' contains a misspelling of 'amazon' and a deceptive subdomain'sytes.net' instead of 'amazon.com'.",
+  "TLD": "The TLD '.sytes.net' is uncommon and not a standard TLD, which could be a sign of a fraudulent site.",
+  "Patterns": "The URL does not contain excessive length or random strings, but it does have unusual characters and a deceptive subdomain.",
+  "Other": "The URL structure is suspicious due to the misspelled domain and the use of a non-standard TLD.",
+  "verdict": 8
+}
+```

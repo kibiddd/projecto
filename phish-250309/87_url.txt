@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'ps' as 'ps.172892111.workers.dev', which is a deceptive subdomain.",
+  "TLD": "The TLD '.dev' is commonly used for development and testing purposes, and is not typically considered high-risk.",
+  "Patterns": "The URL contains an excessive length and a random string '172892111.workers.dev', which could be suspicious.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 7
+}
+```

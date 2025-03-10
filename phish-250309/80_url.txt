@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'pavelvouk.shop' does not contain any obvious misspellings or character substitutions that would indicate a deceptive domain. It appears to be a legitimate domain name, although it is not a common domain name.",
+  "TLD": "The TLD '.shop' is a common and legitimate TLD used for online retail and e-commerce websites. It is not considered high-risk or uncommon.",
+  "Patterns": "The URL does not contain any suspicious patterns such as excessive length, random strings, or unusual characters. It is a standard URL format for a website.",
+  "Other": "There are no other suspicious URL factors present in this URL.",
+  "verdict": 1
+}
+```

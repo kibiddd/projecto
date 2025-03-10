@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of'vedi' instead of 'video'.",
+  "TLD": "The TLD '.cprapid.com' is uncommon and could be high-risk.",
+  "Patterns": "The URL contains an unusual character sequence and excessive length, which are suspicious patterns.",
+  "Other": "The URL structure itself does not contain any other obvious suspicious factors.",
+  "verdict": 7
+}
+```

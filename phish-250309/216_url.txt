@@ -1,0 +1,6 @@
+```json
+{
+  "Deceptive Domain": "The domain 'gayatrighangare.github.io' does not contain misspellings or character substitutions. However, the use of 'github.io' might be deceptive as it is a common subdomain for GitHub repositories, which could be used to mask the true intent of the website.",
+  "TLD": "The TLD '.io' is commonly used for hosting services and is not inherently high-risk. However, it is not as common as '.com', '.net', or '.org', which could be a slight red flag.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "The URL contains a personal name followed by a common hosting subdomain, which is not necessarily suspicious. However, the context of the URL (e.g., if it is related to an Amazon project) could be relevant to determine

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The URL contains a deceptive subdomain ('secure-sso--ndaxx-sso') which may be an attempt to mimic a legitimate domain structure. The hyphen and double hyphen are unusual and could be used to confuse users.",
+  "TLD": "The TLD '.webflow.io' is a legitimate and commonly used TLD for web applications, so it is not considered high-risk or uncommon.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters that are typically associated with phishing or fraudulent URLs.",
+  "Other": "The URL does not contain any other obvious suspicious factors such as misspellings or character substitutions that are commonly used in fraudulent URLs.",
+  "verdict": 2
+}
+```

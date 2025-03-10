@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of'mail', which could be an attempt to deceive users into thinking it's a legitimate domain.",
+  "TLD": "The TLD '.netlify.app' is a subdomain of a legitimate service, but the main domain'mail-cfenet-ubc' is not a standard TLD and could be a misspelling or an attempt to mimic a legitimate domain.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters that are typically associated with phishing or fraudulent URLs.",
+  "Other": "The URL uses a subdomain of a legitimate service, which could be a red herring to make the URL seem more trustworthy.",
+  "verdict": 3
+}
+```

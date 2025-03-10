@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'tapym.com' is a misspelling of 'paypal.com', which is a common tactic used by fraudsters to deceive users into thinking they are visiting a legitimate site.",
+  "TLD": "The TLD '.dev' is not uncommon and is typically associated with development and testing environments, which can be legitimate. However, it is not inherently high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters that are typically associated with fraudulent URLs.",
+  "Other": "The URL contains a deceptive domain, which is a significant indicator of potential fraud.",
+  "verdict": 7
+}
+```

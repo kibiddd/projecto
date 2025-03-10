@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain name contains a misspelling of 'webflow.io', which is a legitimate domain registrar, but the misspelling could be an attempt to deceive users into thinking it's a different or related service.",
+  "TLD": "The TLD '.io' is commonly used by startups and tech companies, but it is not considered high-risk. However, the misspelling of the domain name could be a red flag.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 3
+}
+```

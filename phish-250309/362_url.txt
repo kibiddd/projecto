@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'godaddysites' which is a common tactic used by fraudsters to create deceptive URLs.",
+  "TLD": "The TLD '.gods' is uncommon and not typically associated with legitimate websites, which could be a red flag for fraud.",
+  "Patterns": "The URL is excessively long and contains a random string of characters, which is a common pattern in fraudulent URLs.",
+  "Other": "The URL uses a deceptive subdomain ('servievocela12') instead of a more standard subdomain, which is another indicator of potential fraud.",
+  "verdict": 9
+}
+```

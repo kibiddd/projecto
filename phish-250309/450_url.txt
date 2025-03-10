@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'wobbly-hill-vulture.glitch.me' contains misspellings and character substitutions, which are common indicators of deceptive domains.",
+  "TLD": "The TLD '.glitch.me' is uncommon and associated with a platform that allows for dynamic, temporary websites, which can be a red flag for fraud.",
+  "Patterns": "The URL does not contain excessive length or random strings, but the use of '.glitch.me' is unusual and could be considered a suspicious pattern.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 7
+}
+```

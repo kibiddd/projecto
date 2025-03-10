@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'attserverts' contains a misspelling of 'attservers', which is a common tactic used by fraudsters to create deceptive domains that are similar to legitimate ones.",
+  "TLD": "The TLD '.weebly.com' is a common and reputable domain extension, so it does not indicate a high risk of fraud.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters, so there are no suspicious patterns in this URL.",
+  "Other": "The URL does not contain any other suspicious factors.",
+  "verdict": 2
+}
+```

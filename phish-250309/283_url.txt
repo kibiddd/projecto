@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of'microsoft' (midasbuysami instead of microsoft) and a deceptive subdomain (ntdll.top instead of microsoft.com).",
+  "TLD": "The TLD.top is considered high-risk and uncommon, often associated with phishing and fraudulent activities.",
+  "Patterns": "The URL contains an unusual character ('ntdll') and a deceptive subdomain, which are suspicious patterns.",
+  "Other": "The URL is excessively long and contains random strings, which are additional suspicious factors.",
+  "verdict": 9
+}
+```

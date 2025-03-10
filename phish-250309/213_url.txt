@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'flow.page' contains a misspelling of 'flow.page' which is a common tactic used in deceptive domains to mislead users.",
+  "TLD": "The TLD '.page' is uncommon and could be considered high-risk as it is not a standard TLD and is often used in deceptive practices.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters, so there are no obvious suspicious patterns in this aspect.",
+  "Other": "The URL lacks additional suspicious factors such as HTTPS, which is often used by legitimate sites for security.",
+  "verdict": 7
+}
+```

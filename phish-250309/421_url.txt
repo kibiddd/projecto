@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'qhoyzs' contains misspellings and character substitutions, which are common indicators of a deceptive domain.",
+  "TLD": "The TLD '.cn' is a country code top-level domain (ccTLD) for China, which is not uncommon and not considered high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "No other suspicious URL factors are present.",
+  "verdict": 3
+}
+```

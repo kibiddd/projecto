@@ -1,0 +1,6 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelled'maryannarw62111111' instead of'maryannarw62111111'.",
+  "TLD": "The TLD '.wixsite.com' is commonly used and not considered high-risk.",
+  "Patterns": "The URL contains an excessive length and unusual characters, which could be suspicious.",
+  "Other": "The URL contains a suspicious query parameter 'c?w=HoV_PIxcKpUGsC1TLRRdPKA8GVNXxXJZ9jGoNmchN14.eyJ1IjoiaHR0cHM6Ly9jcmVhdGlmeTIuY29tL2h0dHBzOi8vY3JlYXRpZnkyLmNvbS8iLCJyIjoiYTEzOWZhMmQtNzI1NS00NDFjLTgwNGYt

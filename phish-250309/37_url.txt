@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'ddkwk.my.id' contains misspellings and character substitutions, which are common indicators of deceptive domains.",
+  "TLD": "The TLD '.my.id' is uncommon and could be considered high-risk, as it is not a standard TLD and may be used to deceive users.",
+  "Patterns": "The URL contains an excessive length and unusual characters, which are suspicious patterns often found in fraudulent URLs.",
+  "Other": "The URL contains a mix of alphanumeric characters and symbols, which could be used to obfuscate the true nature of the URL.",
+  "verdict": 8
+}
+```

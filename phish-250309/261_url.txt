@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "No misspellings or character substitutions detected. The domain name appears to be a legitimate variation of a common name.",
+  "TLD": "The TLD is.io, which is commonly used by tech companies and startups. It is not considered high-risk.",
+  "Patterns": "The URL is of a reasonable length and does not contain random strings or unusual characters.",
+  "Other": "The URL contains a username and a domain that is associated with a GitHub repository. There are no other suspicious factors.",
+  "verdict": 1
+}
+```

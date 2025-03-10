@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'program' as 'program.claimcupon'. This could be an attempt to deceive users into thinking they are visiting a legitimate site.",
+  "TLD": "The TLD '.id' is uncommon and not typically associated with high-risk domains, but it is not a standard TLD for commercial websites, which could be a red flag.",
+  "Patterns": "The URL is excessively long and contains unusual characters such as periods and underscores, which are not typical in standard URLs.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 7
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'wap.hutianwei.cn' does not contain obvious misspellings or character substitutions. It appears to be a legitimate domain name, although it is not a common TLD.",
+  "TLD": "The TLD '.cn' is a country code top-level domain (ccTLD) for China, which is not considered high-risk or uncommon.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It follows a standard URL structure.",
+  "Other": "There are no other suspicious URL factors present.",
+  "verdict": 1
+}
+```

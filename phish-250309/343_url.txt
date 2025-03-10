@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'rtu-quiz.ru' does not contain obvious misspellings or character substitutions. It appears to be a legitimate domain name, although it is not a well-known domain.",
+  "TLD": "The TLD '.ru' is common and considered low-risk. It is the country code top-level domain for Russia.",
+  "Patterns": "The URL contains a mix of alphanumeric characters and hyphens, which is typical for web addresses. There are no obvious patterns of excessive length, random strings, or unusual characters.",
+  "Other": "The URL includes 'wp-admin', which is a common directory for WordPress sites, and 'css' which is a standard directory for CSS files. There are no other immediately suspicious factors.",
+  "verdict": 1
+}
+```

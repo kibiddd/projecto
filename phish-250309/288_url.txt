@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain'myjobdhl.earcu.com' contains a misspelling of'myjobdhl.com'. The use of a hyphen instead of a dot is a common tactic in deceptive domains to mislead users.",
+  "TLD": "The TLD '.earcu.com' is uncommon and not a standard TLD, which could be a sign of a fraudulent site.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters that are typically associated with phishing or fraudulent sites.",
+  "Other": "The URL structure itself does not contain any other obvious signs of being a phishing or fraudulent site.",
+  "verdict": 5
+}
+```

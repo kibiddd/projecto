@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'pages.dev' is a known hosting service for developers, which is not inherently deceptive. However, the subdomain 'carrefouriramadan2' contains misspellings and character substitutions, which could be an attempt to deceive.",
+  "TLD": "The TLD '.dev' is commonly used for development and testing purposes, and is not considered high-risk or uncommon.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 2
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'alert-user-breach', which could be an attempt to deceive users into thinking it's a legitimate service.",
+  "TLD": "The TLD '.app' is commonly used for serverless functions and is not inherently high-risk, but it is not as common as '.com', '.net', or '.org'.",
+  "Patterns": "The URL is excessively long and contains a random string'six.vercel.app' which could be an attempt to obfuscate the true destination of the link.",
+  "Other": "The URL does not contain any other obvious suspicious factors such as unusual characters or a clear pattern of deception beyond the misspelling and excessive length.",
+  "verdict": 6
+}
+```

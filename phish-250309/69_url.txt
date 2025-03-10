@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'lno.rtj.mybluehost.me' contains misspellings and character substitutions, which are common indicators of a deceptive domain.",
+  "TLD": "The TLD '.mybluehost.me' is not uncommon, but it is a subdomain of a known hosting provider, which could be a red flag if used in a deceptive manner.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters, so this factor does not indicate fraud.",
+  "Other": "The URL contains a '.me' subdomain, which is often used by scammers to appear more legitimate. Additionally, the URL path includes 'intesa.sanpaolo/web/login.php', which could be a legitimate part of a website, but the overall URL structure is suspicious.",
+  "verdict": 7
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The URL contains a deceptive domain with misspellings and character substitutions. 'clickme' is misspelled as 'clickme', and 'web.id' is a deceptive subdomain.",
+  "TLD": "The TLD '.clickme.web.id' is uncommon and high-risk, as it is not a standard TLD and is likely to be used for deceptive purposes.",
+  "Patterns": "The URL contains suspicious patterns such as excessive length and unusual characters. The URL is longer than typical URLs and contains a mix of letters, numbers, and dots in a way that does not follow standard URL conventions.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 9
+}
+```

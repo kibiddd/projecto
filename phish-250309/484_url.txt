@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'unbouncepages.com' contains a misspelling of 'unbounce.com', which is a common tactic used by fraudulent sites to deceive users.",
+  "TLD": "The TLD '.com' is a common and trusted TLD, so it does not indicate a high risk on its own.",
+  "Patterns": "The URL contains an excessive length and a random string 'bo-1' which could be an attempt to mislead users into thinking it is a legitimate URL.",
+  "Other": "The URL suggests it may be a phishing attempt, as it mimics the structure of a legitimate Facebook verification page but with a misspelled domain and a suspicious URL pattern.",
+  "verdict": 8
+}
+```

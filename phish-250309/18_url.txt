@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'baratohoy', which could be an attempt to deceive users into thinking it's a legitimate site.",
+  "TLD": "The TLD '.shop' is commonly used for legitimate e-commerce sites, so it is not considered high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters, so it does not exhibit suspicious patterns.",
+  "Other": "The domain name does not contain any other obvious signs of being suspicious.",
+  "verdict": 3
+}
+```

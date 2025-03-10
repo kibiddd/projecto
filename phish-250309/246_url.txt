@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'highspeedinternet.deals' does not contain obvious misspellings or character substitutions, and the subdomain 'deals' is not deceptive in itself. However, the use of a generic term like 'deals' could be a red flag for a scam.",
+  "TLD": "The TLD '.deals' is not a standard TLD and is uncommon, which could be a sign of a fraudulent site.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a straightforward URL.",
+  "Other": "The URL lacks a clear brand name or recognizable company name, which could be a sign of a fraudulent site. The use of 'deals' instead of a specific product or service name is also suspicious.",
+  "verdict": 7
+}
+```

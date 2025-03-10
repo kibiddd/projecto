@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains misspellings and character substitutions, such as 'flavoarantle' instead of 'flavorantle' and 'ocotzotl' instead of 'octozotl'.",
+  "TLD": "The TLD '.mx' is common for Mexico, which is not considered high-risk.",
+  "Patterns": "The URL is excessively long and contains unusual characters, which could be a sign of a deceptive URL.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 7
+}
+```

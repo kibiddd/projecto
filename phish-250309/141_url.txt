@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'binas-mail.top' contains a misspelling of 'binance', which is a well-known cryptocurrency exchange. This could be an attempt to deceive users into thinking the URL is legitimate.",
+  "TLD": "The TLD '.top' is uncommon and considered high-risk as it is not a standard TLD and is often associated with phishing or fraudulent sites.",
+  "Patterns": "The URL does not contain excessive length or random strings, but it does contain unusual characters such as the dot in 'binas-mail.top' instead of the expected hyphen or underscore.",
+  "Other": "The URL does not contain any other obvious suspicious factors, but the combination of a deceptive domain and a high-risk TLD already raises significant concerns.",
+  "verdict": 8
+}
+```

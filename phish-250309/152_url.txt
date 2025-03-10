@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'bwg' which could be an attempt to deceive users into thinking it's a legitimate domain.",
+  "TLD": "The TLD '.xyz' is uncommon and considered high-risk as it is often used for fraudulent purposes.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters, so this factor does not indicate fraud.",
+  "Other": "The URL lacks additional suspicious factors such as HTTPS, a recognizable domain name, or a clear purpose.",
+  "verdict": 7
+}
+```

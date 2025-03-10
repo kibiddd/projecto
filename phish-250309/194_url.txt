@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain name contains a misspelling of 'dailymotion' (d12tgvynb5e7un instead of dailymotion).",
+  "TLD": "The TLD is.cloudfront.net, which is a legitimate and commonly used TLD for Amazon Web Services.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters.",
+  "Other": "The URL appears to be a legitimate Amazon CloudFront distribution URL, which is commonly used for hosting content.",
+  "verdict": 2
+}
+```

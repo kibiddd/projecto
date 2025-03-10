@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'prakansh07.github.io' does not contain misspellings, character substitutions, or deceptive subdomains. It appears to be a legitimate GitHub user profile.",
+  "TLD": "The TLD '.io' is commonly used for hosting services and is not considered high-risk. It is a legitimate TLD.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It follows a standard URL structure.",
+  "Other": "The URL appears to be a legitimate GitHub user profile, which is not typically associated with fraud.",
+  "verdict": 1
+}
+```

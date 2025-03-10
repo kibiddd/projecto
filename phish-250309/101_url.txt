@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'google.com' (827581 instead of 88.275.81).",
+  "TLD": "The TLD '.cc' is commonly used by scammers and is considered high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters.",
+  "Other": "The URL structure is commonly associated with phishing and scam websites.",
+  "verdict": 8
+}
+```

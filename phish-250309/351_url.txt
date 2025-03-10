@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of'saikrishna' as'saikrishna-333'. This could be an attempt to deceive users into thinking it is related to a legitimate domain.",
+  "TLD": "The TLD '.io' is commonly used by startups and is not inherently high-risk, but it is less common than '.com' or '.net'.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 3
+}
+```

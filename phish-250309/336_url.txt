@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of'restkstore' as'restkstore06'. This is a common tactic used by fraudsters to create a domain that looks similar to a legitimate one but is actually different.",
+  "TLD": "The TLD '.top' is considered high-risk and uncommon. It is often associated with fraudulent websites.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a straightforward URL.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 8
+}
+```

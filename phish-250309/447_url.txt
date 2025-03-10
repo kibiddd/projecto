@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'wedoit.com.ar' contains a misspelling of 'wedoit.com.ar', which is a deceptive domain.",
+  "TLD": "The TLD '.com.ar' is a country-code top-level domain (ccTLD) for Argentina, which is not uncommon or high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters that are typically associated with suspicious patterns.",
+  "Other": "The URL contains a misspelled domain and a deceptive subdomain, which are indicators of potential fraud.",
+  "verdict": 7
+}
+```

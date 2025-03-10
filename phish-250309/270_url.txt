@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'ledger-l.memmserve.com' contains a misspelling of 'ledger-l.com'. The'm' in'memmserve' is a character substitution for 'l'.",
+  "TLD": "The TLD '.memmserve.com' is uncommon and not a standard TLD, which could be a red flag for fraud.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters that are typically associated with fraudulent URLs.",
+  "Other": "The domain name 'ledger-l.memmserve.com' does not match any well-known legitimate domain names, which could be a sign of a fraudulent site.",
+  "verdict": 7
+}
+```

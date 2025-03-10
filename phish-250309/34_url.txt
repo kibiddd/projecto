@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain name contains a misspelling of 'console' as 'console-ndax'. This could be an attempt to deceive users into thinking they are visiting a legitimate site.",
+  "TLD": "The TLD '.io' is commonly used by legitimate companies, especially in the tech industry, but it can also be used by fraudulent sites. It is not inherently high-risk, but it is less common than traditional TLDs like '.com' or '.org'.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "The URL uses a subdomain ('webflow.io') which is a legitimate service for hosting websites. However, the deceptive misspelling in the domain name could be a red flag.",
+  "verdict": 5
+}
+```

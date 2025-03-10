@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'checkwhat.m1croshort.workers.dev' contains a misspelling of 'checkwhat.microshort.workers.dev'. The misspelling could be an attempt to deceive users into thinking it is a legitimate domain.",
+  "TLD": "The TLD '.dev' is commonly used by developers and is not inherently high-risk. However, it is not as common as '.com', '.net', or '.org'.",
+  "Patterns": "The URL contains an excessive length and a random string of characters, which could be an attempt to obfuscate the true destination of the link.",
+  "Other": "The URL contains a long query string with a mix of alphanumeric characters and symbols, which could be an attempt to disguise the true nature of the link.",
+  "verdict": 7
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain name contains a misspelling of 'trezor.io', which is a legitimate cryptocurrency wallet service. The misspelling could be an attempt to deceive users into thinking it's the official site.",
+  "TLD": "The TLD '.webflow.io' is not uncommon and is typically used for websites built with the Webflow platform. It is not inherently high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 3
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'new' as 'n' instead of 'ne', which could be an attempt to deceive users into thinking it's a legitimate domain.",
+  "TLD": "The TLD '.top' is uncommon and considered high-risk, often associated with phishing and fraudulent activities.",
+  "Patterns": "The URL does not contain excessive length or random strings, but the use of 'top' in the domain name is a common pattern for phishing sites.",
+  "Other": "The URL lacks HTTPS, which is a common security feature for legitimate websites. The presence of 'newtransfer' in the path could be a deceptive attempt to mimic a legitimate service.",
+  "verdict": 8
+}
+```

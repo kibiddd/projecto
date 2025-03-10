@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The URL contains a misspelling of 'facebook' as 'facebook.login.octgencia.com.br'. This is a common tactic used by fraudsters to create deceptive domains that appear similar to legitimate ones.",
+  "TLD": "The TLD '.com.br' is a country code top-level domain (ccTLD) for Brazil. It is not uncommon and not considered high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure for a login page.",
+  "Other": "The URL contains a 'uuid' parameter, which is not inherently suspicious. However, the misspelling of 'facebook' in the domain is a red flag.",
+  "verdict": 7
+}
+```

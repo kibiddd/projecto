@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The URL contains misspellings and deceptive subdomains, such as 'vpndns.net' instead of 'vpndns.net', and multiple hyphens and underscores which are not typical in legitimate URLs.",
+  "TLD": "The TLD '.net' is common and not considered high-risk, so this factor does not indicate fraud.",
+  "Patterns": "The URL contains excessive length and unusual characters, including multiple hyphens and underscores, which are not typical in legitimate URLs.",
+  "Other": "The URL structure is highly unusual and does not follow standard URL formatting, which is a strong indicator of potential fraud.",
+  "verdict": 9
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelled 'weebly.com' as 'weebly.com' instead of 'weebly.com'.",
+  "TLD": "The TLD '.weebly.com' is a common and safe TLD, not high-risk.",
+  "Patterns": "The URL contains an excessive length and a random string 'currently7635491', which could be suspicious.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 5
+}
+```

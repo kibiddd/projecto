@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain'recoverpagecase.eu' contains a misspelling of'recoverpagecase.com'. This is a common tactic used by fraudsters to create a deceptive domain that appears similar to a legitimate one.",
+  "TLD": "The TLD '.eu' is a country code top-level domain (ccTLD) for the European Union. It is not uncommon and is not considered high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 3
+}
+```

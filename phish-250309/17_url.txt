@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The URL contains a deceptive domain with misspellings and character substitutions (e.g., 'auth-z-start-ledger' instead of a proper domain name).",
+  "TLD": "The TLD used is '.io', which is commonly associated with legitimate businesses, especially in the tech industry, but it can also be used by fraudulent sites.",
+  "Patterns": "The URL contains unusual characters and a pattern that does not resemble a standard URL structure, which could be a sign of a phishing attempt.",
+  "Other": "The URL lacks a clear and recognizable domain name, which is a common indicator of a fraudulent site.",
+  "verdict": 7
+}
+```

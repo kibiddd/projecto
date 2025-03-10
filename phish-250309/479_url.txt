@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'trezor' (using 'trezorr' instead of 'trezor'). This is a common tactic used by fraudsters to create deceptive domains that are visually similar to legitimate ones.",
+  "TLD": "The TLD '.webflow.io' is not uncommon and is typically associated with legitimate services. However, it is worth noting that '.io' is often used by startups and tech companies, which can sometimes be a red flag if used in a suspicious context.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 3
+}
+```

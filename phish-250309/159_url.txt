@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'carrefouriramadan2.pages.dev' contains misspellings and character substitutions, which are common indicators of deceptive domains.",
+  "TLD": "The TLD '.dev' is uncommon and considered high-risk, as it is often used by fraudulent sites.",
+  "Patterns": "The URL contains an excessive length and a random string '65597420', which are suspicious patterns often found in fraudulent URLs.",
+  "Other": "The URL lacks a clear, recognizable brand name, which is another indicator of potential fraud.",
+  "verdict": 9
+}
+```

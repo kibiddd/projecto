@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The URL contains a hyphen (-) which is not typical for domain names and could be a deceptive character substitution.",
+  "TLD": "The TLD (.app) is common and not considered high-risk.",
+  "Patterns": "The URL contains an unusual pattern with double hyphens and a hyphen within the domain name, which is not typical for domain names.",
+  "Other": "The URL uses'vercel.app' which is a legitimate domain, but the unusual pattern and deceptive domain name raise concerns.",
+  "verdict": 6
+}
+```

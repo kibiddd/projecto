@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The URL contains a deceptive domain with a hyphenated subdomain ('sso-ndax---view-cdn--authdh') which could be an attempt to mislead users into thinking it's a legitimate domain.",
+  "TLD": "The TLD used here is '.io', which is commonly associated with startups and businesses, but it is not inherently high-risk. However, it is not as common as '.com' or '.org'.",
+  "Patterns": "The URL contains unusual characters and a pattern that looks like a mix of hyphens and underscores, which could be an attempt to obfuscate the true nature of the URL.",
+  "Other": "The URL does not contain any other obvious suspicious factors such as excessive length or random strings.",
+  "verdict": 5
+}
+```

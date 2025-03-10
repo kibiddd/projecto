@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'github.io', which is a common subdomain for GitHub repositories. This could be an attempt to deceive users into thinking the site is related to GitHub.",
+  "TLD": "The TLD '.io' is commonly used by organizations for their websites, especially in the tech industry. It is not inherently high-risk, but it is less common than traditional TLDs like '.com', '.net', or '.org'.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a straightforward URL.",
+  "Other": "The URL contains a misspelled subdomain, which could be an attempt to deceive users. However, the rest of the URL seems legitimate, as it includes a recognizable domain name and a common TLD.",
+  "verdict": 3
+}
+```

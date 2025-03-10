@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'page-suspension.com' as 'page-suspension.com'. This is a common tactic used by fraudsters to create deceptive URLs that appear similar to legitimate ones.",
+  "TLD": "The TLD '.page-suspension.com' is not a high-risk TLD, but it is uncommon and could be used for deceptive purposes.",
+  "Patterns": "The URL contains an excessive length and a random string '10002323537.page-suspension.com/?helpbusiness-10003203537'. This could be a sign of a fraudulent URL.",
+  "Other": "The URL contains a combination of a misspelled domain and an unusual string, which are common indicators of a fraudulent URL.",
+  "verdict": 8
+}
+```

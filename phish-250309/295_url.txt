@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'nithinsai01.github.io' does not contain any obvious misspellings or character substitutions. However, the use of 'github.io' as a subdomain is common and not inherently deceptive.",
+  "TLD": "The TLD '.io' is commonly used by startups and is not considered high-risk. It is a legitimate TLD.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "The URL does not contain any other suspicious factors. It seems to be a legitimate GitHub Pages site.",
+  "verdict": 1
+}
+```

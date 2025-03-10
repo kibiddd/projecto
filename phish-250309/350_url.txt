@@ -1,0 +1,6 @@
+```json
+{
+  "Deceptive Domain": "The domain'safetytrackerfunnelmatrix.vercel.app' contains a misspelling of'safetytrackerfunnelmatrix.com'. The use of'vercel.app' instead of '.app' is a common practice for Vercel-hosted projects, but it can be deceptive if not properly verified.",
+  "TLD": "The TLD '.app' is commonly used for Vercel-hosted projects and is not considered high-risk. However, the use of a non-standard subdomain ('.vercel.app') could be a red flag.",
+  "Patterns": "The URL contains an unusual character '&' which is not typically used in standard URLs. The URL is also excessively long, which can be a sign of phishing or deceptive practices.",
+  "Other": "The URL lacks a clear and recognizable domain name, which can be a sign of an attempt to deceive users into thinking it is a legitimate site.",

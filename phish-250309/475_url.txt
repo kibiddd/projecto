@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'token-im.biz' does not contain obvious misspellings or character substitutions, but it is not a well-known or trusted domain, which could be a red flag.",
+  "TLD": "The TLD '.biz' is commonly used for business websites, but it is not inherently high-risk. However, it is not as common as '.com', '.net', or '.org', which could be a minor concern.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "The domain 'token-im.biz' does not match any well-known brands or services, which could be a potential indicator of fraud.",
+  "verdict": 4
+}
+```

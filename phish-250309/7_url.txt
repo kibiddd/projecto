@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'www' as's', which is a common tactic used by fraudsters to create deceptive URLs.",
+  "TLD": "The TLD '.cc' is not uncommon, but it is often associated with online scams and fraudulent activities.",
+  "Patterns": "The URL does not contain excessive length or random strings, but the use of a deceptive subdomain is a red flag.",
+  "Other": "The URL lacks a recognizable domain name, which is another indicator of potential fraud.",
+  "verdict": 7
+}
+```

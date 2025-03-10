@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'getprox.cc' contains a misspelling of 'getprox.com'. This is a common tactic used by fraudsters to create deceptive domains that appear similar to legitimate ones.",
+  "TLD": "The TLD '.cc' is considered a high-risk TLD, often associated with fraudulent activities and scams.",
+  "Patterns": "The URL contains an excessive length and unusual characters, which are common indicators of phishing or fraudulent URLs.",
+  "Other": "The URL lacks a clear and recognizable domain name, making it difficult to verify its legitimacy.",
+  "verdict": 9
+}
+```

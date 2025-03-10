@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'in.mt' appears to be a misspelling of 'in.mobi', which is a legitimate domain used by a popular mobile browser. However, the presence of '9hW' at the end of the URL is unusual and could be a deceptive attempt to trick users.",
+  "TLD": "The TLD '.mt' is a country code top-level domain (ccTLD) for Malta, which is not uncommon or high-risk. It is a legitimate TLD used by businesses and individuals in Malta.",
+  "Patterns": "The URL contains a suspicious pattern with the '9hW' at the end. This could be an attempt to disguise the true destination of the link or to trick users into clicking on it.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 6
+}
+```

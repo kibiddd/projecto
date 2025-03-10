@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'ajnaaditi30.github.io' contains a misspelling of 'anaditi30', which could be an attempt to deceive users into thinking it is related to a legitimate service or person.",
+  "TLD": "The TLD '.io' is commonly used by startups and is not inherently high-risk, but it is less common than traditional TLDs like '.com' or '.org'.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters, so it does not exhibit suspicious patterns in this regard.",
+  "Other": "The URL suggests a clone of Netflix, which could be a phishing attempt to lure users into a fake website. The use of a GitHub subdomain ('github.io') is not inherently suspicious, but the context of the URL is.",
+  "verdict": 7
+}
+```

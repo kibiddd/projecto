@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'plhhovyj.com' which could be an attempt to deceive users into thinking it is a legitimate site.",
+  "TLD": "The TLD '.pl' is not uncommon, but it is not a standard TLD for a country, which could be a red flag.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters, so this factor does not indicate fraud.",
+  "Other": "The domain name does not match any known legitimate domain, and the TLD is unusual for a country, which could be suspicious.",
+  "verdict": 7
+}
+```

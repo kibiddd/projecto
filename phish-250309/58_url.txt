@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain'surge.sh' is a legitimate domain, but the subdomain 'gigantic-holiday' could be deceptive as it might be trying to mimic a well-known brand or holiday name to trick users.",
+  "TLD": "The TLD '.sh' is uncommon and considered high-risk, as it is often used for phishing and fraudulent activities.",
+  "Patterns": "The URL contains an excessive length and a random string 'new677g8jgfd.html', which could be an attempt to obfuscate the true destination of the link.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 8
+}
+```

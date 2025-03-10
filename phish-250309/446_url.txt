@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'webfun.website' contains a misspelling of 'webfun.com'. The use of a deceptive subdomain 'website' instead of the correct 'com' is a common tactic used by fraudsters to deceive users.",
+  "TLD": "The TLD '.website' is uncommon and not typically associated with legitimate websites. It is often used by scammers to create a false sense of legitimacy.",
+  "Patterns": "The URL contains a long and complex string of characters, which is a common pattern used by fraudulent websites to avoid detection by users and search engines.",
+  "Other": "The URL lacks a clear and understandable path, making it difficult for users to understand what the website is about. This lack of transparency is another red flag for potential fraud.",
+  "verdict": 8
+}
+```

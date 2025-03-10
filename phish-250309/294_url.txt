@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains misspellings and character substitutions, which are common indicators of a deceptive domain.",
+  "TLD": "The TLD '.kendolimted.net' is uncommon and not a standard TLD, which could be a sign of a fraudulent site.",
+  "Patterns": "The URL does not contain excessive length or random strings, but the unusual characters and misspellings are concerning.",
+  "Other": "The URL lacks a recognizable company name or brand, which is often a red flag for fraudulent sites.",
+  "verdict": 8
+}
+```

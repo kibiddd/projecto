@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'coinbase' (coinbase instead of coinbase) and uses a deceptive subdomain (webflow.io instead of coinbase.com).",
+  "TLD": "The TLD used is.io, which is commonly associated with startups and tech companies, but it is not inherently high-risk. However, it is not the standard TLD for a well-known company like Coinbase.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a straightforward URL.",
+  "Other": "The URL redirects to a Coinbase page, which is a legitimate service. However, the deceptive domain and subdomain are red flags.",
+  "verdict": 7
+}
+```

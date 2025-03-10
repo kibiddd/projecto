@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of'sso-auth' and an unusual subdomain 'ndaxlogi-webflow.io'.",
+  "TLD": "The TLD '.io' is commonly used by legitimate businesses, especially in the tech industry, but it can also be used by fraudulent sites.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters, but the domain structure is suspicious.",
+  "Other": "The URL uses a webflow.io subdomain, which is a legitimate platform, but the deceptive domain name raises concerns.",
+  "verdict": 7
+}
+```

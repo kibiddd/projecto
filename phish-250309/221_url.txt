@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'globalauthresolution.pages.dev' does not contain obvious misspellings or character substitutions. However, the use of 'pages.dev' as a subdomain could be considered deceptive as it is a known platform for hosting websites, which might be used to mask the true nature of the site.",
+  "TLD": "The TLD '.dev' is commonly used for development and testing purposes and is not typically considered high-risk. It is not uncommon and does not inherently indicate fraud.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "The URL does not contain any other obvious suspicious factors. However, the use of 'pages.dev' as a subdomain could be a red flag if the site is not intended for development or testing purposes.",
+  "verdict": 2
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The URL contains a deceptive subdomain 'webflow.io' which is a legitimate service, but the use of 'com-cdnn-auth-en-usa' instead of a standard domain name could be a red flag for fraud.",
+  "TLD": "The TLD '.io' is commonly used by legitimate startups and businesses, especially in the tech industry, so it is not necessarily high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters that are typically associated with fraudulent URLs.",
+  "Other": "The URL structure is somewhat unusual due to the use of 'webflow.io' as a subdomain, which could be a sign of an attempt to disguise the true nature of the site. However, without additional context, it's not possible to definitively determine if this is fraudulent.",
+  "verdict": 3
+}
+```

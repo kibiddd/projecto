@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains misspellings and character substitutions, such as 'potarl' instead of 'portal' and 'abaytravel' instead of 'abtravel'.",
+  "TLD": "The TLD '.abaytravel.com' is uncommon and potentially high-risk, as it is not a standard TLD and could be used for deceptive purposes.",
+  "Patterns": "The URL contains an excessive length and unusual characters, which are common indicators of phishing or fraudulent websites.",
+  "Other": "The URL structure itself does not contain any additional suspicious factors, but the combination of the above points is concerning.",
+  "verdict": 8
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The URL contains a hyphen (-) instead of a dot (.), which is not a standard practice in domain names and could be a deceptive attempt to confuse users.",
+  "TLD": "The TLD used here is.io, which is commonly associated with startups and tech companies, but it is not inherently high-risk. However, it is not as common as.com,.net, or.org.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters that are typically associated with phishing or fraudulent URLs.",
+  "Other": "The URL uses a subdomain (ca--webflow-web-ndax) which is not standard and could be an attempt to disguise the true nature of the website. The use of double hyphens (-) instead of dots (.) is also unusual and could be a red flag.",
+  "verdict": 5
+}
+```

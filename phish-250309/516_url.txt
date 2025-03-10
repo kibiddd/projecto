@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'taap.it' contains a misspelling of 'tapas.it', which is a common misspelling used to deceive users into thinking they are visiting a legitimate site.",
+  "TLD": "The TLD '.it' is common and not considered high-risk, so this factor does not indicate fraud.",
+  "Patterns": "The URL contains an excessive length and a random string 'T2EksR', which could be an attempt to obfuscate the true destination of the link.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 7
+}
+```

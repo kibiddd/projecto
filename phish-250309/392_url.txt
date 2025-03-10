@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain'staemcommumnittly.com' contains a misspelling of'steamcommunity.net', which is a common gaming platform. This could be an attempt to deceive users into thinking the URL is legitimate.",
+  "TLD": "The TLD '.com' is a common and trusted TLD, so it does not indicate a high risk of fraud.",
+  "Patterns": "The URL contains an unusual character '5' in the domain name, which is not typical for a legitimate domain. Additionally, the URL is relatively short and does not contain excessive length or random strings.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 3
+}
+```

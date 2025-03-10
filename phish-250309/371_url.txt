@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain'smart.innovationroad.site' contains a misspelling of'smartinnovationsite', which could be an attempt to deceive users into thinking it's a legitimate site.",
+  "TLD": "The TLD '.site' is not uncommon, but it is not a high-risk TLD. However, it is not a standard TLD for websites, which could be a red flag.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "The URL lacks a recognizable company name or brand, which could be a sign of a fraudulent site.",
+  "verdict": 5
+}
+```
