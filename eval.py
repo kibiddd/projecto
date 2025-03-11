@@ -65,7 +65,8 @@ def eval_combine(dataset_path, folder_path):
     dataset = load_dataset(dataset_path)
     pipe = pipeline("text-generation", model="microsoft/Phi-4-mini-instruct", trust_remote_code=True)
 
-    for idx, u in enumerate(dataset):
+    for idx, u in enumerate(dataset[92:]):
+        idx += 92
         print(f'Analysing {idx}/{len(dataset) - 1}, url={u}')
         url_path = folder_path + str(idx) + '_url.txt'
         url_result = load(url_path)
@@ -74,7 +75,7 @@ def eval_combine(dataset_path, folder_path):
         content_path = folder_path + str(idx) + '_cont.txt'
         content_result = load(content_path)
         # print(f'url={u}, url_result={url_result}, domain_result={domain_result}, content_result={content_result}')
-        combine_anal = combine(dataset[idx], url_result, domain_result, content_result, pipe)
+        combine_anal = combine(u, url_result, domain_result, content_result, pipe)
         combine_path = folder_path + str(idx) + '_combine.txt'
         with open(combine_path, 'w') as f:
             f.write(combine_anal)
