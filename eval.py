@@ -3,6 +3,7 @@ from domain import domain_analysis
 from cont import content_analysis
 from url import url_analysis
 from transformers import pipeline
+from combine import combine
 
 def load_txt(path):
     with open(path, 'r') as f:
@@ -54,6 +55,30 @@ def all_anal_cont(path):
         img_path = prefix + str(idx+500) + '.png'
         anal_cont(u, img_path)
 
+# function to load n_cont.txt
+def load(path):
+    with open(path, 'r') as f:
+        return f.read()
+
+# function to load all
+def eval_combine(dataset_path, folder_path):
+    dataset = load_dataset(dataset_path)
+    pipe = pipeline("text-generation", model="microsoft/Phi-4-mini-instruct", trust_remote_code=True)
+
+    for idx, u in enumerate(dataset):
+        print(f'Analysing {idx}/{len(dataset) - 1}, url={u}')
+        url_path = folder_path + str(idx) + '_url.txt'
+        url_result = load(url_path)
+        domain_path = folder_path + str(idx) + '_dom.txt'
+        domain_result = load(domain_path)
+        content_path = folder_path + str(idx) + '_cont.txt'
+        content_result = load(content_path)
+        # print(f'url={u}, url_result={url_result}, domain_result={domain_result}, content_result={content_result}')
+        combine_anal = combine(dataset[idx], url_result, domain_result, content_result, pipe)
+        combine_path = folder_path + str(idx) + '_combine.txt'
+        with open(combine_path, 'w') as f:
+            f.write(combine_anal)
+
 
 if __name__ == '__main__':
-    all_anal_url('phishing-links-250309.txt')
+    eval_combine('phishing-links-250309.txt', 'phish-250309/')

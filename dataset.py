@@ -37,18 +37,24 @@ def get_dataset():
                 file.write(u + "\n")
 
 def load_dataset(path):
-    with open(path, "r", encoding="utf-8") as file:
-        # separate lines to list
-        lines = file.read().splitlines()
-        return lines
+    try:
+        with open(path, "r", encoding="utf-8") as file:
+            # Attempt to read the file as UTF-8
+            lines = file.read().splitlines()
+            return lines
+    except UnicodeDecodeError:
+        # If UTF-8 fails, fall back to "latin-1" encoding
+        with open(path, "r", encoding="latin-1") as file:
+            lines = file.read().splitlines()
+            return lines
 
 def random_list(dataset, num):
     return random.sample(dataset, num)
 
-def random_dataset():
-    ran = random_list(load_dataset("phish.txt"), 5000)
+def random_dataset(dataset_path, new_dataset_path, num):
+    ran = random_list(load_dataset(dataset_path), num)
     # write out to txt
-    with open("random.txt", "w", encoding="utf-8") as file:
+    with open(new_dataset_path, "w", encoding="utf-8") as file:
         for r in ran:
             file.write(r + "\n")
 
@@ -76,7 +82,7 @@ def new_only(dataset1, dataset2):
             only_new.append(d)
     return only_new
 
-if __name__ == "__main__":
+def get_whois(path1, path2):
     path1 = "phishing-links-250309.txt"
     path2 = "phishing-links-250308.txt"
     dataset = new_only(load_dataset(path1), load_dataset(path2))
@@ -90,5 +96,6 @@ if __name__ == "__main__":
         with open(filename, "w", encoding="utf-8") as file:
             file.write(raw)
 
-
+if __name__ == "__main__":
+    random_dataset("legitimate_urls.txt", "random_legit.txt", 2000)
 
