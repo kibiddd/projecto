@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is attempting to register a user, which could be a phishing attempt if the registration is for a service that seems suspicious or asks for sensitive information.",
+  "Suspicious offer": "The offer is not visible yet. However, if the user successfully gets to the website, then a sign-up process could be the offer.",
+  "Format": "The screenshot shows a 'Not Found' error, so the website design is not directly accessible. The error message and its generic nature could point to a low-quality website.",
+  "Transparency": "The information provided is not visible yet. No contact info is available due to the error page.",
+  "Impersonation": "N/A",
+  "Other": "The 'Not Found' error makes it impossible to assess if any functionality is available, including whether it asks for too much information, offers too-good-to-be-true discounts, or provides poor design with many typos.",
+  "verdict": 6
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website doesn't seem to request any personal information or payment based on the initial image. It might have other pages requesting payment, but with this single image, it's impossible to know.",
+  "Suspicious offer": "The website's content is not available from the image and thus there's no information about suspicious offers or deals.",
+  "Format": "The website appears as a blank page which hints to poor design and quality.",
+  "Transparency": "The image does not reveal any contact information of the website.",
+  "Impersonation": "The website doesn't seem to impersonate any particular organization based on the single, white image.",
+  "Other": "The website looks blank, raising questions about its purpose and legitimacy.",
+  "verdict": 6
+}
+```

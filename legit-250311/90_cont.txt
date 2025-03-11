@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website doesn't appear to be requesting any personal information or payment.",
+  "Suspicious offer": "The website is not offering any products or services, and doesn't make any claims that seem suspicious.",
+  "Format": "The website seems to be well-designed with a clear layout and no obvious typos.",
+  "Transparency": "The website provides general contact information.",
+  "Impersonation": "The website is not impersonating a legitimate website or organization.",
+  "Other": "The page is showing a 404 error, which suggests a possible issue with the site or the requested content, but this alone doesn't indicate fraud.",
+  "verdict": 1
+}
+```

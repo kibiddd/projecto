@@ -1,0 +1,3 @@
+```json
+{"Phishing": "The website does not request personal information or payment.", "Suspicious offer": "There is no suspicious offer.", "Format": "The website has a basic design but appears functional and the image quality is reasonable, without obvious typos. The website is from a time period where website design was not as advanced. It may be missing some modern web design features.", "Transparency": "The website provides some basic information, but detailed contact information is not immediately apparent.", "Impersonation": "There is no indication of impersonation.", "Other": "N/A", "verdict": 1}
+```

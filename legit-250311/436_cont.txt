@@ -1,0 +1,3 @@
+```json
+{"Phishing": "N/A", "Suspicious offer": "N/A", "Format": "The website displays a 404 error page, which does not have a poor design.", "Transparency": "The website provides contact information, but the 404 error prevents the user from accessing it.", "Impersonation": "N/A", "Other": "N/A", "verdict": 1}
+```

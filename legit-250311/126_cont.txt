@@ -1,0 +1,3 @@
+```json
+{"Phishing": "The website is asking for login information (username and password).", "Suspicious offer": "N/A", "Format": "The website design and quality are of good standards with no typos.", "Transparency": "The website appears to be a legitimate platform and provides clear information about the services.", "Impersonation": "N/A", "Other": "N/A", "verdict": 1}
+```

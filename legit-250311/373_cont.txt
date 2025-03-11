@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not appear to be requesting personal information or payment directly. However, the overall lack of content raises concern about the website's purpose.",
+  "Suspicious offer": "There is no content to assess this.",
+  "Format": "The website is completely blank, which raises significant concerns about the quality and legitimacy of the site. This suggests a poor design or a site under construction.",
+  "Transparency": "There is no contact information or any indication of who owns or operates the website.",
+  "Impersonation": "N/A",
+  "Other": "The complete blankness of the website strongly suggests that it is either very new, incomplete, or possibly a placeholder. The lack of any content is highly unusual for a legitimate business.",
+  "verdict": 9
+}
+```

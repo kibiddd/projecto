@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is for process serving and does not appear to be requesting personal information or payment directly on the displayed page, making phishing unlikely based on this limited view. Additional pages would need to be checked.",
+  "Suspicious offer": "The website does not seem to offer any suspicious deals.",
+  "Format": "The website has a clean and professional design. There are no obvious typos or low-quality images visible in the screenshot. More pages might need to be checked.",
+  "Transparency": "The website appears to offer contact information, increasing transparency. More complete check will need to be performed.",
+  "Impersonation": "The website appears to be representing a legitimate business.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

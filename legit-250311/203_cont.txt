@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "Based on the provided information (a blank image), it's impossible to determine if the website is requesting personal information or payment.",
+  "Suspicious offer": "Based on the provided information (a blank image), it's impossible to determine if the website is offering a suspicious offer.",
+  "Format": "Based on the provided information (a blank image), it's impossible to assess the website's design, image quality, or the presence of typos.",
+  "Transparency": "Based on the provided information (a blank image), it's impossible to determine the transparency of the website's contact information.",
+  "Impersonation": "Based on the provided information (a blank image), it's impossible to determine if the website is impersonating another entity.",
+  "Other": "The blank image makes any assessment impossible.",
+  "verdict": 1
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is for a government official and does not appear to request personal information or payment in a way that would suggest phishing.",
+  "Suspicious offer": "N/A",
+  "Format": "The website appears to be professionally designed and maintained.",
+  "Transparency": "The website provides clear contact information, which is typical for official government websites.",
+  "Impersonation": "It is the official website for a member of the House of Representatives, thus there is no attempt to impersonate a legitimate entity.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website's design suggests it's built using a free or basic website builder (Weebly), which might indicate a lack of professionalism. However, without seeing the actual website content, it's difficult to ascertain. It's a plain white page, thus impossible to tell.",
+  "Transparency": "N/A, There is nothing shown on the page to give any insight on transparency.",
+  "Impersonation": "N/A",
+  "Other": "The fact that the website uses Weebly, a free website builder, does not necessarily make it fraudulent, but combined with the plain white page, it raises a small amount of suspicion as to the legitimacy of the site.",
+  "verdict": 3
+}
+```

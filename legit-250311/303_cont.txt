@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not appear to request personal information or payments, as far as the provided screenshot shows.",
+  "Suspicious offer": "The website does not seem to offer any suspicious deals or free products/services.",
+  "Format": "The website has a professional design with generally good quality images, but lacks https security, and uses a somewhat outdated design. The images in the news articles appear to be good quality. There are a few grammar or spelling errors visible.",
+  "Transparency": "The website provides some contact information, which includes social media links. The 'About Us' or 'Contact Us' sections can be investigated further for contact information.",
+  "Impersonation": "N/A",
+  "Other": "The lack of HTTPS security is a concern. Also, the URL structure is not typical, so the website looks possibly suspicious.",
+  "verdict": 4
+}
+```

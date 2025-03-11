@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting information about travel dates and destinations, which is standard for hotel booking sites. It also requests the user to sign in or register, which are usual features of hotel booking websites, but it is not requesting any sensitive information.",
+  "Suspicious offer": "The website offers deals and prices, but they are not presented in a way that seems unusually suspicious or too good to be true. The website also offers prices for members, which are a standard marketing strategy.",
+  "Format": "The website has a professional design, high-quality images, and appears well-organized. There are no obvious typos or grammatical errors.",
+  "Transparency": "The website includes typical contact information, such as links to customer service, help sections, and account sign-in features. This increases its trustworthiness. It is also from a reputable company, Hotels.com",
+  "Impersonation": "There is no evidence of the website attempting to impersonate another entity or create a false sense of legitimacy.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

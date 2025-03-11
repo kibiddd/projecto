@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website is a text-based press release, which is not a typical format for a fraudulent website.",
+  "Transparency": "The website is hosted on Yahoo Finance and contains a press release, indicating a degree of transparency.",
+  "Impersonation": "N/A",
+  "Other": "The URL is from a reputable source, further reducing the likelihood of fraud.",
+  "verdict": 1
+}
+```

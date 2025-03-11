@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is an online bookstore and doesn't appear to be requesting personal information in a suspicious manner.",
+  "Suspicious offer": "There are no suspicious offers, the site appears to be selling books at a normal price.",
+  "Format": "The website has a professional design and there are no obvious typos or low-quality images.",
+  "Transparency": "The website provides clear contact information and is associated with the American Booksellers Association, increasing its trustworthiness.",
+  "Impersonation": "The website represents a legitimate business. There is no indication of impersonation.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

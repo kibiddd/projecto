@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not appear to be requesting personal information or payments.",
+  "Suspicious offer": "The website is hosting video content related to the Olympics, and not offering anything that seems suspicious.",
+  "Format": "The website's design appears to be functional, with an organized layout and clear content.",
+  "Transparency": "The website provides basic information about the content provided.",
+  "Impersonation": "There's no indication of impersonation.",
+  "Other": "The website is a video platform that hosts news and events. ",
+  "verdict": 1
+}
+```

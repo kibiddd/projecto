@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is showing a 404 error, it's not requesting any personal information or payment.",
+  "Suspicious offer": "N/A",
+  "Format": "The website is showing a 404 error, suggesting a problem with the site or a non-existent page. The format is a generic error page.",
+  "Transparency": "N/A",
+  "Impersonation": "N/A",
+  "Other": "The 404 error itself doesn't indicate fraud, but it does mean the requested page is not found.",
+  "verdict": 1
+}
+```

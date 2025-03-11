@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is a video platform (YouTube), so it is unlikely to request personal information or payment directly, unless you are trying to sign in.",
+  "Suspicious offer": "The website itself doesn't present any suspicious offers.",
+  "Format": "The website appears to be YouTube, a well-designed platform with high-quality images and videos.",
+  "Transparency": "YouTube provides clear contact information.",
+  "Impersonation": "The website is the official YouTube website. There is no impersonation.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

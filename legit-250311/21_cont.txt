@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website itself doesn't appear to be requesting personal information or payment on the displayed page (Error 404). However, any linked content or the general purpose of the site is not possible to tell based on this page.",
+  "Suspicious offer": "The page is displaying an error message, and there is no offer.",
+  "Format": "The website has a professional design, but the error page is minimal and doesn't give much information about the quality of the site as a whole. There is no sign of poor design or typo on this page.",
+  "Transparency": "Contact information is provided in the footer, along with copyright and the platform it uses (Invision Community), which increase the trustworthiness of the website.",
+  "Impersonation": "There are no signs of impersonation, as the website presents its own branding.",
+  "Other": "The error page suggests the requested content doesn't exist. This could be due to various reasons (deleted content, incorrect URL). More information on the content of the website would be needed to assess the legitimacy further.",
+  "verdict": 3
+}
+```

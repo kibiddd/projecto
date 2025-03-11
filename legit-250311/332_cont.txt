@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website appears to be a simple listing and may lack in-depth information or a complex design but is not inherently suspicious.",
+  "Transparency": "The website's purpose is to provide college search and doesn't have obvious lack of transparency.",
+  "Impersonation": "N/A",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

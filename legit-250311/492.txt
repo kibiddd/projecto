@@ -1,0 +1,19 @@
+   Domain Name: FASHIONENCYCLOPEDIA.COM
+   Registry Domain ID: 368166052_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2018-12-29T08:24:10Z
+   Creation Date: 2006-03-09T07:42:43Z
+   Registry Expiry Date: 2027-03-09T07:42:43Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.SOFTLAYER.COM
+   Name Server: NS11.DNSMADEEASY.COM
+   Name Server: NS12.DNSMADEEASY.COM
+   Name Server: NS2.SOFTLAYER.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-11T10:15:05Z 

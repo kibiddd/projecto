@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not appear to be requesting any personal information or payment in the provided image.",
+  "Suspicious offer": "The website offers a free trial, which is a common marketing practice. It does not appear to be a too-good-to-be-true offer.",
+  "Format": "The website has a clean and professional design. No typos are apparent.",
+  "Transparency": "The website provides contact information and company details.",
+  "Impersonation": "N/A",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

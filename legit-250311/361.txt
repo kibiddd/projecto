@@ -1,0 +1,20 @@
+   Domain Name: THECANADIANENCYCLOPEDIA.COM
+   Registry Domain ID: 37421167_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namescout.com
+   Registrar URL: http://www.namescout.com
+   Updated Date: 2024-10-07T07:40:15Z
+   Creation Date: 2000-10-06T20:29:07Z
+   Registry Expiry Date: 2025-10-06T20:29:07Z
+   Registrar: Namescout Ltd
+   Registrar IANA ID: 186
+   Registrar Abuse Contact Email: abuse@rebel.com
+   Registrar Abuse Contact Phone: 1-866-497-3235
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS-1268.AWSDNS-30.ORG
+   Name Server: NS-1803.AWSDNS-33.CO.UK
+   Name Server: NS-449.AWSDNS-56.COM
+   Name Server: NS-599.AWSDNS-10.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-11T10:14:20Z 

@@ -1,0 +1,3 @@
+```json
+{"Phishing": "N/A", "Suspicious offer": "N/A", "Format": "The website displays a standard 404 error page. The lack of content indicates a potential issue, but it's not inherently fraudulent.", "Transparency": "N/A", "Impersonation": "N/A", "Other": "The website itself isn't directly fraudulent, it seems like the requested page is not found. However, a 404 error doesn't confirm the legitimacy of the domain itself.", "verdict": 1}
+```

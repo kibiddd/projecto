@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website has a 404 error page, indicating a broken link or page that doesn't exist. The design is simple, which might indicate a less sophisticated site.",
+  "Transparency": "N/A, the website doesn't seem to have any clear contact information.",
+  "Impersonation": "N/A",
+  "Other": "The 404 error suggests the intended content isn't available, which isn't inherently fraudulent. It's a broken link.",
+  "verdict": 1
+}
+```

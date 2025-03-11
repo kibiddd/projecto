@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The URL suggests a registration page. Without content, it's impossible to determine if it's asking for personal information.",
+  "Suspicious offer": "N/A",
+  "Format": "N/A, impossible to assess without content",
+  "Transparency": "N/A",
+  "Impersonation": "N/A",
+  "Other": "The URL .asp extension can sometimes indicate older technology, but on its own doesn't indicate fraud. It can be a normal website. Without content this is not possible to determine.",
+  "verdict": 1
+}
+```

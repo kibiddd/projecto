@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website seems to be hosting a document. Without further context, it's difficult to judge its format. However, based on the URL, it might be a legitimate document hosting site.",
+  "Transparency": "N/A",
+  "Impersonation": "N/A",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

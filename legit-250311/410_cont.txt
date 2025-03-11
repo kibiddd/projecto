@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website itself does not appear to be requesting personal information or payment in the provided screenshot.",
+  "Suspicious offer": "The website does not seem to offer any products or services that are too good to be true or free.",
+  "Format": "The website appears well-designed with a professional layout and high-quality images, typical of a legitimate retail site. There are no apparent typos.",
+  "Transparency": "While a complete review would require more context, the site shows clear brand representation, and the presence of corporate information elements indicates a commitment to transparency. However, full contact info is not available.",
+  "Impersonation": "The website appears to be the official Fisher-Price website based on its branding and layout.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

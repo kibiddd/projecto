@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "The website title suggests live streaming of a WWE event. Streaming copyrighted content without proper authorization can be considered a suspicious offer.",
+  "Format": "N/A",
+  "Transparency": "N/A",
+  "Impersonation": "N/A",
+  "Other": "The website name 'blogcatalog.com' is not associated with the topic. This can be a method to attract more viewers to click on the suspicious links. ",
+  "verdict": 7
+}
+```

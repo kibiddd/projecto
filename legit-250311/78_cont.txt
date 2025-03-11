@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not appear to be requesting personal information or payment in the current state. It's displaying a 'Page Not Found' error.",
+  "Suspicious offer": "N/A",
+  "Format": "The error page itself looks professionally designed, but the fact that a page cannot be found could indicate a technical issue or a problem with the site's structure, which could be exploited in a fraudulent attempt.",
+  "Transparency": "N/A",
+  "Impersonation": "N/A",
+  "Other": "The error page could be a result of a legitimate technical issue. Without further investigation or a specific context of the website's normal operation, it's difficult to determine if this is an attempt to scam or a legitimate error.",
+  "verdict": 2
+}
+```

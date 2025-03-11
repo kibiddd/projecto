@@ -1,0 +1,19 @@
+   Domain Name: SPOKEO.COM
+   Registry Domain ID: 399926490_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.enom.com
+   Registrar URL: http://www.enomdomains.com
+   Updated Date: 2025-03-06T07:35:02Z
+   Creation Date: 2006-04-04T22:31:56Z
+   Registry Expiry Date: 2026-04-04T22:31:56Z
+   Registrar: eNom, LLC
+   Registrar IANA ID: 48
+   Registrar Abuse Contact Email: domainabuse@tucows.com
+   Registrar Abuse Contact Phone: +1.4165350123
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-1177.AWSDNS-19.ORG
+   Name Server: NS-1803.AWSDNS-33.CO.UK
+   Name Server: NS-43.AWSDNS-05.COM
+   Name Server: NS-987.AWSDNS-59.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-11T10:13:34Z 

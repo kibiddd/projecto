@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is offering a domain name for sale, which might involve a transaction, but doesn't appear to be directly requesting sensitive personal information in a phishing attempt. However, the transaction aspect could make it vulnerable to phishing via compromised payment processes.",
+  "Suspicious offer": "The website is offering a domain name for sale, which isn't necessarily suspicious, but could be if the price is unreasonably low compared to market value. There's not enough information to evaluate if the offer is suspicious.",
+  "Format": "The website has a basic design, a limited number of features. Overall, the website has a professional design without significant red flags.",
+  "Transparency": "The website doesn't provide extensive contact information. However, the content is clearly presented. ",
+  "Impersonation": "The website is selling the domain name 'lindasmalley.com', indicating it is possibly owned by a person named Linda Smalley.",
+  "Other": "The lack of detailed information, basic design, and limited features could indicate a lack of effort to build trust, it could be a domain just parked for sale.",
+  "verdict": 4
+}
+```

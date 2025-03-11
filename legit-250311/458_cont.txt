@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The site design looks standard and the image is of good quality, but the site is blocked, meaning the website may be under attack, and hence not fully reliable.",
+  "Transparency": "The website is findagrave.com, which is a legitimate genealogy website. The Cloudflare message does not provide contact information, and this is normal when security systems block access.",
+  "Impersonation": "N/A",
+  "Other": "The fact that the user has been blocked indicates that there may be security concerns, or malicious activities.",
+  "verdict": 5
+}
+```

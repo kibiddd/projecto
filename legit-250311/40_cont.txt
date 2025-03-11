@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is asking for cookie preferences, which is not a phishing attempt.",
+  "Suspicious offer": "N/A",
+  "Format": "The website seems to be a normal Facebook page. The design looks standard.",
+  "Transparency": "The website is on Facebook, which is a legitimate platform.",
+  "Impersonation": "N/A",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is the official website of the New York City Comptroller and does not appear to be requesting personal information or payment directly on the homepage, thus, unlikely for phishing.",
+  "Suspicious offer": "The website does not seem to be offering any suspicious deals.",
+  "Format": "The website seems professionally designed and contains high-quality images with no obvious typos.",
+  "Transparency": "The website provides clear contact information and information about the New York City Comptroller.",
+  "Impersonation": "The website is the official NYC Comptroller website, and does not seem to be impersonating anything.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

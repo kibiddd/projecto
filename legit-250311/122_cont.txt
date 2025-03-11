@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website is blank, which suggests a potential issue with the site's development or a problem loading content. This lack of content is unusual and raises concern.",
+  "Transparency": "N/A",
+  "Impersonation": "N/A",
+  "Other": "The lack of content is a major red flag, as legitimate websites would usually display some information or a user interface. This is a strong indicator of a potentially fraudulent or abandoned website.",
+  "verdict": 8
+}
+```

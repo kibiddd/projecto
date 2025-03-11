@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website has a basic design, but it appears functional and is not overly suspicious in itself. The low-quality image is an indicator for potential fraud.",
+  "Transparency": "N/A",
+  "Impersonation": "N/A",
+  "Other": "The website seems to list sport cards and their information which is normal, however a blank image could be an attempt to hide something.",
+  "verdict": 3
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website appears to be a blog or news site, and the design is clean, with no obvious design flaws or typos in the displayed content.",
+  "Transparency": "The website does not appear to have contact information.",
+  "Impersonation": "N/A",
+  "Other": "The provided URL directs to a specific construction company in Oakland, Nebraska. However, the website itself seems legitimate. Since the provided URL is not the homepage, more information may be required to make a more accurate judgement, but based on the homepage the website seems ok.",
+  "verdict": 2
+}
+```

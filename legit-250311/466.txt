@@ -1,0 +1,17 @@
+   Domain Name: PETROGLYPHGAMES.COM
+   Registry Domain ID: 95312808_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.pairdomains.com
+   Registrar URL: http://www.pairdomains.com
+   Updated Date: 2025-01-28T09:49:26Z
+   Creation Date: 2003-02-27T06:29:15Z
+   Registry Expiry Date: 2026-02-27T06:29:15Z
+   Registrar: pair Networks, Inc. d/b/a pair Domains
+   Registrar IANA ID: 99
+   Registrar Abuse Contact Email: abuse@pairdomains.com
+   Registrar Abuse Contact Phone: +1.4123815195
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS1.PAIRNIC.COM
+   Name Server: NS2.PAIRNIC.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-11T10:15:05Z 

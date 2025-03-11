@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website itself does not appear to be requesting personal information or payment within the displayed content, but it is displaying a document that has been deleted, suggesting a potential issue with a specific document rather than the platform itself.",
+  "Suspicious offer": "The website is offering a free trial, which is a standard practice for the service. The information displayed is a deletion notice, so there is no indication of a suspicious offer within this context.",
+  "Format": "The website has a professional design and layout with no apparent typos in the displayed information, and the deletion notice is clear and direct.",
+  "Transparency": "The website provides clear contact information, copyright notices, and links to help and legal sections at the bottom, indicating transparency.",
+  "Impersonation": "There is no indication of impersonation; the website clearly identifies itself as Scribd.",
+  "Other": "The 'Deletion notice' and error message could be used in phishing attempts.",
+  "verdict": 2
+}
+```

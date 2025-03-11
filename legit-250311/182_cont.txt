@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting cookies but not direct personal information or payment information.",
+  "Suspicious offer": "N/A",
+  "Format": "The website appears to be professionally designed with good-quality images, and there are no obvious typos.",
+  "Transparency": "N/A",
+  "Impersonation": "N/A",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

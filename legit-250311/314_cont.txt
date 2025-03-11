@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website is a blank white page, which indicates a severe issue with the site's design and functionality.",
+  "Transparency": "N/A",
+  "Impersonation": "N/A",
+  "Other": "The website domain 'tangoairlines.net' is suspicious as the URL is very generic and does not lead to the known major airlines. A blank webpage is a major red flag.",
+  "verdict": 9
+}
+```

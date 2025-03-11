@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website has a professional design and appears well-maintained.",
+  "Transparency": "The website appears to be part of a larger network (SBNATION), which suggests a degree of transparency.",
+  "Impersonation": "N/A",
+  "Other": "The website is an archive article regarding a sports team, and there are no immediate red flags suggesting fraudulent activity.",
+  "verdict": 1
+}
+```

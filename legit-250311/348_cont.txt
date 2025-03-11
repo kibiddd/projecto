@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website itself does not appear to be requesting personal information or payment. The 'File Not Found' error suggests a broken link or unavailable page, which is not inherently a phishing attempt.",
+  "Suspicious offer": "The error message does not contain any suspicious offers or claims.",
+  "Format": "The design appears clean and professional, even with a 'File Not Found' error. There are no obvious typos or low-quality images, just a standard error message indicating a problem on the site.",
+  "Transparency": "The website indicates it is related to 'Visit New England', suggesting the site is a part of a legitimate tourism organization. However, since the page is not found, further investigation would be needed to fully verify contact information.",
+  "Impersonation": "There is no indication of impersonation in this context. The website appears to be the official website, though the requested page is not available.",
+  "Other": "The 'File Not Found' error may indicate a site that is in development, undergoing maintenance, or has some technical problems. It does not immediately appear fraudulent, but additional pages should be checked to fully evaluate the legitimacy of the website. A 'File Not Found' error is not inherently a suspicious factor, but combined with other factors it could be.",
+  "verdict": 2
+}
+```

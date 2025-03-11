@@ -1,0 +1,71 @@
+% Request from 2a09:bac5:c82c:de1::162:237
+% This is the Ukrainian Whois query server #B.
+% The Whois is subject to Terms of use
+% See https://hostmaster.ua/services/
+%
+% IN THE PROCESS OF DELEGATION OF A DOMAIN NAME,
+% THE REGISTRANT IS AN ENTITY WHO USES AND MANAGES A CERTAIN DOMAIN NAME,
+% AND THE REGISTRAR IS A BUSINESS ENTITY THAT PROVIDES THE REGISTRANT
+% WITH THE SERVICES NECESSARY FOR THE TECHNICAL MAINTENANCE OF THE REGISTRATION AND OPERATION OF THE DOMAIN NAME.
+% FOR INFORMATION ABOUT THE REGISTRANT OF THE DOMAIN NAME, YOU SHOULD CONTACT THE REGISTRAR.
+
+domain:           edu.ua
+dom-public:       YES
+nserver:          ba1.ns.ua
+nserver:          bg.ns.ua
+nserver:          ho1.edu.ns.ua
+nserver:          nn.ns.ua
+ds-rdata:         61696 13 2 53C6707821F4AE2C61601879877D492E9E94ECBB7E7B1D02DEAC59D1AF2FA92E
+status:           ok
+created:          2000-02-14 00:00:00+02
+modified:         2025-01-16 16:43:40+02
+source:           UAEPP
+
+% Administrative Contacts:
+% =======================
+person:           EDU.UA Administrator
+person-loc:       Адміністратор EDU.UA
+organization:     EDU.UA Administrator
+organization-loc: Адміністратор EDU.UA
+e-mail:           tanya.forsyuk@gmail.com
+address:          p.o.box 98
+address:          KIEV
+postal-code:      04060
+country:          UA
+address-loc:      n/a
+country-loc:      UA
+phone:            +380.933229766
+fax:              +380.445813991
+mnt-by:           ua.admin
+status:           ok
+status:           linked
+created:          2003-08-28 00:00:00+03
+modified:         2012-12-10 12:31:26+02
+source:           UAEPP
+
+
+% Technical Contacts:
+% ===================
+person:           Hostmaster LLC
+person-loc:       ТОВ "Хостмайстер"
+organization:     Hostmaster LLC
+organization-loc: ТОВ "Хостмайстер"
+e-mail:           info@hostmaster.ua
+address:          P.O.Box 23
+address:          KYIV
+postal-code:      04053
+country:          UA
+address-loc:      n/a
+country-loc:      UA
+phone:            +380.445941794
+mnt-by:           ua.admin
+status:           ok
+status:           linked
+created:          2002-02-14 00:00:00+02
+modified:         2023-07-19 16:54:23+03
+source:           UAEPP
+
+
+
+% Query time:     38 msec
+

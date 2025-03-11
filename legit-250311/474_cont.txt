@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website shows a 404 error, indicating a page that doesn't exist. This alone doesn't suggest fraud, but it does indicate poor site maintenance or potential issues with the URL structure.",
+  "Transparency": "N/A, the content does not provide any information about the site",
+  "Impersonation": "N/A",
+  "Other": "The 404 page could be a simple error or the page could have been taken down. There is not enough information to determine if the website is fraudulent.",
+  "verdict": 1
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website's content is missing, making it difficult to assess whether it requests personal information or payment.",
+  "Suspicious offer": "N/A",
+  "Format": "The website has a blank white page, indicating a poor design or incomplete development. This is a significant red flag.",
+  "Transparency": "N/A",
+  "Impersonation": "N/A",
+  "Other": "The blank white page is extremely suspicious, suggesting the site is either under construction or is intended to be a placeholder for a malicious site.",
+  "verdict": 9
+}
+```

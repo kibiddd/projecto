@@ -1,0 +1,3 @@
+```json
+{"Phishing": "The website is a hotel booking site and likely requests personal information for reservations, which is normal. However, without interacting with the site, it's impossible to assess the specific security measures.", "Suspicious offer": "No immediately visible suspicious offers.", "Format": "The website's design is dated and basic, with no obvious signs of current security.", "Transparency": "The website presents details for hotel booking.", "Impersonation": "N/A", "Other": "The website's outdated design can be a red flag.", "verdict": 4}
+```

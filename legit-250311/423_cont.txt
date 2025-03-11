@@ -1,0 +1,3 @@
+```json
+{"Phishing": "The website is requesting personal information to provide background checks and public records information, which is the core of its service.", "Suspicious offer": "The website's core function is providing information, not offering any suspicious offers.", "Format": "The website appears to have a professional design with no obvious poor design or typos.", "Transparency": "The website likely provides clear contact information and legal disclaimers to ensure transparency.", "Impersonation": "The website doesn't appear to impersonate any entity, it operates as a people search and background check service.", "Other": "N/A", "verdict": 2}
+```

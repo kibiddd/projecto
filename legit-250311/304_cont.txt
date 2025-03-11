@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website displays a simple message, with no obvious design flaws or typos.",
+  "Transparency": "The message indicates a known service outage, making it more likely to be a legitimate communication regarding a temporary issue. No contact information is needed at this time, but the site's URL indicates a real entity (MSNBC).",
+  "Impersonation": "N/A",
+  "Other": "N/A",
+  "verdict": 2
+}
+```

@@ -1,6 +1,5 @@
 import requests
 import random
-from whois import check_link_status, whois_info
 
 def load_phishing_links(url):
     try:
@@ -58,22 +57,6 @@ def random_dataset(dataset_path, new_dataset_path, num):
         for r in ran:
             file.write(r + "\n")
 
-def get_active():
-    all_phish = load_dataset("phishing-links-NEW-last-hour.txt")
-    active = []
-    for idx, a in enumerate(all_phish, start=1):
-        print(f"Checking URL {idx}/{len(all_phish)}: {a}")
-        if check_link_status(a):
-            active.append(a)
-    return active
-
-def write_out():
-    active = get_active()
-    print(len(active))
-    with open("active.txt", "w", encoding="utf-8") as file:
-        for idx, a in enumerate(active, start=1):
-            file.write(a + "\n")
-            print(f"Active URL {idx}/{len(active)}: {a}")
 
 def new_only(dataset1, dataset2):
     only_new = []
@@ -82,19 +65,6 @@ def new_only(dataset1, dataset2):
             only_new.append(d)
     return only_new
 
-def get_whois(path1, path2):
-    path1 = "phishing-links-250309.txt"
-    path2 = "phishing-links-250308.txt"
-    dataset = new_only(load_dataset(path1), load_dataset(path2))
-    for idx, url in enumerate(dataset):
-        print(f"Screenshotting URL {idx}/{len(dataset)}: {url}")
-        raw = whois_info(url)
-        # save raw to txt file
-        filename = "phish-250309/" + str(idx) + ".txt"
-
-        # Open the file in text mode ("w") since raw is a string
-        with open(filename, "w", encoding="utf-8") as file:
-            file.write(raw)
 
 if __name__ == "__main__":
     random_dataset("legitimate_urls.txt", "random_legit.txt", 2000)

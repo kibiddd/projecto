@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A - The website is Google Maps, and it does not directly request personal information or payments on its help pages.",
+  "Suspicious offer": "N/A - The website is providing help documentation for Google Maps which does not involve suspicious offers.",
+  "Format": "N/A - The website appears to be a legitimate help page.",
+  "Transparency": "The website provides clear and trustworthy information about the Google Maps product, providing links for support and information.",
+  "Impersonation": "N/A - The website does not impersonate any other services.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

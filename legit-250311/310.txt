@@ -1,0 +1,17 @@
+   Domain Name: MENUPIX.COM
+   Registry Domain ID: 140823105_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.names4ever.com
+   Registrar URL: http://www.aplus.net
+   Updated Date: 2020-01-30T19:17:39Z
+   Creation Date: 2005-01-29T01:01:05Z
+   Registry Expiry Date: 2029-01-29T01:01:05Z
+   Registrar: Hostopia Canada Corp
+   Registrar IANA ID: 52
+   Registrar Abuse Contact Email: tld-abuse@hostopia.com
+   Registrar Abuse Contact Phone: +1.8003229438
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.MENUPIX.COM
+   Name Server: NS2.MENUPIX.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-11T10:14:04Z 

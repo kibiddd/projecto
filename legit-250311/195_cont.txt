@@ -1,0 +1,3 @@
+```json
+{"Phishing": "N/A", "Suspicious offer": "N/A", "Format": "The website is a legitimate Q&A platform (wiki.answers.com) and not a fraudulent website.", "Transparency": "The website provides the general transparency of a Q&A platform.", "Impersonation": "N/A", "Other": "N/A", "verdict": 1}
+```

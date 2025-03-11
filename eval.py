@@ -9,14 +9,14 @@ def load_txt(path):
     with open(path, 'r') as f:
         return f.read()
 
-def all_anal_url(path):
+def all_anal_url(dataset_path, save_path, start=0, end=-1):
     pipe = pipeline("text-generation", model="microsoft/Phi-4-mini-instruct", trust_remote_code=True)
-    prefix = 'phish-250309/url_anal/'
-    dataset = load_dataset(path)
+    dataset = load_dataset(dataset_path)
+    dataset = dataset[start:end]
     for idx, u in enumerate(dataset):
-        print(f'Analysing {idx}/{len(dataset) - 1}, url={u}')
+        print(f'Analysing {idx+1}/{len(dataset)}, url={u}')
         result_url = url_analysis(u, pipe)
-        new_path = prefix + str(idx) + '_url.txt'
+        new_path = save_path + str(idx) + '_url.txt'
         with open(new_path, 'w') as f:
             f.write(result_url)
 
@@ -39,21 +39,29 @@ def all_anal_domain(path):
         txt_path = prefix + str(idx) + '.txt'
         anal_domain(pipe, txt_path, u)
 
-def anal_cont(url, image_path):
+def anal_cont(url, image_path, folder_path):
     content_result = content_analysis(url, image_path)
-    new_path = image_path[:-4] + '_cont.txt'
+    if content_result is None:  # Check if content_result is invalid
+        print(f"Warning: content_analysis returned None for url={url} and image_path={image_path}")
+        return None  # Skip further processing
+    new_path = folder_path + '_cont.txt'
     with open(new_path, 'w') as f:
         f.write(content_result)
     print(content_result)
     return content_result
 
-def all_anal_cont(path):
-    urls = load_dataset(path)
-    prefix = 'phish-250309/'
-    for idx, u in enumerate(urls[500:]):
-        print(f'Analysing {idx+500}/{len(urls) - 1}, url={u}')
-        img_path = prefix + str(idx+500) + '.png'
-        anal_cont(u, img_path)
+
+def all_anal_cont(dataset_path, img_path, folder_path):
+    urls = load_dataset(dataset_path)
+    urls = urls[280:500]
+    images = load_dataset(img_path)
+    images = images[280:500]
+    for idx, u in enumerate(urls):
+        image = images[idx]
+        idx += 280
+        print(f'Analysing {idx}/{len(urls) - 1}, url={u}')
+        img_path = folder_path + str(idx)
+        anal_cont(u, image, img_path)
 
 # function to load n_cont.txt
 def load(path):
@@ -82,4 +90,6 @@ def eval_combine(dataset_path, folder_path):
 
 
 if __name__ == '__main__':
-    eval_combine('phishing-links-250309.txt', 'phish-250309/')
+    all_anal_url('random_legit.txt', 'legit-250311/', 0, 500)
+    # all_anal_cont('random_legit.txt', 'ss-legit.txt', 'legit-250311/')
+    #eval_combine('phishing-links-250309.txt', 'phish-250309/')

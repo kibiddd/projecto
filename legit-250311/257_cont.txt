@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not seem to be requesting any personal information or payment.",
+  "Suspicious offer": "There is no indication of a suspicious offer.",
+  "Format": "The website displays a very basic, almost blank page. However, the content relates to a specific year (1973) on a site that seems to have historical references. No obvious typos or design flaws are present.",
+  "Transparency": "The website is 'mahalo.com,' suggesting some level of established presence. However, the limited content makes it hard to judge contact information.",
+  "Impersonation": "It is not impersonating any other websites. The topic is a specific year.",
+  "Other": "The minimal content and lack of clear purpose raise slight suspicion, but given the historical context, it's less likely a malicious site.",
+  "verdict": 2
+}
+```

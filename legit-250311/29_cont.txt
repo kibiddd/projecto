@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is not requesting personal information or payment.",
+  "Suspicious offer": "The website itself does not seem to have suspicious offers.",
+  "Format": "The website has a professional design with high-quality images and no obvious typos.",
+  "Transparency": "The website provides clear contact information, privacy policies, and terms of service.",
+  "Impersonation": "The website appears to be the official Yahoo Sports website, with a verified brand identity.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

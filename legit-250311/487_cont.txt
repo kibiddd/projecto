@@ -1,0 +1,3 @@
+```json
+{"Phishing": "The website is not requesting any personal information or payment.", "Suspicious offer": "The website does not have suspicious offers.", "Format": "The website has a professional design, good quality images, and no typos.", "Transparency": "The website provides clear and trustworthy contact information.", "Impersonation": "The website appears to be the official IMDb website, not an impersonation.", "Other": "N/A", "verdict": 1}
+```

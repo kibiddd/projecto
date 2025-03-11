@@ -1,0 +1,3 @@
+```json
+{"Phishing": "N/A", "Suspicious offer": "N/A", "Format": "The website has a professional design and high-quality images. There are no noticeable typos.", "Transparency": "The website is a well-known platform (IMDB) and provides clear information about the content and its contributors.", "Impersonation": "N/A", "Other": "N/A", "verdict": 1}
+```

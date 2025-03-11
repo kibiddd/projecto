@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not appear to be directly requesting personal information or payment in this instance. It displays a deletion notice for a document. It does offer a free trial, but the website itself doesn't seem to request personal information on this specific page.",
+  "Suspicious offer": "The website offers a free trial, which is a common marketing strategy. This is not inherently suspicious.",
+  "Format": "The website has a professional design and appears well-formatted. No obvious typos are visible.",
+  "Transparency": "The website provides clear information about its services and contact information in the footer.",
+  "Impersonation": "N/A",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website appears to be a legitimate news article from the San Francisco Gate, so the format is consistent with a news article.",
+  "Transparency": "The website belongs to a legitimate news organization, and the contact information should be available on the main website.",
+  "Impersonation": "N/A",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

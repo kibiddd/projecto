@@ -1,0 +1,69 @@
+Domain Name: muhc.ca
+Registry Domain ID: D117368-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.easydns.ca
+Updated Date: 2024-07-08T15:40:11Z
+Creation Date: 2002-07-12T15:25:48Z
+Registry Expiry Date: 2025-07-12T04:00:00Z
+Registrar: easyDNS Technologies Inc.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: abuse@easydns.com
+Registrar Abuse Contact Phone: +1.4165358672
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: R95049-CIRA
+Registrant Name: McGill University Health Centre
+Registrant Organization:
+Registrant Street:
+Registrant City:
+Registrant State/Province:
+Registrant Postal Code:
+Registrant Country:
+Registrant Phone:
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email:
+Registry Admin ID: C1024718-CIRA
+Admin Name: Cindie Bilodeau
+Admin Organization:
+Admin Street: 8300 boul. Decarie
+Admin City: Montreal
+Admin State/Province: QC
+Admin Postal Code: H4P2P5
+Admin Country: CA
+Admin Phone: +1.5149341934
+Admin Phone Ext: 71390
+Admin Fax:
+Admin Fax Ext:
+Admin Email: cindie.bilodeau@gmail.com
+Registry Tech ID: C1024718-CIRA
+Tech Name: Cindie Bilodeau
+Tech Organization:
+Tech Street: 8300 boul. Decarie
+Tech City: Montreal
+Tech State/Province: QC
+Tech Postal Code: H4P2P5
+Tech Country: CA
+Tech Phone: +1.5149341934
+Tech Phone Ext: 71390
+Tech Fax:
+Tech Fax Ext:
+Tech Email: cindie.bilodeau@gmail.com
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: lola.ns.cloudflare.com
+Name Server: will.ns.cloudflare.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-11T10:14:50Z 

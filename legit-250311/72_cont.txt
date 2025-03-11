@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The URL suggests a Facebook page, which does not inherently involve phishing as it is. However, it is not possible to analyze without the website content itself.",
+  "Suspicious offer": "N/A",
+  "Format": "N/A",
+  "Transparency": "N/A",
+  "Impersonation": "N/A",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

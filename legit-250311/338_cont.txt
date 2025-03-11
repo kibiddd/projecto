@@ -1,0 +1,3 @@
+```json
+{"Phishing": "The website is displaying a 404 error page, so it is not requesting any information. N/A", "Suspicious offer": "N/A", "Format": "The website displays a standard 404 error page, which is normal when a page is not found. The design seems to be consistent with a legitimate website.", "Transparency": "The website is a legitimate company, Yellow Pages, which has clear contact information and policies.", "Impersonation": "N/A", "Other": "N/A", "verdict": 1}
+```

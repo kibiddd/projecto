@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website appears to be for a hotel and may request personal information for booking purposes.",
+  "Suspicious offer": "N/A",
+  "Format": "The website seems to be professionally designed.",
+  "Transparency": "The website likely provides contact information.",
+  "Impersonation": "N/A",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

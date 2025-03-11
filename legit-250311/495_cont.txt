@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website appears to be a legitimate food ordering platform. It is not requesting personal information or payment in this context.",
+  "Suspicious offer": "The website is for a supermarket, and there is no indication of suspicious offers.",
+  "Format": "The website appears to be well-designed and professional. No obvious typos or poor-quality images.",
+  "Transparency": "N/A",
+  "Impersonation": "N/A",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

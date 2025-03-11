@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website, as indicated by the 404 error message, appears to be non-functional. Therefore, there is no opportunity for phishing attempts or requests for personal information.",
+  "Suspicious offer": "Since the page is not found, there's no offer to evaluate.",
+  "Format": "The error message itself indicates an issue with the website's design or functionality. A 404 error typically suggests broken links or an issue with the site's structure.",
+  "Transparency": "The absence of content hinders an assessment of transparency or contact information.",
+  "Impersonation": "Given the lack of content, it is not possible to determine whether the site is impersonating anything.",
+  "Other": "The 404 error strongly suggests that the page or the website is not functioning correctly. This could indicate a temporary issue, a broken link, or a more serious problem with the website's deployment or maintenance.",
+  "verdict": 7
+}
+```

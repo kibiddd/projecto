@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting contact information in the form of email, HQ phone, Company details, Location, description, and Employees. This information might be used for phishing purposes.",
+  "Suspicious offer": "N/A",
+  "Format": "The website format and layout seem clean and professional. No obvious typos or design flaws are apparent in the provided screenshot.",
+  "Transparency": "The website displays clear contact information, including a phone number and email address in the header.",
+  "Impersonation": "N/A",
+  "Other": "This page might be part of a legitimate Lead411 database, so I'll take into account the fact that it's pulling information and doesn't necessarily mean the page itself is fraudulent. ",
+  "verdict": 3
+}
+```

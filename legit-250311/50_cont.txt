@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website, ilike.com, is a platform for music and artists. It doesn't appear to be directly requesting sensitive personal information or payment in a phishing attempt, based on the URL.",
+  "Suspicious offer": "N/A",
+  "Format": "The website's design is a platform for music and artist. It does not have poor design, low-quality images or typo based on the URL.",
+  "Transparency": "The website is likely to provide clear information about the artists.",
+  "Impersonation": "N/A",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

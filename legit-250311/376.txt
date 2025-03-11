@@ -1,0 +1,17 @@
+   Domain Name: 123PEOPLE.COM
+   Registry Domain ID: 2605397612_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.registrygate.com
+   Registrar URL: http://www.registrygate.com
+   Updated Date: 2025-01-23T07:43:12Z
+   Creation Date: 2021-04-15T18:21:18Z
+   Registry Expiry Date: 2026-04-15T18:21:18Z
+   Registrar: RegistryGate GmbH
+   Registrar IANA ID: 1328
+   Registrar Abuse Contact Email: abuse@registrygate.com
+   Registrar Abuse Contact Phone: +49.1805734437
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: GEMMA.NS.CLOUDFLARE.COM
+   Name Server: SRI.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-11T10:14:36Z 

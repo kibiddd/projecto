@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website itself is not directly requesting any personal information or payment.",
+  "Suspicious offer": "N/A",
+  "Format": "The page simply displays a 'Not Found' error, so it doesn't have a poor design.",
+  "Transparency": "The 'Not Found' page doesn't provide contact information.",
+  "Impersonation": "N/A",
+  "Other": "The website is down or the URL is incorrect, so it's not possible to determine its legitimacy.",
+  "verdict": 2
+}
+```

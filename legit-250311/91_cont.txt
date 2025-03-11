@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website appears to be a legitimate delivery service website, it's not requesting personal information or payment at this stage.",
+  "Suspicious offer": "N/A",
+  "Format": "The website's design looks modern and professional. There are no obvious typos or low-quality images in the provided screenshot.",
+  "Transparency": "The website provides contact information, including the company's registered address and registration number.",
+  "Impersonation": "N/A",
+  "Other": "The URL provided seems to be a random page, possibly an error page or a page that doesn't exist, thus, there is not enough information to flag it as fraudulent. ",
+  "verdict": 1
+}
+```

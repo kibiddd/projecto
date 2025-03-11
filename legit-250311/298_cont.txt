@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "N/A",
+  "Transparency": "N/A",
+  "Impersonation": "N/A",
+  "Other": "The website is a forum, which does not inherently indicate fraud.",
+  "verdict": 1
+}
+```

@@ -1,0 +1,28 @@
+   Domain Name: LINKEDIN.COM
+   Registry Domain ID: 91818680_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2024-10-01T11:01:31Z
+   Creation Date: 2002-11-02T15:38:11Z
+   Registry Expiry Date: 2025-11-02T15:38:11Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: DNS1.P09.NSONE.NET
+   Name Server: DNS2.P09.NSONE.NET
+   Name Server: DNS3.P09.NSONE.NET
+   Name Server: DNS4.P09.NSONE.NET
+   Name Server: NS1-42.AZURE-DNS.COM
+   Name Server: NS2-42.AZURE-DNS.NET
+   Name Server: NS3-42.AZURE-DNS.ORG
+   Name Server: NS4-42.AZURE-DNS.INFO
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-11T10:13:34Z 

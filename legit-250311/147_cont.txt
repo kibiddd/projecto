@@ -1,0 +1,3 @@
+```json
+{"Phishing": "The website requests an email address for subscriptions, which could potentially be used for phishing attempts, though the purpose is clearly stated.", "Suspicious offer": "N/A", "Format": "The website appears to have a clean and professional format, with a clear design.", "Transparency": "N/A", "Impersonation": "N/A", "Other": "N/A", "verdict": 2}
+```

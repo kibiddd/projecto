@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website appears to be a legitimate resource for historical information and does not request personal information or payments.",
+  "Suspicious offer": "The website does not offer any products or services.",
+  "Format": "The website has a professional design, is well-organized, and does not contain any obvious typos or low-quality images.",
+  "Transparency": "The website likely belongs to the Kansas State Historical Society, and the website's contact information is likely to be readily available, promoting transparency.",
+  "Impersonation": "The website is unlikely to be an impersonation, as it appears to be an official government or non-profit website providing public information.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

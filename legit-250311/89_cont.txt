@@ -1,0 +1,3 @@
+```json
+{"Phishing": "The website does not request personal information or payment.", "Suspicious offer": "The website is a biographical database and does not offer any products or services.", "Format": "The website's design is dated but functional, with no obvious typos or low-quality images. It appears to be a legitimate database.", "Transparency": "The website's 'About' section provides some details about its purpose. However, contact information appears to be absent.", "Impersonation": "The website appears to be a legitimate biographical database and does not impersonate another entity.", "Other": "The website is a historical archive, and its presentation suggests its contents are not actively updated.", "verdict": 2}
+```

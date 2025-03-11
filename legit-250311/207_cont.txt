@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is a document sharing platform (Scribd). It does not appear to be directly asking for personal information or payment to view the document itself. However, it is possible to require a subscription to access this document, which is a common practice for this website, and it's not necessarily a sign of fraudulent activity. Downloading requires an account.",
+  "Suspicious offer": "The website is offering a document, which is normal for Scribd. There isn't anything unusual about this offer.",
+  "Format": "The website has a professional design and layout. There are no obvious typos or formatting issues.",
+  "Transparency": "Scribd is a well-known platform with clear contact information. The document is uploaded by an API and user information, which can be considered standard for this platform. ",
+  "Impersonation": "The website seems to be a legitimate document-sharing platform, and it's not pretending to be something else. This document is not an impersonation but a real document upload.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

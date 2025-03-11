@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website appears to be from 2010, based on the URL. The design is outdated but not necessarily indicative of fraud.",
+  "Transparency": "N/A",
+  "Impersonation": "N/A",
+  "Other": "The website seems to be an old news article, which doesn't necessarily indicate fraud, but it's important to consider its age and relevance.",
+  "verdict": 1
+}
+```

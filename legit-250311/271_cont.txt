@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website doesn't appear to be directly asking for personal information or payment at first glance. The primary call to action is a 'Download' button, which could potentially lead to malware, but that is not certain.",
+  "Suspicious offer": "While the nature of the download isn't immediately clear, it's not offering anything that is overtly too-good-to-be-true. The website is a file hosting service, and offering downloads is a normal function.",
+  "Format": "The website design appears modern and the images seem high-quality. There are no obvious typos.",
+  "Transparency": "The website displays a logo and some functional links. It is unclear if MediaFire owns the website.",
+  "Impersonation": "It is possible that it's trying to impersonate MediaFire. Without more information, it is difficult to determine if this is the official website.",
+  "Other": "It is a file sharing site, therefore, it could lead to malicious files, so there's some risk, which is not easily determinable.",
+  "verdict": 4
+}
+```

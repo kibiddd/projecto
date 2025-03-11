@@ -1,0 +1,17 @@
+   Domain Name: SENSAGENT.COM
+   Registry Domain ID: 53692466_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.networksolutions.com
+   Registrar URL: http://networksolutions.com
+   Updated Date: 2025-01-25T05:05:15Z
+   Creation Date: 2001-01-24T11:02:46Z
+   Registry Expiry Date: 2035-01-24T11:02:46Z
+   Registrar: Network Solutions, LLC
+   Registrar IANA ID: 2
+   Registrar Abuse Contact Email: domain.operations@web.com
+   Registrar Abuse Contact Phone: +1.8777228662
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS61.WORLDNIC.COM
+   Name Server: NS62.WORLDNIC.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-11T10:15:05Z 

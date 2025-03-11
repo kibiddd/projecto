@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not request personal information or payment.",
+  "Suspicious offer": "The website does not offer too-good-to-be-true deals.",
+  "Format": "The website appears to be of acceptable quality, with no obvious issues in design or typos visible in the provided context.",
+  "Transparency": "Based on the URL (columbiamissourian.com), the website seems to be associated with a known news source, suggesting a level of transparency and trustworthiness.",
+  "Impersonation": "The website is not impersonating.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

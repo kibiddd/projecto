@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is not requesting personal information or payment directly, so phishing is unlikely in this context.",
+  "Suspicious offer": "The website is not offering any product or service, thus a suspicious offer does not apply.",
+  "Format": "The website appears to be a university press website. The design looks simple but functional, and it does not have obvious poor design or low-quality images.",
+  "Transparency": "The website belongs to The University of Texas, making the contact information readily available, and indicating high transparency.",
+  "Impersonation": "The website appears to be legitimate and not impersonating any other entity. Its address corresponds to the official website of the University.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

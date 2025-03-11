@@ -1,0 +1,17 @@
+   Domain Name: MIKESCRABHOUSE.COM
+   Registry Domain ID: 7192632_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2024-05-12T07:15:29Z
+   Creation Date: 1999-06-11T22:59:20Z
+   Registry Expiry Date: 2025-06-11T22:59:58Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.INMOTIONHOSTING.COM
+   Name Server: NS2.INMOTIONHOSTING.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-11T10:13:49Z 

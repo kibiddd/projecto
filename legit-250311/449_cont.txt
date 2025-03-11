@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website lists attorneys and does not request personal information or payment, suggesting a low phishing risk.",
+  "Suspicious offer": "The website does not offer any products or services, so there is no risk of suspicious offers.",
+  "Format": "The website appears to be a directory with a basic design and no immediately apparent issues with quality or typos.",
+  "Transparency": "The website appears to be providing public information about attorneys within a specific area, indicating a reasonable level of transparency.",
+  "Impersonation": "The website does not seem to be impersonating any other entity and appears to be providing a directory-type service.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

@@ -1,0 +1,18 @@
+   Domain Name: FUNNYCOMMERCIALSWORLD.COM
+   Registry Domain ID: 1543631427_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.regne.net
+   Registrar URL: http://www.regne.net
+   Updated Date: 2025-02-22T08:39:23Z
+   Creation Date: 2009-02-21T19:25:51Z
+   Registry Expiry Date: 2026-02-21T19:25:51Z
+   Registrar: Access Japan Co, Ltd. dba REGne (www.regne.net)
+   Registrar IANA ID: 3854
+   Registrar Abuse Contact Email: abuse@access-reg.com
+   Registrar Abuse Contact Phone: +81 5031451230
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.DREAMHOST.COM
+   Name Server: NS2.DREAMHOST.COM
+   Name Server: NS3.DREAMHOST.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-11T10:13:49Z 

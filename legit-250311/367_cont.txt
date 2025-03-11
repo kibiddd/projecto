@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website is very minimalist with only text. It's not necessarily an indicator of fraud, but the barebones design is unusual for a business.",
+  "Transparency": "The website has an 'About' section that appears to contain information about the company but lacks a specific address or contact details, raising some concern.",
+  "Impersonation": "N/A",
+  "Other": "The website is very basic in its presentation which creates an overall ambiguous feeling about its legitimacy.",
+  "verdict": 3
+}
+```

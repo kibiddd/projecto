@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is an obituary page and does not request personal information or payment.",
+  "Suspicious offer": "The website is an obituary page and doesn't offer any products or services.",
+  "Format": "The website appears to be a legitimate obituary listing, hosted on the legacy.com platform. The design seems professional and there are no obvious formatting issues or typos.",
+  "Transparency": "The website provides information related to deceased individual; it does not seem to provide contact information.",
+  "Impersonation": "The website appears to be a legitimate obituary listing for a specific person and is not impersonating any other entity.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

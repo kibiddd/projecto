@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website itself doesn't appear to be directly asking for personal information or payments in the displayed screenshot. It's a block page indicating the user has been blocked.",
+  "Suspicious offer": "N/A",
+  "Format": "The design appears standard for a security block page and doesn't show any immediate red flags.",
+  "Transparency": "N/A",
+  "Impersonation": "N/A",
+  "Other": "The fact that the user is blocked is a security measure of whitepages.com. This doesn't inherently mean the site is fraudulent, only that the user's access is restricted. It does not indicate anything more than an automated security response.",
+  "verdict": 1
+}
+```

@@ -1,0 +1,23 @@
+   Domain Name: AFTERELTON.COM
+   Registry Domain ID: 132245863_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2024-09-07T09:03:32Z
+   Creation Date: 2004-10-09T00:49:19Z
+   Registry Expiry Date: 2025-10-09T00:49:19Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: DNS1.P09.NSONE.NET
+   Name Server: DNS2.P09.NSONE.NET
+   Name Server: DNS3.P09.NSONE.NET
+   Name Server: DNS4.P09.NSONE.NET
+   Name Server: NS0004.SECONDARY.CLOUDFLARE.COM
+   Name Server: NS0243.SECONDARY.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-11T10:12:20Z 

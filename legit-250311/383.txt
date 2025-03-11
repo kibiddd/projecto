@@ -1,0 +1,17 @@
+   Domain Name: FAMOUSWHY.COM
+   Registry Domain ID: 384676515_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.rrpproxy.net
+   Registrar URL: http://www.key-systems.net
+   Updated Date: 2025-02-02T20:23:17Z
+   Creation Date: 2006-03-22T11:24:11Z
+   Registry Expiry Date: 2026-03-22T10:24:11Z
+   Registrar: Key-Systems GmbH
+   Registrar IANA ID: 269
+   Registrar Abuse Contact Email: abuse@key-systems.net
+   Registrar Abuse Contact Phone: +49.68949396850
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.FAMOUSWHY.COM
+   Name Server: NS2.FAMOUSWHY.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-11T10:14:36Z 

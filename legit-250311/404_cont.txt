@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website appears to be a gallery of images. It's not requesting personal information or payments. However, the presence of potentially NSFW content could be a vector for phishing attempts through misleading advertisements or redirects.",
+  "Suspicious offer": "N/A",
+  "Format": "The website's design is very basic and potentially outdated. This could be a sign of a less professional or potentially malicious website.",
+  "Transparency": "The website doesn't have contact information or any information about the entity that runs it, making it less transparent.",
+  "Impersonation": "N/A",
+  "Other": "The website features images of celebrities. Sites like these are often used to host malware or redirect users to malicious websites.",
+  "verdict": 6
+}
+```

@@ -1,0 +1,3 @@
+```json
+{"Phishing": "N/A", "Suspicious offer": "N/A", "Format": "The website has a professional design and does not show any obvious signs of being a low-quality website.", "Transparency": "The website has contact information in the footer, which is a good sign of transparency.", "Impersonation": "N/A", "Other": "N/A", "verdict": 1}
+```

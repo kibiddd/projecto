@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website's blank page does not indicate any requests for personal information or payment.",
+  "Suspicious offer": "The blank page does not offer any products or services.",
+  "Format": "The website has a blank page, indicating poor design.",
+  "Transparency": "The website provides no contact information.",
+  "Impersonation": "The website's blank page does not attempt to create a false sense of legitimacy.",
+  "Other": "N/A",
+  "verdict": 9
+}
+```

@@ -1,0 +1,17 @@
+   Domain Name: PES-PATCH.COM
+   Registry Domain ID: 1549103306_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.gname.com
+   Registrar URL: http://www.gname.com
+   Updated Date: 2024-05-26T14:03:43Z
+   Creation Date: 2009-03-24T19:14:06Z
+   Registry Expiry Date: 2026-03-24T19:14:06Z
+   Registrar: Gname.com Pte. Ltd.
+   Registrar IANA ID: 1923
+   Registrar Abuse Contact Email: complaint@gname.com
+   Registrar Abuse Contact Phone: +65.65189986
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: AUDREY.NS.CLOUDFLARE.COM
+   Name Server: JARRED.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-11T10:12:35Z 

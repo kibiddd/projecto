@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is not requesting personal information or payment beyond the typical e-commerce process.",
+  "Suspicious offer": "The pricing of the items, while offering used options, appears reasonable for DVDs.",
+  "Format": "The website has a professional design, high-quality images, and no obvious typos.",
+  "Transparency": "The website provides clear contact information through its customer service links and policies.",
+  "Impersonation": "The website is Amazon, a well-known and legitimate e-commerce platform; there is no impersonation.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website's design appears professional, and there are no obvious typos or low-quality images. However, more detailed analysis may be needed to fully assess the design.",
+  "Transparency": "The website's transparency is not assessable based on the given information. The website includes the 'www.coasttocoasttickets.com' domain. Further research needed to confirm the contact information. ",
+  "Impersonation": "N/A",
+  "Other": "N/A",
+  "verdict": 3
+}
+```

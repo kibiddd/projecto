@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A. The website itself is a legitimate service for virus analysis.",
+  "Suspicious offer": "N/A. The website provides a service for scanning files and URLs for malware, not offering anything suspicious.",
+  "Format": "The website has a professional design and appears to be of high quality. There are no obvious typos or poor-quality images that would indicate a fraudulent site.",
+  "Transparency": "The website provides information about its service, including contact information, and appears to be transparent.",
+  "Impersonation": "N/A. The website is the official VirusTotal site.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

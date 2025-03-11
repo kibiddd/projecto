@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website itself is a 404 error page and does not request any personal information or payment.",
+  "Suspicious offer": "The website is not offering any product or service.",
+  "Format": "The design looks standard for an error page, and there are no apparent typos.",
+  "Transparency": "N/A",
+  "Impersonation": "N/A",
+  "Other": "The URL suggests a CD Baby page, and the error message is a standard 404.",
+  "verdict": 1
+}
+```

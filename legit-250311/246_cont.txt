@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website is Wikipedia, which is generally well-designed and professionally maintained.",
+  "Transparency": "Wikipedia provides clear information about its organization and contact details.",
+  "Impersonation": "N/A",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not appear to be collecting personal information or requesting payment.",
+  "Suspicious offer": "The website does not appear to have any suspicious offers.",
+  "Format": "The website's design appears to be related to a news project, and doesn't show signs of low quality.",
+  "Transparency": "The website is hosted on a subdomain of the Los Angeles Times, a credible news organization, suggesting trustworthiness.",
+  "Impersonation": "The website doesn't seem to be impersonating another entity.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

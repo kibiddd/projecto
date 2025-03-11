@@ -1,0 +1,19 @@
+   Domain Name: FILETRAM.COM
+   Registry Domain ID: 1529095430_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.pananames.com
+   Registrar URL: http://www.pananames.com
+   Updated Date: 2024-11-04T16:35:15Z
+   Creation Date: 2008-11-18T16:10:36Z
+   Registry Expiry Date: 2025-11-18T16:10:36Z
+   Registrar: URL Solutions, Inc.
+   Registrar IANA ID: 1449
+   Registrar Abuse Contact Email: abuse@pananames.com
+   Registrar Abuse Contact Phone: +1.9727369998
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.PANANAMES.COM
+   Name Server: NS2.PANANAMES.COM
+   Name Server: NS3.PANANAMES.COM
+   Name Server: NS4.PANANAMES.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-11T10:14:20Z 

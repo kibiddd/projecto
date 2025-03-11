@@ -1,0 +1,21 @@
+   Domain Name: THE-CHIEFEXECUTIVE.COM
+   Registry Domain ID: 325589515_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.register.it
+   Registrar URL: http://www.register.it
+   Updated Date: 2024-12-09T08:19:07Z
+   Creation Date: 2006-01-24T13:41:49Z
+   Registry Expiry Date: 2026-01-24T13:41:49Z
+   Registrar: Register SPA
+   Registrar IANA ID: 168
+   Registrar Abuse Contact Email: abuse@register.it
+   Registrar Abuse Contact Phone: +39.05520021555
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS-1120.AWSDNS-12.ORG
+   Name Server: NS-1721.AWSDNS-23.CO.UK
+   Name Server: NS-254.AWSDNS-31.COM
+   Name Server: NS-934.AWSDNS-52.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-11T10:13:19Z 

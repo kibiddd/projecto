@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The error message does not indicate any phishing attempts. The website's functionality seems disrupted, but not designed to steal personal information directly.",
+  "Suspicious offer": "N/A. There is no offer mentioned on the error page.",
+  "Format": "The error message suggests a technical issue with the SSL handshake. The layout and design appear standard for a Cloudflare error page; however, the content is not properly displayed due to connection issues.",
+  "Transparency": "The website's contact information is not readily available on the error page, but the error page shows the IP address and other connection information of the user.",
+  "Impersonation": "N/A. The website is experiencing a technical error, and there are no signs of impersonation.",
+  "Other": "The SSL handshake error suggests the website might not have a valid SSL certificate or the server might have some configuration problem. However, it doesn't mean that it is fraudulent itself. The error code 525 is an internal error, and it is not necessarily caused by the end users.",
+  "verdict": 2
+}
+```

@@ -1,0 +1,19 @@
+   Domain Name: ZILLOW.COM
+   Registry Domain ID: 130211186_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.brandsight.com
+   Registrar URL: http://gcd.com
+   Updated Date: 2024-06-25T16:37:08Z
+   Creation Date: 2004-09-16T21:16:58Z
+   Registry Expiry Date: 2028-11-11T04:59:59Z
+   Registrar: GoDaddy Corporate Domains, LLC
+   Registrar IANA ID: 3786
+   Registrar Abuse Contact Email: abuse@gcd.com
+   Registrar Abuse Contact Phone: +1.5189669187
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-1126.AWSDNS-12.ORG
+   Name Server: NS-188.AWSDNS-23.COM
+   Name Server: NS-1978.AWSDNS-55.CO.UK
+   Name Server: NS-709.AWSDNS-24.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-11T10:14:50Z 

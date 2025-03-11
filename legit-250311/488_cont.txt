@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website appears to be a fan page or informational site, which is reflected in its simple design and focus on content like member profiles. Any typos or poor-quality images would be related to content.",
+  "Transparency": "The site is not explicitly selling anything or requesting any kind of personal information.",
+  "Impersonation": "N/A",
+  "Other": "The content and format suggest this is a fan site and there are no immediately obvious red flags to make it appear fraudulent.",
+  "verdict": 1
+}
+```

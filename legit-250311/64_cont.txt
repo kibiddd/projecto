@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not request any personal information or payment, nor does it provide any form to gather personal data.",
+  "Suspicious offer": "There are no offers or promotions on the current page.",
+  "Format": "The website's format is simple, with a message indicating that the requested page was not found. This minimal design is appropriate for an error page.",
+  "Transparency": "The link 'LII home page' implies clear contact information.",
+  "Impersonation": "The website is a standard 404 error page.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

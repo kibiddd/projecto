@@ -1,0 +1,3 @@
+```json
+{"Phishing": "The website has a login button, which could be a potential phishing risk if users are tricked into entering their credentials on a fake website.", "Suspicious offer": "The website advertises savings and promotions (e.g., remortgaging savings, cash prizes) but the offers appear to be typical of a bank, not 'too good to be true'.", "Format": "The website has a professional design and high-quality images. No obvious typos are visible.", "Transparency": "The website has a 'Contact us' link, suggesting they are willing to provide their contact information. ", "Impersonation": "The website is for Santander, which is a well-known bank. There is no indication of impersonation.", "Other": "N/A", "verdict": 1}
+```

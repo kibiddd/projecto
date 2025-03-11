@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website itself doesn't seem to be directly requesting personal information or payment, based on the limited view. However, without browsing the full site, this is uncertain.",
+  "Suspicious offer": "There is no indication of any offers.",
+  "Format": "The website has a clean design, but due to the limited view, it's not possible to determine the overall quality and whether there are any typos.",
+  "Transparency": "The screenshot doesn't provide information regarding clear contact information. This area cannot be fully evaluated from the screenshot.",
+  "Impersonation": "Without additional context about the website's content, it's impossible to assess whether it's impersonating anyone or anything.",
+  "Other": "The website appears to be related to 'International Stats' with the URL domain name 'martinbrodeur30'. This may be a sports statistics site. There is no clear indication to suggest it is fraudulent, but the limited data makes it hard to verify",
+  "verdict": 3
+}
+```

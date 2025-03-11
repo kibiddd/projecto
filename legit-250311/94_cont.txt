@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website seems to be displaying a 404 error page, indicating a problem accessing a specific page. While the design appears professional, the 404 error is a potential issue.",
+  "Transparency": "The website provides a phone number and other links, suggesting an attempt to provide contact information, but without the contents of the website it's difficult to assess transparency.",
+  "Impersonation": "N/A",
+  "Other": "The 404 error is a common sign, but it may not directly indicate a fraudulent website. ",
+  "verdict": 2
+}
+```

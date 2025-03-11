@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website may contain links to downloads or third-party sites, but it does not directly request personal information or payment. However, downloads could potentially lead to phishing sites or malware.",
+  "Suspicious offer": "The website offers a patch for a video game. While not inherently suspicious, the nature of patches for older games may raise flags if it includes illegal content or distribution.",
+  "Format": "The website's design might be outdated, and some of the content could be difficult to read or look poorly optimized on the current devices. There could be typos or grammatical errors given the age and possible amateur authorship.",
+  "Transparency": "Contact information is not readily apparent, raising concerns about the website's transparency.",
+  "Impersonation": "N/A",
+  "Other": "The website is hosting content which may be infringing on copyrights, depending on the nature of the patch. Downloading from untrusted sources always carries a risk of malware or other security threats.",
+  "verdict": 6
+}
+```

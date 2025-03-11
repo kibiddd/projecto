@@ -1,0 +1,18 @@
+   Domain Name: PACEIMMIGRATION.COM
+   Registry Domain ID: 122767576_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.webnames.ca
+   Registrar URL: http://www.webnames.ca
+   Updated Date: 2025-01-30T16:01:40Z
+   Creation Date: 2004-06-17T18:26:41Z
+   Registry Expiry Date: 2025-06-17T18:26:41Z
+   Registrar: Webnames.ca Inc.
+   Registrar IANA ID: 456
+   Registrar Abuse Contact Email: abuse@webnames.ca
+   Registrar Abuse Contact Phone: 18662217878
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.WEBNAMES.CA
+   Name Server: NS2.WEBNAMES.CA
+   Name Server: NS3.WEBNAMES.CA
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-11T10:12:51Z 

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not request any personal information or payment.",
+  "Suspicious offer": "The website doesn't offer any products or services.",
+  "Format": "The website appears to be a deleted blog post, which might have a basic format but is not inherently suspicious. The design is simple and functional.",
+  "Transparency": "The website is a standard blogspot page and links to Google.",
+  "Impersonation": "There is no obvious impersonation.",
+  "Other": "The website shows a blog that has been removed, which in itself is not a sign of fraud. The URL seems legitimate and connects with the original blog.",
+  "verdict": 1
+}
+```

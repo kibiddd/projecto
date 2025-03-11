@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website consists of a blank page, which is highly unusual and suspicious. This suggests either a website under development or a deliberate attempt to mislead.",
+  "Transparency": "N/A",
+  "Impersonation": "N/A",
+  "Other": "The extremely simple and non-functional nature of the website is highly indicative of a fraudulent or abandoned project. The domain name itself is not inherently suspicious, but the content, or lack thereof, is a major red flag.",
+  "verdict": 9
+}
+```

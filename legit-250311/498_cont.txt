@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is an obituary page. It's unlikely to request personal information or payment. The primary purpose is to display obituary information.",
+  "Suspicious offer": "The website is not offering any products or services.",
+  "Format": "The website appears to be well-designed and has a clear layout. No typos or low-quality images are evident in the provided information.",
+  "Transparency": "The website is linked to a reputable source, 'legacy.com', which hosts obituaries from various publications, including the Hartford Courant. This suggests a degree of transparency.",
+  "Impersonation": "N/A",
+  "Other": "The page is hosted on Legacy.com, a well-known platform for obituaries. The structure of the URL (obituary.aspx) suggests a legitimate obituary page.",
+  "verdict": 1
+}
+```

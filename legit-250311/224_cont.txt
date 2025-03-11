@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website doesn't request personal information or payment.",
+  "Suspicious offer": "The website is not offering any product or services.",
+  "Format": "The website format is not modern and the text-based layout looks a bit outdated, but it's a historical content archive which is not unusual. No significant typos are present.",
+  "Transparency": "The website's focus is informational and historical (Mississippi John Hurt). No contact information appears on this specific page, but it's a legitimate archive site.",
+  "Impersonation": "The website appears to be a legitimate historical archive, not impersonating another entity.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

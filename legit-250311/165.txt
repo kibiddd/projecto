@@ -1,0 +1,18 @@
+   Domain Name: MEDIAFIRE.COM
+   Registry Domain ID: 89237004_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2024-08-28T21:30:12Z
+   Creation Date: 2002-08-11T15:31:16Z
+   Registry Expiry Date: 2030-08-11T15:31:16Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: KEN.NS.CLOUDFLARE.COM
+   Name Server: LISA.NS.CLOUDFLARE.COM
+   DNSSEC: signedDelegation
+   DNSSEC DS Data: 2371 13 2 0C87C413B399DD11972D0F8DB0265B0B9D5CD5AB35CCA36DDC2F1953EA95630C
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-11T10:13:19Z 

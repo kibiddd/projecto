@@ -1,0 +1,18 @@
+   Domain Name: ARTANDPOPULARCULTURE.COM
+   Registry Domain ID: 914800098_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.rrpproxy.net
+   Registrar URL: http://www.key-systems.net
+   Updated Date: 2024-04-08T07:39:38Z
+   Creation Date: 2007-04-07T21:06:24Z
+   Registry Expiry Date: 2025-04-07T21:06:24Z
+   Registrar: Key-Systems GmbH
+   Registrar IANA ID: 269
+   Registrar Abuse Contact Email: abuse@key-systems.net
+   Registrar Abuse Contact Phone: +49.68949396850
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: DNS1.NGCOMMUNICATIONS.COM
+   Name Server: DNS2.NGCOMMUNICATIONS.COM
+   Name Server: DNS3.NGCOMMUNICATIONS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-11T10:13:06Z 

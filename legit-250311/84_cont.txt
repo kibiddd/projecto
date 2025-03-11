@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is a news article and does not request personal information or payment.",
+  "Suspicious offer": "The website is a news article and does not offer any products or services.",
+  "Format": "The website has a professional design with high-quality images and no apparent typos.",
+  "Transparency": "The website is from The Guardian, a well-known and reputable news organization. Contact information is likely available on the main site.",
+  "Impersonation": "The website does not appear to be impersonating any other entity.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

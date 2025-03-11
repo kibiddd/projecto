@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not request personal information or payment.",
+  "Suspicious offer": "The website does not offer any suspicious deals or free products.",
+  "Format": "The website appears to have a functional and professional design, though dated. There are no obvious typos or low-quality images.",
+  "Transparency": "The website is hosted by the local library in Missouri, which suggests a high degree of trustworthiness and provides clear contact information.",
+  "Impersonation": "There is no evidence of impersonation.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

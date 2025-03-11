@@ -1,0 +1,61 @@
+This Registry database contains ONLY .EDU domains.
+The data in the EDUCAUSE Whois database is provided
+by EDUCAUSE for information purposes in order to
+assist in the process of obtaining information about
+or related to .edu domain registration records.
+
+The EDUCAUSE Whois database is authoritative for the
+.EDU domain.
+
+A Web interface for the .EDU EDUCAUSE Whois Server is
+available at: http://whois.educause.edu
+
+By submitting a Whois query, you agree that this information
+will not be used to allow, enable, or otherwise support
+the transmission of unsolicited commercial advertising or
+solicitations via e-mail.  The use of electronic processes to
+harvest information from this server is generally prohibited
+except as reasonably necessary to register or modify .edu
+domain names.
+
+-------------------------------------------------------------
+
+Domain Name: CSUS.EDU
+
+Registrant:
+	California State University, Sacramento
+	Information Resources & Technology
+	6000 J Street ARC 3010
+	Sacramento, CA 95819-6065
+	USA
+
+Administrative Contact:
+	Domain Administrator
+	California State University, Sacramento
+	Information Resources & Technology
+	6000 J Street ARC 3010
+	Sacramento, CA 95819-6065
+	USA
+	+1.9162787622
+	dnsadmin@csus.edu
+
+Technical Contact:
+	Carl Oakes
+	California State University, Sacramento
+	Information Resources & Technology
+	6000 J Street ARC 3010
+	Sacramento, CA 95819-6065
+	USA
+	+1.9162785551
+	oakescw@csus.edu
+
+Name Servers:
+	NS1.CSUS.EDU
+	NS2.CSUS.EDU
+	NS4.CENIC.ORG
+	NS5.CENIC.ORG
+	NS6.CENIC.ORG
+
+Domain record activated:    11-Sep-1989
+Domain record last updated: 23-Jan-2025
+Domain expires:             31-Jul-2027

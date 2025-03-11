@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting information related to genealogical research, not financial details. The URL suggests it is part of a genealogy database.",
+  "Suspicious offer": "The website's purpose appears to be providing genealogical information rather than offering deals or incentives, so there is no suspicious offer.",
+  "Format": "The website displays a simple format which is typical for a genealogy database with a focus on function over design, there is no obvious typo.",
+  "Transparency": "The website appears to be associated with Ancestry.com, a well-known genealogical service. The URL structure suggests it is part of a database. The website is not trying to hide its identity.",
+  "Impersonation": "The website doesn't appear to impersonate any other website. The focus is on providing genealogical information, and the URL suggests a database connection.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

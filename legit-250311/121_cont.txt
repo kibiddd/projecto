@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not request personal information or payment.",
+  "Suspicious offer": "The website does not offer any products or services.",
+  "Format": "The website has a basic design, but it is functional and does not appear to have significant formatting issues or typos.",
+  "Transparency": "The website provides an address (463 Bathurst Street, Toronto, Ontario, CA) and a contact section at the top of the page.",
+  "Impersonation": "There's no apparent attempt to impersonate any other entity.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

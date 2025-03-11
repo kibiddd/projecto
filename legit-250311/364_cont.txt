@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not appear to be requesting any personal information or payment.",
+  "Suspicious offer": "The website is a sports statistics site and does not offer any products or services.",
+  "Format": "The website has a professional design and layout. There are no obvious typos or low-quality images.",
+  "Transparency": "The website provides contact information, including an email address, though it is not the main purpose of the website.",
+  "Impersonation": "The website is a legitimate sports statistics website and appears to be accurately representing the information.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

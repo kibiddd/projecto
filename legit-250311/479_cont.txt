@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website requests location information for a search, which is not inherently suspicious.",
+  "Suspicious offer": "The website provides a directory of organic food businesses, not offering any products or services itself, so there are no suspicious offers.",
+  "Format": "The website has a clean design and appears to be of reasonable quality. There are no obvious typos.",
+  "Transparency": "The website has 'About Us' section. This is a positive sign, and the project is associated with NOFA/Mass.",
+  "Impersonation": "N/A",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

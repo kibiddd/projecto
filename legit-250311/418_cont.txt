@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The URL suggests a potential game request system, but without content, it's hard to determine if it asks for personal information.",
+  "Suspicious offer": "N/A",
+  "Format": "The website is blank. This is highly unusual and suggests either a broken website, under construction, or a potentially malicious site.",
+  "Transparency": "N/A",
+  "Impersonation": "N/A",
+  "Other": "The unusual URL structure (.cqs instead of the standard .com, .org, etc.) and the blank page are both highly suspicious.",
+  "verdict": 9
+}
+```

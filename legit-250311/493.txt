@@ -1,0 +1,77 @@
+Domain Name: yelp.ca
+Registry Domain ID: D685032-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: Markmonitor.com
+Updated Date: 2024-06-15T09:15:53Z
+Creation Date: 2006-07-17T16:30:16Z
+Registry Expiry Date: 2026-07-17T04:00:00Z
+Registrar: MarkMonitor International Canada Ltd.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895740
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 16337105-CIRA
+Registrant Name: Yelp Inc. TMA 858370
+Registrant Organization:
+Registrant Street: 140 New Montgomery, 9th Floor
+Registrant City: San Francisco
+Registrant State/Province: CA
+Registrant Postal Code: 94105
+Registrant Country: US
+Registrant Phone: +1.4159083801
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: admin@yelp.com
+Registry Admin ID: 16475540-CIRA
+Admin Name: Laurence Wilson
+Admin Organization: Yelp Inc. TMA 858370
+Admin Street: 140 New Montgomery, 9th Floor
+Admin City: San Francisco
+Admin State/Province: CA
+Admin Postal Code: 60504
+Admin Country: US
+Admin Phone: +1.4159083801
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: admin@yelp.com
+Registry Tech ID: 16475540-CIRA
+Tech Name: Laurence Wilson
+Tech Organization: Yelp Inc. TMA 858370
+Tech Street: 140 New Montgomery, 9th Floor
+Tech City: San Francisco
+Tech State/Province: CA
+Tech Postal Code: 60504
+Tech Country: US
+Tech Phone: +1.4159083801
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: admin@yelp.com
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: dns1.p03.nsone.net
+Name Server: dns2.p03.nsone.net
+Name Server: dns3.p03.nsone.net
+Name Server: dns4.p03.nsone.net
+Name Server: ns01.midtowndoornailns.com
+Name Server: ns02.midtowndoornailns.com
+Name Server: ns03.midtowndoornailns.com
+Name Server: ns04.midtowndoornailns.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-11T10:15:23Z 

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website appears to be a legitimate news article from CBS Local. There is no indication of poor design or typos.",
+  "Transparency": "The website is from a known news source, and contact information would be expected to be available on the main CBS Local website.",
+  "Impersonation": "N/A",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

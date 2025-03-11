@@ -1,0 +1,17 @@
+   Domain Name: BACHELORSDEGREEONLINE.COM
+   Registry Domain ID: 107517188_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.brandsight.com
+   Registrar URL: http://gcd.com
+   Updated Date: 2024-01-24T17:48:09Z
+   Creation Date: 2003-12-01T06:52:32Z
+   Registry Expiry Date: 2026-12-01T06:52:32Z
+   Registrar: GoDaddy Corporate Domains, LLC
+   Registrar IANA ID: 3786
+   Registrar Abuse Contact Email: abuse@gcd.com
+   Registrar Abuse Contact Phone: +1.5189669187
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS11.GCD-DNS.COM
+   Name Server: NS12.GCD-DNS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-11T10:15:05Z 

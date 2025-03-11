@@ -1,0 +1,3 @@
+```json
+{"Phishing": "N/A", "Suspicious offer": "N/A", "Format": "The website appears to be the official YouTube video player, the design is clean, and the images are high quality.", "Transparency": "N/A", "Impersonation": "N/A", "Other": "N/A", "verdict": 1}
+```

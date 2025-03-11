@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not appear to be requesting personal information or payment.",
+  "Suspicious offer": "The website does not seem to be offering any services or products.",
+  "Format": "The website has a simple design, but it has an error page indicating that the requested page doesn't exist. There are no obvious typos.",
+  "Transparency": "The website provides contact information and legal links at the bottom of the page.",
+  "Impersonation": "N/A",
+  "Other": "The error page suggests potential website issues or the page has been moved.",
+  "verdict": 2
+}
+```

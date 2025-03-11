@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website is a legitimate archived page from The New York Times. It is well-formatted and professional.",
+  "Transparency": "The website belongs to The New York Times, a reputable news organization.",
+  "Impersonation": "N/A",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

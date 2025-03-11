@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is Wikipedia, which is not a phishing site and does not request personal information or payment.",
+  "Suspicious offer": "The website is Wikipedia, which does not offer products or services.",
+  "Format": "The website is Wikipedia, which has a standard, well-designed format and good-quality images.",
+  "Transparency": "The website is Wikipedia, which provides clear information about its organization and editors.",
+  "Impersonation": "The website is Wikipedia and it is not pretending to create a false sense of legitimacy.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

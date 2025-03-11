@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website doesn't seem to directly request personal information or payment within the scope of viewing attraction details.",
+  "Suspicious offer": "The website presents information about an attraction. There are no suspicious offers or too-good-to-be-true deals.",
+  "Format": "The website appears well-designed and professional, focusing on attraction information. No obvious typos or low-quality images were detected.",
+  "Transparency": "The website displays information about a legitimate attraction (Olympic Stadium) in Montreal, Canada.",
+  "Impersonation": "There is no indication of impersonation. The website appears to be offering information about the Olympic Stadium.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website URL leads to a page about zip codes. It is unlikely to ask for personal information or payments based on the URL alone.",
+  "Suspicious offer": "N/A",
+  "Format": "N/A",
+  "Transparency": "N/A",
+  "Impersonation": "N/A",
+  "Other": "The URL structure is specific (zip codes), which may be a legitimate part of a broader website or service, but the lack of context limits a deeper assessment.",
+  "verdict": 1
+}
+```

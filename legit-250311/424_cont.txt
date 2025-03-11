@@ -1,0 +1,3 @@
+```json
+{"Phishing": "The website itself is not requesting any personal information or payment on the page. It seems to be a 404 error page.", "Suspicious offer": "N/A", "Format": "The page is a standard 404 error page, but the Miami Herald branding suggests a legitimate website. There are no obvious formatting issues.", "Transparency": "The website is part of the McClatchy Media Network and links to various other pages.", "Impersonation": "The website appears to be the official Miami Herald website.", "Other": "N/A", "verdict": 1}
+```

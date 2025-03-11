@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A. The website is displaying a 404 error page and not requesting any personal information or payment.",
+  "Suspicious offer": "N/A. The website is not offering any product or service.",
+  "Format": "The website displays a standard 404 error page. It doesn't indicate poor design or low-quality images. There is no typo.",
+  "Transparency": "N/A. The website shows a 404 error which doesn't provide any contact information.",
+  "Impersonation": "N/A. There is no indication of the website impersonating any entity.",
+  "Other": "The website returns a 404 error, indicating a non-existent page. This alone doesn't suggest fraud, but it raises a question about the site's maintenance.",
+  "verdict": 1
+}
+```

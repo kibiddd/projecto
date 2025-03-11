@@ -1,0 +1,71 @@
+Domain Name: ottawaplus.ca
+Registry Domain ID: D117193-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: webnames.ca
+Updated Date: 2025-01-18T16:01:46Z
+Creation Date: 2000-10-17T09:12:04Z
+Registry Expiry Date: 2025-09-01T04:00:00Z
+Registrar: Webnames.ca Inc.
+Registrar IANA ID: 456
+Registrar Abuse Contact Email: abuse@webnames.ca
+Registrar Abuse Contact Phone: +1.8662217878
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 20663375-CIRA
+Registrant Name: Legal Classification
+Registrant Organization: Yellow Pages Digital & Media Solutions Limited
+Registrant Street: 8.300-1751 Richardson Street
+Registrant City: Montreal
+Registrant State/Province: QC
+Registrant Postal Code: H3K1G6
+Registrant Country: CA
+Registrant Phone: +1.5142358171
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: legal.classification@yp.ca
+Registry Admin ID: C1046922-CIRA
+Admin Name: Legal Classification
+Admin Organization: Yellow Pages Digital & Media Solutions Limited
+Admin Street: 8.300-1751 Richardson Street
+Admin City: Montreal
+Admin State/Province: QC
+Admin Postal Code: H3K1G6
+Admin Country: CA
+Admin Phone: +1.5142358171
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: legal.classification@yp.ca
+Registry Tech ID: C1046927-CIRA
+Tech Name: Legal Classification
+Tech Organization: Yellow Pages Digital & Media Solutions Limited
+Tech Street: 8.300-1751 Richardson Street
+Tech City: Montreal
+Tech State/Province: QC
+Tech Postal Code: H3K1G6
+Tech Country: CA
+Tech Phone: +1.5142358171
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: legal.classification@yp.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns-1413.awsdns-48.org
+Name Server: ns-1611.awsdns-09.co.uk
+Name Server: ns-248.awsdns-31.com
+Name Server: ns-853.awsdns-42.net
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-11T10:14:53Z 

@@ -1,0 +1,3 @@
+```json
+{"Phishing": "The website does not request personal information or payment.", "Suspicious offer": "The website does not offer any products or services.", "Format": "The website has a dated but functional design, with acceptable image quality and no obvious typos in the provided content.", "Transparency": "The website provides a \"Home\" and \"About\" section, suggesting some level of transparency.", "Impersonation": "N/A", "Other": "The content is focused on sports history, a topic not typically associated with fraudulent activity.", "verdict": 1}
+```

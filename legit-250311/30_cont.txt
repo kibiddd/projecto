@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website might request personal information or login credentials, depending on its purpose. Need more context.",
+  "Suspicious offer": "N/A",
+  "Format": "It's impossible to judge without knowing the content of the website, but the lack of visible design raises concern.",
+  "Transparency": "N/A",
+  "Impersonation": "N/A",
+  "Other": "The obscure URL and lack of content raises concern.",
+  "verdict": 6
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "N/A",
+  "Transparency": "N/A",
+  "Impersonation": "N/A",
+  "Other": "The URL points to a profile page on a website that appears to be a business contact database. The content provided is limited to the information associated with a specific individual. There's nothing inherently fraudulent about a contact profile page in this context. The website appears to be legitimate. ",
+  "verdict": 1
+}
+```

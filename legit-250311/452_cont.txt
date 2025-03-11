@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website displays a 'File not found' error, indicating a potential issue with the content or the site's functionality. The website does not appear to be properly functioning.",
+  "Transparency": "N/A",
+  "Impersonation": "N/A",
+  "Other": "The error suggests the requested content or page does not exist. It could be due to a website maintenance, removed content, or the provided URL being incorrect.",
+  "verdict": 8
+}
+```

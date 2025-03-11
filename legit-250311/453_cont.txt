@@ -1,0 +1,3 @@
+```json
+{"Phishing": "N/A", "Suspicious offer": "N/A", "Format": "The website appears to be a placeholder or under construction, indicated by the blank page. This lack of content and design raises a red flag.", "Transparency": "N/A", "Impersonation": "N/A", "Other": "The blank website lacks content, indicating either an unfinished project or a potentially suspicious website. The absence of information is concerning. It is not clear what the business is about.", "verdict": 7}
+```

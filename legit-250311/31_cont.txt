@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website's design seems simple, which is not necessarily an indicator of fraud, but its aesthetic looks outdated. The 'FOSTER-CRAWFORD.htm' URL structure is slightly unusual.",
+  "Transparency": "N/A",
+  "Impersonation": "N/A",
+  "Other": "The URL structure is a bit peculiar, and without the website content, it's difficult to assess overall legitimacy",
+  "verdict": 3
+}
+```

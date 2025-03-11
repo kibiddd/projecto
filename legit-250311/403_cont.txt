@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website itself does not seem to be requesting any personal information or payment. The error message \"403 Forbidden\" indicates that the user does not have access to the requested resource on the server.",
+  "Suspicious offer": "N/A",
+  "Format": "The website is showing an error message. While the error itself isn't a sign of fraud, a properly functioning website would be expected, so this could be a temporary issue or indicate a problem. The error message provides minimal information, which is not the best practice.",
+  "Transparency": "N/A, the website is showing an error message.",
+  "Impersonation": "N/A",
+  "Other": "The 403 Forbidden error suggests a problem with access. It's difficult to assess the site's legitimacy with this error. It could be due to a temporary issue, a misconfiguration, or other technical problems, but it is not possible to determine its legitimacy without more information.",
+  "verdict": 3
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website displays house prices and related information. It is not requesting personal information or payment.",
+  "Suspicious offer": "The website focuses on providing information about house prices, not offering anything that seems suspicious.",
+  "Format": "The website seems to have a clean and organized layout, with no obvious signs of poor design or typos.",
+  "Transparency": "The website provides location specific information on a property. The website does not try to deceive.",
+  "Impersonation": "The website appears to provide authentic real estate-related information. There is no obvious attempt to impersonate a legitimate entity.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website itself doesn't seem to be requesting any personal information or payments, but it could be part of a phishing scheme if it's leading to a specific error page.",
+  "Suspicious offer": "N/A",
+  "Format": "The website is showing a 404 error page with basic design, which indicates that the requested page is unavailable. This doesn't inherently indicate fraud, but it raises a slight concern.",
+  "Transparency": "N/A",
+  "Impersonation": "N/A",
+  "Other": "The 404 error is a common occurrence and doesn't necessarily mean the site is fraudulent. It could simply indicate that the link is broken or the content has been removed.",
+  "verdict": 2
+}
+```

@@ -1,0 +1,17 @@
+   Domain Name: BULGARIAFOCUS.COM
+   Registry Domain ID: 2755554103_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2025-02-06T09:52:55Z
+   Creation Date: 2023-02-02T04:15:52Z
+   Registry Expiry Date: 2026-02-02T04:15:52Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.DOTCOMBARON.COM
+   Name Server: NS2.DOTCOMBARON.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-11T10:14:04Z 

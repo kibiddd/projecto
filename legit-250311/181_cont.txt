@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not request personal information or payment.",
+  "Suspicious offer": "The website doesn't offer anything suspicious.",
+  "Format": "The website has a professional design and no obvious typos.",
+  "Transparency": "The website is a movie and celebrity information website. Contact information might be available on the main website.",
+  "Impersonation": "The website appears to be a legitimate source of information about movies and celebrities.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

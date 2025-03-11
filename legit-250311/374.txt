@@ -1,0 +1,60 @@
+This Registry database contains ONLY .EDU domains.
+The data in the EDUCAUSE Whois database is provided
+by EDUCAUSE for information purposes in order to
+assist in the process of obtaining information about
+or related to .edu domain registration records.
+
+The EDUCAUSE Whois database is authoritative for the
+.EDU domain.
+
+A Web interface for the .EDU EDUCAUSE Whois Server is
+available at: http://whois.educause.edu
+
+By submitting a Whois query, you agree that this information
+will not be used to allow, enable, or otherwise support
+the transmission of unsolicited commercial advertising or
+solicitations via e-mail.  The use of electronic processes to
+harvest information from this server is generally prohibited
+except as reasonably necessary to register or modify .edu
+domain names.
+
+-------------------------------------------------------------
+
+Domain Name: ARIZONA.EDU
+
+Registrant:
+	University of Arizona
+	Computer Center
+	1077 N Highland Ave
+	Tucson, AZ 85721
+	USA
+
+Administrative Contact:
+	Adam Michel
+	University of Arizona
+	University of Arizona
+	Computer Center room 211
+	Tucson, AZ 85721
+	USA
+	+1.5206262189
+	systems-whois@email.arizona.edu
+
+Technical Contact:
+	Chris De Young
+	University of Arizona
+	University of Arizona
+	Computer Center room 112
+	Tucson, AZ 85721
+	USA
+	+1.5206263213
+	chd@arizona.edu
+
+Name Servers:
+	NS4.ARIZONA.EDU
+	NS3.ARIZONA.EDU
+	NS1.ARIZONA.EDU
+	NS2.ARIZONA.EDU
+
+Domain record activated:    23-Jan-1986
+Domain record last updated: 10-Dec-2024
+Domain expires:             31-Jul-2027

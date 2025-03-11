@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is Wikipedia, which does not request personal information or payment in the context of browsing articles about the Royal Victoria Hospital.",
+  "Suspicious offer": "The website does not offer any product or service.",
+  "Format": "The website's format is consistent with Wikipedia's standard design and quality.",
+  "Transparency": "Wikipedia provides clear and trustworthy information.",
+  "Impersonation": "The website is not trying to impersonate anything.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

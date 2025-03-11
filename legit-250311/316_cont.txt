@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website appears to be a genealogy profile page. It does not seem to request personal information or payment.",
+  "Suspicious offer": "The website is a personal genealogy webpage and does not offer anything.",
+  "Format": "The website is very basic and seems to be an archived personal webpage with limited design.",
+  "Transparency": "The website seems to be a personal profile on Family Tree Maker genealogy website and does not include contact information.",
+  "Impersonation": "N/A",
+  "Other": "The website is a personal profile page on a genealogy website. It has a very basic format, but it's not necessarily suspicious.",
+  "verdict": 1
+}
+```

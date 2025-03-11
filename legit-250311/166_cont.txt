@@ -1,0 +1,3 @@
+```json
+{"Phishing": "The website prompts users to sign up for a Last.fm account, which may involve providing personal information, but it seems legitimate as it is a common feature on the site.", "Suspicious offer": "N/A", "Format": "The website design appears to be of standard quality, with no obvious issues. There are no visible typos.", "Transparency": "The website provides a lot of information about the music, suggesting a level of transparency.", "Impersonation": "N/A", "Other": "N/A", "verdict": 1}
+```

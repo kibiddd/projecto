@@ -1,0 +1,3 @@
+```json
+{"Phishing": "The website is not requesting personal information or payment. It is an announcement about the discontinuation of Panoramio.", "Suspicious offer": "There is no suspicious offer.", "Format": "The website has a clean and professional design. There are no obvious typos or low-quality images.", "Transparency": "The website includes Google's branding and links to Google's terms and about page.", "Impersonation": "It appears to be a legitimate announcement from Google regarding a discontinued service.", "Other": "N/A", "verdict": 1}
+```

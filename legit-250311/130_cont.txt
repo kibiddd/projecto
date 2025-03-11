@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not appear to be requesting personal information or payment directly, except for subscriptions to streaming services linked from the movie details page, which is a standard and expected feature.",
+  "Suspicious offer": "It is offering access to movies, which is a standard service. There are no obvious suspicious offers.",
+  "Format": "The website has a professional design, high-quality images, and no apparent typos.",
+  "Transparency": "The website provides clear information about the movie, its ratings, and where to watch it. Contact information might be located elsewhere on the site, but it is a well-known and established site, so this is not concerning.",
+  "Impersonation": "The website appears to be the official Metacritic website, and there is no indication of impersonation.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

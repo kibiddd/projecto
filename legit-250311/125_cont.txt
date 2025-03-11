@@ -1,0 +1,3 @@
+```json
+{"Phishing": "The website is offering web hosting and site building services, which may involve requesting payment information, making it vulnerable to phishing if not handled securely.", "Suspicious offer": "N/A", "Format": "The website's design appears basic but functional. There are no obvious typos.", "Transparency": "The website provides contact information through the 'Bravenet' service. It is not possible to determine the transparency of the host on its own.", "Impersonation": "N/A", "Other": "The URL 'bpsa.bravehost.com' suggests a subdomain on Bravehost. Bravehost could host legitimate websites, it also can be a hosting provider for fraudulent websites. This indicates some risks.", "verdict": 4}
+```

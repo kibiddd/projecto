@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website might be requesting personal information as it relates to a casting call. This can be considered as phishing if the intention is to collect personal data for malicious purposes.",
+  "Suspicious offer": "N/A",
+  "Format": "Without seeing the actual website design, it is difficult to tell, but the title 'UNTITLED CONACO TBS PILOT Casting' is professional.",
+  "Transparency": "N/A",
+  "Impersonation": "N/A",
+  "Other": "N/A",
+  "verdict": 3
+}
+```

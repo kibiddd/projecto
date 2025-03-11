@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is displaying a 'Page Not Found' error and does not request any personal information or payment. The URL provided contains a search query.",
+  "Suspicious offer": "N/A",
+  "Format": "The website has a clean, professional design. There are no obvious design flaws or typos in the provided screenshot.",
+  "Transparency": "N/A",
+  "Impersonation": "N/A",
+  "Other": "The URL indicates a directory search, which is a legitimate function. The 'Page Not Found' error may indicate a broken link or unavailable resource, not necessarily fraudulent intent. Given the context of the Pipl.com website, the directory URL, and the error message, there is nothing immediately suspicious about the link.",
+  "verdict": 1
+}
+```

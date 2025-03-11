@@ -1,0 +1,17 @@
+   Domain Name: BAYCROSSINGS.COM
+   Registry Domain ID: 69397411_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.fastdomain.com
+   Registrar URL: http://www.fastdomain.com
+   Updated Date: 2024-12-28T06:05:23Z
+   Creation Date: 2001-04-18T01:09:16Z
+   Registry Expiry Date: 2025-04-18T01:09:16Z
+   Registrar: FastDomain Inc.
+   Registrar IANA ID: 1154
+   Registrar Abuse Contact Email: domain.operations@web.com
+   Registrar Abuse Contact Phone: +1.8777228662
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.BLUEHOST.COM
+   Name Server: NS2.BLUEHOST.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-11T10:14:50Z 

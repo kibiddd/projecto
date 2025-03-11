@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not appear to be directly requesting personal information or payment in the displayed content.",
+  "Suspicious offer": "The website does not seem to be offering any products or services.",
+  "Format": "The website's format is extremely basic, with a simple HTML layout and no visual elements other than a blank page. This raises red flags about its quality.",
+  "Transparency": "The website's transparency is poor. There's no visible contact information.",
+  "Impersonation": "N/A",
+  "Other": "The extremely simplistic design and lack of content are highly unusual and suggest a potentially suspicious origin or purpose, or that it may simply be a placeholder page.",
+  "verdict": 8
+}
+```

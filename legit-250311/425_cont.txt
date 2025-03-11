@@ -1,0 +1,3 @@
+```json
+{"Phishing": "The website is requesting payment information to purchase books, which is expected for an e-commerce platform.", "Suspicious offer": "There are no suspicious offers or free products.", "Format": "The website has a professional design and appears to be of high quality. No typos are visible in the screenshot.", "Transparency": "The website provides clear contact information for sellers.", "Impersonation": "N/A", "Other": "N/A", "verdict": 1}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website has a blogspot format with a basic design. While not professionally designed, it's not inherently indicative of fraud.",
+  "Transparency": "The website is a blog, so it's unlikely to have much contact information. Lack of transparency can be suspicious, but it's common for blogs.",
+  "Impersonation": "N/A",
+  "Other": "The website is a blog that contains information about actresses. There is nothing suspicious. There is no request of any personal information.",
+  "verdict": 1
+}
+```

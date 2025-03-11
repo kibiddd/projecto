@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not seem to request any personal information or payment.",
+  "Suspicious offer": "The website is an index of characters, so it's unlikely to offer suspicious deals or services.",
+  "Format": "The website has a basic format, but the design is not poor. The website does not show any typo.",
+  "Transparency": "The website seems to be part of a larger site documenting comic characters, which indicates some level of transparency, but contact information can not be found directly.",
+  "Impersonation": "The website's content is a database of comic character information and does not impersonate any other entity.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

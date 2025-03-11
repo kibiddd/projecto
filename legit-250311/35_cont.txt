@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A. The website is displaying a 403 error, indicating access is blocked. There is no attempt to collect personal information or request payment.",
+  "Suspicious offer": "N/A. The page is not displaying any offer, but instead indicating a technical issue.",
+  "Format": "The error page itself shows basic formatting typical of a content delivery network (CDN) like CloudFront. There are no apparent typos. Although, this is not enough information for a full assessment.",
+  "Transparency": "N/A. The error page does not provide any contact information about the website in question; it only provides information about CloudFront.",
+  "Impersonation": "N/A. The error page is provided by CloudFront, and does not aim to create a false sense of legitimacy.",
+  "Other": "The 403 error indicates the server is refusing the request. This can be due to several reasons and does not indicate any particular fraudulent activity but rather temporary technical problems.",
+  "verdict": 1
+}
+```

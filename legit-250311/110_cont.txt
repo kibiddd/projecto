@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website appears to be a legitimate sports news site, with a standard format and layout.",
+  "Transparency": "The website seems to be associated with a known sports news network (Rivals), suggesting a degree of transparency.",
+  "Impersonation": "N/A",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

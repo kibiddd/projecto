@@ -1,0 +1,22 @@
+   Domain Name: ABEBOOKS.COM
+   Registry Domain ID: 1923675_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.corporatedomains.com
+   Registrar URL: http://cscdbs.com
+   Updated Date: 2023-06-04T05:34:08Z
+   Creation Date: 1995-12-24T05:00:00Z
+   Registry Expiry Date: 2025-06-07T00:15:06Z
+   Registrar: CSC Corporate Domains, Inc.
+   Registrar IANA ID: 299
+   Registrar Abuse Contact Email: domainabuse@cscglobal.com
+   Registrar Abuse Contact Phone: 8887802723
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: NS-148.AWSDNS-18.COM
+   Name Server: NS-1492.AWSDNS-58.ORG
+   Name Server: NS-1700.AWSDNS-20.CO.UK
+   Name Server: NS-647.AWSDNS-16.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-11T10:14:50Z 

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not appear to request personal information or payments.",
+  "Suspicious offer": "The website does not seem to offer anything suspicious.",
+  "Format": "The website appears to have a professional design and quality images.",
+  "Transparency": "The website provides clear information about the Marie Claire brand.",
+  "Impersonation": "The website appears to be the official Marie Claire Italy website.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

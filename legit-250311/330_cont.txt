@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website requests personal information for searches, which is typical for people search services. It does not appear to be directly asking for payment or sensitive information on this specific page.",
+  "Suspicious offer": "The core service is the offering of people search services. This particular page displays an error message.",
+  "Format": "The website format appears professional and has no obvious design flaws, typos or low-quality image.",
+  "Transparency": "The website provides clear links to various sections like 'About Us', 'Terms and Conditions', and 'Contact Us', which could be used to verify its legitimacy.",
+  "Impersonation": "It is not possible to determine if this website is impersonating another entity based on the screenshot alone.",
+  "Other": "The fact that this is a 404 page does not directly reveal information that can be used to gauge fraudulence.",
+  "verdict": 3
+}
+```

@@ -1,0 +1,3 @@
+```json
+{"Phishing": "No personal information or payment is requested on the displayed page.", "Suspicious offer": "N/A", "Format": "The website design appears dated, but is generally functional and does not contain obvious errors or low-quality images.", "Transparency": "Contact information is not present on the displayed page, but this is a review page for an album so it may not be applicable.", "Impersonation": "N/A", "Other": "N/A", "verdict": 2}
+```

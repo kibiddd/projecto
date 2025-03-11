@@ -1,0 +1,17 @@
+   Domain Name: GOLFOBSERVER.COM
+   Registry Domain ID: 104335944_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.register.com
+   Registrar URL: http://www.register.com
+   Updated Date: 2023-08-31T08:08:12Z
+   Creation Date: 2003-09-30T16:38:54Z
+   Registry Expiry Date: 2025-09-30T16:38:54Z
+   Registrar: Register.com, Inc.
+   Registrar IANA ID: 9
+   Registrar Abuse Contact Email: domain.operations@web.com
+   Registrar Abuse Contact Phone: +1.8777228662
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: DNS101.REGISTER.COM
+   Name Server: DNS102.REGISTER.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-11T10:12:51Z 

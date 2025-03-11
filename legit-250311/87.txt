@@ -1,0 +1,20 @@
+   Domain Name: SCIENCEDAILY.COM
+   Registry Domain ID: 504359_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.networksolutions.com
+   Registrar URL: http://networksolutions.com
+   Updated Date: 2021-02-01T18:16:42Z
+   Creation Date: 1995-11-16T05:00:00Z
+   Registry Expiry Date: 2029-11-15T05:00:00Z
+   Registrar: Network Solutions, LLC
+   Registrar IANA ID: 2
+   Registrar Abuse Contact Email: domain.operations@web.com
+   Registrar Abuse Contact Phone: +1.8777228662
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-1414.AWSDNS-48.ORG
+   Name Server: NS-1618.AWSDNS-10.CO.UK
+   Name Server: NS-300.AWSDNS-37.COM
+   Name Server: NS-695.AWSDNS-22.NET
+   DNSSEC: signedDelegation
+   DNSSEC DS Data: 35964 13 2 EF371465DC75884CEA2D658CADAF3A493E25619FE794D0C64C0900CFFB46767B
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-11T10:12:51Z 

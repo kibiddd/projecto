@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is a legitimate real estate listing on Zillow and does not request personal information or payment directly.",
+  "Suspicious offer": "The website does not offer any suspicious deals or free products/services.",
+  "Format": "The website has a professional design and high-quality images, with no obvious typos or design flaws.",
+  "Transparency": "The website provides clear and trustworthy information about the property and the real estate platform (Zillow).",
+  "Impersonation": "The website does not appear to be impersonating any entity.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website has a simple, functional design. There are no obvious formatting issues or typos in the visible text.",
+  "Transparency": "The website provides information through a dictionary format. The domain belongs to sensagent.com. It doesn't seem to be trying to hide its identity.",
+  "Impersonation": "N/A",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

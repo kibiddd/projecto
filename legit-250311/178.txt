@@ -1,0 +1,21 @@
+   Domain Name: BLURBWIRE.COM
+   Registry Domain ID: 131399220_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.directnic.com
+   Registrar URL: http://www.directnic.com
+   Updated Date: 2024-08-16T07:03:44Z
+   Creation Date: 2004-09-30T06:11:29Z
+   Registry Expiry Date: 2025-09-30T06:11:29Z
+   Registrar: DNC Holdings, Inc.
+   Registrar IANA ID: 291
+   Registrar Abuse Contact Email: abuse@directnic.com
+   Registrar Abuse Contact Phone: +1.5043550081
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS1.ANYDNS.COM
+   Name Server: NS2.ANYDNS.COM
+   Name Server: NS3.ANYDNS.COM
+   Name Server: NS4.ANYDNS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-11T10:13:19Z 

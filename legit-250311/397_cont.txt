@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website may request personal information or payment. It's important to consider the context of the request and verify the website's legitimacy.",
+  "Suspicious offer": "N/A",
+  "Format": "The website's design and quality cannot be evaluated without more information.",
+  "Transparency": "The provision of clear and trustworthy contact information is uncertain based on available information.",
+  "Impersonation": "It is difficult to evaluate impersonation without more information.",
+  "Other": "N/A",
+  "verdict": 4
+}
+```

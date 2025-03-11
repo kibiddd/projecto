@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website's content and theme suggest a specific niche, and its design might cater to that audience. It is difficult to evaluate the quality of the website because it is empty.",
+  "Transparency": "N/A",
+  "Impersonation": "N/A",
+  "Other": "The domain name 'seks-stiki.com' appears to be a combination of keywords, which could be associated with a website that does not have a clear purpose. The website's primary content seems to be in the 'lezbijke' section, suggesting a potentially adult-themed focus.",
+  "verdict": 5
+}
+```

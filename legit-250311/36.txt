@@ -1,0 +1,17 @@
+   Domain Name: FAMOUSDEAD.COM
+   Registry Domain ID: 141777371_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.enom.com
+   Registrar URL: http://www.enomdomains.com
+   Updated Date: 2025-02-06T08:59:36Z
+   Creation Date: 2005-02-07T15:42:07Z
+   Registry Expiry Date: 2026-02-07T15:42:07Z
+   Registrar: eNom, LLC
+   Registrar IANA ID: 48
+   Registrar Abuse Contact Email: domainabuse@tucows.com
+   Registrar Abuse Contact Phone: +1.4165350123
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: LUKE.NS.CLOUDFLARE.COM
+   Name Server: MEGAN.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-11T10:12:35Z 

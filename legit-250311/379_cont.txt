@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is a professional networking site (XING). It does not appear to be asking for sensitive information or payments.",
+  "Suspicious offer": "The site does not seem to be offering any products or services.",
+  "Format": "The website has a professional design and appears well-made.",
+  "Transparency": "The site appears to be XING, a well-known professional networking platform. Contact information for the platform is likely available through the site.",
+  "Impersonation": "The site appears to be the legitimate profile page of Nils Hagemann on XING.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

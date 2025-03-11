@@ -1,0 +1,3 @@
+```json
+{"Phishing": "The website itself does not appear to directly request sensitive personal information or payments at first glance, but it is a travel agency, which may collect personal information when booking trips. This is not inherently suspicious.", "Suspicious offer": "The website is offering sports travel services, which is a legitimate business. There are no obviously suspicious offers.", "Format": "The website has a clean and professional design. There are no obvious typos or poor-quality images.", "Transparency": "The website provides clear contact information (phone number and email address) in the header, which increases trust.", "Impersonation": "N/A", "Other": "The website is a legitimate travel agency.", "verdict": 1}
+```

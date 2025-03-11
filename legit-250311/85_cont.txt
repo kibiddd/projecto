@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website appears to be well-designed and professional.",
+  "Transparency": "The website belongs to the U.S. Customs and Border Protection and provides contact information and relevant details, indicating a high degree of transparency.",
+  "Impersonation": "N/A",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

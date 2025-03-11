@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website displays player information and does not request personal information or payment.",
+  "Suspicious offer": "The website presents player statistics, not a suspicious offer.",
+  "Format": "The website has a basic but functional design. There are no obvious typos or low-quality images. Based on a single URL, it is difficult to assess the site's overall quality.",
+  "Transparency": "The website provides general information about players; however, without further information about the website itself, it's difficult to determine transparency.",
+  "Impersonation": "The website seems to be a database for football players and is not impersonating anyone.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

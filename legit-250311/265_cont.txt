@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not appear to be requesting personal information or payment.",
+  "Suspicious offer": "The website does not appear to be offering anything suspicious.",
+  "Format": "The website has a clean and professional design, with no obvious typos or low-quality images.",
+  "Transparency": "The website displays clear and trustworthy contact information.",
+  "Impersonation": "The website does not appear to be impersonating another website.",
+  "Other": "The website indicates that a business profile is no longer part of their directory. This suggests a lack of active management or an outdated listing, but doesn't directly indicate fraud.",
+  "verdict": 1
+}
+```

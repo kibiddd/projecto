@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website has a very simple design, which is not necessarily a sign of fraud, but the content is just text.",
+  "Transparency": "The URL suggests it's hosted on Google's Knol platform, which provides a degree of transparency, though the creator's identity isn't readily apparent from this information. The content itself appears to be informational.",
+  "Impersonation": "N/A",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

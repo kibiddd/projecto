@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website has a dated design, which is not necessarily indicative of fraud but could be a factor. There are no obvious typos.",
+  "Transparency": "The website is not providing contact information.",
+  "Impersonation": "The website is legitimate, but the 404 error page could be a result of a broken link or the site being taken down and therefore it does not impersonate anyone.",
+  "Other": "The 404 error and the presentation of the website is not typical of a secure site.",
+  "verdict": 3
+}
+```

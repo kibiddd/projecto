@@ -1,0 +1,18 @@
+   Domain Name: SONGLYRICS.COM
+   Registry Domain ID: 5496625_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.name.com
+   Registrar URL: http://www.name.com
+   Updated Date: 2022-08-26T06:02:38Z
+   Creation Date: 1996-09-28T04:00:00Z
+   Registry Expiry Date: 2030-01-05T08:03:20Z
+   Registrar: Name.com, Inc.
+   Registrar IANA ID: 625
+   Registrar Abuse Contact Email: abuse@name.com
+   Registrar Abuse Contact Phone: 7202492374
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: KEN.NS.CLOUDFLARE.COM
+   Name Server: NADIA.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-11T10:13:06Z 

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not appear to be requesting personal information or payment directly, so phishing is not a major concern based on this specific artist page.",
+  "Suspicious offer": "There are no obvious suspicious offers on this artist's page.",
+  "Format": "The website's design and quality are reasonable, there are no obvious typos.",
+  "Transparency": "The website has basic information and seems to be a legitimate platform for artists.",
+  "Impersonation": "It is an artist's page on a platform. No indication of impersonation.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

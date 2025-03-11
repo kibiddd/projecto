@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is a news article about a sports event. It doesn't request any personal information or payment.",
+  "Suspicious offer": "The website doesn't offer any products or services.",
+  "Format": "The website appears to be a news article with a standard design. The quality is acceptable.",
+  "Transparency": "The website is a news article with clear information about the topic and the news outlet (ksn.com).",
+  "Impersonation": "N/A",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

@@ -1,0 +1,3 @@
+```json
+{"Phishing": "No personal information or payment is requested on this specific page.", "Suspicious offer": "N/A", "Format": "The website has a professional design and high-quality images. No typos were found.", "Transparency": "The website provides clear information about the Arizona-Sonora Desert Museum.", "Impersonation": "N/A", "Other": "The website belongs to a known and reputable organization.", "verdict": 1}
+```

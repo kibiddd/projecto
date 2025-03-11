@@ -1,0 +1,19 @@
+   Domain Name: TORRENTREACTOR.NET
+   Registry Domain ID: 105345988_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.directnic.com
+   Registrar URL: http://www.directnic.com
+   Updated Date: 2022-02-15T06:42:00Z
+   Creation Date: 2003-10-20T21:27:14Z
+   Registry Expiry Date: 2025-10-20T21:27:14Z
+   Registrar: DNC Holdings, Inc.
+   Registrar IANA ID: 291
+   Registrar Abuse Contact Email: abuse@directnic.com
+   Registrar Abuse Contact Phone: +1.5043550081
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS1.TORRENTPRIVACY.COM
+   Name Server: NS2.TORRENTPRIVACY.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-11T10:14:50Z 

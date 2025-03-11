@@ -1,0 +1,17 @@
+   Domain Name: NCAAWIKI.COM
+   Registry Domain ID: 2855691153_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2025-02-05T03:49:45Z
+   Creation Date: 2024-02-16T09:17:39Z
+   Registry Expiry Date: 2026-02-16T09:17:39Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: HUXLEY.NS.CLOUDFLARE.COM
+   Name Server: THEA.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-11T10:14:36Z 

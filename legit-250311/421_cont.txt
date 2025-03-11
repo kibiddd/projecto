@@ -1,0 +1,3 @@
+```json
+{"Phishing": "The website requires no personal information or payment for the search results shown. It is possible it will be required for more detailed information, but from what is displayed, there is no indication of phishing.", "Suspicious offer": "The website offers public record information, and does not appear to offer anything that seems suspicious.", "Format": "The website has a clear, modern design with no immediately obvious errors or typos. The image quality is good.", "Transparency": "The website has an 'About' section, suggesting some degree of transparency. More detailed information about the company and their data sources may not be visible in this particular view, however.", "Impersonation": "N/A", "Other": "N/A", "verdict": 1}
+```

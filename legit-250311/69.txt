@@ -1,0 +1,70 @@
+Domain Name: census-online.us
+Registry Domain ID: D13057721-US
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: http://www.namecheap.com
+Updated Date: 2024-07-05T02:03:01Z
+Creation Date: 2007-07-01T05:40:01Z
+Registry Expiry Date: 2025-06-30T23:59:59Z
+Registrar: NameCheap, Inc.
+Registrar IANA ID: 1068
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.6613102107
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: C6E9A2A9C953F4D26AF1579F6157AB4C1-GDREG
+Registrant Name: Seymour Benjamin
+Registrant Organization: Census Data Research Online
+Registrant Street: PO Box 4522
+Registrant Street:
+Registrant Street:
+Registrant City: Jeffersonville
+Registrant State/Province: IN
+Registrant Postal Code: 47131
+Registrant Country: US
+Registrant Phone: +1.7603920010
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: info@cdresearch.us
+Registrant Application Purpose: P1
+Registrant Nexus Category: C21
+Registry Admin ID: C1B0ED39B4A7E466FB5CB3E2925CA88D8-GDREG
+Admin Name: Seymour Benjamin
+Admin Organization: Census Data Research Online
+Admin Street: PO Box 4522
+Admin Street:
+Admin Street:
+Admin City: Jeffersonville
+Admin State/Province: IN
+Admin Postal Code: 47131
+Admin Country: US
+Admin Phone: +1.7603920010
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: info@cdresearch.us
+Admin Application Purpose: P1
+Admin Nexus Category: C21
+Registry Tech ID: C3718DF47DA8F4C5993596FE943C4EC48-GDREG
+Tech Name: Seymour Benjamin
+Tech Organization: Census Data Research Online
+Tech Street: PO Box 4522
+Tech Street:
+Tech Street:
+Tech City: Jeffersonville
+Tech State/Province: IN
+Tech Postal Code: 47131
+Tech Country: US
+Tech Phone: +1.7603920010
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: info@cdresearch.us
+Tech Application Purpose: P1
+Tech Nexus Category: C21
+Name Server: ns-1882.awsdns-43.co.uk
+Name Server: ns-946.awsdns-54.net
+Name Server: ns-1277.awsdns-31.org
+Name Server: ns-40.awsdns-05.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-11T10:12:58Z 

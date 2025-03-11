@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is a blog platform and does not appear to be requesting personal information or payment in a suspicious manner.",
+  "Suspicious offer": "The website is a blog platform and does not offer any products or services.",
+  "Format": "The website has a dated but functional design. There are no obvious typos or low-quality images.",
+  "Transparency": "The website is a personal blog and provides the author's username. There are no clear contact details available, but this is common for personal blogs.",
+  "Impersonation": "The website is a personal blog and does not appear to be impersonating another entity.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

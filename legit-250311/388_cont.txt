@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website appears to be a legitimate news article, the design is expected for a news website.",
+  "Transparency": "The article appears on a credible news website, HamptonRoads, thus contact information should be available through their website.",
+  "Impersonation": "N/A",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

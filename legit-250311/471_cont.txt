@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website requests a name and email for posting comments, but this is typical for comment sections and not inherently phishing.",
+  "Suspicious offer": "N/A",
+  "Format": "The website design is functional, with clear navigation and no obvious typos or low-quality images.",
+  "Transparency": "N/A",
+  "Impersonation": "N/A",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

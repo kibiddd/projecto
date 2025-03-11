@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website itself does not appear to be requesting personal information or payment in the context provided. However, the presence of a consent pop-up for data processing by partners introduces a potential, though not immediate, risk related to data privacy rather than direct phishing attempts.",
+  "Suspicious offer": "N/A",
+  "Format": "The website appears to have a professional design and layout. There are no obvious signs of poor design or typos in the provided screenshot. The images seem high quality.",
+  "Transparency": "N/A",
+  "Impersonation": "The website seems to be a legitimate sports website that is well-known.",
+  "Other": "The pop-up to accept cookies and data processing by partners, while not inherently fraudulent, is a modern practice that needs careful consideration of the provided details and the partners listed. ",
+  "verdict": 2
+}
+```

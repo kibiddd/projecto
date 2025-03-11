@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not request personal information or payment.",
+  "Suspicious offer": "The website does not offer any product or service.",
+  "Format": "The website has a professional design and contains no obvious typos in the provided screenshot.",
+  "Transparency": "The website clearly displays contact information for the library and university.",
+  "Impersonation": "The website is the official website of the University of Arizona Libraries.",
+  "Other": "The URL shows that the user is trying to access an exhibit that does not exist, thus triggering a 'Page not found' error, but this is not necessarily a sign of fraud.",
+  "verdict": 1
+}
+```

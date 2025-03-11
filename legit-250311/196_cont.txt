@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website itself does not appear to be requesting personal information or payment directly.",
+  "Suspicious offer": "The page content mainly provides information about a recruiting class and does not involve any suspicious offers.",
+  "Format": "The design seems to be outdated and it has a basic structure. However, the design might not be indicative of fraud because the university's older pages might not have been updated.",
+  "Transparency": "The website belongs to Saginaw Valley State University (SVSU). While this page is older and not heavily updated, the presence of a university domain increases legitimacy.",
+  "Impersonation": "The website is hosted under the university's domain.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

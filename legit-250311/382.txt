@@ -1,0 +1,20 @@
+   Domain Name: YOURCANADALAWYERS.NET
+   Registry Domain ID: 2373667908_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.register.it
+   Registrar URL: http://www.register.it
+   Updated Date: 2024-03-27T09:53:33Z
+   Creation Date: 2019-03-27T16:25:38Z
+   Registry Expiry Date: 2025-03-27T16:25:38Z
+   Registrar: Register SPA
+   Registrar IANA ID: 168
+   Registrar Abuse Contact Email: abuse@register.it
+   Registrar Abuse Contact Phone: +39.05520021555
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS0.LCN.COM
+   Name Server: NS1.LCN.COM
+   Name Server: NS2.LCN.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-11T10:14:36Z 

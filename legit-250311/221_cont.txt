@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website doesn't appear to be requesting personal information or payment directly.",
+  "Suspicious offer": "The website doesn't seem to be offering any suspicious deals or free products.",
+  "Format": "The website design seems basic but functional. There are no obvious typos or low-quality images.",
+  "Transparency": "The website doesn't provide contact information.",
+  "Impersonation": "It's unclear if the website is impersonating anyone. The domain name seems a bit odd, but it might be a legitimate niche website.",
+  "Other": "The absence of contact information raises a minor red flag. Also, the domain name is unusual.",
+  "verdict": 3
+}
+```

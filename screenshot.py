@@ -15,14 +15,35 @@ def screenshot(url):
         'Content-Type': "application/json"
     }
 
-    conn.request("POST", "/screenshot.php?url=https%3A%2F%2Fexample.com", payload, headers)
+    try:
+        conn.request("POST", "/screenshot.php?url=https%3A%2F%2Fexample.com", payload, headers)
 
-    res = conn.getresponse()
-    data = res.read().decode("utf-8")
-    data = json.loads(data)
-    response = data["response"]
-    return response["url"]
+        res = conn.getresponse()
+        data = res.read().decode("utf-8")
+        data = json.loads(data)
 
+        # Validate the response key
+        if "response" in data:
+            response = data["response"]
+            return response.get("url")  # Return the URL from the response
+        else:
+            print(f"Error: 'response' key not found in API response. Full response: {data}")
+            return None  # Return None if key is not found
+
+    except json.JSONDecodeError as e:
+        # Handle JSON decoding errors
+        print(f"Error decoding JSON response: {e}")
+        return None
+
+    except http.client.HTTPException as e:
+        # Handle HTTP errors
+        print(f"HTTP error occurred: {e}")
+        return None
+
+    except Exception as e:
+        # Handle any other unexpected errors
+        print(f"An unexpected error occurred: {e}")
+        return None
 
 
 if __name__ == "__main__":
@@ -32,12 +53,14 @@ if __name__ == "__main__":
     #dataset = new_only(load_dataset(path1), load_dataset(path2))
     dataset = load_dataset("random_legit.txt")
     with open("ss-legit.txt", "a") as f:  # Open the file in append mode
-        for idx, url in enumerate(dataset[4:500]):
+        for idx, url in enumerate(dataset[161:500]):
             print(f"Screenshotting {idx + 1}/500: {url}")
             screenshot_url = screenshot(url)
             if screenshot_url:
                 f.write(screenshot_url + "\n")
                 print(f"Saved screenshot URL: {screenshot_url}")
+            else:
+                f.write(f"Failed to capture screenshot for URL: {url}\n")
 
     #for idx, url in enumerate(dataset[:100]):
     #    print(f"Screenshotting URL {idx}/{len(dataset)}: {url}")

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website has a clean design, which matches the expected format of YouTube.",
+  "Transparency": "N/A",
+  "Impersonation": "The screenshot shows a YouTube video, so this is likely the legitimate YouTube platform.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

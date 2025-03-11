@@ -1,0 +1,3 @@
+```json
+{"Phishing": "The website does not appear to be requesting personal information or payment in the provided screenshot.", "Suspicious offer": "The website is a video streaming platform that focuses on news and videos. There is no suspicious offer.", "Format": "The website design is clean and modern, with no obvious typos or low-quality images.", "Transparency": "The website's purpose and content are clear. The website appears to be a news and video platform. There are no obvious indications of a lack of transparency.", "Impersonation": "There is no apparent attempt to impersonate a legitimate entity.", "Other": "N/A", "verdict": 1}
+```

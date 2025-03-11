@@ -1,0 +1,3 @@
+```json
+{"Phishing": "The website itself does not appear to be directly requesting personal information or payments.", "Suspicious offer": "N/A", "Format": "The website's lack of content raises suspicion as it's a blank page.", "Transparency": "N/A - Contact information could not be assessed, given the lack of content.", "Impersonation": "N/A - There is not enough information to determine impersonation.", "Other": "The lack of content is a major red flag. A legitimate website would have some information on its pages.", "verdict": 8}
+```

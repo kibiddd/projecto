@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is not asking for any personal information or payment.",
+  "Suspicious offer": "The website is not offering any free or too-good-to-be-true product/service.",
+  "Format": "The website has a clean and modern design, with no noticeable typos or low-quality images.",
+  "Transparency": "The website provides contact information in the footer, which is a sign of transparency.",
+  "Impersonation": "The website is displaying a notification indicating that the browser is not supported anymore, the interface appears legitimate, and the URL is YouTube, therefore it's not trying to impersonate.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website itself does not seem to be requesting personal information or payments directly on the current 404 error page.",
+  "Suspicious offer": "The website is not currently offering any products or services.",
+  "Format": "The website displays a standard 404 error page, with the branding of USA Today. There are no obvious signs of poor design or typos on the 404 error page itself. The quality of the images and the layout appear professional.",
+  "Transparency": "While the 404 page doesn't provide contact information, it's on the official USA Today domain, suggesting that the legitimate contact info would be available through other pages of the website.",
+  "Impersonation": "The website is the official USA Today website. The 404 error page appears to be legitimate.",
+  "Other": "The error is a 404, indicating that the requested page does not exist. The domain itself (usatoday.com) is a legitimate news source.",
+  "verdict": 1
+}
+```

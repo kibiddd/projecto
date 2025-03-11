@@ -1,0 +1,3 @@
+```json
+{"Phishing": "No personal information or payment is requested.", "Suspicious offer": "No suspicious offers.", "Format": "The website design is basic but functional. There are no obvious typos.", "Transparency": "The website seems to be a historical archive of baseball stadiums. No obvious contact information is provided on this specific page.", "Impersonation": "N/A", "Other": "N/A", "verdict": 1}
+```

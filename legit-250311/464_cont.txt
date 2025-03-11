@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not appear to be directly requesting personal information or payments, based on the provided context.",
+  "Suspicious offer": "The website focuses on information about online degree programs, which is a standard service and does not have inherently suspicious offers.",
+  "Format": "The website has a professional format with no visible typos.",
+  "Transparency": "The website provides contact information for the degree program and appears to be a legitimate site to provide information about the program.",
+  "Impersonation": "The website appears to be a legitimate informational site, not an impersonation.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

@@ -1,0 +1,3 @@
+```json
+{"Phishing": "N/A", "Suspicious offer": "N/A", "Format": "The website has a functional but dated design, which isn't necessarily indicative of fraud. However, it is a bit dated and simplistic.", "Transparency": "The website provides clear information and appears to be a well-established hockey statistics database.", "Impersonation": "N/A", "Other": "N/A", "verdict": 1}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not appear to be requesting personal information or payment.",
+  "Suspicious offer": "The website's primary purpose is likely to announce and facilitate a family reunion. There are no suspicious offers present.",
+  "Format": "The website appears to be very simple, potentially indicating limited development resources. It does not have low quality images, typos or poor design. However, it does not look particularly professional or polished. ",
+  "Transparency": "The website's contact information is likely not provided.",
+  "Impersonation": "N/A",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

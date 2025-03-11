@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website promotes a sportsbook promo code, which involves signing up and potentially providing personal information. However, the website itself doesn't directly ask for sensitive information like credit card details, so the risk is low.",
+  "Suspicious offer": "The offer of $1,100 in first bet insurance could be considered a potentially suspicious offer if the terms are not clearly laid out. But it is a standard offer of sportsbook.",
+  "Format": "The website appears to be well-designed, with a professional look and feel. There are no obvious typos or low-quality images.",
+  "Transparency": "The website provides information on how to claim the offer, which state the terms. It doesn't seem to have any specific contact info.",
+  "Impersonation": "N/A",
+  "Other": "The website is promoting a sportsbook offer, so the trustworthiness depends on the legitimacy of the sportsbook itself.",
+  "verdict": 3
+}
+```

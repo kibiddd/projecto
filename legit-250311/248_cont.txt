@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is an obituary page, and it's not requesting any personal information or payment in a suspicious manner.",
+  "Suspicious offer": "The website is an obituary page, and it's not offering any product/service.",
+  "Format": "The website is of decent format and quality, and the URL is the original legacy.com.",
+  "Transparency": "The website is an obituary page, and it is hosted at legacy.com.",
+  "Impersonation": "The website is not impersonating anything.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

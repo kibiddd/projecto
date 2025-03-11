@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does request login information, but it is for a music streaming service, which is expected. No payment information is requested.",
+  "Suspicious offer": "N/A",
+  "Format": "The website design and image quality are reasonable for a music streaming service. There are no obvious typos.",
+  "Transparency": "The website provides clear information about the artists and music.",
+  "Impersonation": "The website is a legitimate music platform and not impersonating another website.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

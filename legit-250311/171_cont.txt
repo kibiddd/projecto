@@ -1,0 +1,3 @@
+```json
+{"Phishing": "The website doesn't request personal information or payment.", "Suspicious offer": "The website doesn't offer any product or services.", "Format": "The website has a professional design and high-quality images, with no apparent typos.", "Transparency": "The website provides contact information (email or phone number).", "Impersonation": "The website is TMZ, a well-known entertainment news website.", "Other": "N/A", "verdict": 1}
+```

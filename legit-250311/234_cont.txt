@@ -1,0 +1,3 @@
+```json
+{"Phishing": "The website itself doesn't appear to be directly engaging in phishing attempts. It's a university website and does not seem to ask for Personally Identifiable Information (PII) such as social security number, banking account numbers, etc.", "Suspicious offer": "N/A", "Format": "The website has a professional design, clean layout, and high-quality images. No apparent typos are visible.", "Transparency": "The website is transparent, providing information about the university. There is clear contact information available and links to relevant resources and departments.", "Impersonation": "N/A", "Other": "N/A", "verdict": 1}
+```

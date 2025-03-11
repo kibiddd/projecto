@@ -1,0 +1,3 @@
+```json
+{"Phishing": "No personal information or payment is requested on this page.", "Suspicious offer": "No offers are made.", "Format": "The website design and images are of high quality. There are no obvious typos.", "Transparency": "The website provides information about the game credits, which suggests a degree of transparency.", "Impersonation": "N/A", "Other": "N/A", "verdict": 1}
+```

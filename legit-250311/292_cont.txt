@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website itself doesn't appear to be requesting any personal information or payment directly, based on the provided URL.",
+  "Suspicious offer": "The website doesn't seem to offer any products or services that would be considered suspicious.",
+  "Format": "The website appears to have a clean design, suggesting a professional appearance. Based solely on the URL and the crops of the image, there are no obvious design flaws, low-quality images, or typos visible.",
+  "Transparency": "The website is hosted on the Bradley University domain. It provides information about the faculty. This suggests a degree of transparency.",
+  "Impersonation": "There's no obvious indication of impersonation; it appears to be an official faculty directory.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

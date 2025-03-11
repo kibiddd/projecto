@@ -1,0 +1,3 @@
+```json
+{"Phishing": "N/A", "Suspicious offer": "N/A", "Format": "N/A", "Transparency": "N/A", "Impersonation": "N/A", "Other": "N/A", "verdict": 1}
+```

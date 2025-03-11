@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website doesn't appear to be asking for personal information or payment at this stage. It seems to be performing a security check.",
+  "Suspicious offer": "N/A",
+  "Format": "The website appears to be a Cloudflare security check page, which indicates that it may have some security measures in place. The design is simple, which is common for these types of pages. No typos observed.",
+  "Transparency": "N/A",
+  "Impersonation": "The Cloudflare security check page may indicate impersonation since there is no information about Mike's Crab House on this page.",
+  "Other": "The current page indicates a Cloudflare security check before accessing the content, which is a common security measure, but can be a factor of impersonation. This alone doesn't necessarily mean the website is fraudulent.",
+  "verdict": 3
+}
+```

@@ -1,0 +1,3 @@
+```json
+{"Phishing": "N/A", "Suspicious offer": "N/A", "Format": "The website displays an error 404 page, which is not a sign of a fraudulent website itself, but the error suggests an issue with the website's content. The design appears professional.", "Transparency": "The website is for Radio+Television Business Report, and this publication is a legitimate source. The website provides access to contact information.", "Impersonation": "N/A", "Other": "The website returns an error. This is a potential sign of technical problems or discontinued content, but not necessarily fraudulent behavior.", "verdict": 1}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "N/A",
+  "Transparency": "N/A",
+  "Impersonation": "N/A",
+  "Other": "The website's domain name suggests it is related to marriage licenses in Kansas City.  The website has a simple design and may be legitimate.",
+  "verdict": 3
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not appear to be requesting personal information or payment.",
+  "Suspicious offer": "The website does not seem to be offering anything that is too good to be true.",
+  "Format": "The website has a dated design, but it doesn't appear to be poorly designed or contain excessive typos.",
+  "Transparency": "It has no clear contact information.",
+  "Impersonation": "N/A",
+  "Other": "The website's design is old, and the content seems to be user-generated, which raises some questions about its credibility, but without evidence of fraudulent activity, this could be a hobby website.",
+  "verdict": 3
+}
+```

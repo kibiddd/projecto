@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website itself is a directory, not requesting personal information or payment directly on the main page.",
+  "Suspicious offer": "N/A",
+  "Format": "The website's design appears functional for a directory, but could be considered dated, the image provided is a blank white space, not sure if this a website issue or an API issue. No typos were observed in the provided information, but the formatting seems a little out of date.",
+  "Transparency": "The website provides clear information for directory listings, including contact information and details about the organization.",
+  "Impersonation": "N/A",
+  "Other": "N/A",
+  "verdict": 2
+}
+```

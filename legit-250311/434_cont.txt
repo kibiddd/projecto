@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website itself doesn't appear to directly request personal information or payment, but it's a forum discussion about a promotion from Public Mobile. Users might share links or information that lead to phishing attempts related to the advertised deals.",
+  "Suspicious offer": "The offer of a free phone or 20% off could be a suspicious offer, as it's not directly on the Public Mobile website, but being discussed within a forum. The wording suggests the promo is for a limited time and region, which can add to the suspiciousness if information provided is not directly verifiable.",
+  "Format": "The forum post itself might not have a perfect design, but that's typical of forum interfaces. The image provided is white, which suggests the source provided a placeholder or no image. Typographical errors or design flaws within the forum post are possible, but the overall layout would be expected for a forum.",
+  "Transparency": "The forum provides a platform for discussion but doesn't directly function as a seller. Public Mobile is mentioned, but direct contact information and the reliability of the deal must be confirmed through other means or on Public Mobile website.",
+  "Impersonation": "The website is a forum discussing a deal for Public Mobile, but there is no indication of the forum trying to impersonate Public Mobile. The potential for impersonation comes through user discussion, links, or information, but not the forum's intent.",
+  "Other": "The primary concern is the reliance on third-party information in the forum to evaluate the credibility of the offer. Without further verification of the deal details provided in the forum, there's risk involved.",
+  "verdict": 5
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website deals with death records and does not appear to be asking for personal information or payment.",
+  "Suspicious offer": "The website's function is to display data related to deaths, it does not offer any product or service, and therefore cannot be considered a suspicious offer.",
+  "Format": "The website is a functional database with minimal design. There are no obvious typos, and the image is a blank white space suggesting the website is likely in its initial construction or has a problem with image loading.",
+  "Transparency": "The website name suggests it is likely a library database, providing a degree of transparency.",
+  "Impersonation": "There's no indication of impersonation, as it appears to be an internal tool of a library.",
+  "Other": "The unusual URL may appear suspicious, but the use case for a death record database is within an acceptable context. The lack of styling and blank image could be concerning.",
+  "verdict": 3
+}
+```

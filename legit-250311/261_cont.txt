@@ -1,0 +1,3 @@
+```json
+{"Phishing": "The website does not request any personal information or payment.", "Suspicious offer": "The website does not offer any product or service, and therefore, there is no suspicious offer.", "Format": "The website appears to be an archive or historical document. The image quality is low, but this is consistent with its age and purpose. There are no noticeable typos in the provided text.", "Transparency": "The website provides information that is accurate, but lacks the typical indicators of contact information.", "Impersonation": "The website is presenting historical information and does not appear to be attempting impersonation.", "Other": "The website's content and presentation are typical of historical genealogy resources.", "verdict": 1}
+```

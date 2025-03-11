@@ -1,0 +1,20 @@
+   Domain Name: LINDASMALLEY.COM
+   Registry Domain ID: 6010119_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.wildwestdomains.com
+   Registrar URL: http://www.wildwestdomains.com
+   Updated Date: 2024-04-30T02:31:28Z
+   Creation Date: 1999-04-24T23:46:01Z
+   Registry Expiry Date: 2025-04-24T23:44:35Z
+   Registrar: Wild West Domains, LLC
+   Registrar IANA ID: 440
+   Registrar Abuse Contact Email: abuse@wildwestdomains.com
+   Registrar Abuse Contact Phone: 480-624-2505
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS75.DOMAINCONTROL.COM
+   Name Server: NS76.DOMAINCONTROL.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-11T10:14:04Z 

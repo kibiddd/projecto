@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The format appears basic but functional. There are no obvious design flaws or typos in the provided text.",
+  "Transparency": "The example domain provides basic information but does not provide any information on who runs the website.",
+  "Impersonation": "N/A",
+  "Other": "This text appears to be a simple explanation, a standard disclaimer, and a link that provides additional information about an example domain. It does not look like a fraudulent website.",
+  "verdict": 1
+}
+```

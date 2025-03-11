@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website itself does not appear to be requesting personal information or payments on the displayed page (a 404 error).",
+  "Suspicious offer": "N/A",
+  "Format": "The website has a professional design, and the error page seems to be a standard 404 page, indicating the requested content was not found, rather than poor design.",
+  "Transparency": "The website includes Terms & Conditions, Contact Us, and Disclaimer links, along with copyright information, indicating a level of transparency.",
+  "Impersonation": "N/A",
+  "Other": "The website returned a 404 error, which is not an indicator of fraud, just that the requested page does not exist.",
+  "verdict": 1
+}
+```

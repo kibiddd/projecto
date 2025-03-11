@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "The website's primary message seems to be the sale of the domain, which is not inherently suspicious.",
+  "Format": "The website has a basic, clean design. There are no obvious design flaws or typos.",
+  "Transparency": "The website states that the domain is for sale, and the lack of any other contact information doesn't immediately raise a red flag.",
+  "Impersonation": "N/A",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

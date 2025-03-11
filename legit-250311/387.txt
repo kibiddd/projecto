@@ -1,0 +1,2 @@
+Domain: mydealz.de
+Status: connect

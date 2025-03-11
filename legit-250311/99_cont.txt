@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "N/A",
+  "Transparency": "N/A",
+  "Impersonation": "N/A",
+  "Other": "The website's content is minimal and seems unfinished. This lack of substantial content can sometimes be a characteristic of less established or potentially low-quality sites. However, there isn't enough evidence to call it fraudulent based on this URL alone.",
+  "verdict": 2
+}
+```

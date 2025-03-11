@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website's design is simple and functional, suitable for displaying academic content. There are no obvious signs of poor design or typos.",
+  "Transparency": "The website is hosted by Indiana University, a reputable educational institution. This provides a high degree of transparency.",
+  "Impersonation": "N/A",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

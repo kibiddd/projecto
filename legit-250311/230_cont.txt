@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website itself does not appear to be directly requesting personal information or payment on the provided URL. It seems to be a business listing.",
+  "Suspicious offer": "N/A",
+  "Format": "The website seems to be a business listing or a directory entry, so the design and quality are not primary concerns as long as the information is accessible and accurate. Typos are unlikely to be a major concern.",
+  "Transparency": "The website provides basic contact information for the business, which increases the likelihood of it being legitimate.",
+  "Impersonation": "N/A",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is not requesting personal information or payment.",
+  "Suspicious offer": "The website does not offer any product or service.",
+  "Format": "The website's design is simple and functional. There are no obvious typos or low-quality images.",
+  "Transparency": "The website provides copyright information and has been operational since 2000. While contact information isn't explicitly visible on this specific error page, the main site AZLyrics.com likely provides it.",
+  "Impersonation": "N/A",
+  "Other": "The website's purpose is lyrics, which is not a common target for fraud. The 'unusual activity' message is a standard security measure.",
+  "verdict": 1
+}
+```

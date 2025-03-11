@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website itself is a 404 page (Page Not Found) and does not ask for any personal information or payment.",
+  "Suspicious offer": "The page does not include any suspicious offers.",
+  "Format": "The website format is consistent with a legitimate and well-designed website.",
+  "Transparency": "The website clearly identifies itself as The New York Times. Contact information and other details are provided at the bottom of the page.",
+  "Impersonation": "The website appears to be legitimate and is not attempting to impersonate any other entity.",
+  "Other": "The website is a 404 error page, which is common and does not indicate fraudulent activity.",
+  "verdict": 1
+}
+```

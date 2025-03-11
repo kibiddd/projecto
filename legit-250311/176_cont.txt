@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The error page is clean and simple, but it indicates a broken link or page not found, which is not inherently a sign of fraud. The provided website URL appears to be for a legitimate tourist website with good design quality",
+  "Transparency": "N/A",
+  "Impersonation": "N/A",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

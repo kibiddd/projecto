@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is asking to confirm the user is human before proceeding, which doesn't ask for any personal information or payment.",
+  "Suspicious offer": "N/A",
+  "Format": "The website is simple and clean in design.",
+  "Transparency": "N/A",
+  "Impersonation": "N/A",
+  "Other": "The website is a common security check, unlikely to be fraudulent.",
+  "verdict": 1
+}
+```

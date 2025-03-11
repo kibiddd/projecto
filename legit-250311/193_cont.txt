@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "N/A",
+  "Transparency": "N/A",
+  "Impersonation": "N/A",
+  "Other": "This URL points to a Freebase page about Walt Disney Pictures. Freebase is a structured database and knowledge base. It is not designed for fraudulent activity.",
+  "verdict": 1
+}
+```

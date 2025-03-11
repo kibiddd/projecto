@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website displays a basic, outdated design with no images, and a title that reads 'Not found' suggests a potential issue or broken page.",
+  "Transparency": "N/A",
+  "Impersonation": "N/A",
+  "Other": "The page title \"Not found\" suggests that the page might not be properly functional. Furthermore, the website does not appear to be secure (no HTTPS).",
+  "verdict": 7
+}
+```

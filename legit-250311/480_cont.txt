@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website itself does not appear to be asking for personal information or payment, based on the content displayed in the 'OOPS!' error page.",
+  "Suspicious offer": "The error page does not include any suspicious offers.",
+  "Format": "The website has a professional design but is currently showing an error page, which is not indicative of fraud. There are no obvious typos in the displayed content.",
+  "Transparency": "The website provides contact information, including a phone number and email, which suggests a level of transparency.",
+  "Impersonation": "The website does not appear to be impersonating anything based on the available information.",
+  "Other": "The page displays a 404 error, which suggests that the requested content might not exist or have been moved. It's impossible to assess full website functionality from this error page, and it is only showing an error page and not the typical website.",
+  "verdict": 1
+}
+```

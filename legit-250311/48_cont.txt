@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not appear to be requesting personal information or payment.",
+  "Suspicious offer": "The website does not seem to be offering any suspicious or too-good-to-be-true deals.",
+  "Format": "The website's design appears clean and professional, with no obvious typos or low-quality images.",
+  "Transparency": "The website has a general 'About Us' section and is designed to provide public records on corporations. While contact information is not readily available, the site's purpose is to disseminate public information which may mean contact information may be limited.",
+  "Impersonation": "The website provides information related to corporations, but it's not impersonating a specific entity.",
+  "Other": "The site has a disclaimer that some records have been removed from public view, which is a standard practice for data privacy, thus not suspicious. The nature of its data-driven purpose is not something that points to a fraudulent website.",
+  "verdict": 1
+}
+```

@@ -1,0 +1,17 @@
+   Domain Name: FULL-ALBUMS.NET
+   Registry Domain ID: 2037578926_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.above.com
+   Registrar URL: http://www.above.com
+   Updated Date: 2024-05-28T09:08:49Z
+   Creation Date: 2016-06-25T18:58:59Z
+   Registry Expiry Date: 2025-06-25T18:58:59Z
+   Registrar: Above.com Pty Ltd.
+   Registrar IANA ID: 940
+   Registrar Abuse Contact Email: abuse@above.com
+   Registrar Abuse Contact Phone: +61 3 9589 7946
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS3.ABOVEDOMAINS.COM
+   Name Server: NS4.ABOVEDOMAINS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-11T10:14:20Z 

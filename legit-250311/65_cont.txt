@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website itself is not requesting any personal information or payment on this page. It's an error page.",
+  "Suspicious offer": "N/A",
+  "Format": "The page displays a standard 404 error with a clear message and good design elements.",
+  "Transparency": "The website, Evri, provides contact information in the footer. This page itself doesn't.",
+  "Impersonation": "N/A",
+  "Other": "The page is a 404 error page, which can be a sign of a legitimate website. The main concern is the URL that suggests a potential issue.",
+  "verdict": 2
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not appear to be requesting personal information or payment in this particular snapshot.",
+  "Suspicious offer": "The website does not seem to offer any suspicious deal or product.",
+  "Format": "The website is a single white page, which indicates a lack of content and potentially a very low-quality website.",
+  "Transparency": "There is no visible contact information.",
+  "Impersonation": "N/A",
+  "Other": "The minimal content of the page raises serious suspicions, it may be an unfinished or abandoned website. This could be an indication of fraud.",
+  "verdict": 7
+}
+```

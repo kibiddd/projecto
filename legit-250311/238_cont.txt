@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website's purpose isn't clear from the provided information, but it could potentially request personal information or payment depending on its functionality. More information is needed to assess this.",
+  "Suspicious offer": "N/A",
+  "Format": "N/A",
+  "Transparency": "N/A",
+  "Impersonation": "N/A",
+  "Other": "The URL structure (`hockey.xtremetweet.com`) is unusual, potentially suggesting a connection to the mentioned entity, or may be unrelated with bad intent.",
+  "verdict": 5
+}
+```

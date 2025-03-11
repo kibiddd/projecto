@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is blocked by a web application firewall, and it's not asking for personal information or payment.",
+  "Suspicious offer": "N/A",
+  "Format": "The design is minimal as it's showing a block page, but it's not indicative of a fraudulent site. There's a request ID shown in a clear format.",
+  "Transparency": "N/A",
+  "Impersonation": "N/A",
+  "Other": "The blocked message does not mean the website is fraudulent by default, it could have blocked legitimate traffic.",
+  "verdict": 1
+}
+```

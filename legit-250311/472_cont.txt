@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is an Etsy shop, which is a legitimate platform for selling items. It is not requesting any personal information or payment information directly.",
+  "Suspicious offer": "The website is selling merchandise, which is normal for an Etsy shop and not a suspicious offer.",
+  "Format": "The website uses the standard Etsy design. There are no obvious issues with the design or quality, and no typos are apparent.",
+  "Transparency": "The shop owner's identity is not directly provided, but the use of the Etsy platform increases trust, as Etsy has systems in place to protect buyers.",
+  "Impersonation": "The website does not appear to be impersonating another entity.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

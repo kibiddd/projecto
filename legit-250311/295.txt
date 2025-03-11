@@ -1,0 +1,17 @@
+   Domain Name: QUICKMBA.COM
+   Registry Domain ID: 19723386_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.gkg.net
+   Registrar URL: http://www.gkg.net
+   Updated Date: 2025-01-23T16:15:07Z
+   Creation Date: 2000-02-12T18:06:45Z
+   Registry Expiry Date: 2026-02-12T18:06:45Z
+   Registrar: GKG.Net, Inc.
+   Registrar IANA ID: 93
+   Registrar Abuse Contact Email: abuse@gkg.net
+   Registrar Abuse Contact Phone: +1.8776951790
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS0000.NS0.COM
+   Name Server: NS126.PAIR.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-11T10:14:04Z 

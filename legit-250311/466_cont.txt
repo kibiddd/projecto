@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is not requesting any personal information or payment.",
+  "Suspicious offer": "N/A",
+  "Format": "The website shows a standard 'Not Found' error, which is typical for a non-existent URL. The design is not suspicious based on this error message. There are no immediately apparent typos.",
+  "Transparency": "The error message includes the server details (www.petroglyphgames.com), indicating the website belongs to the legitimate company.",
+  "Impersonation": "N/A",
+  "Other": "The URL not found error indicates a potential issue with the requested content, but it's not a sign of fraudulent activity.",
+  "verdict": 1
+}
+```

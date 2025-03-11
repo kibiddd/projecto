@@ -1,0 +1,77 @@
+Domain Name: cbc.ca
+Registry Domain ID: D345334-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: authenticweb.com
+Updated Date: 2024-11-24T05:03:16Z
+Creation Date: 2000-10-16T13:56:05Z
+Registry Expiry Date: 2025-11-24T05:00:00Z
+Registrar: Authentic Web Inc.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: peter@authenticweb.com
+Registrar Abuse Contact Phone: +1.4165833770
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Registry Registrant ID: 112589627-CIRA
+Registrant Name: Réjean Lafrance
+Registrant Organization: Canadian Broadcasting Corporation
+Registrant Street: 250 Front St W
+Registrant City: Toronto
+Registrant State/Province: ON
+Registrant Postal Code: M5V3G5
+Registrant Country: CA
+Registrant Phone: +1.4162055603
+Registrant Phone Ext:
+Registrant Fax: +1.4162057750
+Registrant Fax Ext:
+Registrant Email: domain-name@cbc.ca
+Registry Admin ID: 112589628-CIRA
+Admin Name: Réjean Lafrance
+Admin Organization: Canadian Broadcasting Corporation
+Admin Street: 250 Front St W
+Admin City: Toronto
+Admin State/Province: ON
+Admin Postal Code: M5V3G5
+Admin Country: CA
+Admin Phone: +1.4162055603
+Admin Phone Ext:
+Admin Fax: +1.4162057750
+Admin Fax Ext:
+Admin Email: domain-name@cbc.ca
+Registry Tech ID: 112589524-CIRA
+Tech Name: Réjean Lafrance
+Tech Organization: Canadian Broadcasting Corporation
+Tech Street: 250 Front St W
+Tech City: Toronto
+Tech State/Province: ON
+Tech Postal Code: M5V3G5
+Tech Country: CA
+Tech Phone: +1.4162055603
+Tech Phone Ext:
+Tech Fax: +1.4162057750
+Tech Fax Ext:
+Tech Email: domain-name@cbc.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: a1-29.akam.net
+Name Server: a14-66.akam.net
+Name Server: a26-67.akam.net
+Name Server: a4-64.akam.net
+Name Server: a5-65.akam.net
+Name Server: a9-66.akam.net
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-11T10:09:30Z 

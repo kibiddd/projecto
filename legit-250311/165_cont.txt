@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is offering a premium subscription that requires payment, but this is a legitimate service provided by MediaFire.",
+  "Suspicious offer": "The premium features offered are standard for file hosting services like MediaFire. There's nothing inherently suspicious about the pricing or benefits.",
+  "Format": "The website has a professional design and appears to be of high quality. There are no obvious typos.",
+  "Transparency": "The website belongs to a well-known file hosting service, MediaFire. The terms and conditions are likely available on the site, thus providing transparency.",
+  "Impersonation": "This appears to be the legitimate MediaFire website.",
+  "Other": "The website presents a download button that triggers the download of a file. This behavior is consistent with how MediaFire works.",
+  "verdict": 1
+}
+```

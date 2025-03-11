@@ -1,0 +1,69 @@
+Domain Name: 123people.ca
+Registry Domain ID: 91505417-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: https://www.namespro.ca
+Updated Date: 2024-06-02T19:06:19Z
+Creation Date: 2021-04-14T19:00:20Z
+Registry Expiry Date: 2025-04-14T19:00:20Z
+Registrar: Namespro Solutions Inc.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: abuse@namespro.ca
+Registrar Abuse Contact Phone: +1.6046818007
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 112222861-CIRA
+Registrant Name: Bruce Lamb
+Registrant Organization: Bruce Lamb
+Registrant Street: PO Box 97083,  RICHMOND PO MAIN
+Registrant City: Richmond
+Registrant State/Province: BC
+Registrant Postal Code: V6X8H3
+Registrant Country: CA
+Registrant Phone: +1.6046828059
+Registrant Phone Ext:
+Registrant Fax: +1.6046828059
+Registrant Fax Ext:
+Registrant Email: nve-9y4n3mna@namesproprivacy.ca
+Registry Admin ID: 112222795-CIRA
+Admin Name: irvinecarealestate.org  Bruce Lamb
+Admin Organization: irvinecarealestate.org  Bruce Lamb
+Admin Street: PO Box 97083,  RICHMOND PO MAIN
+Admin City: Richmond
+Admin State/Province: BC
+Admin Postal Code: V6X8H3
+Admin Country: CA
+Admin Phone: +1.6046828059
+Admin Phone Ext:
+Admin Fax: +1.6046828059
+Admin Fax Ext:
+Admin Email: nve-9y4n3mna@namesproprivacy.ca
+Registry Tech ID: 112222796-CIRA
+Tech Name: irvinecarealestate.org  Bruce Lamb
+Tech Organization: irvinecarealestate.org  Bruce Lamb
+Tech Street: PO Box 97083,  RICHMOND PO MAIN
+Tech City: Richmond
+Tech State/Province: BC
+Tech Postal Code: V6X8H3
+Tech Country: CA
+Tech Phone: +1.6046828059
+Tech Phone Ext:
+Tech Fax: +1.6046828059
+Tech Fax Ext:
+Tech Email: nve-9y4n3mna@namesproprivacy.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: hadlee.ns.cloudflare.com
+Name Server: sean.ns.cloudflare.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-11T10:14:48Z 

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website appears to be a simple game portal. The design is functional but not particularly polished, and the quality of images may vary depending on the game. Typographical errors are possible, but not evident from the provided information.",
+  "Transparency": "The website is a game portal. Contact information may or may not be easily accessible. It's not possible to assess transparency with this limited information.",
+  "Impersonation": "N/A",
+  "Other": "N/A",
+  "verdict": 2
+}
+```

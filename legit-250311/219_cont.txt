@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting cookie consent and uses a standard cookie consent banner. It does not ask for personal information or payments.",
+  "Suspicious offer": "The website's primary function seems to be related to music, news, search, and other standard internet services. There are no suspicious offers of free products or services.",
+  "Format": "The website design is clean and professional. There are no obvious typos or low-quality images.",
+  "Transparency": "The website has links to privacy policies and cookie guidelines, indicating a degree of transparency.",
+  "Impersonation": "The website is not impersonating any organization or individuals, but a legitimate Yahoo property.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

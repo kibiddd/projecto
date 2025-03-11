@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website itself is not requesting personal information or payment, but rather showing a Cloudflare error. The error page does not request any sensitive information.",
+  "Suspicious offer": "N/A",
+  "Format": "The website itself (based on the image of the error) has a clean and standard Cloudflare error page format. The error message is clear.",
+  "Transparency": "N/A - the error page itself provides information about the issue and instructions. The original website might have transparency issues, but this is not assessable from the image.",
+  "Impersonation": "N/A. The error page does not pretend to create a false sense of legitimacy",
+  "Other": "The error is a connection time-out, indicating a problem with the server that the original website is hosted on. It's impossible to say if the original website is fraudulent with just this information.",
+  "verdict": 1
+}
+```

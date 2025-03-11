@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website itself does not seem to be requesting personal information or payment.",
+  "Suspicious offer": "The website doesn't seem to offer anything suspicious. It's a directory of bike shops.",
+  "Format": "The website seems to have a basic but functional design with a somewhat dated aesthetic. It's not inherently indicative of fraud.",
+  "Transparency": "The website provides a directory of bike shops. There's no direct contact information for the website owner, but this isn't necessarily suspicious for a directory.",
+  "Impersonation": "The website does not appear to be impersonating anyone.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

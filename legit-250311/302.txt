@@ -1,0 +1,17 @@
+   Domain Name: LIFUNGGROUP.COM
+   Registry Domain ID: 95521412_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.corporatedomains.com
+   Registrar URL: http://cscdbs.com
+   Updated Date: 2024-09-25T08:06:06Z
+   Creation Date: 2003-03-06T03:06:33Z
+   Registry Expiry Date: 2026-03-06T03:06:33Z
+   Registrar: CSC Corporate Domains, Inc.
+   Registrar IANA ID: 299
+   Registrar Abuse Contact Email: domainabuse@cscglobal.com
+   Registrar Abuse Contact Phone: 8887802723
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: DNS1.CSCDNS.NET
+   Name Server: DNS2.CSCDNS.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-11T10:14:04Z 

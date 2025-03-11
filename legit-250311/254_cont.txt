@@ -1,0 +1,3 @@
+```json
+{"Phishing": "The website is a doctor directory and does not seem to request any personal information or payment from the user in this context.", "Suspicious offer": "The website does not appear to be offering any products or services.", "Format": "The website has a professional design with high-quality images and no obvious typos.", "Transparency": "The website provides clear information about the doctor's location, affiliations, and contact details.", "Impersonation": "The website seems to be a legitimate doctor directory.", "Other": "N/A", "verdict": 1}
+```

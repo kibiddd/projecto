@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website is Wikipedia, which is generally well-designed and free of typos. The image crops provided are irrelevant in evaluating the website's format.",
+  "Transparency": "Wikipedia is a transparent and well-established website with clear contact and editorial information.",
+  "Impersonation": "N/A",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

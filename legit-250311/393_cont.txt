@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website has a very poor design and image quality. The content is likely illegal or of dubious nature.",
+  "Transparency": "N/A",
+  "Impersonation": "N/A",
+  "Other": "The website domain name and content suggest it's related to illegal content, which often involves malicious activity, copyright infringement, and potential malware distribution. This makes it highly suspect.",
+  "verdict": 9
+}
+```

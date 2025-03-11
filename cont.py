@@ -1,6 +1,8 @@
 from google import genai
 from google.genai import types
 from PIL import Image
+import urllib.request as urllib2
+import io
 from screenshot import screenshot
 
 def content_analysis(url, file_name):
@@ -11,7 +13,9 @@ def content_analysis(url, file_name):
     #file_name = "website-screenshot/" + domain + ".png"
     # try opening image file
     try:
-        image = Image.open(file_name)
+        fd = urllib2.urlopen(file_name)
+        image_file = io.BytesIO(fd.read())
+        image = Image.open(image_file)
     except Exception as e:
         print(f"Error opening image file: {e}")
         return "Error loading website screenshot."
@@ -48,6 +52,6 @@ url = """ + url
 
 
 if __name__ == "__main__":
-    result = content_analysis(url="https://www.paypal.com/ca/signin", file_name="website-screenshot/paypal.com.png")
+    result = content_analysis(url="https://www.yelp.ca/biz/journal-de-montreal-montreal", file_name="https://scraper.tech/screenshots/4080700079.png")
     if result:
         print("Result:", result)

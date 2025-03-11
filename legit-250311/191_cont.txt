@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting general information, but not directly asking for personal financial information. However, it is associated with a civic organization, so that might make it seem more legitimate.",
+  "Suspicious offer": "N/A",
+  "Format": "The website appears to have a functional, though somewhat dated, design. No immediate typos are visible.",
+  "Transparency": "The website seems to be a part of the official City of Saint Paul website, increasing its transparency and trust, it also includes contact details.",
+  "Impersonation": "It appears to be the official website, so there is little chance of impersonation",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

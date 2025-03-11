@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not appear to be requesting personal information or payment directly in the provided image.",
+  "Suspicious offer": "The website is offering deals, which inherently involve potentially good prices. However, the deals presented seem plausible and are not excessively unbelievable or offering free products/services.",
+  "Format": "The website has a clean and professional design with no immediately apparent typos or low-quality images in the screenshot.",
+  "Transparency": "The website's legitimacy cannot be assessed based only on the provided image. Contact information and further details are not present, and the site's transparency is questionable based only on this view.",
+  "Impersonation": "N/A",
+  "Other": "N/A",
+  "verdict": 3
+}
+```

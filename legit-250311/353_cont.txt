@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website itself is not requesting personal information or payment based on the provided error page. However, the error message indicates a file that was not found, which could be a step in a potential phishing scheme if the user was directed there from a malicious link. The main site doesn't request any information.",
+  "Suspicious offer": "The error page does not suggest any suspicious offers. It's just a standard 'file not found' error.",
+  "Format": "The error page is a standard server error page and has a functional design and a specific URL.",
+  "Transparency": "The website displays server information (Apache, port 80) and the server's domain (filetram.com).",
+  "Impersonation": "The error page doesn't show any signs of impersonation. The website is presenting a standard error message.",
+  "Other": "The primary concern is that the file was not found which indicates the file may not exist on the server which could lead to a bad experience. It's not definitively fraudulent, but the overall experience is poor and potentially untrustworthy because the file doesn't exist.",
+  "verdict": 3
+}
+```

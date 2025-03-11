@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website has a professional design, high-quality images, and appears well-maintained. There are no obvious typos.",
+  "Transparency": "The website is a legitimate news source (Detroit Free Press) and provides clear contact information and information about the organization.",
+  "Impersonation": "N/A",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

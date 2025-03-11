@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website, Dailymotion, is a video-sharing platform and is not requesting personal information or payment in this context.",
+  "Suspicious offer": "N/A",
+  "Format": "The website appears to have a standard design for a video-sharing platform and the content is clear and professional.",
+  "Transparency": "Dailymotion is a well-known website with readily available contact information.",
+  "Impersonation": "N/A",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

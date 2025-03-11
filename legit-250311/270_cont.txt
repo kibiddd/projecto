@@ -1,0 +1,3 @@
+```json
+{"Phishing": "The website is gathering personal information (names, addresses, phone numbers, etc.) but this is the intended function of the site, which is a people search engine. It does not directly ask for payment to view results, it is common for these sites to have a paywall for more detailed information.", "Suspicious offer": "N/A", "Format": "The website has a clean, professional design. No typos are visible.", "Transparency": "The website provides clear information about its purpose. Contact information is likely available within the website, although not immediately visible in this screenshot.", "Impersonation": "N/A", "Other": "N/A", "verdict": 2}
+```

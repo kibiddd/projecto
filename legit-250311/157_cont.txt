@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "Craigslist websites generally have a basic design, but this does not indicate fraud. No apparent issues.",
+  "Transparency": "Craigslist is a classifieds site where users interact directly. Contact info is provided by individual posters.",
+  "Impersonation": "N/A",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website likely doesn't directly request personal information or payment but the content it offers is often associated with malware and scams. The website may redirect to other suspicious sites.",
+  "Suspicious offer": "The website focuses on adult content which inherently presents risks of scams and misleading offers.",
+  "Format": "The website appears to have a basic design, and low quality images. Also, it has typos.",
+  "Transparency": "The website provides no clear contact information.",
+  "Impersonation": "N/A",
+  "Other": "The website's content domain is an indicator of untrustworthiness.",
+  "verdict": 9
+}
+```

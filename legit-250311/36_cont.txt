@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The provided image is a Cloudflare error page, not the target website, and therefore does not display any phishing attempts.",
+  "Suspicious offer": "The error page doesn't contain any offers.",
+  "Format": "The error page has a standard Cloudflare format, not indicative of fraud, the original website may have issues though.",
+  "Transparency": "The error page itself is transparent in explaining the connection issue.",
+  "Impersonation": "The Cloudflare error page is not impersonating anything. The actual website, if functioning, could be, but the error page doesn't indicate that.",
+  "Other": "The website is not loading, and the error message indicates a server-side problem.",
+  "verdict": 2
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website design appears basic, but not necessarily poor. There are no obvious typos.",
+  "Transparency": "The website's contact information is not assessed due to lack of visibility.",
+  "Impersonation": "N/A",
+  "Other": "The text 'Country not allowed' appearing at the top of the image is unusual and potentially indicates a technical issue or a geographic restriction, which could be a red flag.",
+  "verdict": 3
+}
+```

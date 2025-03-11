@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website asks for an email address for newsletter signup, which is not inherently phishing, but the lack of secure connection (HTTPS) is a minor concern.",
+  "Suspicious offer": "The website does not have any offers.",
+  "Format": "The website's design appears dated and has a blogspot.com domain, which is not a sign of fraud but may indicate a less professional operation. The image quality is acceptable. There are no noticeable typos.",
+  "Transparency": "The website provides some contact information and social media links, but its basic presentation suggests limited resources. It's difficult to assess its full transparency from the available data.",
+  "Impersonation": "N/A",
+  "Other": "The site runs on a blogspot.com domain, and a lack of HTTPS. It seems to be a simple blog.",
+  "verdict": 2
+}
+```

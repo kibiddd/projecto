@@ -1,0 +1,22 @@
+   Domain Name: REDFLAGDEALS.COM
+   Registry Domain ID: 38449770_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.uniregistrar.com
+   Registrar URL: http://www.uniregistry.com
+   Updated Date: 2024-10-25T17:02:02Z
+   Creation Date: 2000-10-25T02:33:02Z
+   Registry Expiry Date: 2025-10-25T02:33:02Z
+   Registrar: GoDaddy Online Services Cayman Islands Ltd.
+   Registrar IANA ID: 1659
+   Registrar Abuse Contact Email: abuse@uniregistry.com
+   Registrar Abuse Contact Phone: +1 4805058800
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS-CLOUD-C1.GOOGLEDOMAINS.COM
+   Name Server: NS-CLOUD-C2.GOOGLEDOMAINS.COM
+   Name Server: NS-CLOUD-C3.GOOGLEDOMAINS.COM
+   Name Server: NS-CLOUD-C4.GOOGLEDOMAINS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-11T10:14:50Z 

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is a forum for genealogical research and does not appear to be requesting any personal information or payment, which would raise a red flag for phishing.",
+  "Suspicious offer": "The website is a free resource for genealogical research. There are no offers of products or services that seem too good to be true.",
+  "Format": "The website's design is basic but functional, with a clean layout and the use of a standard font. There are no obvious typos or low-quality images that would suggest a fraudulent site.",
+  "Transparency": "The website is a well-known genealogy forum, so it is likely to be a trustworthy resource for information.",
+  "Impersonation": "There is no indication that the website is attempting to impersonate any other entity or create a false sense of legitimacy.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

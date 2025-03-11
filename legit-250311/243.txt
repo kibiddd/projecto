@@ -1,0 +1,17 @@
+   Domain Name: VECTOR-LOGOS.COM
+   Registry Domain ID: 1971799670_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.web.com
+   Registrar URL: http://www.networksolutions.com
+   Updated Date: 2024-10-23T00:20:24Z
+   Creation Date: 2015-10-25T18:28:26Z
+   Registry Expiry Date: 2025-10-25T18:28:26Z
+   Registrar: Domainhawks.net LLC
+   Registrar IANA ID: 1178
+   Registrar Abuse Contact Email: abuse@web.com
+   Registrar Abuse Contact Phone: +1.8003337680
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.DNSNUTS.COM
+   Name Server: NS2.DNSNUTS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-11T10:13:49Z 

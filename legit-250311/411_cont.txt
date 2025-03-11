@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website asks to login and offers a service that could involve financial transactions, which could be a target for phishing.",
+  "Suspicious offer": "The website claims to offer a platform for winning with low stakes, which might be a suspicious offer.",
+  "Format": "The design of the website appears to be a legitimate e-commerce platform.",
+  "Transparency": "N/A",
+  "Impersonation": "The website leverages the reputation of Lazada, which is an e-commerce platform, to promote their service. This could be impersonation to some degree.",
+  "Other": "The service offered seems related to online gambling. As gambling has potential risks and uncertainties, so one must exercise caution.",
+  "verdict": 6
+}
+```

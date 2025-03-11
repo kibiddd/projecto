@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is a real estate platform and does not appear to be directly requesting sensitive personal information or payments upfront for browsing property listings.",
+  "Suspicious offer": "The website doesn't appear to offer anything that is too good to be true. It lists properties at market prices. ",
+  "Format": "The website appears to be professionally designed and is easy to navigate. There are no apparent typos or low-quality images.",
+  "Transparency": "The website provides clear information and contact information, which is common for established real estate platforms.",
+  "Impersonation": "The website is not impersonating any other platform, it is the official primelocation.com website.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

@@ -2,6 +2,7 @@ import http.client
 import re
 import json
 import requests
+from dataset import load_dataset
 
 def check_link_status(url):
     headers = {
@@ -46,5 +47,18 @@ def whois_info(url):
     raw_text = get_raw_text(data)
     return raw_text
 
+def get_whois(dataset_path, save_path):
+    dataset = load_dataset(dataset_path)
+    dataset = dataset[:500]
+    for idx, url in enumerate(dataset):
+        print(f"Screenshotting URL {idx}/{len(dataset)}: {url}")
+        raw = whois_info(url)
+        # save raw to txt file
+        filename = save_path + str(idx) + ".txt"
+
+        # Open the file in text mode ("w") since raw is a string
+        with open(filename, "w", encoding="utf-8") as file:
+            file.write(raw)
+
 if __name__ == "__main__":
-    whois_info("google.ca")
+    get_whois('random_legit.txt', 'legit-250311/')

@@ -1,0 +1,17 @@
+   Domain Name: CONSTRUCTIONSCOPE.NET
+   Registry Domain ID: 1649535458_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.dynadot.com
+   Registrar URL: http://www.dynadot.com
+   Updated Date: 2024-03-30T09:15:39Z
+   Creation Date: 2011-04-06T18:03:37Z
+   Registry Expiry Date: 2025-04-06T18:03:37Z
+   Registrar: Dynadot Inc
+   Registrar IANA ID: 472
+   Registrar Abuse Contact Email: abuse@dynadot.com
+   Registrar Abuse Contact Phone: +16502620100
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: AMANDA.NS.CLOUDFLARE.COM
+   Name Server: JERRY.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-11T10:14:04Z 

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website is LinkedIn profile. The design is appropriate.",
+  "Transparency": "The website provides a LinkedIn profile, which can be considered trustworthy.",
+  "Impersonation": "N/A",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

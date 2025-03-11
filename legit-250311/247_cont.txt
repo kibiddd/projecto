@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website requests an email for a mailing list, which is a standard practice and not necessarily phishing.",
+  "Suspicious offer": "The offer of a free ebook is not inherently suspicious for a bookseller, especially when bundled with a mailing list signup.",
+  "Format": "The website appears well-designed with professional images and no obvious typos.",
+  "Transparency": "The website is for Simon & Schuster, a well-known and reputable publisher.",
+  "Impersonation": "The website is the official site for Simon & Schuster.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

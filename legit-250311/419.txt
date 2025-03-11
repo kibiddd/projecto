@@ -1,0 +1,19 @@
+   Domain Name: CALGARYBROADCASTERS.COM
+   Registry Domain ID: 1018781711_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namespro.ca
+   Registrar URL: http://www.namespro.ca
+   Updated Date: 2025-02-19T23:12:20Z
+   Creation Date: 2007-06-09T17:53:09Z
+   Registry Expiry Date: 2025-06-09T17:53:09Z
+   Registrar: Namespro Solutions Inc.
+   Registrar IANA ID: 1895
+   Registrar Abuse Contact Email: abuse@namespro.ca
+   Registrar Abuse Contact Phone: 16046818007
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.SMOKYHOSTS.NET
+   Name Server: NS2.SMOKYHOSTS.NET
+   Name Server: NS3.SMOKYHOSTS.NET
+   Name Server: NS4.SMOKYHOSTS.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-11T10:14:50Z 

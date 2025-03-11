@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website itself does not appear to be directly requesting personal information or payment at the current page, but a \"File Not Found\" error suggests a potential issue with the URL or page structure. This, by itself, isn't indicative of phishing.",
+  "Suspicious offer": "N/A",
+  "Format": "The website has a professional layout and design, though the current page shows a 'File Not Found' error, which could be a sign of a technical issue rather than malicious intent. No typos were noticed.",
+  "Transparency": "The website provides contact information, including links to terms of use, privacy policy, etc. at the bottom of the page, indicating some degree of transparency.",
+  "Impersonation": "N/A",
+  "Other": "The 'File Not Found' error for a specified URL is not necessarily suspicious by itself, but a link may be outdated or broken. It could also be due to server errors. The fact that the URL leads to an event list might suggest an attempt to access a specific event that no longer exists or is currently unavailable. However, this alone is not enough to suspect fraud. The website seems to be the legitimate BikeReg.com.",
+  "verdict": 1
+}
+```

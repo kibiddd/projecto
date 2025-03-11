@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website itself does not appear to be directly requesting personal information or payments.",
+  "Suspicious offer": "The website's content focuses on news and information and doesn't offer any products or services, so there are no suspicious offers.",
+  "Format": "The website's design appears professional and the image quality is reasonable. There are no obvious typos or formatting issues visible in the provided screenshot.",
+  "Transparency": "The screenshot shows basic information like a contact information for the website.",
+  "Impersonation": "The website's nature as a news source lends itself to providing information, not necessarily to impersonation.",
+  "Other": "The error message (Page Not Found) may indicate an issue with the website, but not necessarily a fraudulent one.",
+  "verdict": 1
+}
+```

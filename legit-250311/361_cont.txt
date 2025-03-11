@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website itself does not request personal information or payment directly on this 404 error page. The general site, as presented, is not actively phishing.",
+  "Suspicious offer": "The page is an error page, not a sales page, and thus does not make any offer, suspicious or otherwise.",
+  "Format": "The page is an error page, but the design quality is generally consistent with a professional website.",
+  "Transparency": "The website provides contact information and a clear mission statement and is transparent about its purpose.",
+  "Impersonation": "The website does not appear to be impersonating another entity.",
+  "Other": "The 404 error indicates that there might be an issue with a specific page, but it does not indicate a wider problem with the website's authenticity.",
+  "verdict": 1
+}
+```

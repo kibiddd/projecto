@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website appears to be a legitimate site for basketball camps and does not seem to request personal information or payment directly on the displayed page.",
+  "Suspicious offer": "The website presents information about basketball camps, and there are no obvious suspicious offers.",
+  "Format": "The website format appears standard with no obvious design flaws or typos.",
+  "Transparency": "The website includes links to contact the coach and provides basic information about the camp, suggesting a level of transparency.",
+  "Impersonation": "There is no evidence of impersonation. It seems to be a dedicated site for the basketball camps.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

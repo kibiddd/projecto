@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A - The website's content does not appear to solicit personal information or payment directly.",
+  "Suspicious offer": "N/A - The website does not seem to offer any specific product or services which could be considered suspiciously good or free.",
+  "Format": "N/A - Without content, it is impossible to determine the design quality or if there are any typos",
+  "Transparency": "N/A - It's impossible to assess contact information with the blank page.",
+  "Impersonation": "N/A - Based on the blank screen, it's impossible to determine if any impersonation of a legitimate website has occurred.",
+  "Other": "N/A - Due to the lack of content, I can not assess any other suspicious factors.",
+  "verdict": 1
+}
+```

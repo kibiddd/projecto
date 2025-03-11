@@ -1,0 +1,3 @@
+```json
+{"Phishing": "The website itself is not requesting personal information or payment.", "Suspicious offer": "The website is not making any offers.", "Format": "The website's error page appears functional with a clear layout and readable text. The format is professional.", "Transparency": "The website does not provide clear contact information.", "Impersonation": "The website presents the standard Tripod error page, so there is no impersonation.", "Other": "The website is encountering a 404 error, meaning the specific page requested is not found on the server. It does not suggest malicious activity.", "verdict": 1}
+```

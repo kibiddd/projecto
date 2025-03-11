@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not appear to be asking for personal information or payment directly in the provided context. This is a map website.",
+  "Suspicious offer": "The website does not seem to have suspicious offers.",
+  "Format": "The website has a clear and functional design, although the image shows a white page, which suggests a map.",
+  "Transparency": "The website seems transparent as it is a map website, so no contact details are needed.",
+  "Impersonation": "The website doesn't seem to be impersonating any other entity.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

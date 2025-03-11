@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is a medical dictionary and does not request any personal information or payments.",
+  "Suspicious offer": "The website's purpose is to provide information, not to offer any products or services. There is no suspicious offer.",
+  "Format": "The website appears to have a professional design and the images are of acceptable quality.",
+  "Transparency": "The website is part of thefreedictionary.com, a known provider of online dictionaries. Contact information is provided on the main page.",
+  "Impersonation": "N/A",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

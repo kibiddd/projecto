@@ -1,0 +1,21 @@
+   Domain Name: REALESTATESUZIE.COM
+   Registry Domain ID: 2923819826_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.tucows.com
+   Registrar URL: http://www.tucows.com
+   Updated Date: 2025-03-10T23:34:14Z
+   Creation Date: 2024-10-09T08:05:36Z
+   Registry Expiry Date: 2025-10-09T08:05:36Z
+   Registrar: Tucows Domains Inc.
+   Registrar IANA ID: 69
+   Registrar Abuse Contact Email: domainabuse@tucows.com
+   Registrar Abuse Contact Phone: +1.4165350123
+   Domain Status: clientHold https://icann.org/epp#clientHold
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS-CLOUD-B1.GOOGLEDOMAINS.COM
+   Name Server: NS-CLOUD-B2.GOOGLEDOMAINS.COM
+   Name Server: NS-CLOUD-B3.GOOGLEDOMAINS.COM
+   Name Server: NS-CLOUD-B4.GOOGLEDOMAINS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-11T10:14:20Z 

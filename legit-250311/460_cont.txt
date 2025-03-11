@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not appear to request personal information or payment directly.",
+  "Suspicious offer": "N/A",
+  "Format": "The website's design and content appear basic, but there are no obvious typos or low-quality images (as the images shown in the crops are blank)",
+  "Transparency": "N/A, the website's content is sparse. It's unclear if contact information or business details are readily available from the current view.",
+  "Impersonation": "N/A",
+  "Other": "The lack of substantial content raises suspicion. Why would there only be blank images?",
+  "verdict": 6
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "The website offers a free song download, which could be a hook, but is common for music blogs.",
+  "Format": "The website has a functional, though dated, design. There are no obvious typos.",
+  "Transparency": "The website provides a name and contact information, which appears to be a personal blog. Not a company.",
+  "Impersonation": "N/A",
+  "Other": "The website appears to be an active blog and the content is consistent with the description.",
+  "verdict": 2
+}
+```

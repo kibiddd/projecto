@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website itself does not appear to request any personal information or payment. It displays golf statistics.",
+  "Suspicious offer": "There is no indication of any suspicious offers, such as too-good-to-be-true deals or free products/services.",
+  "Format": "The website has a basic and outdated design. The images are low quality and the format is not what would be expected of a modern site. It is not possible to determine if there is a typo.",
+  "Transparency": "The website does not have any contact information or about section.",
+  "Impersonation": "N/A",
+  "Other": "The website provides golf statistics, which in itself does not raise red flags. The design is however outdated.",
+  "verdict": 2
+}
+```

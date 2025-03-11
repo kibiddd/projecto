@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website has a functional but dated design. There are no obvious typos or low-quality images, but the overall aesthetic is not modern.",
+  "Transparency": "The website provides basic contact information (email address and social media links).",
+  "Impersonation": "N/A",
+  "Other": "The site is an online literary magazine/blog with a focus on promoting new writers. It does not exhibit many factors commonly associated with fraudulent websites.",
+  "verdict": 2
+}
+```

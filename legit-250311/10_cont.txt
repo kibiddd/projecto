@@ -1,0 +1,3 @@
+```json
+{"Phishing": "The website does not request personal information or payment.", "Suspicious offer": "The website is a review platform, and does not offer any products or services.", "Format": "The website appears to be a standard review platform with a functional design. No obvious typos are present in the image.", "Transparency": "The website provides clear information about its purpose (a review platform) and has a generic sign-up and login options.", "Impersonation": "The website is not impersonating any other legitimate entity; it seems to be a standalone platform.", "Other": "The website appears to be a legitimate platform for community reviews.", "verdict": 1}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is a Facebook page, not a website asking for personal information or payment.",
+  "Suspicious offer": "N/A",
+  "Format": "The design appears standard for a Facebook page.",
+  "Transparency": "The contact information and other details of the page are available on Facebook.",
+  "Impersonation": "N/A",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

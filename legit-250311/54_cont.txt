@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The URL combines different domain names, which is not common for a legitimate website. The URL structure seems odd, using 'sportsillustrated.cnn.com' combined with a path referring to a photo gallery which increases its suspiciousness.",
+  "Transparency": "N/A",
+  "Impersonation": "The URL tries to impersonate two different brands: 'Sports Illustrated' and 'CNN'. This is a common tactic in phishing attempts.",
+  "Other": "The unusual combination of domains and the path that follows it strongly suggests the website aims to mislead users.",
+  "verdict": 8
+}
+```

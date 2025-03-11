@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is not requesting personal information or payment.",
+  "Suspicious offer": "The website is not offering any product or service.",
+  "Format": "The website shows an error message. It has a standard format. No typo.",
+  "Transparency": "The website indicates it is hosted by Brown University, providing some level of transparency.",
+  "Impersonation": "N/A",
+  "Other": "The 'Not Found' error indicates a broken link, which does not immediately indicate a fraudulent website. It suggests a problem with the content.",
+  "verdict": 1
+}
+```

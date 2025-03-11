@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website's primary purpose isn't immediately clear from the provided image, so it's hard to determine if it requests personal information or payment.",
+  "Suspicious offer": "Based on the provided image, it's impossible to determine if the website is offering something too good to be true. ",
+  "Format": "The website's visual appearance is unknown from the image.",
+  "Transparency": "The website's contact information is unknown from the image.",
+  "Impersonation": "It's unclear from the image whether the website is pretending to be legitimate.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

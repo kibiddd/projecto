@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website displays weather information and news but does not request any personal information or payment.",
+  "Suspicious offer": "N/A",
+  "Format": "The website has a clean and professional design with high-quality images. There are no obvious typos.",
+  "Transparency": "The website provides clear information about its purpose and content.",
+  "Impersonation": "N/A",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

@@ -1,0 +1,19 @@
+   Domain Name: SOCCERWAY.COM
+   Registry Domain ID: 10378289_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.regtons.com
+   Registrar URL: http://regtons.com
+   Updated Date: 2025-03-04T09:17:02Z
+   Creation Date: 1999-09-18T03:18:24Z
+   Registry Expiry Date: 2026-09-18T03:18:24Z
+   Registrar: Gransy, s.r.o.
+   Registrar IANA ID: 1505
+   Registrar Abuse Contact Email: abuse@regtons.com
+   Registrar Abuse Contact Phone: +420.734 463 373
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS-1211.AWSDNS-23.ORG
+   Name Server: NS-1841.AWSDNS-38.CO.UK
+   Name Server: NS-223.AWSDNS-27.COM
+   Name Server: NS-960.AWSDNS-56.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-11T10:14:36Z 

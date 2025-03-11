@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website itself does not request any personal information or payment. The message 'The service is not available. Please try again later' is the only content.",
+  "Suspicious offer": "There is no offer presented.",
+  "Format": "The website displays a simple message indicating a service unavailability. It's unclear if this is due to poor design or if the content usually has more to show. No obvious typos.",
+  "Transparency": "The website doesn't display contact information, but the URL suggests it is a dictionary. ",
+  "Impersonation": "N/A",
+  "Other": "The fact that the service is unavailable is not a direct indicator of fraud, but it does make assessing its legitimacy difficult. Could be a legitimate site experiencing temporary issues, or a defunct project.",
+  "verdict": 2
+}
+```

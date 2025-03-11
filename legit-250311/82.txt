@@ -1,0 +1,21 @@
+   Domain Name: NEWAGEMUSICS.COM
+   Registry Domain ID: 253277118_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.squarespace.domains
+   Registrar URL: http://domains2.squarespace.com
+   Updated Date: 2024-11-12T15:54:11Z
+   Creation Date: 2005-11-11T21:23:15Z
+   Registry Expiry Date: 2025-11-11T21:23:15Z
+   Registrar: Squarespace Domains II LLC
+   Registrar IANA ID: 895
+   Registrar Abuse Contact Email: abuse-complaints@squarespace.com
+   Registrar Abuse Contact Phone: +1.6466935324
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-CLOUD-B1.GOOGLEDOMAINS.COM
+   Name Server: NS-CLOUD-B2.GOOGLEDOMAINS.COM
+   Name Server: NS-CLOUD-B3.GOOGLEDOMAINS.COM
+   Name Server: NS-CLOUD-B4.GOOGLEDOMAINS.COM
+   DNSSEC: signedDelegation
+   DNSSEC DS Data: 16232 8 2 6D2ED0FEECA5A80BF09B6C1B82326B15F512517B9E3B12E15AF33412D2ACCA9F
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-11T10:12:51Z 

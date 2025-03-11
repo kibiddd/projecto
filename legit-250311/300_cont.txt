@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is a Craigslist listing for a used car. It doesn't directly ask for personal information or payment on the listing itself, but buyers and sellers often exchange information privately, so there is a small risk if the seller turns out to be fraudulent.",
+  "Suspicious offer": "The offer itself may or may not be suspicious; this is a normal classified ad for a used car sale.",
+  "Format": "The format is typical for Craigslist listings. The website itself is functional.",
+  "Transparency": "Craigslist listings typically don't require extensive information to be publicly visible, increasing risk. Information is exchanged in private to initiate contact.  The listing seems fairly standard for a used car.",
+  "Impersonation": "N/A",
+  "Other": "The risk here is with the seller. It is important to check the car and verify the seller, before offering any money or giving any personal information.",
+  "verdict": 3
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not request personal information or payment in the provided context.",
+  "Suspicious offer": "The website does not offer any suspicious products or services.",
+  "Format": "The website has a professional design and high-quality images. There are no obvious typos.",
+  "Transparency": "The website provides contact information (More at IMDbPro, Contact info, Agent info) and seems transparent.",
+  "Impersonation": "The website is IMDb, a well-known and legitimate source for information about movies and celebrities. There is no indication of impersonation.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "N/A",
+  "Transparency": "N/A",
+  "Impersonation": "N/A",
+  "Other": "The image is completely blank, which is highly unusual for a legitimate website. This suggests a problem with the site's rendering or that there's a deliberate attempt to obscure the content.",
+  "verdict": 8
+}
+```

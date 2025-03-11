@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website requests email address/phone number and password, which is standard for Facebook login. However, the initial \"You must log in to continue\" message can be a tactic to lure users into entering credentials.",
+  "Suspicious offer": "N/A",
+  "Format": "The website design is consistent with Facebook's usual login page, but the double warning 'You must log in to continue' might seem suspicious.",
+  "Transparency": "The website's footer contains links to Facebook's legal information, but the login page itself doesn't offer additional contact information.",
+  "Impersonation": "The site is attempting to impersonate the Facebook login page. The presence of the user's name in the URL (justine.dufour) could be a targeted phishing attempt. If the user did not navigate to this page using a trusted Facebook link, then it can be a sophisticated phishing campaign. The image looks legitimate, but the context might be a malicious intent.",
+  "Other": "The unusual repeated warning message at the top could be a red flag. The URL associated to a specific Facebook page (instead of facebook.com) suggests that the page is designed for specific user.",
+  "verdict": 7
+}
+```

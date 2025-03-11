@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website appears to be a basic information repository. The design quality is average, and there don't appear to be any typos.",
+  "Transparency": "The website provides information in the form of articles and has links to other resources. Contact information is not readily available. It is not trying to hide its identity, but it also is not transparent about its management.",
+  "Impersonation": "N/A",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not request personal information or payments.",
+  "Suspicious offer": "The website does not offer any product or service.",
+  "Format": "The website design and layout appear functional and professional.",
+  "Transparency": "The website provides clear contact information and is part of Cornell University.",
+  "Impersonation": "The website appears legitimate and is the official arXiv platform.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

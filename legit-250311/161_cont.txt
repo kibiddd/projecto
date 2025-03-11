@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website has a very outdated design, which could be a red flag, but it is more likely an old website than a fraudulent one.",
+  "Transparency": "The website is part of Rootsweb, which is a genealogy website, the owner is Mary",
+  "Impersonation": "N/A",
+  "Other": "N/A",
+  "verdict": 2
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting consent to use personal data for advertising and content measurement. This isn't inherently phishing, but it does involve data collection, which could be exploited if the site is compromised. It is asking for consent to use personal data, which can be used for profiling and tracking purposes, potentially used for malicious purposes.",
+  "Suspicious offer": "N/A",
+  "Format": "The website's design appears professional, and there are no obvious typos. However, the error page could indicate an issue with the site's functionality.",
+  "Transparency": "The website provides a privacy policy and terms of service, which indicates a level of transparency.",
+  "Impersonation": "N/A",
+  "Other": "The website's error message (404 Page Not Found) indicates the content the user is looking for is not available, this is not an indicator of fraudulent activity. It appears this error message is due to something else, like a server-side issue, a bad link.",
+  "verdict": 3
+}
+```

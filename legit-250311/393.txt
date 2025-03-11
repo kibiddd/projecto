@@ -1,0 +1,17 @@
+   Domain Name: TORRENTBIT.NET
+   Registry Domain ID: 2661879027_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.namebright.com
+   Registrar URL: http://www.NameBright.com
+   Updated Date: 2024-12-12T15:49:46Z
+   Creation Date: 2021-12-15T19:14:01Z
+   Registry Expiry Date: 2025-12-15T19:14:01Z
+   Registrar: DropCatch.com 962 LLC
+   Registrar IANA ID: 2721
+   Registrar Abuse Contact Email: support@namebright.com
+   Registrar Abuse Contact Phone: 17204960020
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: CONTACT-US-AT.EDOMS.BIZ
+   Name Server: DOMAIN-MAY-BE-FOR-SALE-AT.EDOMS.BIZ
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-11T10:14:36Z 

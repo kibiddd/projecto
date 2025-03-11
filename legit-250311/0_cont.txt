@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting information, but it seems to be related to genealogical research and not requesting payment or sensitive personal information in a phishing manner.",
+  "Suspicious offer": "N/A",
+  "Format": "The website uses a very old-style CGI interface with a plain design. Typos are not directly visible within the image.",
+  "Transparency": "The website likely belongs to a genealogy site (Ancestry) and seems to provide information related to family trees and historical records.",
+  "Impersonation": "N/A",
+  "Other": "The website design and structure seems to be very basic and dated, which may raise some suspicion.",
+  "verdict": 3
+}
+```

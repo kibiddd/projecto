@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website itself, which is reporting a 404 error, is not requesting personal information or payment. However, since the link provided led to a 404 error, it's impossible to assess potential phishing on the intended page.",
+  "Suspicious offer": "N/A",
+  "Format": "The 404 error page displayed has a standard and professional design. The presence of a 404 error does not inherently indicate a poor format. Since the page could not be located, an assessment of the original article's format is impossible.",
+  "Transparency": "The website displays the Tampa Bay Times logo and the contact information in the footer of the error page, suggesting a legitimate news organization.",
+  "Impersonation": "N/A",
+  "Other": "The 404 error indicates that the requested content is not available, which isn't necessarily a suspicious factor. However, it is important to ensure you are on a trusted domain.",
+  "verdict": 1
+}
+```

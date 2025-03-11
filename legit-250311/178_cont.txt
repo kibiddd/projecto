@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website has a clean design, but the content seems more like a blog post or advertisement, and it is unclear what the website is about. There is no apparent product or service being offered.",
+  "Transparency": "The website has the URL that it is for sale, therefore there is no information about the website.",
+  "Impersonation": "N/A",
+  "Other": "The website is extremely simple and seems incomplete or abandoned.",
+  "verdict": 3
+}
+```

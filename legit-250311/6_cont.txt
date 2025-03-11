@@ -1,0 +1,3 @@
+```json
+{"Phishing": "The website states that the site is currently private and to log in to wordpress.com to request access. It does not ask for any personal information on this page itself, but requests a login, which is typical for wordpress sites to access private content, so this is not suspicious.", "Suspicious offer": "N/A", "Format": "The website has a basic wordpress design, which is expected for wordpress sites. The typography and layout are clean.", "Transparency": "N/A", "Impersonation": "N/A", "Other": "The site is a standard wordpress.com site, and while the content is private, there is nothing inherently suspicious about this.", "verdict": 1}
+```

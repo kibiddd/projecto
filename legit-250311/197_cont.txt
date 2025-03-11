@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website's design is modern and professional, with no apparent typos or low-quality images.",
+  "Transparency": "The website provides contact information (at the footer, there is a copyright notice and a Fandom company affiliation), which suggests trustworthiness.",
+  "Impersonation": "N/A",
+  "Other": "The URL is a standard TV Guide page, and the error message is a common 404 or not found page.",
+  "verdict": 1
+}
+```

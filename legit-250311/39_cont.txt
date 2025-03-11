@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting payment for the purchase of a book, which is expected for an e-commerce platform.",
+  "Suspicious offer": "The price of the book seems reasonable and there are options for used copies, so there isn't a suspicious offer.",
+  "Format": "The website has a professional design, high-quality images, and no obvious typos.",
+  "Transparency": "The website provides clear contact information and details about the seller, Amazon.ca.",
+  "Impersonation": "The website is the official Amazon.ca website. There is no impersonation.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not appear to be requesting personal information or payment.",
+  "Suspicious offer": "The website does not appear to be offering anything suspicious.",
+  "Format": "The website appears to be a basic, functional page with a plain design. There may be some minor formatting issues.",
+  "Transparency": "The website appears to be a directory or list of genealogical information.",
+  "Impersonation": "The website is a forum for genealogical research on the Poirier family, it's unlikely to be impersonating anything. ",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not appear to be directly asking for personal information or payments on the homepage.",
+  "Suspicious offer": "There are no obviously suspicious offers, such as promises of free services or too-good-to-be-true deals on the homepage.",
+  "Format": "The website has a professional design and appears to be of high quality. There are no apparent typos.",
+  "Transparency": "The website provides the contact information for the university.",
+  "Impersonation": "The website uses the official logo and branding of The City University of New York, which would be expected of the university.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

@@ -1,0 +1,18 @@
+   Domain Name: CHOPINANDMYSAUCEPAN.COM
+   Registry Domain ID: 1649786522_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.promopeople.com
+   Registrar URL: http://www.promopeople.com
+   Updated Date: 2024-03-31T12:17:32Z
+   Creation Date: 2011-04-07T23:54:31Z
+   Registry Expiry Date: 2025-04-07T23:54:31Z
+   Registrar: Promo People, Inc.
+   Registrar IANA ID: 1591
+   Registrar Abuse Contact Email: abuse@promopeople.com
+   Registrar Abuse Contact Phone: 9053153466
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS1.HOSTPAPA.COM
+   Name Server: NS2.HOSTPAPA.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-11T10:14:50Z 

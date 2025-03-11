@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is not requesting personal information or payment, as it's just a block page.",
+  "Suspicious offer": "N/A",
+  "Format": "The format appears standard for a block page, though it's inaccessible, so it's difficult to gauge the design quality of the original site.",
+  "Transparency": "The page provides some basic information, but the blocked status limits the evaluation of the original website's transparency.",
+  "Impersonation": "N/A",
+  "Other": "The website is being blocked, indicating a potential security issue, which could be due to various reasons, including malicious activity.",
+  "verdict": 3
+}
+```

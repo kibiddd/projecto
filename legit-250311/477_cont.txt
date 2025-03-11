@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not appear to be directly requesting personal information or payment. The content is about a media company and its services.",
+  "Suspicious offer": "The website does not seem to be offering suspicious deals or free products/services.",
+  "Format": "The website's design is simple and functional, but the quality appears adequate for its purpose, though the provided screenshot is just a white image.",
+  "Transparency": "The website appears to be a legitimate media-related site with provided contact information.",
+  "Impersonation": "There is no obvious indication of impersonation or attempts to create a false sense of legitimacy.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

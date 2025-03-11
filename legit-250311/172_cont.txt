@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website displays a standard 404 error page with a clean design. The page includes a clear message and a call to action.",
+  "Transparency": "The website does not provide contact information directly on this specific 404 page, but it is a well-known company, and the navigation bar suggests it's legitimate.",
+  "Impersonation": "N/A",
+  "Other": "The page displays a standard 404 error message, indicating that the specific page requested by the user was not found.",
+  "verdict": 1
+}
+```

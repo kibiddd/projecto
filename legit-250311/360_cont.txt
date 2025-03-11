@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is not asking for personal information or payment, but it's a local business listing, so it doesn't have these features to begin with.",
+  "Suspicious offer": "The listing itself doesn't offer anything suspicious, it is simply a supermarket.",
+  "Format": "The website's format is determined by Yahoo's local business listing service, not the supermarket itself. The design quality is acceptable.",
+  "Transparency": "The website provides basic contact information, address, and business details which is expected for a local business directory listing.",
+  "Impersonation": "It's a listing on Yahoo's local business service, so there is no indication of impersonation.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

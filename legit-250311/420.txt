@@ -1,0 +1,18 @@
+   Domain Name: ABSOLUTEASTRONOMY.COM
+   Registry Domain ID: 34567305_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.domain.com
+   Registrar URL: http://www.domain.com
+   Updated Date: 2024-08-24T08:35:13Z
+   Creation Date: 2000-09-13T18:05:41Z
+   Registry Expiry Date: 2025-09-13T18:05:41Z
+   Registrar: Domain.com, LLC
+   Registrar IANA ID: 886
+   Registrar Abuse Contact Email: compliance@domain-inc.net
+   Registrar Abuse Contact Phone: 602-226-2389
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS1.DOTSTER.COM
+   Name Server: NS2.DOTSTER.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-11T10:14:50Z 

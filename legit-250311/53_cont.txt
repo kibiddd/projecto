@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website appears to be a non-interactive page. It doesn't directly request personal information or payment.",
+  "Suspicious offer": "The content of the website is unclear based on the provided context, so it's impossible to assess for suspicious offers.",
+  "Format": "The webpage is simple and lacks any visual content. It's hard to say whether the design quality is low.",
+  "Transparency": "There is not any contact information visible on the current page.",
+  "Impersonation": "The website uses the name \"macdonaldfamily\", but there is no clear context to assess if this domain pretends to be legitimate. Additional information is needed to determine this.",
+  "Other": "The simple, contentless nature of this page is concerning, but without more information, it is difficult to assess the risk.",
+  "verdict": 3
+}
+```

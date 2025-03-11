@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is a patent search database. It does not appear to request personal information or payment directly.",
+  "Suspicious offer": "The website provides information related to patents and does not offer any suspicious promotions.",
+  "Format": "The website seems to be a legitimate database with clear information and appears to be well formatted.",
+  "Transparency": "The website provides information regarding patents, which does not require any contact to the user.",
+  "Impersonation": "The website is a patent database with no clear indication of impersonation.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

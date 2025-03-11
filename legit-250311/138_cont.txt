@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website appears to be a timeline, but the 'Country not allowed' message suggests a possible technical issue or content restriction that may not be typical of a legitimate website.",
+  "Transparency": "N/A",
+  "Impersonation": "N/A",
+  "Other": "The simple textual content and the error message raise concerns about the website's legitimacy, potentially pointing towards a temporary issue or a less-than-professional setup.",
+  "verdict": 4
+}
+```

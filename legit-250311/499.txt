@@ -1,0 +1,17 @@
+   Domain Name: METROLYRICS.COM
+   Registry Domain ID: 93531883_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.brandsight.com
+   Registrar URL: http://gcd.com
+   Updated Date: 2024-11-29T23:01:23Z
+   Creation Date: 2002-12-30T21:42:36Z
+   Registry Expiry Date: 2025-12-30T21:42:36Z
+   Registrar: GoDaddy Corporate Domains, LLC
+   Registrar IANA ID: 3786
+   Registrar Abuse Contact Email: abuse@gcd.com
+   Registrar Abuse Contact Phone: +1.5189669187
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS11.GCD-DNS.COM
+   Name Server: NS12.GCD-DNS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-11T10:15:05Z 

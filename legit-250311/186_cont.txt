@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not appear to be directly requesting personal information or payment based on the URL and available content.",
+  "Suspicious offer": "Based on the URL and available content, the website does not seem to be offering any suspicious products or services.",
+  "Format": "The website appears to be a sports archive or news article and the format looks standard for the time period, no poor design.",
+  "Transparency": "The website URL suggests it is related to Southern Illinois University (SIU) Salukis athletics, which provides an element of transparency. Contact details may be available on the main SIU website, although not directly visible from the URL.",
+  "Impersonation": "This does not appear to be impersonating anything. It is a page on an official university website about sports.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

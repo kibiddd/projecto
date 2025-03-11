@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not appear to be requesting any personal information or payment.",
+  "Suspicious offer": "The website does not seem to be offering any products or services.",
+  "Format": "The website has a generally acceptable format, but the design could be improved, and the layout is cluttered.",
+  "Transparency": "The website doesn't readily provide contact information, but it's a wiki, so the community manages the content.",
+  "Impersonation": "The website is a fandom wiki, so the website is not trying to create a false sense of legitimacy.",
+  "Other": "N/A",
+  "verdict": 2
+}
+```

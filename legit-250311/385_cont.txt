@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website is on Facebook which has a standard format.",
+  "Transparency": "Facebook pages typically display some form of contact information and transparency, depending on the page owner's choices. Need to see content of the page to verify.",
+  "Impersonation": "N/A",
+  "Other": "N/A",
+  "verdict": 2
+}
+```

@@ -1,0 +1,17 @@
+   Domain Name: THEBOBCLUB.COM
+   Registry Domain ID: 106584266_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.tucows.com
+   Registrar URL: http://www.tucows.com
+   Updated Date: 2024-11-10T00:22:02Z
+   Creation Date: 2003-11-13T18:41:11Z
+   Registry Expiry Date: 2025-11-13T18:41:11Z
+   Registrar: Tucows Domains Inc.
+   Registrar IANA ID: 69
+   Registrar Abuse Contact Email: domainabuse@tucows.com
+   Registrar Abuse Contact Phone: +1.4165350123
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS1.MYWEBCOMPANY.COM
+   Name Server: NS2.MYWEBCOMPANY.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-11T10:13:49Z 

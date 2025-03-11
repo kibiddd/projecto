@@ -1,0 +1,57 @@
+This Registry database contains ONLY .EDU domains.
+The data in the EDUCAUSE Whois database is provided
+by EDUCAUSE for information purposes in order to
+assist in the process of obtaining information about
+or related to .edu domain registration records.
+
+The EDUCAUSE Whois database is authoritative for the
+.EDU domain.
+
+A Web interface for the .EDU EDUCAUSE Whois Server is
+available at: http://whois.educause.edu
+
+By submitting a Whois query, you agree that this information
+will not be used to allow, enable, or otherwise support
+the transmission of unsolicited commercial advertising or
+solicitations via e-mail.  The use of electronic processes to
+harvest information from this server is generally prohibited
+except as reasonably necessary to register or modify .edu
+domain names.
+
+-------------------------------------------------------------
+
+Domain Name: BRADLEY.EDU
+
+Registrant:
+	Bradley University
+	1501 W Bradley Ave
+	Peoria, IL 61625
+	USA
+
+Administrative Contact:
+	David Scuffham
+	Bradley University
+	1501 W Bradley Ave
+	Peoria, IL 61625
+	USA
+	+1.3096773041
+	david@bradley.edu
+
+Technical Contact:
+	Michael Sindle
+	Bradley University
+	1501 W Bradley Ave
+	Peoria, IL 61625
+	USA
+	+1.3096772336
+	msindle@bradley.edu
+
+Name Servers:
+	AUTH1.DNS.COGENTCO.COM
+	DNS5.BRADLEY.EDU
+	AUTH2.DNS.COGENTCO.COM
+	DNS4.BRADLEY.EDU
+
+Domain record activated:    16-Sep-1988
+Domain record last updated: 25-Jun-2024
+Domain expires:             31-Jul-2025

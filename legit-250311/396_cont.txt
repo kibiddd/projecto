@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website doesn't appear to be requesting personal information or payments at the displayed page.",
+  "Suspicious offer": "N/A",
+  "Format": "The website appears to be a forum with a generally clean and functional design.",
+  "Transparency": "The website includes contact information, terms, and privacy policy.",
+  "Impersonation": "N/A",
+  "Other": "The website seems to have a problem with displaying certain pages, but it's a legitimate forum for guitar enthusiasts",
+  "verdict": 1
+}
+```

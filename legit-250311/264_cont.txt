@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not appear to be requesting personal information or payment.",
+  "Suspicious offer": "The website's content is of a suggestive nature, which can be a red flag for potential scams or illicit activities.",
+  "Format": "The website's design and content quality is relatively low, and it may contain typos and/or low-quality images.",
+  "Transparency": "The website does not provide any clear contact information.",
+  "Impersonation": "N/A",
+  "Other": "The website's content is sexually explicit, which is often associated with scams and fraudulent activities.",
+  "verdict": 8
+}
+```

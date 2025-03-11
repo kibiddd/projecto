@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website itself is selling sports memorabilia and is likely to ask for payment information.",
+  "Suspicious offer": "The website is showing an offer of \"UP 25% OFF SAVINGS\" and \"DEAL ENDS SOON!\". While not inherently suspicious, it's a common marketing tactic.",
+  "Format": "The website appears to have a professional design and no obvious typos are visible in the provided image.",
+  "Transparency": "The website provides a phone number and other contact information.",
+  "Impersonation": "N/A",
+  "Other": "N/A",
+  "verdict": 3
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "N/A",
+  "Transparency": "N/A",
+  "Impersonation": "N/A",
+  "Other": "The URL and the image suggests that it is a legitimate news article of the Buffalo Bills website. The site is legitimate.",
+  "verdict": 1
+}
+```

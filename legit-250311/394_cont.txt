@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is a dictionary website and does not request any personal information or payment.",
+  "Suspicious offer": "The website is a dictionary and does not offer any products or services.",
+  "Format": "The website appears to have a professional design and formatting without any visible typos.",
+  "Transparency": "The website provides information about the company, terms of service, and privacy policy, indicating a certain level of transparency.",
+  "Impersonation": "The website is a legitimate dictionary.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

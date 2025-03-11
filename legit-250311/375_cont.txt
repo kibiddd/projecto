@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website displays a '404 page not found' error, indicating a broken or non-existent webpage.",
+  "Transparency": "N/A",
+  "Impersonation": "N/A",
+  "Other": "The '404 page not found' error suggests the website is not functional, which can indicate abandonment or technical issues. Although this alone doesn't definitively mean it is fraudulent, it does raise concerns about legitimacy.",
+  "verdict": 3
+}
+```

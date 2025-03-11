@@ -1,0 +1,3 @@
+```json
+{"Phishing": "The website is an iTunes page for an album and does not request personal information or payment.", "Suspicious offer": "The website is an iTunes page for an album and does not offer anything suspicious.", "Format": "The website is a standard iTunes page and has a professional design.", "Transparency": "The website is associated with Apple and provides clear information.", "Impersonation": "The website is an official iTunes page.", "Other": "N/A", "verdict": 1}
+```

@@ -1,0 +1,22 @@
+   Domain Name: LOTO-QUEBEC.COM
+   Registry Domain ID: 2036235_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: who.planethoster.net
+   Registrar URL: http://www.planethoster.com
+   Updated Date: 2024-01-21T21:16:22Z
+   Creation Date: 1995-07-28T04:00:00Z
+   Registry Expiry Date: 2028-07-27T04:00:00Z
+   Registrar: PlanetHoster Inc.
+   Registrar IANA ID: 2476
+   Registrar Abuse Contact Email: abuse@planethoster.info
+   Registrar Abuse Contact Phone: 15148021644
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: NS1.LOTO-QUEBEC.COM
+   Name Server: NS2.LOTO-QUEBEC.COM
+   Name Server: NS3.LOTO-QUEBEC.COM
+   Name Server: NS4.LOTO-QUEBEC.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-11T10:14:04Z 

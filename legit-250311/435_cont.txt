@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "N/A",
+  "Transparency": "N/A",
+  "Impersonation": "N/A",
+  "Other": "The URL points to a profile page on WhitePages.com, a legitimate people search and background check website. There is no indication of fraudulent activity based on the URL and the image.",
+  "verdict": 1
+}
+```

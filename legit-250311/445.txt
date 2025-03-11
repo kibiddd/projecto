@@ -1,0 +1,23 @@
+Domain Name: art.net.au
+Registry Domain ID: 55b36d17b74241bbb63c0a9f79000a57-AU
+Registrar WHOIS Server: whois.auda.org.au
+Registrar URL: https://www.instra.com/en/about-us/contact-us
+Last Modified: 2025-02-04T06:22:23Z
+Registrar Name: Domain Directors Pty Ltd trading as Instra
+Registrar Abuse Contact Email: abuse@key-systems.net
+Registrar Abuse Contact Phone: +49.68949396850
+Reseller Name: 
+Status: serverRenewProhibited https://identitydigital.au/get-au/whois-status-codes#serverRenewProhibited
+Status Reason: Not Currently Eligible For Renewal
+Registrant Contact ID: b310fbb36d314e3eae9093c9bd8fdab0-AU
+Registrant Contact Name: Adam Free
+Tech Contact ID: f5a8bccb202541aeaf2b247186e1e949-AU
+Tech Contact Name: Adam Free
+Name Server: ns1.partnerconsole.net
+Name Server: ns2.partnerconsole.net
+Name Server: ns3.partnerconsole.net
+DNSSEC: unsigned
+Registrant: ART CULTURE PTY LTD
+Registrant ID: ACN 660223512
+Eligibility Type: Company
+>>> Last update of WHOIS database: 2025-03-11T10:15:07Z 

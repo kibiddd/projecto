@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website appears to be for a travel agency, and there is no immediate request for personal information or payment visible in the given context.",
+  "Suspicious offer": "N/A",
+  "Format": "The image provided is blank, making it impossible to judge the design quality or presence of typos. Judging by the URL and the description, it's a legitimate website.",
+  "Transparency": "N/A",
+  "Impersonation": "N/A",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

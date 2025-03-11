@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website itself does not appear to be requesting personal information or payment.",
+  "Suspicious offer": "There are no suspicious offers present on this page.",
+  "Format": "The website seems to have a reasonable design and contains an appropriate image.",
+  "Transparency": "The website is about music artists, so it doesn't have the same requirements for contact info as other types of sites, but it seems transparent in its purpose and content.",
+  "Impersonation": "The website is an artist profile on a music website, it doesn't seem to be impersonating any entity.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

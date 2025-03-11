@@ -1,0 +1,71 @@
+Domain Name: mo.us
+Registry Domain ID: D658030-US
+Registrar WHOIS Server:
+Registrar URL: www.whois.us
+Updated Date: 2024-06-02T00:00:10Z
+Creation Date: 2002-04-18T16:32:40Z
+Registry Expiry Date: 2025-04-17T23:59:59Z
+Registrar: US Locality
+Registrar IANA ID:
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: serverHold https://icann.org/epp#serverHold
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: inactive https://icann.org/epp#inactive
+Registry Registrant ID: C3659196-US
+Registrant Name: usTLD Locality Administrator
+Registrant Organization: Registry Services, LLC
+Registrant Street: 100 S. Mill Avenue
+Registrant Street: Suite 1600
+Registrant Street:
+Registrant City: Tempe
+Registrant State/Province: AZ
+Registrant Postal Code: 85281
+Registrant Country: US
+Registrant Phone: +1.4806519999
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: locality-support@about.us
+Registrant Application Purpose: P5
+Registrant Nexus Category: C21
+Registry Admin ID: C3659196-US
+Admin Name: usTLD Locality Administrator
+Admin Organization: Registry Services, LLC
+Admin Street: 100 S. Mill Avenue
+Admin Street: Suite 1600
+Admin Street:
+Admin City: Tempe
+Admin State/Province: AZ
+Admin Postal Code: 85281
+Admin Country: US
+Admin Phone: +1.4806519999
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: locality-support@about.us
+Admin Application Purpose: P5
+Admin Nexus Category: C21
+Registry Tech ID: C3659196-US
+Tech Name: usTLD Locality Administrator
+Tech Organization: Registry Services, LLC
+Tech Street: 100 S. Mill Avenue
+Tech Street: Suite 1600
+Tech Street:
+Tech City: Tempe
+Tech State/Province: AZ
+Tech Postal Code: 85281
+Tech Country: US
+Tech Phone: +1.4806519999
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: locality-support@about.us
+Tech Application Purpose: P5
+Tech Nexus Category: C21
+Name Server:
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-11T10:15:12Z 

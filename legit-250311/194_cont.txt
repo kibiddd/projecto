@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is likely for ticket sales, but I can't confirm if it requests personal information or payment without further context. It's possible that it requests personal information for ticket purchase.",
+  "Suspicious offer": "I cannot assess if it is offering a suspicious offer without further context about what kinds of tickets or deals are offered.",
+  "Format": "I cannot determine format issues like poor design or typos from the provided information.",
+  "Transparency": "I cannot evaluate the level of transparency or if contact information is provided without examining the website.",
+  "Impersonation": "I cannot determine if the website attempts to create a false sense of legitimacy without more information.",
+  "Other": "N/A",
+  "verdict": 4
+}
+```

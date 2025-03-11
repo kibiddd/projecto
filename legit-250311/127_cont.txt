@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website appears to be a 404 error page, indicating the requested content is not found, it has a basic design, but this does not necessarily indicate fraud.",
+  "Transparency": "The website has contact information, but the generic domain and error page raise concerns.",
+  "Impersonation": "The website is trying to impersonate a Russian embassy's website.",
+  "Other": "The domain name 'embassyhomepage.com' is not the official domain for any embassy. The specific URL with 'russian_language...' suggests a potential attempt to use a legitimate-sounding topic to trick users.",
+  "verdict": 8
+}
+```

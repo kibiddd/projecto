@@ -1,0 +1,3 @@
+```json
+{"Phishing": "N/A", "Suspicious offer": "N/A", "Format": "The website seems to be displaying an error message. The design is minimal, but that doesn't automatically indicate fraud. ", "Transparency": "N/A", "Impersonation": "N/A", "Other": "The error message itself is a common indicator of a problem, but it doesn't directly suggest fraud in this context.", "verdict": 1}
+```

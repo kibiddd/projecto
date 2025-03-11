@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is a news release on the official website of the California government, so it does not request personal information or payment.",
+  "Suspicious offer": "The website is a news release, not an offer for products or services.",
+  "Format": "The website uses plain text and the quality is normal for official government websites.",
+  "Transparency": "The website is located on the official California government domain, making it transparent and trustworthy.",
+  "Impersonation": "The website is an official government website, there is no attempt to impersonate a legitimate organization.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

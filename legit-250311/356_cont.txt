@@ -1,0 +1,3 @@
+```json
+{"Phishing": "N/A", "Suspicious offer": "N/A", "Format": "The website appears to be a placeholder or under construction, with only a white screen. This lack of content raises suspicion.", "Transparency": "N/A", "Impersonation": "N/A", "Other": "The lack of content and basic design elements strongly suggests that this website is not fully functional or potentially abandoned. It's difficult to determine the ultimate intent without more content, but the lack of information raises a level of suspicion.", "verdict": 6}
+```

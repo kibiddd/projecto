@@ -1,0 +1,3 @@
+```json
+{"Phishing": "The website does not appear to be asking for personal information or payment.", "Suspicious offer": "The website is providing TV show recommendations and information, which is a common and legitimate service.", "Format": "The website has a professional design, high-quality images, and no obvious typos.", "Transparency": "The website is TV Guide, a well-known and established media brand. Contact information would be expected to be available on other pages of the site.", "Impersonation": "N/A", "Other": "N/A", "verdict": 1}
+```

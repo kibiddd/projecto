@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is Amazon, a legitimate e-commerce platform. It requests payment information for purchases.",
+  "Suspicious offer": "The website sells products at various prices, with no indication of unrealistic offers.",
+  "Format": "The website has a professional design and appears to be a legitimate Amazon page.",
+  "Transparency": "The website clearly displays contact information and return policy.",
+  "Impersonation": "The website is the official Amazon website and does not seem to be impersonating any other entity.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

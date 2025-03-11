@@ -1,0 +1,17 @@
+   Domain Name: DEADSPIN.COM
+   Registry Domain ID: 78828666_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2024-05-06T15:18:20Z
+   Creation Date: 2001-10-21T19:11:37Z
+   Registry Expiry Date: 2025-10-21T19:11:37Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: DESI.NS.CLOUDFLARE.COM
+   Name Server: DOUG.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-11T10:14:36Z 

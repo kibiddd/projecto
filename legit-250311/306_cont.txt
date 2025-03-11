@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not appear to be requesting personal information or payments.",
+  "Suspicious offer": "The website does not seem to be offering any products or services.",
+  "Format": "The website has a plain, functional design. There are no obvious typos or formatting issues in the provided text.",
+  "Transparency": "The website appears to provide a general informational resource, but it's difficult to assess trustworthiness without additional context.",
+  "Impersonation": "The website's domain name is similar to Worlds of Fun's. This could be considered as impersonation.",
+  "Other": "The website is not the official website, which is suspicious and suggests it may be a fan site.",
+  "verdict": 6
+}
+```

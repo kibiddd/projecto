@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not appear to be requesting personal information or payment based on the image and URL provided.",
+  "Suspicious offer": "The image doesn't show any offers.",
+  "Format": "The website has poor design. The website is showing a 403 error page.",
+  "Transparency": "The error message shows cloudfront as the provider and doesn't include website contact information.",
+  "Impersonation": "N/A",
+  "Other": "The website is not accessible. The error message indicates a geographical restriction or server issue.",
+  "verdict": 4
+}
+```

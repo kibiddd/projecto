@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not appear to be requesting any personal information or payment.",
+  "Suspicious offer": "The website does not offer any product or service.",
+  "Format": "The website appears to have a clean design.",
+  "Transparency": "The website provides copyright information. No clear contact information is present.",
+  "Impersonation": "N/A",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website hosts torrents, which often contain links to malicious content or sites that could request personal information or payment through deceptive means. Downloading from untrusted sources carries inherent phishing risks.",
+  "Suspicious offer": "The website offers free downloads of copyrighted material, which is a red flag for suspicious and potentially illegal activity.",
+  "Format": "The website likely has a format associated with torrent sites, often with a layout and design that may not be as professionally polished as legitimate websites.",
+  "Transparency": "Torrent sites are often not transparent about their ownership or contact information, which is a common tactic to avoid legal issues.",
+  "Impersonation": "N/A",
+  "Other": "The website is a torrent site, which are known to be a frequent source of malware and other security risks. The nature of the content offered is also a strong indicator.",
+  "verdict": 9
+}
+```

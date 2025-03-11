@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting consent for data collection, but not requesting payment or personal information directly in the screenshot. The website is also asking for cookie consent.",
+  "Suspicious offer": "N/A",
+  "Format": "The website uses a clear design and is well organized. No typos found.",
+  "Transparency": "The website provides a cookie policy and privacy protection policy, indicating a degree of transparency.",
+  "Impersonation": "The website claims to be part of the Yahoo brand, and the URL matches the brand's general format.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

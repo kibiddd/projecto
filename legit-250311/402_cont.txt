@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website is requesting consent for data collection via cookies, which is standard practice and not indicative of phishing.",
+  "Suspicious offer": "The website features a promotional advertisement for a betting platform, which could be considered a suspicious offer.",
+  "Format": "The website has a professional design and quality images, and no obvious typos.",
+  "Transparency": "The website has clear contact information and adheres to standard privacy practices, including the requirement for cookie consent.",
+  "Impersonation": "N/A",
+  "Other": "N/A",
+  "verdict": 2
+}
+```

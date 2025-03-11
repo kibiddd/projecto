@@ -1,0 +1,56 @@
+This Registry database contains ONLY .EDU domains.
+The data in the EDUCAUSE Whois database is provided
+by EDUCAUSE for information purposes in order to
+assist in the process of obtaining information about
+or related to .edu domain registration records.
+
+The EDUCAUSE Whois database is authoritative for the
+.EDU domain.
+
+A Web interface for the .EDU EDUCAUSE Whois Server is
+available at: http://whois.educause.edu
+
+By submitting a Whois query, you agree that this information
+will not be used to allow, enable, or otherwise support
+the transmission of unsolicited commercial advertising or
+solicitations via e-mail.  The use of electronic processes to
+harvest information from this server is generally prohibited
+except as reasonably necessary to register or modify .edu
+domain names.
+
+-------------------------------------------------------------
+
+Domain Name: INDIANA.EDU
+
+Registrant:
+	Indiana University
+	2709 E. 10th Street
+	Bloomington, IN 47408-2671
+	USA
+
+Administrative Contact:
+	Domain Admin
+	Indiana University
+	2709 E 10th Street
+	Bloomington, IN 47408
+	USA
+	+1.3172747788
+	dns-admin@iu.edu
+
+Technical Contact:
+	Domain Admin
+	Indiana University
+	2709 E 10th Street
+	Bloomington, IN 47408
+	USA
+	+1.3172747788
+	dns-admin@iu.edu
+
+Name Servers:
+	DNS1.IU.EDU
+	DNS3.IU.EDU
+	DNS2.IU.EDU
+
+Domain record activated:    03-Mar-1986
+Domain record last updated: 25-Jan-2025
+Domain expires:             31-Jul-2025

@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "The website appears to be a legitimate news article from the Pittsburgh Post-Gazette. It has a professional design and quality content.",
+  "Transparency": "The website is part of a known and reputable news organization.",
+  "Impersonation": "N/A",
+  "Other": "N/A",
+  "verdict": 1
+}
+```

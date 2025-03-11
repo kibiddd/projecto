@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "N/A",
+  "Suspicious offer": "N/A",
+  "Format": "N/A",
+  "Transparency": "N/A",
+  "Impersonation": "N/A",
+  "Other": "The URL points to a specific document on Docstoc.com. Without knowing the document's contents, it is impossible to assess the website's fraudulence.",
+  "verdict": 1
+}
+```

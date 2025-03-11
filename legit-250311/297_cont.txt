@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website does not appear to request personal information or payments.",
+  "Suspicious offer": "The website does not appear to offer any products or services.",
+  "Format": "The website has a basic design but appears functional. There are no obvious typos.",
+  "Transparency": "The website provides a clear announcement about a new site and blog, indicating a degree of transparency.",
+  "Impersonation": "N/A",
+  "Other": "The website is an older blogspot site, so it's important to note that blogspot sites, by nature, are not necessarily high security and the design/features are limited. The announcement about moving to a new site is transparent.",
+  "verdict": 1
+}
+```

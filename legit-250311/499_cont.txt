@@ -1,0 +1,11 @@
+```json
+{
+  "Phishing": "The website itself does not appear to be requesting personal information or payment.",
+  "Suspicious offer": "The website is a lyrics website, and not offering anything suspicious.",
+  "Format": "The website appears to be well-designed, with a clear layout and no obvious typos.",
+  "Transparency": "The website is a well-established lyrics website and seems to provide contact information.",
+  "Impersonation": "The website is not attempting to impersonate any other entity.",
+  "Other": "N/A",
+  "verdict": 1
+}
+```
