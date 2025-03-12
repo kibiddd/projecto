@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain registration is not recent; it was created on 2001-02-21 and is not expiring soon, as the expiration date is 2026-02-21. Therefore, this factor does not indicate fraud.",
+  "answer2": "The contact information provided by the registrar (MarkMonitor Inc.) is not redacted, partial, or suspicious. The registrar's abuse contact email and phone number are provided, which is a standard practice and does not indicate fraud.",
+  "answer3": "MarkMonitor Inc. is a well-known registrar and is not typically associated with hosting malicious sites. There is no indication that this registrar lacks verification. Therefore, this factor does not indicate fraud.",
+  "answer4": "The domain status indicates that clientDeleteProhibited, clientTransferProhibited, and clientUpdateProhibited are in effect. This could be a red flag, as it may suggest that the domain owner is trying to prevent unauthorized changes to the domain, which could be a tactic used by fraudulent actors to maintain control over a domain. However, this alone is not a definitive indicator of fraud.",
+  "verdict": 2
+}
+```

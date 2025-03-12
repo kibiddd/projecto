@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'worldfootballers.com' appears to be a legitimate domain, with no obvious misspellings or character substitutions. It does not contain deceptive subdomains.",
+  "TLD": "The TLD '.com' is a common and trusted TLD, not considered high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It follows a standard pattern for a query string in a URL.",
+  "Other": "The URL contains a query string with parameters 'ID' and 'Crumb', which is typical for web pages that require user input or tracking. There are no other suspicious factors.",
+  "verdict": 1
+}
+```

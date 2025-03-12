@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website is a legitimate news article from The Guardian, discussing a football event. The URL, domain, and screenshot analysis all indicate that it is not a scam website. The domain has been registered for over 29 years, which is common for reputable news organizations. The website does not request personal information or payment, and it has a professional design. The contact information is likely available on the main site, and the website does not appear to be impersonating any other entity.",
+  "verdict": 1
+}
+```

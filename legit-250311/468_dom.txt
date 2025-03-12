@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2001-01-13, which is over 23 years ago, so it is not recent. The domain is not expiring soon as the expiration date is 2026-01-13. Verdict: 0/10",
+  "answer2": "The registrant, admin, and tech contact information is redacted for privacy, which is common practice and not necessarily indicative of fraud. Verdict: 0/10",
+  "answer3": "MarkMonitor Inc. is a reputable registrar known for hosting a variety of domains, including those of well-known organizations. There is no indication that MarkMonitor hosts malicious sites or lacks verification. Verdict: 0/10",
+  "answer4": "There are no other suspicious registration factors provided in the WHOIS information. The domain is associated with the Wikimedia Foundation, Inc., which is a legitimate organization. Verdict: N/A",
+  "verdict": 0
+}
+```

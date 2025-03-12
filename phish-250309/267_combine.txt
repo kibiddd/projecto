@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'kukoinlogzn.webflow.io' appears to be a scam website. It contains a misspelling of 'kukoinlogon' in the domain name, which could be an attempt to deceive users. The domain was registered over 12 years ago and is not expiring soon. MarkMonitor Inc., a reputable registrar, is known for hosting malicious sites. The domain status includes clientDeleteProhibited, clientTransferProhibited, and clientUpdateProhibited, which are unusual. The website prompts users to 'Sign Up' for mystery boxes, potentially leading to phishing attempts. The offer of mystery boxes worth up to $500 is suspicious. The website's name is a clear attempt to impersonate KuCoin. The combination of impersonation, suspicious offers, and potentially phishing attempts make this website highly suspicious.",
+  "verdict": 9
+}
+```

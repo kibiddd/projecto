@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL provided appears to be a misspelled version of a legitimate domain, which is a common deceptive practice. The domain is not recent and is set to expire in 2026, which reduces the risk of it being a scam. The contact information provided seems legitimate, and the registrar is not known for hosting malicious sites. However, the inability to load a screenshot of the website prevents further analysis of its content. The domain status indicates a restriction on transfer, which is not uncommon and not necessarily indicative of fraud. The DNSSEC is unsigned, which is also not uncommon for smaller or less critical domains. No other suspicious registration factors are evident. The lack of a screenshot prevents a complete assessment of the website's content, which could potentially reveal scam indicators.",
+  "verdict": 3
+}
+```

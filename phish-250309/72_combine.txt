@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL contains a misspelling of 'www', which is a common tactic used by fraudsters to create deceptive URLs. The domain was created recently and is set to expire in less than a year, which is a potential fraud indicator. The registrar is known for hosting domains associated with spam and fraudulent activities. The domain status indicates that client transfers are prohibited and the DNSSEC is unsigned, which are also potential fraud indicators. However, the screenshot could not be analyzed due to an error.",
+  "verdict": 8
+}
+```

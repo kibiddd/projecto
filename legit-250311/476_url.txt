@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "No misspellings or character substitutions detected in the domain 'last.fm'. The domain 'last.fm' is a legitimate and well-known music streaming service.",
+  "TLD": "The TLD '.fm' is uncommon but not necessarily high-risk. It is a music-related TLD and is associated with the legitimate service 'last.fm'.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It follows a standard URL structure for accessing content on the 'last.fm' website.",
+  "Other": "No other suspicious URL factors are present. The URL appears to be a legitimate request to access music-related content on the 'last.fm' website.",
+  "verdict": 1
+}
+```

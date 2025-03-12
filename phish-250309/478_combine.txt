@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website http://trezor-io-start-ss.webflow.io appears to be a phishing attempt, impersonating the official Trezor cryptocurrency wallet service. The domain contains a misspelling of 'trezor.io', uses a Webflow hosting platform, and offers a discount promotion. The domain registration is not recent, and the registrant's contact information is redacted. MarkMonitor Inc., a registrar known for hosting malicious sites, is associated with the domain. The website lacks transparency and does not provide clear contact information. The URL is suspicious due to the use of a Webflow domain and the discount offer. The website's design is clean and professional, but the impersonation and lack of transparency are significant red flags. The potential risks include phishing attempts, data theft, and financial loss for users who might be deceived into providing sensitive information.",
+  "verdict": 9
+}
+```

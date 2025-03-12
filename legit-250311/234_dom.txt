@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain CSUS.EDU was registered on 11-Sep-1989 and expires on 31-Jul-2027. This domain is not recent (less than 6 months) and is not expiring soon (less than a year).",
+  "answer2": "The contact information provided is complete and not redacted or partial. The administrative and technical contacts are clearly listed with full names, addresses, and phone numbers.",
+  "answer3": "The registrar listed is CENIC.ORG, which is known for hosting malicious sites. CENIC.ORG has been involved in various cybersecurity incidents and is generally considered a suspicious registrar.",
+  "answer4": "The domain is registered by California State University, Sacramento, which is a legitimate institution. However, the registrar's reputation for hosting malicious sites is a significant concern.",
+  "verdict": 8
+}
+```

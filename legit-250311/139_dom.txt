@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain VIRUSTOTAL.COM was created on 2002-09-18 and has an expiration date of 2025-09-18. This means the domain is not recent (less than 6 months) and is not expiring soon (less than a year). Therefore, this factor does not indicate potential fraud.",
+  "answer2": "The contact information provided (Abuse Contact Email: abusecomplaints@markmonitor.com and Phone: +1.2086851750) is complete and not redacted or suspicious. Therefore, this factor does not indicate potential fraud.",
+  "answer3": "MarkMonitor Inc. is a reputable registrar known for hosting legitimate domains. There is no indication that this registrar is known for hosting malicious sites or lacking verification. Therefore, this factor does not indicate potential fraud.",
+  "answer4": "The domain status indicates that clientDeleteProhibited, clientTransferProhibited, and clientUpdateProhibited are in effect. This means that the domain owner cannot delete, transfer, or update the domain without the consent of the registrar. This could be a red flag for potential fraud, as it may indicate that the domain owner is trying to prevent changes to the domain. However, this factor alone is not sufficient to indicate fraud.",
+  "verdict": 2
+}
+```

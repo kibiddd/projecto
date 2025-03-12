@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website Dallas.sportsvite.com appears to be a legitimate sports-related website, with a domain that is not deceptive and a common TLD. The domain registration is not recent and is expiring in the future, but the registrar is reputable. The screenshot shows a redirection error, which does not inherently indicate a scam. However, the lack of recent domain registration and the error message could be potential risks. The website does not seem to be requesting personal information or payments, and there are no obvious signs of phishing or impersonation. The transparency of the website is questionable due to the error message, but there is no direct evidence of a scam.",
+  "verdict": 3
+}
+```

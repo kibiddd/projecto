@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2003-02-27 and the registration is not recent (less than 6 months). It is also not expiring soon (less than a year).",
+  "answer2": "The contact information provided by the registrar is complete and appears legitimate.",
+  "answer3": "The registrar, pair Networks, Inc. d/b/a pair Domains, is known for hosting malicious sites and lacks verification.",
+  "answer4": "The domain status is 'ok' and the DNSSEC is unsigned, which is not necessarily suspicious.",
+  "verdict": 8
+}
+```

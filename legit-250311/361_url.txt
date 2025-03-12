@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain name 'thecanadianencyclopedia.com' appears to be a legitimate and recognizable domain, with no misspellings or character substitutions.",
+  "TLD": "The TLD '.com' is a common and trusted TLD, not considered high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It follows a standard URL structure.",
+  "Other": "The URL appears to be a legitimate link to an article on a well-known website. No other suspicious factors are present.",
+  "verdict": 1
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a legitimate part of the City of Saint Paul, with a domain that is not deceptive and a reputable registrar. The WHOIS information is complete and does not indicate any immediate red flags. The website is functional and seems to be part of an official civic organization, which increases its transparency and trust. However, the unusual prohibition of clientDelete, clientTransfer, and clientUpdate could be a potential concern. The website does not directly ask for personal financial information, which reduces the risk of phishing. Overall, the website seems legitimate, but the unusual domain status warrants caution.",
+  "verdict": 2
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain registration is not recent, as it was created on 2001-01-13T00:12:14Z, which is well over 6 months ago. It is also not expiring soon, as the expiration date is 2026-01-13T00:12:14Z, which is more than a year away. Therefore, this factor does not indicate potential fraud.",
+  "answer2": "The contact information for the registrant, admin, and tech contacts is redacted for privacy. While this is common practice, it can sometimes be a red flag if combined with other suspicious factors. However, in this case, it is not enough to indicate fraud on its own.",
+  "answer3": "MarkMonitor Inc. is a reputable registrar known for hosting a wide range of domains, including those of well-known organizations. There is no indication that MarkMonitor hosts malicious sites or lacks verification. Therefore, this factor does not indicate potential fraud.",
+  "answer4": "There are no other suspicious registration factors present in the provided WHOIS information. The domain is associated with the Wikimedia Foundation, Inc., which is a well-known and reputable organization. The domain name is also a common and expected domain for such an organization.",
+  "verdict": 1
+}
+```

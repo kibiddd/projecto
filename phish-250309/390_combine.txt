@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website sso-desk-trexor.webflow.io appears to be a landing page for a Trezor login page, which is not the official Trezor domain. The domain contains a misspelling of 'desk' as 'desk-trexor', which could be an attempt to deceive users. The domain was registered in 2013 and is not expiring soon, which does not indicate fraud. However, the use of the webflow.io subdomain is suspicious, as most legitimate companies have their own domain. The website is well-designed but appears to be a landing page rather than a fully functional site. The legitimacy of the website cannot be assessed without actually logging in, as it might request credentials. The website impersonates Trezor, which raises a red flag. The domain is hosted by MarkMonitor Inc., a reputable registrar, and has common restrictions placed by registrars to prevent unauthorized changes. Overall, the website has several red flags that indicate it could be a scam.",
+  "verdict": 9
+}
+```

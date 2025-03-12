@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'thesmartestpersonintheworld.net' does not contain obvious misspellings or character substitutions. It is a common and recognizable domain name, although it is not a standard TLD.",
+  "TLD": "The TLD '.net' is a common and trusted TLD, not considered high-risk or uncommon.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It follows a standard URL structure.",
+  "Other": "The URL does not contain any other suspicious factors. It appears to be a legitimate-looking domain name.",
+  "verdict": 1
+}
+```

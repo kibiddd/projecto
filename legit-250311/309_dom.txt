@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain registration is recent, as the last update of the WHOIS database is 2025-03-11, which is less than 6 months from today, 2025-03-07. This could be a potential indicator of fraud, as fraudulent domains are often registered recently to avoid detection.",
+  "answer2": "The contact information is not provided in the WHOIS data, which is a common practice for privacy reasons but can also be a red flag for fraudulent activity. Without contact information, it is difficult to verify the legitimacy of the domain owner.",
+  "answer3": "The registrar information is not provided in the WHOIS data, which makes it difficult to assess whether the registrar is known for hosting malicious sites or lacks verification. However, the absence of registrar information itself can be a suspicious factor.",
+  "answer4": "The domain URL provided does not resolve to a valid website, as indicated by the 'Domain not found' message. This is a strong indicator of a potentially fraudulent domain.",
+  "verdict": 8
+}
+```

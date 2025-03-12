@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2000-09-13 and the registration is expiring on 2025-09-13, which is more than 6 months away. Therefore, it is not recent nor expiring soon.",
+  "answer2": "The contact information provided (compliance@domain-inc.net and 602-226-2389) is not redacted or partial, and it appears to be legitimate. No suspicious contact information is present.",
+  "answer3": "The registrar, Domain.com, LLC, is not known for hosting malicious sites or lacking verification. The registrar's WHOIS server and abuse contact information are provided, which suggests a legitimate registrar.",
+  "answer4": "The domain status indicates that client transfers and updates are prohibited, which is a common practice for certain types of domains. The DNSSEC is unsigned, which is not necessarily a fraud indicator but could be a security concern. The URL provided for the ICANN Whois Inaccuracy Complaint Form is legitimate.",
+  "verdict": 1
+}
+```

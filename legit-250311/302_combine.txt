@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website, lifunggroup.com, appears to be a legitimate company with a professional design and transparent information about its history. The domain was registered in 2003 and is managed by a legitimate registrar. The website does not appear to be a scam, as it does not request personal information, offer suspicious products or services, or have any phishing attempts. The only potential risk is the unsigned DNSSEC, which could be a security concern, but it is not necessarily indicative of a scam.",
+  "verdict": 1
+}
+```

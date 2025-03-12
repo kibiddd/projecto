@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL duckprods.com is not a scam based on the URL analysis, domain registration, and screenshot analysis. The URL does not contain any deceptive elements, the domain is not recent, and the WHOIS information is complete. The screenshot analysis shows a 404 error page, which does not indicate any fraudulent activity. The domain is managed by Network Solutions, which has been associated with hosting malicious sites in the past, but it is also a legitimate registrar. The domain status indicates that client transfers are prohibited, which is a common restriction for domains managed by Network Solutions. The website does not display any phishing, suspicious offers, poor design, or impersonation. The website returns a 404 error, indicating a non-existent page, which raises a question about the site's maintenance.",
+  "verdict": 1
+}
+```

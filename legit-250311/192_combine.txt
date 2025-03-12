@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website author-me.com appears to be an online literary magazine/blog focused on promoting new writers. The URL, domain registration, and WHOIS information do not indicate any immediate signs of fraud. The website has a functional but dated design and provides basic contact information. However, the domain registration is not recent, and the domain status indicates that client actions are prohibited. The overall verdict is low risk, but it is always recommended to exercise caution when interacting with unfamiliar websites.",
+  "verdict": 2
+}
+```

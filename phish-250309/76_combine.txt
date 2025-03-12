@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'naszepogorzale.pl' appears to be a phishing attempt, as indicated by the misspelled domain name, which is a common tactic used to deceive users. The URL does not match the legitimate Netflix URL, and the website is requesting email and password, which is typical of phishing sites. The domain was created more than six months ago and is not expiring soon, which does not necessarily indicate a scam, but the other factors are concerning. The website's design is similar to Netflix, which is an attempt to impersonate a legitimate service. The contact information provided seems complete, but the lack of transparency and the suspicious URL are significant red flags. The website does not provide any clear and trustworthy contact information, which is another indicator of a potential scam.",
+  "verdict": 9
+}
+```

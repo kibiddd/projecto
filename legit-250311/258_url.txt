@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "No misspellings, character substitutions, or deceptive subdomains detected.",
+  "TLD": "Common TLD (.com) - Not high-risk.",
+  "Patterns": "URL is within expected length and contains standard characters for a YouTube URL.",
+  "Other": "No other suspicious URL factors detected.",
+  "verdict": 1
+}
+```

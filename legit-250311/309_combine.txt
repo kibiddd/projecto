@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'friendsofairforcebasketball.org' appears to be a misspelled version of a legitimate domain, with recent domain registration and lack of contact information. The URL does not resolve to a valid website, and the screenshot shows a single white page with no content or contact information, raising serious suspicions. The website may be an unfinished or abandoned site, potentially indicating fraud. The potential risks include phishing, impersonation, and other fraudulent activities. The final verdict is 8.",
+  "verdict": 8
+}
+```

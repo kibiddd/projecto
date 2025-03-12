@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "No misspellings or character substitutions detected. The domain 'jt-sw.com' appears to be a legitimate subdomain of a larger, well-known company, 'jt.com'.",
+  "TLD": "The TLD '.com' is a common and trusted TLD, not considered high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It follows a standard URL structure.",
+  "Other": "The URL appears to be a legitimate link to a specific page on a well-known company's website. No other suspicious factors are present.",
+  "verdict": 1
+}
+```

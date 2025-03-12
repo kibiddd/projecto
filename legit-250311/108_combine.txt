@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website is YouTube, a well-known and reputable video platform. The URL, domain registration, and screenshot analysis all indicate that it is not a scam website. The domain has been registered for a long time, the registrar is reputable, and the website itself does not present any suspicious offers or impersonation. The website appears to be well-designed and transparent, with clear contact information provided.",
+  "verdict": 1
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 1999-03-13, which is well over 6 years ago, so it is not recent. The expiration date is 2028-08-12, which is more than a year away, so it is not expiring soon. Verdict: 0",
+  "answer2": "The contact information provided by the registrar (Tucows Domains Inc.) is complete and not redacted or suspicious. Verdict: 0",
+  "answer3": "Tucows Domains Inc. is a reputable registrar, and there is no indication that they are known for hosting malicious sites or lacking verification. Verdict: 0",
+  "answer4": "The domain status indicates that client transfers and updates are prohibited, which is a common practice for domains managed by the domain owner. There are no other suspicious registration factors mentioned. Verdict: 0",
+  "verdict": 0
+}
+```

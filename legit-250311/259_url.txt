@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "No misspellings or character substitutions detected. The domain name appears to be a legitimate name for a club or community.",
+  "TLD": "The TLD.com is a common and trusted TLD, not considered high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "The URL contains a '.com' domain, which is a common and trusted domain. The URL does not contain any other suspicious factors.",
+  "verdict": 1
+}
+```

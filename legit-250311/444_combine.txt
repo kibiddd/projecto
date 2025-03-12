@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website, sosmoray.org.uk, appears to be a legitimate non-profit organization focused on environmental and conservation efforts in Moray. The URL does not contain deceptive elements, the domain is registered with a reputable registrar, and the WHOIS information is complete. The screenshot analysis indicates that the website does not appear to be a scam, as it does not request personal information, offer suspicious deals, or impersonate other organizations. The website has a simple but functional design and provides transparency by offering contact information and information about its mission. Overall, the website seems to be legitimate and trustworthy.",
+  "verdict": 1
+}
+```

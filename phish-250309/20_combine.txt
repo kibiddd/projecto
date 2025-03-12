@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website http://b97a.xyz is a gambling-related site promoting bet365, which is a legitimate platform. However, the domain contains a misspelled 'b' instead of 'o', uses a high-risk TLD '.xyz', and is less than 6 months old, which are common indicators of a scam. The domain's registration details are suspicious, with prohibited transfers and lack of direct contact information. The screenshot analysis reveals potential phishing risks through related sites and a lack of transparency. The website might be impersonating the actual bet365 site, and the pop-up window could redirect to a fraudulent site. The overall risk is high due to these factors.",
+  "verdict": 8
+}
+```

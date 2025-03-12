@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain AZLYRICS.COM was created on 2000-11-07 and has an expiration date of 2025-11-07. This means the domain is not recent (less than 6 months) and is not expiring soon (less than a year).",
+  "answer2": "The contact information provided by the registrar (NameCheap, Inc.) is complete and not redacted or partial. The abuse contact email and phone number are also provided.",
+  "answer3": "The registrar, NameCheap, Inc., is a well-known and reputable registrar. There is no indication that they are known for hosting malicious sites or lacking verification.",
+  "answer4": "The domain status indicates that client transfers are prohibited, which is a common restriction for domains managed by registrars. The DNSSEC is unsigned, which is not necessarily a red flag, as many domains do not use DNSSEC. The last update of the whois database was on 2025-03-11, which is relatively recent.",
+  "verdict": 1
+}
+```

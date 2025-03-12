@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website is VirusTotal, a legitimate service for virus analysis. The URL, domain registration, and screenshot analysis do not indicate any signs of a scam. The domain is not recent, but it is not expiring soon, and the registrar is reputable. The domain status indicates that certain changes are prohibited, which could be a red flag, but it is not sufficient to indicate fraud. The website has a professional design, provides information about its service, and is transparent. The website is the official VirusTotal site, and there are no signs of phishing, suspicious offers, or impersonation.",
+  "verdict": 1
+}
+```

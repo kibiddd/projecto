@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'accesshollywood.com/jay-leno-says-goodbye-to-the-tonight-show_gallery_1658' appears to be a legitimate link to a gallery related to a show on 'accesshollywood.com'. The domain 'accesshollywood.com' is not deceptive, the TLD '.com' is common and trusted, and the URL follows a standard structure without suspicious factors. The domain was created in 1996 and is not expiring soon, with a legitimate registrar and no client deletion, transfer, or update restrictions. The screenshot analysis shows no phishing, suspicious offers, impersonation, or lack of transparency, and the website has a professional design. Overall, there are no indications of the website being a scam.",
+  "verdict": 1
+}
+```

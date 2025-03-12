@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website'sixtrentcarsales.de' appears to be a scam due to the misspelling in the domain name, the recent registration date, and the lack of contact details for the domain owner. The URL contains a suspicious pattern, and the domain is in the redemption period, which could indicate recent fraudulent activity. The inability to load a screenshot of the website further raises concerns about its legitimacy.",
+  "verdict": 8
+}
+```

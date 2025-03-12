@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "No misspellings or character substitutions detected. The domain appears to be a legitimate subdomain of a known domain (areaconnect.com).",
+  "TLD": "The TLD (.areaconnect.com) is a legitimate and commonly used TLD, not uncommon or high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It follows a standard URL structure.",
+  "Other": "The URL appears to be a legitimate website, as it follows a standard URL structure and does not contain any obvious signs of being a phishing or scam site.",
+  "verdict": 1
+}
+```

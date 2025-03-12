@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website reviewsec-nab.com is a scam website. The domain contains a misspelling of'reviews-sec.com', which could be an attempt to deceive users. The domain was registered recently and is set to expire soon, which is a potential fraud indicator. The registrar is known for hosting malicious sites and lacks verification. The domain status indicates that both clientDeleteProhibited and clientTransferProhibited are in effect, which can be a sign of a domain being managed by a fraudulent entity. The DNSSEC is unsigned, which is not a common practice for legitimate domains. The website is asking for NAB ID and Password, which is personal information. The website attempts to impersonate the National Australia Bank. The combination of a request for login details with a domain name suggestive of review or security makes this a very suspicious website.",
+  "verdict": 9
+}
+```

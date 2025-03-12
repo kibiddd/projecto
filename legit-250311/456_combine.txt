@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website, https://www.mahalo.com/cincinnati-bengals/, appears to be a legitimate sports-related page on Mahalo.com, discussing the Cincinnati Bengals. The URL, domain, and screenshot analysis do not indicate any immediate signs of a scam. The domain was registered in 1995, which is not recent, but this alone does not imply fraud. The registrar is reputable, and there are no phishing, suspicious offers, or impersonation indicators. The website's content is related to sports, which is a common and non-suspicious topic. However, the domain's age and the prohibition of certain client actions could warrant caution. Overall, the potential risks seem minimal, but the website's age and restricted client actions could be considered minor red flags.",
+  "verdict": 2
+}
+```

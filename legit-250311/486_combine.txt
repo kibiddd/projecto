@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'instantcast.com' appears to be related to a casting service, with a legitimate-looking domain and a reputable registrar. However, the domain registration is not recent, and the website might be requesting personal information, which could be a potential risk. The website design seems professional, but without seeing the actual website, it is difficult to assess its transparency and other factors. The potential risks include phishing and the collection of personal data for malicious purposes. The final verdict is 3.",
+  "verdict": 3
+}
+```

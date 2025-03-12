@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'aviancabaratohoy.shop' appears to be a legitimate e-commerce site based on the URL analysis, which does not exhibit any obvious signs of being suspicious. However, the domain contains a misspelling of 'baratohoy', which could be an attempt to deceive users. The domain registration date and contact information are not provided, which could be a red flag. The website promotes offers and has a clean design, but the contact information is not available in the screenshot. The website uses the LATAM Airlines branding and layout, which could be a sign of impersonation. Overall, the potential risks are low, but there are some concerns that could make it a scam website.",
+  "verdict": 4
+}
+```

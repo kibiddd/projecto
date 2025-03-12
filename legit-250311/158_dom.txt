@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain registration is not recent; it was created on 1998-07-06, which is well over 6 months ago. It is not expiring soon either, as the expiration date is 2025-07-05, which is more than a year away. Therefore, this factor does not indicate potential fraud.",
+  "answer2": "The contact information for the registrant, admin, and tech contacts is redacted for privacy. This is a common practice and does not necessarily indicate fraud. However, the lack of available contact information can be a red flag in some cases, as it makes it difficult to verify the legitimacy of the domain owner.",
+  "answer3": "Network Solutions, LLC is a well-known registrar, but it has been associated with hosting malicious sites in the past. This could be a potential indicator of fraud, but it is not definitive proof of fraudulent activity. The domain itself is registered to the Kansas City Public Library, which is a legitimate organization, so this factor alone is not sufficient to conclude fraud.",
+  "answer4": "The domain status indicates that client transfers are prohibited. This is a common restriction for domains managed by libraries, educational institutions, or other organizations that do not want their domains to be transferred to other parties. This factor does not indicate fraud.",
+  "verdict": 2
+}
+```

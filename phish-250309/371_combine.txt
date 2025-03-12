@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL contains a misspelling in the domain name, which could be an attempt to deceive users. The domain has been registered for over 3 years, which is not recent. The contact information is either redacted or partial, and the registrar is not widely recognized as hosting malicious sites. The domain is unsigned for DNSSEC, which could indicate a lack of security measures. The website screenshot could not be analyzed due to an error.",
+  "verdict": 5
+}
+```

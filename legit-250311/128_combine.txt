@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website is skyscraperpage.com, which is a legitimate and well-known website that provides information about skyscrapers around the world. The URL, domain registration, and screenshot analysis do not indicate any signs of a scam. The website does not request any personal information or payment, and it has a functional but dated design. The website provides clear contact information in the form of a copyright statement. The domain was created over 26 years ago and is not expiring soon, but it is not recent either. The domain registrar is GoDaddy.com, LLC, which is a reputable registrar. The WHOIS information provided is complete and does not appear to be redacted or suspicious. The website does not appear to have any suspicious offers or impersonation. The verdict is 1, indicating that it is not a scam website.",
+  "verdict": 1
+}
+```

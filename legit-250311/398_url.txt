@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'tri-statedefenderonline.com' contains a misspelling of 'tri-state' which could be an attempt to deceive users into thinking it is related to a legitimate tri-state area organization.",
+  "TLD": "The TLD '.com' is common and not considered high-risk, so this factor does not indicate fraud.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters, so this factor does not indicate fraud.",
+  "Other": "The URL contains a misspelled domain which could be an attempt to deceive users, but there are no other obvious suspicious factors.",
+  "verdict": 3
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2002-03-20 and the registration is expiring on 2025-03-20, which is more than 6 months old and not expiring soon. Therefore, this factor does not indicate fraud.",
+  "answer2": "The contact information provided by the registrar (Enom, LLC) is complete and not redacted or suspicious. Therefore, this factor does not indicate fraud.",
+  "answer3": "Enom, LLC is a well-known registrar and there is no indication that they are known for hosting malicious sites or lacking verification. Therefore, this factor does not indicate fraud.",
+  "answer4": "The domain status indicates that client transfers are prohibited, which is a common practice for many registrars to prevent unauthorized transfers. There are no other suspicious registration factors provided. Therefore, this factor does not indicate fraud.",
+  "verdict": 1
+}
+```

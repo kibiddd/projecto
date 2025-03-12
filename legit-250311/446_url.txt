@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'uk.ask.com' contains a misspelling of 'uk.ask.com' which is a common tactic used by fraudsters to deceive users into thinking they are visiting a legitimate site.",
+  "TLD": "The TLD '.ask' is uncommon and not typically associated with reputable websites, which could be a red flag for fraud.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters, so there are no obvious suspicious patterns in this URL.",
+  "Other": "The URL contains a deceptive subdomain and an uncommon TLD, which are both indicators of potential fraud.",
+  "verdict": 7
+}
+```

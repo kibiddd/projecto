@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website http://g551000.cc is a potential scam due to the misspelled domain name, uncommon TLD, excessively long URL, and recent domain registration. The screenshot analysis reveals a 'Forbidden' error page, lack of transparency, and potential impersonation. The domain analysis indicates a recent registration and a prohibited client transfer, but the registrar is not associated with malicious sites. The website is currently inaccessible, raising further suspicion. The potential risks include phishing attempts, lack of transparency, and impersonation. The final verdict is 8.",
+  "verdict": 8
+}
+```

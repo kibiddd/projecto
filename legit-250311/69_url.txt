@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'census-online.us' appears to be a legitimate domain, but the subdomain 'DUBINSKY' could be a misspelling or a deceptive attempt to mimic a legitimate domain. The use of 'DUBINSKY' instead of a more common name could be an attempt to deceive users.",
+  "TLD": "The TLD '.us' is a common and legitimate TLD for the United States. It is not considered high-risk or uncommon.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It follows a standard URL structure.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 2
+}
+```

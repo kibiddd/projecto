@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a legitimate lyrics website, with a common TLD, a domain that is not expiring soon, a legitimate registrar, and a professional design. The website does not request personal information or payment, does not offer suspicious products or services, and seems to be a legitimate entity. However, the lack of transparency in terms of contact details could be a potential risk. Overall, the website seems to be legitimate, but caution is advised.",
+  "verdict": 1
+}
+```

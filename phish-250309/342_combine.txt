@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'rtu-quiz.ru' appears to be a legitimate domain with a common TLD for Russia. However, the domain was registered recently, the registrar is associated with suspicious activities, and the contact information provided is a partial URL. The WHOIS information is in Russian and the domain is set to expire in less than a year. These factors raise concerns about the legitimacy of the website. The inability to load a screenshot of the website further adds to the uncertainty.",
+  "verdict": 7
+}
+```

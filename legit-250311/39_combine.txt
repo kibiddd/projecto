@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website is Amazon.ca, a well-known and reputable e-commerce platform. The URL, domain registration, and screenshot analysis do not indicate any signs of a scam. The website is requesting payment for the purchase of a book, which is expected for an e-commerce platform. The price of the book seems reasonable and there are options for used copies. The website has a professional design, high-quality images, and no obvious typos. The website provides clear contact information and details about the seller, Amazon.ca. There is no impersonation. The domain registration is not recent, but it is not expiring soon and the registrant and administrative contacts appear legitimate. The registrar is also a reputable registrar. There are no other suspicious registration factors present in the provided information.",
+  "verdict": 1
+}
+```

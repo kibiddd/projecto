@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'cylex.ca' appears to be a misspelling of 'cyclex.ca' or 'cylex.ca'. The misspelling could be an attempt to deceive users into thinking the domain is legitimate.",
+  "TLD": "The TLD '.ca' is a common and trusted TLD for Canada, which is not considered high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It follows a standard URL structure.",
+  "Other": "The URL contains a specific company name and a unique identifier, which could be legitimate. However, the deceptive domain name is a concern.",
+  "verdict": 4
+}
+```

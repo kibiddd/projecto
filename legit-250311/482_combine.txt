@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL provided appears to be a misspelling of a legitimate domain, which is a common tactic used by fraudsters. The domain is registered by a well-known registrar, but it is not recent and has a long expiration date. The website has a simple, functional design and does not seem to be trying to hide its identity. However, the deceptive domain is a significant factor in determining its likelihood of being fraudulent. The potential risks include phishing attempts, misleading information, and other malicious activities.",
+  "verdict": 7
+}
+```

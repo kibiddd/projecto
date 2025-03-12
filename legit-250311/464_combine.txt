@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website, https://www.bachelorsdegreeonline.com/grantham-university.php, appears to be a legitimate educational website offering information about online degree programs. The URL, domain registration, and screenshot analysis do not indicate any signs of a scam. The domain was created over 22 years ago and is not expiring soon. The WHOIS information is complete and provided by a reputable registrar, GoDaddy. The website does not appear to be directly requesting personal information or payments, and it has a professional format with no visible typos. The website provides contact information for the degree program and appears to be a legitimate site to provide information about the program. There are no signs of phishing, suspicious offers, impersonation, or other red flags.",
+  "verdict": 1
+}
+```

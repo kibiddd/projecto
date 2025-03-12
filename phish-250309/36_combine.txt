@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'cymcloud.com' appears to be a legitimate domain with a common TLD and a registrar known for hosting safe sites. The domain is set to expire soon, but the WHOIS information is complete and the registrar is legitimate. The screenshot analysis suggests that the website may not be directly related to'shapp' and contains placeholder text, which could indicate a lack of professionalism or an unprofessional approach. However, there is no clear evidence of phishing, suspicious offers, or impersonation. The website's design is modern, but the presence of placeholder text raises some concerns. Overall, the potential risks seem low, but the website's legitimacy and professionalism are questionable.",
+  "verdict": 4
+}
+```

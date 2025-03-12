@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a blog dedicated to South Indian actresses, specifically featuring a biography of Sarah Jane Dias. The URL contains a misspelling of the domain name, which could be an attempt to deceive users. The domain was created in 2000 and is not expiring soon, and the WHOIS information is complete and provided by a reputable registrar. The website has a basic blogspot format and does not contain any suspicious elements such as phishing, suspicious offers, or impersonation. The lack of transparency is common for blogs, and there is no request for personal information. Overall, the website seems to be a legitimate blog with no immediate red flags.",
+  "verdict": 1
+}
+```

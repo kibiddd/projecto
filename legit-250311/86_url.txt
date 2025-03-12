@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'letrs.indiana.edu' appears to be a legitimate educational institution, with no misspellings or deceptive subdomains.",
+  "TLD": "The TLD '.edu' is a common and trusted TLD for educational institutions, not considered high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It follows a standard pattern for accessing content on an educational institution's website.",
+  "Other": "The URL structure and the domain name are consistent with a legitimate educational institution's website.",
+  "verdict": 1
+}
+```

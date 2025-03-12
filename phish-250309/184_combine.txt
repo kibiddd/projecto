@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'coinebsprilogin.webflow.io' appears to be a phishing site impersonating Coinbase. The domain name contains a misspelling of 'coin' and is hosted on a registrar known for malicious sites. The domain registration is old and the domain status includes prohibited actions, which are unusual. The website's login page is a clear phishing attempt, and it lacks transparency and contact information. The poor design and low-quality images further indicate a lack of legitimacy. The domain name is highly suspicious, and the website is impersonating Coinbase to steal user credentials.",
+  "verdict": 10
+}
+```

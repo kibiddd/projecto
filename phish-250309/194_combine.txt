@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL contains a misspelling of 'dailymotion' and is hosted on Amazon CloudFront, which is a legitimate service. The domain was registered in 2008 and is not expiring soon. WHOIS information is complete and provided by a reputable registrar. However, the domain status indicates several prohibited actions, which could be a potential fraud indicator. The screenshot could not be analyzed due to an error.",
+  "verdict": 7
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL contains a misspelling of'myspace' as'myspace.com', which is a common tactic used by fraudsters to create deceptive domains. The domain was registered over 6 months ago and has more than a year remaining before it expires. The registrar, GoDaddy, is reputable and does not host malicious sites. The website asks for login information, which is expected for a social media platform, and the design is dated but not suspicious. The website provides basic information like terms of service and privacy policy. However, the misspelling of the domain name and the request for login information could potentially be used for phishing.",
+  "verdict": 3
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2004-04-17 and the registry expiry date is 2025-04-17. This means the domain is not recent (less than 6 months) and is not expiring soon (less than a year).",
+  "answer2": "The registrant, admin, and tech contact information is redacted for privacy. This is a common practice, but it can also be a red flag if combined with other suspicious factors.",
+  "answer3": "GoDaddy.com, LLC is a well-known and reputable registrar. There is no indication that GoDaddy hosts malicious sites or lacks verification.",
+  "answer4": "The domain status includes clientDeleteProhibited, clientRenewProhibited, clientTransferProhibited, and clientUpdateProhibited. These prohibitions can be a red flag, but they are not necessarily indicative of fraud. They could be set by the domain owner for various reasons.",
+  "verdict": 2
+}
+```

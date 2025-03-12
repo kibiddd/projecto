@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a legitimate sports-related site, focusing on the West Virginia Mountaineers Men's Basketball team for the 2008-09 season. The URL, domain, and WHOIS information do not indicate any immediate signs of fraud. The domain has been registered for over 23 years and is not expiring soon, which is typical for established websites. The registrar is reputable, and there are no red flags in the WHOIS information. The screenshot analysis did not reveal any phishing, suspicious offers, or other fraudulent activities. The website seems to be a genuine sports-related site without any apparent risks.",
+  "verdict": 1
+}
+```

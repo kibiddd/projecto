@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'en.affenknecht.com' contains a misspelling of 'en.wikipedia.org'. The use of 'affenknecht' instead of 'wikipedia' is a deceptive practice often used in phishing attempts.",
+  "TLD": "The TLD '.com' is a common and low-risk TLD, so this factor does not indicate fraud.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "The URL contains a misspelled domain and a deceptive subdomain, which are common indicators of phishing attempts.",
+  "verdict": 8
+}
+```

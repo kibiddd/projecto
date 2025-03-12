@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain expires on 31-Jul-2025, which is less than a year from today (2025-03-07). This is a potential indicator of fraud as it suggests the domain may be registered with the intention of quickly selling it before it expires.",
+  "answer2": "The contact information provided is complete and appears legitimate, with full names, addresses, and phone numbers. There are no redacted or suspicious details in the contact information.",
+  "answer3": "The registrar, COGENTCO.COM, is not known for hosting malicious sites or lacking verification. The registrar is a legitimate and reputable company.",
+  "answer4": "No other suspicious registration factors are present in the provided information.",
+  "verdict": 5
+}
+```

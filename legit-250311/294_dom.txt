@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain expires on 31-Jul-2025, which is less than a year from today (2025-03-07). This is a potential fraud indicator as it suggests the domain may be recently registered or about to expire soon.",
+  "answer2": "The contact information provided is complete and not redacted or suspicious. Both the administrative and technical contacts are listed with full details, including phone numbers and email addresses.",
+  "answer3": "The registrar for the.EDU domain is EDUCAUSE, which is known for hosting educational domains and is generally considered reputable. There is no indication that EDUCAUSE is known for hosting malicious sites or lacking verification.",
+  "answer4": "N/A",
+  "verdict": 3
+}
+```

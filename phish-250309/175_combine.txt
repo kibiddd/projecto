@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'chavemoveldigitalpt.com' appears to be a phishing scam. The domain name is a misspelling of a legitimate brand, and the domain was registered recently by a registrar known for hosting malicious sites. The WHOIS information indicates that the domain cannot be easily transferred or deleted, which is a common tactic used by fraudulent actors. The website is requesting sensitive information and impersonates a bank login page, which are classic phishing attempts. The domain name does not match the official name of the bank (Caixa), which is another strong indicator of phishing. The URL looks suspicious, and the website design appears simple and lacking sophistication.",
+  "verdict": 9
+}
+```

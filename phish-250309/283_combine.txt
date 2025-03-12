@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question, midasbuysami.ntdll.top, exhibits several red flags that suggest it may be a scam. The URL contains a misspelled'microsoft' and an unusual subdomain, both of which are deceptive. The TLD.top is high-risk and commonly associated with phishing. The domain was registered on an invalid date (2016-02-29), and the registrant information is redacted, which could indicate fraudulent activity. The domain status shows 'clientTransferProhibited', adding to its suspicious nature. Additionally, the website screenshot could not be loaded, which may indicate that the site is not operational or intentionally misleading. These factors combined suggest a high likelihood of the website being a scam.",
+  "verdict": 10
+}
+```

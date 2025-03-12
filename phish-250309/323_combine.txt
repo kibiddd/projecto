@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'prosystemsug.com' appears to be a misspelled version of 'prosys.com', which is a legitimate domain. The domain was created in 2013 and is not expiring soon. The registrar is NameCheap, Inc., a well-known and legitimate registrar. However, the website is requesting personal information and uses the Idaho Central Credit Union logo and branding, which is not related to the official Idaho Central Credit Union website. The URL does not seem to be related to Idaho Central Credit Union, which is suspicious. The website's design is simplistic and does not provide transparency or legitimacy. The website could potentially be a phishing attempt to steal personal data.",
+  "verdict": 9
+}
+```

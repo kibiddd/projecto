@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'omar10245.github.io/eireurher' appears to be a phishing attempt, mimicking a Facebook login page to collect user credentials. The domain 'eireurher' is suspicious and not a typical GitHub user handle pattern. The domain was registered over six months ago and is set to expire more than a year away. The website lacks transparency, proper contact information, and is of low quality. It is attempting to impersonate Facebook, which is a significant risk for users.",
+  "verdict": 10
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a directory listing for a web server, displaying an index of files on the server. It does not ask for personal information or payment, and the URL and domain registration do not show any immediate signs of being a scam. However, the domain was registered less than 6 months ago, which could be a potential indicator of fraud. The website lacks transparency, as it does not provide any contact information or information about the owner. The lack of content and information about the owner makes the domain slightly suspicious, but this is a weak signal given the nature of the website as an index.",
+  "verdict": 3
+}
+```

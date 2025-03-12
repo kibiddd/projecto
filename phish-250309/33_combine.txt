@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'commerzbank.myddns.me' appears to be a scam. The domain contains a misspelling of a legitimate domain and uses a less common TLD, which could be deceptive. The domain is registered for over 6 years, and the registrant information is redacted. No-IP, the registrar, is known for hosting dynamic DNS services, which can be used by malicious actors. The website's design is clean, but the URL and the purpose of the site are highly suspicious. The screenshot indicates the site is a 'Website Screenshot API', which could be used for malicious purposes such as stealing bank account information. The website's potential risks include phishing, stealing sensitive information, and impersonation.",
+  "verdict": 9
+}
+```

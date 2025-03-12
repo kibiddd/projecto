@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question, hosted on a webflow.io subdomain, presents itself as BlockFi but has several red flags. The URL contains hyphens and underscores, which are not typical in standard URL structures, and the domain was registered over six months ago with a long expiration date. The domain status includes prohibited actions, which could indicate it is not intended to be managed by the registrant. The screenshot analysis reveals that while the website does not directly request personal information or payments, it advertises a credit card and offers a high crypto reward, which could be suspicious. The website's professional design and lack of visible typos do not necessarily indicate legitimacy. The use of a webflow.io subdomain for a financial platform is unusual and raises concerns about its authenticity. The website could potentially be a scam, especially if it is impersonating BlockFi to steal user information or funds.",
+  "verdict": 7
+}
+```

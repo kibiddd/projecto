@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'www.fr.goldenmap.com/La_V%C3%A9rendrye' appears to be a map website with a misspelled domain and character substitution. The domain was registered over 6 months ago and is not expiring soon. The registrar is reputable, and the website does not seem to be asking for personal information or payment directly. The website has a clear and functional design, although the image shows a white page, which suggests a map. There are no suspicious offers or impersonation. However, the misspelled domain and character substitution are common indicators of phishing or fraudulent sites.",
+  "verdict": 3
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'tigerdirect.com' is a misspelling of 'tigerdirect.com'. This is a common tactic used by fraudsters to create deceptive domains that appear similar to legitimate ones.",
+  "TLD": "The TLD '.com' is a common and low-risk TLD. It is not uncommon or high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It follows a standard URL structure.",
+  "Other": "The URL appears to be a legitimate news article link, but the deceptive domain could be a red flag.",
+  "verdict": 3
+}
+```

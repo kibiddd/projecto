@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website is an obituary page hosted on a common TLD domain with a legitimate registrar. The domain is not expiring soon and has complete contact information. However, the registrar has been associated with hosting malicious sites in the past, and the domain has unusual restrictions and is unsigned for DNSSEC. The website does not appear to be a scam based on the provided analysis.",
+  "verdict": 2
+}
+```

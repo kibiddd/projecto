@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain JOSEPHBENAMI.COM was created on 2008-01-22 and has a registration expiry date of 2026-01-22. This means the domain is not recent (less than 6 months) and is not expiring soon (less than a year). Therefore, this factor does not indicate potential fraud.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted, partial, or suspicious. The contact information for the registrar is also provided, including an abuse contact email and phone number. Therefore, this factor does not indicate potential fraud.",
+  "answer3": "Tucows Domains Inc. is a well-known registrar and does not have a reputation for hosting malicious sites or lacking verification. Therefore, this factor does not indicate potential fraud.",
+  "answer4": "The domain status indicates that the domain is clientDeleteProhibited, clientTransferProhibited, and clientUpdateProhibited. This means that the domain owner cannot delete, transfer, or update the domain without the consent of the registrar. This could be a red flag for potential fraud, as it may indicate that the domain owner is trying to hide their identity or prevent others from taking control of the domain. However, this factor alone is not enough to determine if the domain is fraudulent.",
+  "verdict": 3
+}
+```

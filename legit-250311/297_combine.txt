@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website onmyagenda.blogspot.com appears to be an older blogspot site with a legitimate domain and recent WHOIS information. The URL does not contain deceptive patterns, and the domain is registered by a reputable registrar. The website does not appear to be a scam, as it does not request personal information, offer suspicious products, or have any phishing elements. However, it is important to note that blogspot sites are not inherently secure, and the design and features are limited. The website is transparent about its purpose and does not seem to be impersonating any other site.",
+  "verdict": 1
+}
+```

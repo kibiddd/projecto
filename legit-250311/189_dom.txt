@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain sff.org was registered on 1995-05-28, which is significantly older than 6 months. Therefore, it is not recent.",
+  "answer2": "The registrant, admin, and tech contact information is redacted for privacy. This is a common practice, but it can also be a red flag if combined with other suspicious factors.",
+  "answer3": "Network Solutions, LLC is a well-known registrar, but it has been associated with hosting malicious sites in the past. This could be a potential indicator of fraud.",
+  "answer4": "The domain status indicates that client transfers are prohibited, which is unusual and could be a sign of fraud. Additionally, the domain is registered with a registrar that has been flagged for hosting malicious sites.",
+  "verdict": 7
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'gzhyyygs.com' appears to be a deceptive domain with misspellings and character substitutions, which are common indicators of a scam. The domain is expiring soon, and the WHOIS information is complete with no redacted contact information. The registrar is a well-known registrar, and the domain status indicates that client transfers are prohibited. The screenshot analysis shows a standard 404 error page from Yahoo Japan, which could be a potential indicator of fraud. The URL looks a little suspicious, but there is no direct evidence of phishing, suspicious offers, or impersonation. The overall risk is low, but there are some potential risks associated with deceptive domains and suspicious URLs.",
+  "verdict": 4
+}
+```

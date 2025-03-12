@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question appears to be a phishing scam. It uses a misspelled domain name, an uncommon TLD, and a '.my' subdomain to create a deceptive appearance. The domain was registered over six years ago, and the contact information is redacted, which could be a red flag. The domain status indicates restrictions on transfer and updates, and the lack of DNSSEC signing is unusual. The screenshot analysis confirms that the website is impersonating Intesa Sanpaolo's login page, requesting personal information to access an online bank account, which is a classic phishing attempt. The URL and the PHP file used do not match those of Intesa Sanpaolo, further indicating the site is not legitimate. The website's format mimics a legitimate bank login page, but it is likely a copy designed to deceive users.",
+  "verdict": 10
+}
+```

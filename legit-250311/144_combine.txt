@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be hosted by a local library in Missouri, which suggests a high degree of trustworthiness. The URL contains a mix of uppercase and lowercase letters, and the path 'napoleon_scientist.shtml' is unusually long and specific, which could be a red flag for a phishing attempt. The domain was created on 2002-04-18 and is expiring on 2025-04-17, which is more than 6 months away. The domain status indicates that it is inactive, which is a red flag for potential fraud. The website does not request personal information or payment, and does not offer any suspicious deals or free products. The website appears to have a functional and professional design, though dated. There are no obvious typos or low-quality images. The website is hosted by the local library in Missouri, which suggests a high degree of trustworthiness and provides clear contact information. The use of 'lhl' instead of 'lib' might be an attempt to mislead users into thinking it's related to a library.",
+  "verdict": 3
+}
+```

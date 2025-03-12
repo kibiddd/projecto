@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'btinformationserver.weebly.com' appears to be a scam. The domain 'btinformationserver' is a misspelled version of 'bitinformationserver', which could be deceptive. The domain was registered recently, and the registrar is known for hosting fraudulent domains. The website is asking for an email or username and password, which is typical of a phishing attempt. The website appears to be trying to impersonate BT (British Telecom). The URL is not a valid URL as it uses weebly.com, a free website builder, which is a red flag. The design and structure of the website are also very basic. The domain status includes clientDeleteProhibited, clientTransferProhibited, and clientUpdateProhibited, which are unusual and could be indicative of a domain being managed by a fraudulent entity. The DNSSEC is unsigned, which is another potential red flag.",
+  "verdict": 9
+}
+```

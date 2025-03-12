@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question, https://pub-51c901f8f94e4cacbefca265b7698173.r2.dev/index.html, appears to be a scam based on several indicators. The URL contains a misspelled 'r2' instead of 'r2dev', which is a common tactic used by fraudsters. The domain was registered recently and has a short remaining registration period, which can be a potential fraud indicator. The website requests a secret recovery phrase, which is a sensitive piece of information, making it a phishing attempt. The website is pretending to be Metamask, but the URL does not belong to Metamask. The unusual URL structure makes it less trustworthy. The domain status includes clientDeleteProhibited, clientTransferProhibited, and clientUpdateProhibited, which are unusual and can be indicative of a domain that is being managed by a third party or is under some form of restriction.",
+  "verdict": 9
+}
+```

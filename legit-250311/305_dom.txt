@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain NTS.EDU was registered on 08-Jun-1995 and expires on 31-Jul-2025. This domain is not recent (less than 6 months) and is not expiring soon (less than a year).",
+  "answer2": "The contact information provided is complete and not redacted or partial. The administrative and technical contacts are clearly listed with full names, addresses, and phone numbers.",
+  "answer3": "The registrar for the domain NTS.EDU is not explicitly mentioned in the provided information. However, the name servers listed are from Cloudflare, which is a reputable and widely used registrar and DNS provider. There is no indication that Cloudflare is known for hosting malicious sites or lacking verification.",
+  "answer4": "No other suspicious registration factors are mentioned in the provided information.",
+  "verdict": 1
+}
+```

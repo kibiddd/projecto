@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain RUTALEE.COM was created on 1999-10-26 and has an expiration date of 2025-10-26. Since today is 2025-03-07, the domain is not recent (less than 6 months) and is not expiring soon (less than a year).",
+  "answer2": "The contact information provided by the registrar (Network Solutions, LLC) is complete and not redacted or partial. The abuse contact email and phone number are also provided.",
+  "answer3": "Network Solutions, LLC is a well-known registrar, but it has been associated with hosting malicious sites in the past. This could be a potential red flag.",
+  "answer4": "The domain status indicates that client transfers are prohibited, which could be a sign of a domain being held for malicious purposes. Additionally, the DNSSEC is unsigned, which is a common practice for domains that are not intended for legitimate use.",
+  "verdict": 7
+}
+```

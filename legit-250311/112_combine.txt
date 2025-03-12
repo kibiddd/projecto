@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website dvhh.org appears to be a legitimate non-profit organization focused on heritage and cooking. The URL does not contain any deceptive elements, and the domain is registered by a well-known registrar. However, the domain status is 'pendingTransfer', which could be a potential indicator of fraud. The website does not request personal information or payment, and it does not offer any products or services. The website appears to be an older website with a basic design and is part of a larger organization that provides information about its mission. Despite these factors, there are no obvious signs of phishing, suspicious offers, or impersonation. The verdict is 1, indicating that it is not likely a scam website.",
+  "verdict": 1
+}
+```

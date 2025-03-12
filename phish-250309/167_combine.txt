@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'cb-new-notif.top' is a scam website that uses deceptive domain names, is hosted by a registrar known for malicious sites, and displays phishing characteristics. It claims to offer a new transaction and a payout from Binance.com, urging users to complete a transaction search procedure within 24 hours. The website lacks transparency, does not provide contact information, and attempts to impersonate legitimate services like Coinbase. The URL domain does not match the official Coinbase domain, and the domain is relatively new with less than a year before expiration. The website's request for sensitive information or payments under pressure is a classic phishing attempt.",
+  "verdict": 10
+}
+```

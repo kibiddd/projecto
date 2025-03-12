@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain indiebound.org was registered on 2007-09-26, which is over 17 years ago. Therefore, it is not recent and not expiring soon.",
+  "answer2": "The contact information for the registrant, admin, and tech contacts is redacted for privacy. This is a common practice and does not necessarily indicate fraud.",
+  "answer3": "GoDaddy.com, LLC is a well-known and reputable registrar. There is no indication that GoDaddy hosts malicious sites or lacks verification.",
+  "answer4": "The domain status indicates that clientDeleteProhibited, clientRenewProhibited, clientTransferProhibited, and clientUpdateProhibited. This could be a security measure to prevent unauthorized changes to the domain registration.",
+  "verdict": 1
+}
+```

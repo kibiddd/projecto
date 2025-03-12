@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website'stirring-pixie-498c83.netlify.app' appears to be a scam. The domain name contains a misspelling of'stirring-pixie', which could be an attempt to deceive users. The URL uses a subdomain of a known service, but the deceptive domain name is a red flag. The domain was created in 2018 and is not expiring soon, which is not indicative of fraud. The registrant and tech contact information is redacted, and the registrar is well-known. The domain status is 'clientTransferProhibited', which could be a legitimate restriction or a red flag. The website is asking users to create or restart their Netflix membership, which could be a phishing attempt. The website's design looks clean and professional, but the URL is unusual for a legitimate Netflix site. The website is hosted on Netlify, which can be used for hosting phishing sites. The website is impersonating Netflix.",
+  "verdict": 9
+}
+```

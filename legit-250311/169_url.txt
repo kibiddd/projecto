@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'wn.com' is a misspelling of 'wn.com', which is a common misspelling of 'wn.com' (WNN.com, a well-known news website).",
+  "TLD": "The TLD '.com' is a common and low-risk TLD.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters.",
+  "Other": "The URL appears to be a legitimate link to an interview with Alain Montpetit on a music video show.",
+  "verdict": 1
+}
+```

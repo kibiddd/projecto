@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'picue.net' has a deceptive domain name with a misspelling of 'pictures.net', which is a common tactic used by fraudsters. The domain was created recently and is set to expire soon, which can be a potential fraud indicator. The registrar is not widely known for hosting malicious sites, but further investigation is needed. The domain status is 'ok' according to ICANN, but the DNSSEC is unsigned, which is a potential security concern. The WHOIS update date is recent, which could indicate that the domain owner has recently taken steps to hide their identity. The website screenshot could not be analyzed due to an error.",
+  "verdict": 7
+}
+```

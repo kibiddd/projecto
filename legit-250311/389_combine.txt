@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be an old news article from 2010, hosted on a domain that is a misspelling of a legitimate domain. The domain has a long history and is not a recent registration. The website design is outdated but not necessarily indicative of fraud. The domain is hosted by a reputable registrar, and there are no immediate red flags from the screenshot analysis. However, the deceptive domain could be a potential risk. The website seems to be a legitimate news article, but the deceptive domain and the age of the website warrant caution.",
+  "verdict": 3
+}
+```

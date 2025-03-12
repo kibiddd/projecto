@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain registration is not recent (less than 6 months) and is not expiring soon (less than a year). The domain was activated on 23-Jan-1986 and expires on 31-Jul-2027. Therefore, it is an old domain.",
+  "answer2": "The contact information is provided and appears to be complete and valid. There are no redacted or suspicious details in the contact information.",
+  "answer3": "The registrar is EDUCAUSE, which is known for hosting.EDU domains and is generally considered a reputable registrar. There is no indication that EDUCAUSE hosts malicious sites or lacks verification.",
+  "answer4": "There are no other suspicious registration factors provided in the information.",
+  "verdict": 1
+}
+```

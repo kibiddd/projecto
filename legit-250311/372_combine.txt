@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website is a video-sharing platform, Dailymotion, which is not requesting personal information or payment in this context. The domain is not recent, but the WHOIS information is complete and the registrar is not widely known for hosting malicious sites. However, the domain status indicates that the owner has taken steps to prevent changes to the domain's registration and server settings, which could be indicative of an attempt to hide or protect fraudulent activity. The website appears to have a standard design for a video-sharing platform and the content is clear and professional. Dailymotion is a well-known website with readily available contact information.",
+  "verdict": 3
+}
+```

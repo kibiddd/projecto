@@ -1,17 +1,23 @@
 # Use a pipeline as a high-level helper
 from transformers import pipeline
+from datetime import datetime
 import whois
 
 def domain_analysis(pipe, url, info):
 	# pipe = pipeline("text-generation", model="microsoft/Phi-4-mini-instruct", trust_remote_code=True)
-	task = """Based on the domain registration information, analyze potential fraud indicators:
-(1) Is the registration recent (less than 6 months) or expiring soon (less than a year)? Today is 2025-03-07.
-(2) Is the contact information redacted, partial, or suspicious?
-(3) Is the registrar known for hosting malicious sites or lacking verification?
-(4) Other suspicious registration factors. Answer N/A if none.
+	date = datetime.today().strftime('%Y-%m-%d')
+	task = f"""Analyze this domain registration data and provide an overall scam risk score from 0-10 (10 = highest risk). Consider these factors:
+	IMPORTANT: TODAY IS {date}.
+1.  Registration Date: New domains (registered <6 months ago) are generally riskier. 
+2.  Expiry Date: Domains expiring soon (within 1 year) may be riskier. 
+3.  Contact Information: Redacted, incomplete, or suspicious WHOIS details increase risk.
+4.  Other Factors: Any other suspicious registration information
+	If no other information than URL is given, give a score of 0 and N/A as explanation."""
 
-Based on these factors, provide your verdict on a scale of 1 to 10, with 10 being most likely fraudulent.
-Output in strict JSON format: {"answer1": explanation1, "answer2": explanation2, "answer3": explanation3, "answer4": explanation4 or "N/A", "verdict": 1-10}"""
+	format_specification = """Output in strict JSON format:
+	{"registration":"reasoning","expiry":"reasoning","contact":"reasoning","other":"reasoning","score":1-10}"""
+
+	task = task + "\n" + format_specification
 
 	# info = whois.whois_info(url)
 	task = task + "\nURL=" + url + "\nInfo=" + str(info)
@@ -30,5 +36,10 @@ Output in strict JSON format: {"answer1": explanation1, "answer2": explanation2,
 	return content
 
 if __name__ == "__main__":
-	domain_analysis(url="https://cyberfraudlawyers.com/")
+	pipe = pipeline("text-generation", model="microsoft/Phi-4-mini-instruct", trust_remote_code=True)
+	#url = 'http://yummy-rhinestone-button.glitch.me/hover.html'
+	url = 'https://scraper.tech/screenshots/4080609971.png'
+	with open('legit-250311/414.txt', 'r') as f:
+		info = f.read()
+	domain_analysis(pipe, url, info)
 

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question is hosted on a Webflow domain that contains a misspelling of 'webflow.io', which could be an attempt to deceive users. The domain was registered over six months ago and is not expiring soon, which is not inherently suspicious. However, the domain status includes prohibitions on certain actions, which could be indicative of a domain not intended to be managed by the registrant. The screenshot analysis reveals that the website is a promotional page for a cryptocurrency exchange platform, with a professional design and no direct phishing attempts in the displayed context. However, the use of a Webflow domain for a well-established company like crypto.com is unusual and could indicate potential phishing or fraud. The website does not provide contact information, which could be a red flag. Overall, the website could be a scam, but there is not enough direct evidence of phishing or fraudulent activity in the provided context.",
+  "verdict": 7
+}
+```

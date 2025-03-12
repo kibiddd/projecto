@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question, my-site-100108-107046.weeblysite.com, appears to be a scam. The URL contains a misspelled domain extension, which is a common tactic used by scammers to create deceptive websites. The domain was registered over a decade ago and is not expiring soon, which could indicate that the website is not a recent scam. However, the domain status indicates that client actions such as deletion, transfer, and update are prohibited, which could be a red flag. The screenshot analysis reveals that the website is requesting a user ID and password, which is a common tactic in phishing attempts. The website logo and domain name suggest an attempt to impersonate AT&T, which is highly suspicious. The use of a generic Weebly subdomain is also highly suspicious for an AT&T login page. The password field obscures the password with asterisks, which is typical, but the lack of transparency and contact information is concerning. Overall, the website poses significant risks to users who may be tempted to provide their personal information.",
+  "verdict": 9
+}
+```

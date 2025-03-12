@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question, http://base-ndaxx-help.webflow.io, appears to be a misspelled version of a legitimate domain, ndax.io, with the intention of deceiving users. The domain was registered over six months ago and is not expiring soon, which could indicate a long-term scam operation. The website's design is clean and professional, but it lacks transparency as no contact information is visible. The URL is not a legitimate domain, and the website is likely a mockup or prototype rather than a real service. The primary offer of trading crypto is not inherently suspicious, but the website's intent to impersonate a legitimate company raises concerns. The domain registration and WHOIS information do not indicate any immediate red flags, but the overall context suggests a high risk of being a scam.",
+  "verdict": 8
+}
+```

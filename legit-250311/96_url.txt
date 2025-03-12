@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "No misspellings or character substitutions detected. The domain appears to be a legitimate medical dictionary.",
+  "TLD": "The TLD '.com' is a common and trusted TLD, not high-risk.",
+  "Patterns": "The URL is of a reasonable length and does not contain random strings or unusual characters.",
+  "Other": "The URL appears to be legitimate and points to a known and trusted source.",
+  "verdict": 1
+}
+```

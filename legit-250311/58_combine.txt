@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website eventective.com/USA/Washington/Zillah/ appears to be a legitimate directory of event venues and vendors in Washington, Zillah. The URL, domain registration, and screenshot analysis do not indicate any signs of a scam. The domain is registered with a reputable registrar, GoDaddy, and the WHOIS information is complete and not suspicious. The website has a clean and professional design, and it does not appear to be requesting personal information or payment directly in the provided screenshot. However, further interaction might lead to such requests. Overall, it is a well-established directory of event venues and vendors.",
+  "verdict": 1
+}
+```

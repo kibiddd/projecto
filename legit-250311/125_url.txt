@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'bravehost.com' is not deceptive as it does not contain misspellings, character substitutions, or deceptive subdomains. It is a legitimate domain used by Brave, a privacy-focused web browser.",
+  "TLD": "The TLD '.bravehost.com' is not uncommon or high-risk. Brave is a well-known company, and the TLD is associated with their services.",
+  "Patterns": "The URL does not contain suspicious patterns such as excessive length, random strings, or unusual characters. It appears to be a standard URL for a Brave-hosted website.",
+  "Other": "There are no other suspicious URL factors present in this URL.",
+  "verdict": 1
+}
+```

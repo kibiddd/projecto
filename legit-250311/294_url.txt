@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "No misspellings, character substitutions, or deceptive subdomains detected.",
+  "TLD": "Common TLD (.edu) which is generally considered safe.",
+  "Patterns": "URL is within a reasonable length and contains expected characters for an educational institution.",
+  "Other": "The URL appears to be a legitimate link to a research paper on a university website.",
+  "verdict": 1
+}
+```

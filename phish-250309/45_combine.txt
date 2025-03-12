@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL 'http://finanmaiscredwwsw.site' contains misspellings and unusual characters, suggesting an attempt to deceive users. The domain was registered recently and is expiring soon, which is a common indicator of potential fraud. Contact information is redacted, and the domain is hosted by a registrar known for hosting a large number of domains, some of which may be malicious. The domain status includes several prohibitions, which can be indicative of fraudulent activity. However, a screenshot could not be analyzed due to an error loading the website screenshot.",
+  "verdict": 8
+}
+```

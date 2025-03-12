@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'http://www.keonhacai.luxury/0945er787i6785' appears to be a scam based on the analysis of the URL, domain registration, and the fact that a screenshot could not be loaded. The URL contains a misspelled domain name, an uncommon TLD, and an excessive length with a random string. The domain is less than 6 months old, with a short expiry date, and is registered with a registrar known for hosting malicious sites. Contact information is redacted, and the domain is prohibited from transfer and unsigned for DNSSEC. The inability to load a screenshot further suggests the website may not be legitimate.",
+  "verdict": 10
+}
+```

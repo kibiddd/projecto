@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "No misspellings, character substitutions, or deceptive subdomains detected.",
+  "TLD": "The TLD.myspace is common and not considered high-risk.",
+  "Patterns": "The URL is of normal length and does not contain random strings or unusual characters.",
+  "Other": "No other suspicious URL factors detected.",
+  "verdict": 1
+}
+```

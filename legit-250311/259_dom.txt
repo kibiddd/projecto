@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain registration is not recent; it was created on 2003-11-13 and is expiring in 2025-11-13, which is more than 6 months from the current date of 2025-03-07. Therefore, it is not a recent registration.",
+  "answer2": "The contact information provided by the registrar (Tucows Domains Inc.) is not redacted or partial; it includes an abuse contact email and phone number. There is no indication that the contact information is suspicious.",
+  "answer3": "The registrar, Tucows Domains Inc., is a well-known registrar and is not typically associated with hosting malicious sites. However, the DNSSEC is unsigned, which could be a security concern, but it does not necessarily indicate malicious intent. The registrar's reputation for verification is not explicitly mentioned, but Tucows is a reputable registrar.",
+  "answer4": "There are no other suspicious registration factors mentioned in the provided information.",
+  "verdict": 1
+}
+```

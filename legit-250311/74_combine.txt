@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'en.viamerique.com' appears to be a recent registration with a deceptive domain name that closely resembles 'enviromarque.com'. The URL does not contain any immediate red flags, but the similarity to a potentially legitimate domain could be a concern. The domain registration is recent, and the contact information and registrar details are not provided, which could be a potential risk. The screenshot analysis does not reveal any phishing attempts, suspicious offers, or impersonation, but the design quality cannot be judged due to the blank image. Overall, the website could be a scam due to the deceptive domain name and lack of transparency in registration details.",
+  "verdict": 6
+}
+```

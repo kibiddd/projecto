@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'latambaratonacional.xyz' appears to be a scam. The domain contains a misspelling of 'lombard' and the addition of 'national', which is not typical for Brazilian entities. The TLD '.xyz' is uncommon and considered high-risk. The domain was registered recently, and the registrar is not well-known, with redacted contact information and unusual domain status. The website offers a suspicious discount on flights and attempts to impersonate the legitimate LATAM Airlines website. The URL is not the official LATAM domain, raising further red flags. The website's design may be poor, and it requests origin and destination information, which is standard for flight searches but could be part of a phishing attempt. The overall verdict is that the website is likely a scam.",
+  "verdict": 9
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website, Sputnik Music, is a music review site with a common TLD and a domain that is not recent but not necessarily fraudulent. The domain has some unusual restrictions and lacks DNSSEC, which could be suspicious. The website design is dated but functional, and there are no obvious phishing attempts or impersonation. The contact information is not present on the review page, which is expected for such content. Overall, there are some minor concerns, but nothing that strongly indicates a scam.",
+  "verdict": 3
+}
+```

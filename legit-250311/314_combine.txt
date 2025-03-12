@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'tangoairlines.net' appears to be a scam. The domain was registered recently, lacks contact information, and the domain name does not match the expected name. The website is a blank white page, which is a severe issue with the site's design and functionality. The URL is very generic and does not lead to the known major airlines. A blank webpage is a major red flag.",
+  "verdict": 9
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain santander.co.uk was registered on 14-Aug-2003 and is set to expire on 14-Aug-2025. This means it has been registered for over 22 years and is not recent nor expiring soon. Therefore, this factor does not indicate potential fraud.",
+  "answer2": "The WHOIS information provided does not indicate that the contact information is redacted, partial, or suspicious. The registrar's contact information is provided, and there are no indications of suspicious contact details.",
+  "answer3": "CSC Corporate Domains, Inc. is a known registrar, and there is no indication that they are known for hosting malicious sites or lacking verification. Therefore, this factor does not indicate potential fraud.",
+  "answer4": "There are no other suspicious registration factors provided in the WHOIS information.",
+  "verdict": 1
+}
+```

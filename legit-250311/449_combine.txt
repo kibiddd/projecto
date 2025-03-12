@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website, https://www.norwoodma.areaconnect.com/attorneys/, appears to be a legitimate directory listing attorneys in the Norwood, MA area. The URL, domain registration, and WHOIS information do not indicate any immediate signs of fraud. The screenshot analysis also suggests a low risk of phishing, suspicious offers, and impersonation. The website seems to be providing public information transparently and does not appear to be a scam. However, the domain's registration date is quite old, and the domain status indicates that client actions are prohibited, which could be a potential red flag. Overall, the website seems legitimate, but the old domain registration date and restricted client actions warrant caution.",
+  "verdict": 2
+}
+```

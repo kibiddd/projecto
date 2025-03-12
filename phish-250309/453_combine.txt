@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website, anelectriciancom.com, appears to be a legitimate company with a common and low-risk TLD. However, the domain is newly registered and expiring soon, which could be a red flag. The WHOIS information is complete and the registrar is reputable. The website is requesting a password, which is a form of phishing. The domain name is generic and could be used for various purposes. The website has a standard format, but without a URL provided, it's difficult to assess fully. Based on the given image, it appears to be a legitimate website. The website is potentially risky due to the phishing attempt and the recent domain registration.",
+  "verdict": 5
+}
+```

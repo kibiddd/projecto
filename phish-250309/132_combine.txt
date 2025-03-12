@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question appears to be a scam, attempting to impersonate the legitimate crypto.com platform. It uses a deceptive domain name with a double hyphen, which is not standard in domain names and could be an attempt to mislead. The domain was registered in 2013 and is not expiring soon, which is not a typical characteristic of scam domains. However, the domain is hosted by MarkMonitor Inc., a registrar known for hosting malicious sites, and the domain status indicates that certain actions are prohibited, which could be a tactic used by scammers. The website lacks transparency, as it does not display contact information, and it is using the crypto.com branding and layout but with a non-official domain name. The website is running on Webflow, which is a common platform for prototyping sites, but the domain name itself is suspicious. The website does not request personal information or payment directly, but it is still promoting a high-risk endeavor (crypto trading) and has a suspicious offer. The website has a clean, professional design, but the use of a non-official domain is a significant red flag. The overall verdict is that the website is likely a scam, with a score of 8 out of 10.",
+  "verdict": 8
+}
+```

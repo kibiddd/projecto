@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "No misspellings, character substitutions, or deceptive subdomains detected.",
+  "TLD": "The TLD.fm is a common and trusted domain for radio stations, not high-risk.",
+  "Patterns": "The URL follows a standard and expected pattern for a radio station website, with no excessive length or random strings.",
+  "Other": "No other suspicious URL factors detected.",
+  "verdict": 1
+}
+```

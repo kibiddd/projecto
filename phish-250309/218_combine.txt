@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'https://gemminilogin.godaddysites.com' appears to be a scam. The domain 'godaddysites.com' is known for deceptive practices, and the website's design and content raise suspicions. Although the domain is not recent and the registrar is reputable, the use of a deceptive domain and the website's attempt to impersonate a legitimate cryptocurrency exchange platform (Gemini) are significant red flags. The website does not provide sufficient transparency or contact information, and its URL structure is misleading. The overall risk associated with this website is high.",
+  "verdict": 9
+}
+```

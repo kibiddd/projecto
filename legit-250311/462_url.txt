@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain'ref.little-dixie.lib.mo.us' contains misspellings and character substitutions, which are common indicators of deceptive domains.",
+  "TLD": "The TLD '.mo.us' is uncommon and not typically associated with legitimate websites, which could be a red flag.",
+  "Patterns": "The URL contains a suspicious pattern with an unusual string 'deaths.%60MAIDEN%60' which includes a non-printable character (ASCII 0x60) and could be an attempt to obfuscate the actual query parameter.",
+  "Other": "The URL structure itself is unusual and not typical for a legitimate website, which could be another indicator of fraud.",
+  "verdict": 8
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'ayi-skz.org' appears to be a newly registered domain with a '.org' TLD, which is typically associated with non-profit organizations. The domain was registered less than 6 months ago and will expire in less than a year, which are common characteristics of potentially fraudulent sites. The registrar, Gname.com Pte. Ltd., has a history of hosting domains associated with malicious activities. The domain status indicates that client transfers are prohibited and it is unsigned for DNSSEC, reducing its trustworthiness. The website lacks transparency, with missing contact details, and the URL is highly suspicious, suggesting a potential for malicious intent. The screenshot analysis does not show any active phishing attempts or suspicious offers, but the lack of contact information remains a red flag. Overall, the website exhibits several risk factors that suggest it may be a scam.",
+  "verdict": 8
+}
+```

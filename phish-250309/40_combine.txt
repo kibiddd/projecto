@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL contains a misspelling of 'deceptive' in the domain name, which could be an attempt to mislead users. The domain '.dev' is commonly used for development and testing purposes, not typically high-risk. The domain was registered on 2020-09-02 and is expiring on 2026-09-02, which is more than 6 months away, indicating it is not recent. The contact information for the registrant, admin, and tech contacts is redacted for privacy, which is a common practice but can also be a red flag if combined with other suspicious factors. Cloudflare, Inc. is a reputable registrar known for hosting malicious sites, but it is also a legitimate and widely used registrar for many legitimate businesses. The domain status includes clientDeleteProhibited, clientTransferProhibited, and clientUpdateProhibited, which are unusual and could indicate that the domain is being managed by a third party with restricted access. This could be a sign of potential fraud. The screenshot of the website could not be analyzed due to an error loading the website screenshot.",
+  "verdict": 7
+}
+```

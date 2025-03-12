@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "Box Office Montreal's website appears to have a legitimate domain and registrar, but the domain registration is not recent and the website is currently blank, which is unusual for a legitimate business. The lack of content on the website is a significant red flag, suggesting it may be abandoned or fraudulent. The contact information provided is valid, but the website's inactivity and lack of content raise concerns about its legitimacy.",
+  "verdict": 7
+}
+```

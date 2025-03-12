@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a legitimate Steam community profile page, with no immediate signs of phishing or malicious intent. The domain is set to expire soon, but the registrar is reputable and provides complete WHOIS information. The website design is legitimate, and the profile does not request personal information or payment. However, the lack of transparency regarding the website's details could be a potential risk. The final verdict is low risk.",
+  "verdict": 2
+}
+```

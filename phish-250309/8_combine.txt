@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website http://6619m.com appears to be a scam website. The URL analysis indicates no deceptive domain or suspicious patterns, but the domain is relatively new and has an expiring registration. The domain analysis reveals that the domain is hosted by Metaregistrar BV, which is not inherently malicious, but the domain status indicates prohibited client transfers and uses unsigned DNSSEC. The screenshot analysis shows that the website is likely attempting to steal personal information or obtain payment details by impersonating bet365, offers a suspicious betting site, displays poor formatting and low-quality images, lacks transparency, impersonates a well-known betting site, and has an unusual domain name and presence of Chinese characters. The website presents significant risks, including phishing, impersonation, and potential financial loss.",
+  "verdict": 10
+}
+```

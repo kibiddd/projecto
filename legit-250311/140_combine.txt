@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL, domain registration, and screenshot analysis indicate potential risks. The domain registration date is less than 6 months from today, which is a common indicator of fraud. WHOIS data is complete but does not provide registrar information, and the domain is not found, suggesting it may be non-existent or fraudulent. The screenshot analysis shows a blank page, making it impossible to assess the website's content or design quality. Overall, these factors suggest a high likelihood of the website being a scam.",
+  "verdict": 9
+}
+```

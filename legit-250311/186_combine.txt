@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be related to Southern Illinois University (SIU) Salukis athletics, based on the URL and available content. The domain is expiring soon, which could be a potential fraud indicator. The WHOIS information is complete and the registrar is reputable. The website does not appear to be directly requesting personal information or payment, and does not seem to be offering any suspicious products or services. The website appears to be a sports archive or news article and the format looks standard for the time period. The website does not appear to be impersonating anything. However, the domain's misspellings and character substitutions, as well as the soon-to-expire domain, could be potential risks.",
+  "verdict": 4
+}
+```

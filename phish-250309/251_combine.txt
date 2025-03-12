@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question is a clone of the Netflix landing page, hosted on a GitHub page. It mimics the official Netflix site and offers unlimited movies and TV shows, which is standard for Netflix. The domain 'imbhaumik168.github.io' appears to be a legitimate GitHub user handle followed by a repository name, and the '.io' TLD is commonly used for organizations. The domain was registered over six months ago and is set to expire more than a year from now. The domain status includes common restrictions for domains managed by GitHub, Inc. The website does not request payment information at this stage and has a reasonable design and image quality. However, it lacks a valid SSL certificate and does not provide contact information, which are minor red flags. The website is clearly impersonating Netflix, which is a potential sign of malicious intent.",
+  "verdict": 6
+}
+```

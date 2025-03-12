@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a legitimate financial institution offering interest on cryptocurrency holdings. The URL contains a deceptive domain, but the TLD is a subdomain of a commonly used domain for web development services. The domain registration is not recent, but the registrar is reputable. The website has a professional design and no obvious typos. Contact information is not available in the screenshot, but it is reasonable to expect that a financial institution has this information accessible on its website. The website does not appear to be a scam based on the initial analysis.",
+  "verdict": 2
+}
+```

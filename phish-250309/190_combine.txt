@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL contains a misspelled 'weebly.com', the domain is expiring soon, and WHOIS information is complete but the domain status shows prohibited client actions and an unsigned DNSSEC. The screenshot analysis indicates a phishing attempt, impersonating the AT&T login page, and requesting personal information. The website appears to be a scam with phishing characteristics and potential impersonation.",
+  "verdict": 9
+}
+```

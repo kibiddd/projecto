@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'onma.edu.ua' appears to be a legitimate educational institution. However, the URL contains a misspelled subdomain'miwnf_uk', which could be an attempt to deceive users.",
+  "TLD": "The TLD '.ua' is common for Ukraine, which is a legitimate country code top-level domain. There are no uncommon or high-risk TLDs present in this URL.",
+  "Patterns": "The URL contains a suspicious pattern with the misspelled subdomain'miwnf_uk'. The rest of the URL follows a standard structure for educational websites.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 3
+}
+```

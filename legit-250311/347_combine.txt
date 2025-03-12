@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website'realestatesuzie.com' appears to be a scam due to a misspelling in the domain name, which is a common tactic used by fraudsters. The domain was registered recently and is set to expire in less than a year, which could be a potential fraud indicator. The WHOIS information is complete and the registrar is reputable, but the domain is in a clientHold state and DNSSEC is unsigned. The screenshot analysis did not reveal any phishing, suspicious offers, or other red flags. However, the misspelling in the domain name and the short registration period are concerning.",
+  "verdict": 7
+}
+```

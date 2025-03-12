@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL contains a misspelling of 'xn--', which is a common tactic used in phishing attacks to bypass filters. The domain was created over a decade ago and is currently reserved, which is not uncommon but does not indicate fraud. The WHOIS information is insufficient to determine the reputation of the registrar. The screenshot could not be analyzed due to an error in loading the website screenshot.",
+  "verdict": 3
+}
+```

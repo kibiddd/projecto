@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website, thebobclub.com, appears to be a community or club website that hosts a contest to identify all the Bobs in pictures to win free merchandise. The domain was registered in 2003 and is expiring in 2025, which is not recent. The website's design is basic and outdated, and it requests personal information from users, which could be a precursor to phishing. The website also promotes the sale of merchandise, but it is unclear if these products will be delivered. The website lacks detailed contact information and has several links within the main page, making the overall layout appear unorganized.",
+  "verdict": 5
+}
+```

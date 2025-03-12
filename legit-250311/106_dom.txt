@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 14-Dec-2007 and is set to expire on 14-Dec-2025. This means it has been registered for 18 years and is not expiring soon (less than a year). Therefore, the domain is not recent (less than 6 months).",
+  "answer2": "The contact information is not provided in the WHOIS data, which is common practice for privacy reasons. However, the lack of contact information alone does not necessarily indicate fraud.",
+  "answer3": "Fasthosts Internet Ltd is the registrar, and there is no information provided about whether they are known for hosting malicious sites or lacking verification. Therefore, this factor cannot be assessed with the given information.",
+  "answer4": "The domain has been registered for a long time (18 years) and is not expiring soon. The WHOIS data is provided by Nominet UK, which is a reputable registry. There are no other suspicious registration factors mentioned.",
+  "verdict": 1
+}
+```

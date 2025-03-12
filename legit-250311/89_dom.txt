@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain NNDB.COM was created on 2002-08-08 and has an expiration date of 2025-08-08. This means the domain is not recent (less than 6 months) and is not expiring soon (less than a year).",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or partial. The contact information for the registrar is also provided.",
+  "answer3": "Network Solutions, LLC is a well-known registrar, but it is not typically associated with hosting malicious sites. However, it is worth noting that the domain is registered with Network Solutions, which may raise some suspicion.",
+  "answer4": "The domain is registered with Network Solutions, LLC, which is a reputable registrar. The domain status is 'ok' and the DNSSEC is unsigned, which is not necessarily a red flag. The domain name NNDB.COM is a legitimate domain name and is not indicative of fraud.",
+  "verdict": 2
+}
+```

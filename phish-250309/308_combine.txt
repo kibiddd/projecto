@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website portal-app-ndax-io----cdn-x-cdn.webflow.io appears to be a platform for cryptocurrency trading. The URL contains a deceptive subdomain, and the domain was registered over six months ago with a long expiration date. The domain's contact information is redacted, and it is hosted by MarkMonitor Inc., which is known for hosting malicious sites. The domain status includes prohibited actions that could indicate third-party management. The website's design looks professional, but it is hosted on Webflow, which is not a legitimate source based on the URL. The screenshot does not show any direct requests for personal information or payment, but the website's purpose and hosting raise concerns. The website could potentially be a scam, but there is not enough evidence to be certain.",
+  "verdict": 6
+}
+```

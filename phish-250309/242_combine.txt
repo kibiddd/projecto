@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL contains a misspelled domain name, which could be a sign of a deceptive URL. The domain registration is not recent and has a long expiration date, which is not a strong indicator of fraud. The contact information is redacted, which is common but can be a red flag when combined with other suspicious factors. MarkMonitor Inc. is a reputable registrar, and the domain status includes common restrictions. The screenshot analysis shows that the website appears to be for Ledger, a cryptocurrency hardware wallet provider, and does not directly ask for personal information or payment. The website has a modern and professional design, but there is not enough information to evaluate transparency or impersonation. The webflow.io domain can be used to host legit websites, so further verification of the domain is needed. Overall, the website could be a scam, but there is not enough information to make a definitive conclusion.",
+  "verdict": 5
+}
+```

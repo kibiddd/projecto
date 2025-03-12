@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain name'realestatesuzie.com' contains a misspelling of'realestate'. This is a common tactic used by fraudsters to create a domain that looks similar to a legitimate one, which can trick users into thinking it's a trustworthy site.",
+  "TLD": "The TLD '.com' is a common and trusted TLD. It is not considered high-risk or uncommon.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure for a real estate website.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 2
+}
+```

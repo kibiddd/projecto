@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'ncaawiki.com' appears to be a misspelled version of a legitimate domain, potentially aiming to deceive users into thinking it is related to the NCAA. The domain is newly registered and set to expire in less than a year, which is a common tactic for fraudulent sites. The WHOIS information is complete and the registrar is reputable. The website asks users to log in and offers a platform for winning with low stakes, which could be a phishing attempt or a suspicious offer. The design of the website appears legitimate, but it leverages the reputation of Lazada, which could be considered impersonation. The service offered seems related to online gambling, which carries potential risks and uncertainties.",
+  "verdict": 7
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2001-07-13 and the registration information was last updated on 2025-01-22. This means the domain has been registered for over 23 years, which is not recent. Therefore, the domain is not recent.",
+  "answer2": "The contact information provided by the registrar (GoDaddy.com, LLC) is complete and not redacted or partial. The registrar's abuse contact email and phone number are also provided. Therefore, there are no suspicious contact details.",
+  "answer3": "GoDaddy.com, LLC is a well-known and reputable registrar. There is no indication that GoDaddy.com, LLC is known for hosting malicious sites or lacks verification. Therefore, this factor does not indicate fraud.",
+  "answer4": "The domain status indicates that clientDeleteProhibited, clientRenewProhibited, clientTransferProhibited, and clientUpdateProhibited. This means that the domain owner has restricted the ability to delete, renew, transfer, or update the domain. This could be a red flag, but it is not necessarily indicative of fraud. It could be a legitimate business decision.",
+  "verdict": 1
+}
+```

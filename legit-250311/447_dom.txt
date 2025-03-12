@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2004-09-16 and the registration information was last updated on 2024-06-25. This means the domain has been registered for over 20 years, which is not recent. The domain is not expiring soon either, as the expiry date is 2028-11-11. Therefore, this factor does not indicate potential fraud.",
+  "answer2": "The contact information provided by the registrar (abuse@gcd.com and +1.5189669187) is complete and does not appear to be redacted or suspicious. Therefore, this factor does not indicate potential fraud.",
+  "answer3": "The registrar, GoDaddy Corporate Domains, LLC, is a well-known and reputable registrar. There is no indication that this registrar is known for hosting malicious sites or lacking verification. Therefore, this factor does not indicate potential fraud.",
+  "answer4": "The domain status indicates that client transfers are prohibited. This could be a red flag if the domain owner is trying to prevent transfers to avoid detection of fraudulent activity. However, this factor alone is not sufficient to indicate potential fraud.",
+  "verdict": 1
+}
+```

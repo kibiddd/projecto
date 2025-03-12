@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'nraila.org' appears to be a legitimate and well-known organization, with no misspellings or character substitutions. It does not contain deceptive subdomains.",
+  "TLD": "The TLD '.org' is a common and trusted domain extension, typically used by non-profit organizations. It is not considered high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It follows a standard URL structure.",
+  "Other": "The URL appears to be legitimate and does not contain any other suspicious factors.",
+  "verdict": 1
+}
+```

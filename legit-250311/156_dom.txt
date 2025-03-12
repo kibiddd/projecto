@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2001-01-23 and the WHOIS database was last updated on 2025-03-11. This means the domain is over 22 years old, not recent.",
+  "answer2": "The contact information provided by the registrar (Network Solutions, LLC) is complete and not redacted or suspicious.",
+  "answer3": "Network Solutions, LLC is a well-known registrar, but it has been associated with hosting malicious sites in the past. However, it is also a legitimate registrar, so this factor alone is not conclusive.",
+  "answer4": "The domain status indicates 'clientTransferProhibited', which means the domain cannot be transferred to another registrar. This is a common restriction and not necessarily indicative of fraud.",
+  "verdict": 2
+}
+```

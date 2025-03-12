@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL 'https://decentraprotocol.pages.dev' appears to be a development or testing page, as indicated by the '.dev' TLD and the absence of deceptive domain patterns. The domain was registered over a year ago and is not expiring soon, which is not inherently suspicious. However, the domain has restrictions on certain administrative actions, which could be a red flag. The lack of contact information and the inability to view the website screenshot prevent a more thorough analysis. The presence of Cloudflare, Inc. as a registrar, while not conclusive, does not necessarily indicate a scam. Given the limited information, there is some potential risk, but it is not definitive.",
+  "verdict": 4
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a legitimate ticket sales platform, Ticketnest, with a domain that is not recent but not expiring soon, and a well-known registrar. The URL does not show signs of being deceptive, and the WHOIS information is complete and not suspicious. However, without further context, it is not possible to fully assess the legitimacy of the website, especially regarding the handling of personal information and payment details. The screenshot analysis suggests that the website may be legitimate for ticket sales, but there is a potential risk if it requests personal information without proper security measures. The final verdict is cautious due to the lack of detailed information about the website's operations and security practices.",
+  "verdict": 3
+}
+```

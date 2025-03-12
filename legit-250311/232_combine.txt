@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'xpornz.com' is a potentially fraudulent site due to a misspelled domain name, use of a high-risk TLD, and association with adult content. The domain is not recent and is registered by a reputable registrar, but the website lacks transparency and has a basic, low-quality design with typos. The content domain is an indicator of untrustworthiness, and the website may redirect to other suspicious sites. The website does not directly request personal information or payment, but the content it offers is often associated with malware and scams.",
+  "verdict": 9
+}
+```

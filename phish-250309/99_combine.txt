@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 611104.com, with a domain registration expiring in less than a year, hosted by a registrar associated with spam and phishing, and lacking transparency and clear contact information, raises several red flags. The website's request for personal information and unclear details about its product further contribute to its suspicious nature. The modern design and the promotion of a wallet app without clear developer information also add to the concerns. The combination of these factors suggests potential risks such as phishing, scams, and impersonation.",
+  "verdict": 8
+}
+```

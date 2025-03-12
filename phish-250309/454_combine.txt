@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'keonhacai.luxury' is a potential scam. The domain contains a misspelling of a legitimate domain, uses an uncommon and high-risk TLD, and has a suspicious URL structure. The domain is less than 6 months old, registered with a registrar known for hosting malicious sites, and cannot be transferred to another registrar. The website requests a verification code sent to the user's SMS, a common phishing technique. The URL includes a suspicious domain name and a random string of characters, potentially indicating a fake 2FA login attempt. The website lacks transparency in contact information and professionalism in its offer. The website attempts to impersonate a legitimate service by requesting a code, aiming to gain access.",
+  "verdict": 9
+}
+```

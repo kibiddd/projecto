@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'biz.yahoo.com' appears to be a misspelling of 'business.yahoo.com'. This could be an attempt to deceive users into thinking they are visiting a legitimate business-related site.",
+  "TLD": "The TLD '.com' is common and considered safe. There are no uncommon or high-risk TLDs present in this URL.",
+  "Patterns": "The URL contains a query parameter '?v=1' which is unusual for a typical website URL and could be an attempt to obfuscate the true destination or to pass a parameter for malicious purposes.",
+  "Other": "The URL contains a '.html' extension which is standard for web pages, but the presence of the query parameter is suspicious.",
+  "verdict": 6
+}
+```

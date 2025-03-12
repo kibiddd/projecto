@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website http://www.551006s.cc has several red flags indicating potential fraud. The domain contains a misspelling of 'www' and uses the '.cc' TLD, which is commonly associated with online scams. The domain is relatively new, with a registration date of 2025-02-20 and an expiration date of 2026-02-20. The WHOIS information is complete, but the domain status indicates that client transfers are prohibited. The screenshot analysis shows a 'Forbidden' error message, an unprofessional format, and a lack of clear information about the website's purpose. The use of a short domain name and the website's ambiguity further raise concerns. Overall, the website presents a moderate to high risk of being a scam.",
+  "verdict": 7
+}
+```

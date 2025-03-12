@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'onlineservicetech.website' appears to be a scam. The domain contains a misspelling and uses a deceptive subdomain, the TLD '.website' is uncommon, and the URL lacks a clear company name. The domain was registered over a year ago and is not expiring soon, but the registrar has been associated with malicious sites. The website is requesting a username and password, which is typical of phishing attempts, and is designed to impersonate a legitimate Microsoft login page. The URL itself and the alphanumeric string strongly suggest it is not a legitimate Microsoft website. The domain status is 'clientTransferProhibited' and does not use DNSSEC, which could be potential indicators of fraud.",
+  "verdict": 9
+}
+```

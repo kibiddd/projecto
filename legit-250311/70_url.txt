@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'gatasi.com' contains a misspelling of 'gatorade.com', which is a common tactic used in phishing attacks to deceive users into thinking they are visiting a legitimate site.",
+  "TLD": "The TLD '.com' is a common and low-risk TLD, so this factor does not indicate fraud.",
+  "Patterns": "The URL contains a suspicious pattern with a random string '%20' which is URL encoding for a space character, and the inclusion of 'juanma lopez fights' which could be a misleading attempt to appear as a legitimate search result or a promotional link.",
+  "Other": "The URL does not contain any other obvious suspicious factors such as excessive length or unusual characters.",
+  "verdict": 6
+}
+```

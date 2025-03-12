@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question appears to be a phishing scam, impersonating the official Trezor website to steal users' login credentials. The URL contains a deceptive domain with a hyphenated subdomain, which is not standard and could be used to mislead users. The domain was registered over six months ago and is not expiring soon, which is unusual for a legitimate service. The website's design is professional, making it difficult to discern its legitimacy based on appearance alone. The domain status includes several prohibited actions, which is common for domains managed by third-party services like Webflow. The screenshot analysis indicates that the website is asking for sensitive information, which is a clear sign of phishing. The domain name also contains typos and potentially malicious strings. The website's contact information is redacted, which is a common practice but does not necessarily indicate legitimacy. MarkMonitor Inc., the registrar, is known for hosting malicious sites, but it is also a legitimate registrar, and there is no clear evidence of malicious activity from the registrar itself.",
+  "verdict": 9
+}
+```

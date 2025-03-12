@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question, www.rootsweb.ancestry.com, appears to be a legitimate genealogy website based on the URL analysis, which shows no signs of deceptive domain practices or unusual patterns. The domain analysis indicates that the domain is not recent but is expiring soon, which could be a potential red flag for fraud. However, the WHOIS information is complete and the registrar is reputable. The screenshot analysis shows an error message indicating access denial, which is not indicative of a scam. The website does not display phishing, suspicious offers, or impersonation. The potential risks are minimal, given the legitimate nature of the domain and the error message's transparency. The final verdict is low risk.",
+  "verdict": 2
+}
+```

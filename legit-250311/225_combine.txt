@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website vendingmarketwatch.com appears to be a legitimate site related to a specific product search for BYB Brands and Cadbury Schweppes Cinnabon Ready to Drink Premium Coffee Drinks. The domain is not recent, but it is registered by a reputable registrar, Gandi SAS, and does not show signs of phishing, suspicious offers, or poor formatting. The website has a professional design and provides transparency with contact information and legal information. No other suspicious factors are detected.",
+  "verdict": 1
+}
+```

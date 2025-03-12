@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'vicc.org' appears to be a misspelling of 'victim.org', which is a common tactic used by fraudsters to deceive users into thinking they are visiting a legitimate site. The domain was registered over 26 years ago, and the registrant, admin, and tech contact information is redacted for privacy. Network Solutions, LLC, a well-known registrar, has been associated with hosting malicious sites in the past. The website may request personal information or payment, and it is difficult to evaluate impersonation without more information. The website's design and quality cannot be evaluated without more information, and the provision of clear and trustworthy contact information is uncertain based on available information.",
+  "verdict": 6
+}
+```

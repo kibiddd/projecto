@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain nycmarathon.org was registered on 1996-02-22, which is over 29 years ago. Therefore, it is not recent and not expiring soon. The domain is not likely to be fraudulent based on the registration date alone.",
+  "answer2": "The registrant, admin, and tech contact information is redacted for privacy. This is a common practice and does not necessarily indicate fraud. However, the lack of available contact information could be a concern if other indicators of fraud are present.",
+  "answer3": "Cloudflare, Inc. is a reputable registrar known for hosting a wide range of websites, including many legitimate businesses. There is no indication that Cloudflare hosts malicious sites or lacks verification. Therefore, this factor does not suggest fraud.",
+  "answer4": "The domain status includes clientDeleteProhibited, clientTransferProhibited, and clientUpdateProhibited, which are standard protections to prevent unauthorized changes to the domain. These statuses do not indicate fraud.",
+  "verdict": 1
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2000-09-21, which is over 23 years ago, so it is not recent. The expiration date is 2026-01-01, which is more than a year away. Therefore, it is not expiring soon.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or suspicious.",
+  "answer3": "Amazon Registrar, Inc. is a well-known and reputable registrar. There is no indication that it hosts malicious sites or lacks verification.",
+  "answer4": "The domain status indicates that clientDelete, clientTransfer, and clientUpdate are prohibited, which is unusual for a legitimate domain. This could be a red flag.",
+  "verdict": 3
+}
+```

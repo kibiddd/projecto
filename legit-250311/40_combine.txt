@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website is a legitimate Facebook page with a long-standing domain registration and no suspicious registration factors. The URL follows a standard pattern for Facebook pages, and the domain is not deceptive. The WHOIS information is complete and verifiable, and the registrar is not known for hosting malicious sites. The screenshot analysis shows that the website is a normal Facebook page with no phishing attempts or suspicious offers. The transparency of the website is high as it is on a legitimate platform. Overall, there are no potential risks associated with this website.",
+  "verdict": 1
+}
+```

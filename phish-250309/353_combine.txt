@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a personal GitHub project ('sangam941.github.io') that mimics the Netflix homepage. It is not a recent domain, with registration dating back to 2013 and set to expire in 2027. The domain is hosted by MarkMonitor Inc., a reputable registrar, and has common restrictions for GitHub-owned domains. The website requests an email address, which could be a phishing attempt, and lacks transparency regarding the owner's contact information. It impersonates Netflix, which is a significant red flag. The URL suggests it is a personal project rather than the official Netflix website. The website's design is a basic clone of Netflix's homepage with slightly off image quality and layout, and there are no obvious typos. The potential risks include phishing attempts and impersonation of a well-known service.",
+  "verdict": 8
+}
+```

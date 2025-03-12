@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a legitimate construction company based in Oakland, Nebraska. The domain is not deceptive, the domain registration is not expiring soon, and the registrar is well-known. The website design is clean and does not show obvious signs of phishing or suspicious offers. However, the website lacks transparency in terms of contact information, and the provided URL does not lead to the homepage, which may require further investigation. Overall, the potential risks are low, but caution is advised.",
+  "verdict": 2
+}
+```

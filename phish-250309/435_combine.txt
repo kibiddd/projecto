@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL contains a misspelled domain name and an unusual URL encoded string, which could be an attempt to deceive users. The domain has been registered for over 5 years and is using a privacy protection service, which is common for legitimate users. However, the inability to load a screenshot of the website raises concerns about its legitimacy. The domain is registered with a reputable registrar and uses Vercel's DNS servers, which are legitimate services. The domain status indicates that client transfers and updates are prohibited, which could be a security measure. The website's purpose is unclear due to the inability to view its content.",
+  "verdict": 4
+}
+```

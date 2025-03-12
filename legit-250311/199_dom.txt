@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 1997-03-04 and the WHOIS update was on 2025-02-01, which means it has been registered for over 28 years. This is not recent and does not indicate any immediate expiration concerns. Therefore, the answer is N/A.",
+  "answer2": "The contact information provided by the registrar (MarkMonitor Inc.) is complete and appears legitimate. There is no redacted or suspicious contact information. Therefore, the answer is N/A.",
+  "answer3": "MarkMonitor Inc. is a well-known registrar with a good reputation. There is no indication that they are known for hosting malicious sites or lacking verification. Therefore, the answer is N/A.",
+  "answer4": "The domain status indicates that clientDelete, clientTransfer, and clientUpdate are prohibited, which is unusual and could be a red flag. However, this alone does not necessarily indicate fraud. The domain has been registered for a long time and the registrar is reputable. Therefore, the answer is N/A.",
+  "verdict": 1
+}
+```

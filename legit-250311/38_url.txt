@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "No misspellings, character substitutions, or deceptive subdomains detected.",
+  "TLD": "Common TLD (.com) - Not high-risk.",
+  "Patterns": "URL contains a keyword instead of a typical URL structure, which is unusual but not necessarily indicative of fraud.",
+  "Other": "The URL appears to be a legitimate article link from The New York Times website.",
+  "verdict": 1
+}
+```

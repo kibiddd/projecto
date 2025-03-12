@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain FINDBIKESHOP.COM was created on 2007-01-26 and has an expiration date of 2026-01-26. This means the domain is not recent (less than 6 months) and is not expiring soon (less than a year). Therefore, this factor does not indicate potential fraud.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted, partial, or suspicious. The contact information, including the registrar's abuse contact email and phone number, is available and appears legitimate.",
+  "answer3": "GoDaddy.com, LLC is a well-known and reputable registrar. There is no indication that GoDaddy hosts malicious sites or lacks verification. Therefore, this factor does not indicate potential fraud.",
+  "answer4": "The domain status indicates that clientDeleteProhibited, clientRenewProhibited, clientTransferProhibited, and clientUpdateProhibited. This could be a red flag, as it suggests that the domain owner has restricted the ability to manage the domain. However, this alone does not necessarily indicate fraud. It could be a legitimate business decision to restrict access to the domain.",
+  "verdict": 2
+}
+```

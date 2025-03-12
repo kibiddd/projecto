@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2006-07-17, which is over 18 years ago, so it is not recent.",
+  "answer2": "The contact information provided is complete and not redacted or suspicious.",
+  "answer3": "The registrar, MarkMonitor International Canada Ltd., is a reputable registrar and there is no indication that it hosts malicious sites or lacks verification.",
+  "answer4": "N/A",
+  "verdict": 1
+}
+```

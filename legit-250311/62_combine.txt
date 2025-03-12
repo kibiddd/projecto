@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL is a misspelled version of a legitimate Wikipedia page, which could be an attempt to deceive users. The domain is registered by the Wikimedia Foundation, Inc., a reputable organization, and the WHOIS information does not indicate any suspicious factors. The screenshot analysis confirms that the website is a legitimate Wikipedia page without any phishing, suspicious offers, or impersonation. The potential risks are minimal, as the website is a well-known and trusted source. The final verdict is 1, indicating that it is not a scam website.",
+  "verdict": 1
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website at the provided URL appears to be a scam, attempting to impersonate Carrefour's Ramadan promotion. It is hosted on a pages.dev domain, which is commonly used for phishing sites due to its ease of setup. The domain was registered over six months ago and has several restrictions that could indicate third-party management. The website lacks transparency, clear contact information, and is using a potentially basic format. It is likely trying to collect personal information or payment, which is a common characteristic of phishing sites. The suspicious offer and impersonation of a well-known brand further raise concerns about its legitimacy.",
+  "verdict": 10
+}
+```

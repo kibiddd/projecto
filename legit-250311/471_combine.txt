@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'fanpix.net' appears to be a gallery for Robert Williams pictures. The URL analysis indicates no deceptive domain or patterns, but the domain is over 17 years old and hosted by a registrar known for malicious sites. The domain status suggests it may be used for spam or other malicious activities. The screenshot analysis shows no phishing or suspicious offers, but the domain's age and registrar raise concerns. The website's design is functional, but the potential risks associated with the domain's age and registrar cannot be ignored.",
+  "verdict": 7
+}
+```

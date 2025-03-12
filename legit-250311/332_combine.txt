@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website, uscollegesearch.org, appears to be a legitimate college search platform, specifically for Lasalle University. The URL analysis indicates no deceptive domain or suspicious patterns, and the domain registration is over 22 years old, which is not uncommon for established organizations. The domain's contact information is redacted, which is a standard privacy practice, and the registrar is reputable. The domain status shows some prohibitions, which could be due to various reasons, but not necessarily indicative of a scam. The screenshot analysis does not reveal any phishing, suspicious offers, or impersonation, and the website seems transparent in its purpose. Overall, there are no immediate red flags suggesting that this is a scam website.",
+  "verdict": 1
+}
+```

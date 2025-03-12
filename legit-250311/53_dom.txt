@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was last updated on 2025-03-11, which is less than 6 months from today (2025-03-07). This is a potential indicator of fraud as it is relatively recent.",
+  "answer2": "The WHOIS information provided does not include any contact information, which is suspicious and could indicate an attempt to hide the identity of the domain owner.",
+  "answer3": "The registrar for the domain is not provided in the WHOIS information, making it difficult to assess whether it is known for hosting malicious sites or lacks verification. However, the lack of contact information is a red flag.",
+  "answer4": "The domain itself is not found, which is a strong indicator of potential fraud or misuse.",
+  "verdict": 9
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL contains a misspelled domain name, which is a common tactic used by fraudsters. The domain registration is not recent and is set to expire in 2028, which does not indicate fraud. The domain is hosted by a reputable registrar, and the domain status includes standard restrictions. The website appears to have a professional design and high-quality images, and it is likely operated by Ledger, with consistent messaging and branding. The website explicitly warns against phishing attacks and focuses on secure hardware wallets, with no direct request for personal information or payment on the analyzed page. However, navigating to another part of the site could expose the user to risk. The website is hosted on Webflow, which is a sign that it is not a sophisticated scam. Overall, the website seems legitimate, but there are some minor concerns due to the misspelled domain name.",
+  "verdict": 2
+}
+```

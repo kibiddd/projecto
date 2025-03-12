@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question is hosted on Weebly, a legitimate platform, but the URL and WHOIS analysis suggest a recent and potentially fraudulent registration. The domain is expiring soon, which is a common tactic used by scammers to quickly set up malicious sites. The screenshot analysis indicates that the website is a phishing attempt, impersonating AT&T to steal user credentials. The website's design and spelling errors further suggest a low-quality and potentially malicious intent. The contact information provided by the registrar is not suspicious on its own, but the domain status indicating that client actions are prohibited could be a red flag. Overall, the website poses significant risks to users who may be deceived into providing personal information.",
+  "verdict": 9
+}
+```

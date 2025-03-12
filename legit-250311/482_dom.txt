@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2001-01-24, which is over 23 years old, so it is not recent. The expiration date is 2035-01-24, which is far in the future, so it is not expiring soon. Verdict: N/A",
+  "answer2": "The WHOIS information is complete and not redacted or suspicious. Verdict: N/A",
+  "answer3": "Network Solutions, LLC is a well-known registrar, but it is not known for hosting malicious sites. Verdict: N/A",
+  "answer4": "The domain status indicates that client transfers are prohibited, which is a common restriction for domains managed by Network Solutions. The DNSSEC is unsigned, which is not necessarily a red flag. Verdict: N/A",
+  "verdict": 1
+}
+```

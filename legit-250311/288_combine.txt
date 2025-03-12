@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website is a legitimate YouTube video page, with no signs of phishing, suspicious offers, or impersonation. The domain is registered by a reputable registrar and has a common TLD. The WHOIS information is complete and does not indicate any red flags. The screenshot shows a standard YouTube video player interface. The URL is a valid YouTube URL and does not contain any deceptive elements. The website appears to be safe and legitimate.",
+  "verdict": 1
+}
+```

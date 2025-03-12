@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question, https://some-afternoon-crooked.on-fleek.app/sghuqputdti11.html, exhibits several red flags indicative of a scam. The URL contains misspellings, unconventional capitalization, and an uncommon TLD, which are not typical for legitimate websites. The domain was registered recently and is hosted by a registrar known for hosting malicious sites. The website's design is basic and minimal, lacking transparency and contact information. It also requests a password, a common phishing tactic. The combination of these factors suggests that the website is likely a phishing attempt or a scam.",
+  "verdict": 9
+}
+```

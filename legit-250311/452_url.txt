@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "No misspellings, character substitutions, or deceptive subdomains detected.",
+  "TLD": "The TLD.net is common and not considered high-risk.",
+  "Patterns": "The URL is of a reasonable length and does not contain excessive length, random strings, or unusual characters.",
+  "Other": "The URL appears to be a legitimate torrent site, but it is important to note that torrent sites can sometimes be associated with illegal activity. However, based on the URL structure alone, there are no immediate indicators of fraud.",
+  "verdict": 2
+}
+```

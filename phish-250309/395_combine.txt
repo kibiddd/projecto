@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website'staemcommunutly.com' appears to be a phishing scam. The domain contains a misspelling of 'community', which is a common tactic used by scammers to create deceptive websites. The URL analysis indicates an unusual character '5' in the path, which could be a red flag. The domain was created on 2025-01-15 and the registration is expiring on 2026-01-15, which is more than a year away, but the domain status indicates that both clientDeleteProhibited and clientTransferProhibited are in effect, which is unusual and could be a red flag. The screenshot analysis shows that the website is offering a gift card, but requires a login, which could be used to steal credentials. The website is impersonating the official Steam website and the incorrect URL raises a major red flag.",
+  "verdict": 9
+}
+```

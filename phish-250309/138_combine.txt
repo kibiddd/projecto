@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'azexpressbd.com' appears to be a misspelling of 'amazonexpressbd.com', which is a common deceptive practice. The domain was created on 2019-12-23 and is not expiring soon, with a legitimate registrar. The screenshot analysis indicates phishing attempts, suspicious URL structure, and impersonation of a Microsoft login page. The URL contains a long string of seemingly random characters, raising a red flag. The website is requesting personal information, which is a common phishing tactic. The design seems legitimate, but the URL structure is suspicious, indicating a possible redirect or hidden link. It's not a common or expected URL format. The website is trying to impersonate a Microsoft login page. The domain status indicates that client transfers are prohibited, which is a common practice for domains managed by registrars to prevent unauthorized transfers. There are no other suspicious registration factors mentioned.",
+  "verdict": 9
+}
+```

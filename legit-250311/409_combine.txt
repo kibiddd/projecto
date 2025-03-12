@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website is a legitimate obituary listing on the legacy.com platform, with a domain that has been registered since 1994 and is set to expire in 2025. The WHOIS information is complete and does not appear to be redacted or suspicious. The domain status includes client and server transfer prohibitions, which could be indicative of a domain being managed by a third party with malicious intent. The screenshot analysis shows that the website is a legitimate obituary listing without any phishing, suspicious offers, or impersonation. However, the domain's association with Network Solutions, LLC, a registrar that has been linked to hosting malicious sites, raises some concerns. Overall, the website appears to be legitimate, but the domain's status warrants caution.",
+  "verdict": 3
+}
+```

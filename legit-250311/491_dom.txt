@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2006-09-24 and is expiring on 2025-09-24, which is more than 6 years from now. Therefore, it is not recent nor expiring soon.",
+  "answer2": "The contact information provided (Abuse Contact Email and Phone) is not redacted or partial; it is complete and appears legitimate.",
+  "answer3": "Gandi SAS is a well-known registrar and is not typically associated with hosting malicious sites. However, the domain status indicates 'clientTransferProhibited', which could be a red flag depending on the context. The registrar itself is reputable, but this status might warrant further investigation.",
+  "answer4": "The domain is over 6 years old, which is unusual for a new or recently created domain. The domain status 'clientTransferProhibited' could be suspicious, but it is not a definitive indicator of fraud. The DNSSEC is unsigned, which is not necessarily fraudulent but could be a security concern.",
+  "verdict": 2
+}
+```

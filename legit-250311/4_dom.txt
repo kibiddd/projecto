@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain UPENN.EDU was registered on 02-Jun-1986 and expires on 31-Jul-2027. This domain is not recent (less than 6 months) and is not expiring soon (less than a year).",
+  "answer2": "The contact information provided is complete and not redacted or partial. The administrative and technical contacts are clearly listed with full details.",
+  "answer3": "The registrar, ISC Technology Services, is a reputable registrar known for hosting legitimate educational domains. There is no indication that they are known for hosting malicious sites or lacking verification.",
+  "answer4": "No other suspicious registration factors are present in the provided information.",
+  "verdict": 1
+}
+```

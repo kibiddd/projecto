@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain registration is not recent; it was created on 1996-04-08, which is well over 6 months old. It is also not expiring soon, as the expiration date is 2026-04-09, which is more than a year away. Therefore, this factor does not indicate potential fraud.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or suspicious. The registrar and contact information are clearly listed, which is a good sign of transparency.",
+  "answer3": "Amazon Registrar, Inc. is a well-known and reputable registrar. There is no indication that this registrar is known for hosting malicious sites or lacks verification. Therefore, this factor does not indicate potential fraud.",
+  "answer4": "The domain status indicates that clientDelete, clientTransfer, and clientUpdate are prohibited. This could be a sign of a domain that is managed by a third party or a service that does not allow direct domain management. However, this alone does not necessarily indicate fraud. The DNSSEC is unsigned, which is not uncommon for many domains, but it could be a security concern. The domain is not expiring soon, which reduces the urgency of potential fraud. Overall, there are no strong indicators of fraud based on the provided information.",
+  "verdict": 2
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "No misspellings, character substitutions, or deceptive subdomains detected.",
+  "TLD": "The TLD.com is common and considered safe.",
+  "Patterns": "The URL is of a reasonable length and does not contain random strings or unusual characters.",
+  "Other": "The URL appears to be from a legitimate and well-known website, QuickMba.com, which is a reputable source for business and legal information.",
+  "verdict": 1
+}
+```

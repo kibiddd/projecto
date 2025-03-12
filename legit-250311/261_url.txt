@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "No misspellings, character substitutions, or deceptive subdomains detected.",
+  "TLD": "The TLD.com is common and considered safe.",
+  "Patterns": "The URL is of a reasonable length and does not contain random strings or unusual characters.",
+  "Other": "The URL appears to be a legitimate website for genealogy trails, with a clear and descriptive path.",
+  "verdict": 1
+}
+```

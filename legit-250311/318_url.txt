@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'diffusion.loto-quebec.com' appears to be a misspelling of 'diffusion.loto-quebec.com'. The misspelling of 'quebec' as 'quebec' is a common tactic used in phishing attempts to deceive users.",
+  "TLD": "The TLD '.com' is a common and trusted TLD, so it does not indicate a high risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It follows a standard URL structure.",
+  "Other": "The URL contains a query string with parameters that could be used to track user interactions or to inject malicious content. The presence of 'asp/index.asp' suggests that the URL might be pointing to a server-side script, which could be used for malicious purposes.",
+  "verdict": 6
+}
+```

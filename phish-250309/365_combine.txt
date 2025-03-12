@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question appears to be a shortened URL that leads to a Meta Help Center, which is a legitimate service. However, the use of a shortened URL with an unusual subdomain raises some concerns. The domain registration is expiring soon, which could be a potential fraud indicator, although the registrar is reputable. The website design is professional and aligned with Meta branding, but the shortened URL and lack of explicit contact details introduce some uncertainty. The website impersonates Meta Help Center, which increases the risk. Overall, the potential risks include the possibility of phishing, impersonation, and the use of a shortened URL to conceal the actual destination.",
+  "verdict": 6
+}
+```

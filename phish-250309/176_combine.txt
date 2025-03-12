@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'chavemoveldigitalpt.com' appears to be a phishing attempt, impersonating a legitimate banking service, and is likely fraudulent. The domain is a misspelling of a known deceptive domain, was registered recently, is hosted by a registrar known for malicious sites, and lacks transparency and security features. The website requests personal information and uses a basic, potentially low-quality design. The URL is not secure and is not the official website.",
+  "verdict": 9
+}
+```

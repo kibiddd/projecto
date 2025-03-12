@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website http://servicecharge091.mmm.page appears to be a phishing attempt, as indicated by the misspelled domain, unusual TLD, and the use of Sky's logo to impersonate a legitimate service. The domain was recently registered, and the registrant's contact information is redacted, which is common but also limits verification. The screenshot analysis suggests the website is trying to deceive users by mimicking Sky's branding. The URL's unusual structure and the lack of transparency are additional red flags. The website's potential risks include phishing attempts, identity theft, and financial loss for unsuspecting users.",
+  "verdict": 9
+}
+```

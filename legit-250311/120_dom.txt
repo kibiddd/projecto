@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain GENFORUM.COM was created on 1997-05-26 and has an expiration date of 2025-05-25. This means the domain is not recent (less than 6 months) and is not expiring soon (less than a year).",
+  "answer2": "The contact information provided by the registrar (NameCheap, Inc.) is complete and appears legitimate. There is no redacted or suspicious contact information.",
+  "answer3": "The registrar, NameCheap, Inc., is a well-known and reputable registrar. There is no indication that they are known for hosting malicious sites or lacking verification.",
+  "answer4": "The domain status indicates that client transfers are prohibited, which is a common restriction for domains managed by registrars. The DNSSEC is unsigned, which is not necessarily a red flag but could be a concern depending on the context. The domain is hosted on Cloudflare's name servers, which is a reputable service.",
+  "verdict": 1
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website is associated with the Arizona-Sonora Desert Museum, a reputable organization. The domain is registered for a long time, and the registrar has been associated with hosting malicious sites in the past. However, the website itself does not appear to be a scam based on the screenshot analysis. The website has a professional design, provides clear information, and does not request personal information or payment. The domain status indicates that client transfers are prohibited, which could be a sign of the domain being protected by the owner or a third party. Overall, the website seems legitimate, but the domain's association with a known registrar that has hosted malicious sites in the past could be a potential risk.",
+  "verdict": 2
+}
+```

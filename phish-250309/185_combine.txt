@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'commerz-briefupdate.com' appears to be a scam. The domain contains a misspelling of 'commercial', which is a common tactic used by scammers. The domain was registered recently and is set to expire soon, which could be a potential fraud indicator. The WHOIS information is complete and the registrar is reputable. However, the website is requesting a donation via bank transfer, which could be a phishing attempt. The website is impersonating the Wikipedia website, using official logos and brand names to mimic the original website, but the URL is highly suspicious. The website also has a high similarity score to the Wikipedia website, which is a positive sign, but the URL and donation request are significant red flags.",
+  "verdict": 9
+}
+```

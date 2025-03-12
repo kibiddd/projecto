@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question, http://sso-ca-ndax-sso-auth.webflow.io, appears to be a landing page for a service related to NDAX, a decentralized exchange. The domain contains a misspelling of'sso' as'sso-ca-ndax-sso-auth', which could be an attempt to deceive users. The domain was registered over six months ago and is not expiring soon, which could indicate a lack of urgency to maintain the site. The contact information is redacted, and the domain is hosted by MarkMonitor Inc., a registrar known for hosting malicious sites. The website design appears modern and professional, but the URL raises concerns. Without further exploration, it is difficult to assess the site's validity. The potential risks include phishing attempts and impersonation.",
+  "verdict": 6
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was last updated on 2024-11-21, which is less than 6 months ago from today's date (2025-03-07). This is a potential fraud indicator as it suggests the domain may have been recently created or modified.",
+  "answer2": "The contact information provided (Registrar Abuse Contact Email: abuse@comlaude.com and Phone: +442074218250) appears to be complete and not redacted or suspicious. Therefore, this factor does not indicate fraud.",
+  "answer3": "The registrar, COM LAUDE, is associated with the WHOIS Server whois.comlaude.com, which is not a widely recognized or reputable registrar. This could be a potential red flag for hosting malicious sites or lacking verification.",
+  "answer4": "The domain status includes several prohibitions such as clientDeleteProhibited, clientTransferProhibited, clientUpdateProhibited, serverDeleteProhibited, and serverTransferProhibited. These prohibitions can be a sign of a domain being managed by a registrar that does not allow changes, which can be a red flag for fraudulent activity.",
+  "verdict": 7
+}
+```

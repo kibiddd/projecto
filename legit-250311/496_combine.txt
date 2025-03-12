@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website marvunapp.com appears to be a deceptive domain with a misspelling intended to mimic a legitimate domain. The domain was registered in 2001 and is not expiring soon, which reduces the risk of it being a recent scam. The registrar, NameCheap, Inc., is reputable and the domain status indicates no immediate transfer issues. The website does not seem to be a phishing site, does not offer suspicious deals, and is transparent in its purpose as a database of comic character information. However, the deceptive domain name and the lack of direct contact information could still pose some risks. Overall, the potential risks are low, but the deceptive domain name warrants caution.",
+  "verdict": 2
+}
+```

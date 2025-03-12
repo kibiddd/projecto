@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a legitimate hotel review on a well-known travel website. The URL does not contain any deceptive elements, and the domain has a short lifespan, which could be a potential red flag. However, the WHOIS information is complete and the registrar is reputable. The website design is professional and there are no apparent phishing or suspicious offers. The domain is relatively old and the DNSSEC is unsigned, which could be a security concern. Overall, the website seems legitimate, but the short lifespan of the domain and the unsigned DNSSEC could be potential risks.",
+  "verdict": 3
+}
+```

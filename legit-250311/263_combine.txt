@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a blog post about WWE, hosted on a legitimate domain with a reputable registrar. However, the domain registration is not recent, and the website title suggests unauthorized live streaming of a WWE event, which could be a suspicious offer. The website name 'blogcatalog.com' is not associated with the topic, which could be an attempt to attract more viewers. The domain status indicates that client actions such as delete, renew, transfer, and update are prohibited, which could be a red flag. The website does not appear to be a phishing site, but the potential risks include unauthorized streaming and possible impersonation.",
+  "verdict": 7
+}
+```

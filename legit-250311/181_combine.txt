@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a legitimate source of information about movies and celebrities, with no signs of phishing, suspicious offers, or impersonation. The domain is registered with a reputable registrar and has a long expiration date, indicating it is not a recent or high-risk domain. The website has a professional design and does not request personal information or payment. The WHOIS information is complete and not suspicious. The website is not a scam.",
+  "verdict": 1
+}
+```

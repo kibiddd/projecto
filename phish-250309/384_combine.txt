@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website spotifypremium.com.co offers a modded APK of Spotify Premium, which is a suspicious offer as it circumvents the official Spotify subscription model. The domain contains a misspelling of'spotify' instead of'spotify', which is a common tactic used by fraudsters to create deceptive domains. The domain was registered recently and is set to expire soon, which can be a potential fraud indicator. The registrar, Spaceship, Inc., is known for hosting malicious sites and lacks verification. The website lacks clear contact information, which is a red flag for trustworthiness. The website's design appears functional but slightly outdated, and the domain (.co) does not seem official. The website claims to offer Spotify Premium, which is technically impersonation of official Spotify. The website offers a modded APK of Spotify Premium, which could potentially contain malicious code that could steal personal information or credentials.",
+  "verdict": 9
+}
+```

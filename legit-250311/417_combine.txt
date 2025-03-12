@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website AZLyrics.com, accessed via the provided URL, appears to be a legitimate and well-established platform for lyrics. The domain analysis indicates that the domain is not recent and has a valid registration with a reputable registrar. The screenshot analysis shows no signs of phishing, suspicious offers, or impersonation. The website's design is simple and functional, and it has been operational since 2000. The 'unusual activity' message is a standard security measure. Overall, there are no indications of the website being a scam.",
+  "verdict": 1
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The URL contains a deceptive subdomain 'torrentbit.net' which is not the actual domain of the website. The main domain 'tokyohot.com' is misspelled as 'tokyo-hot.com'.",
+  "TLD": "The TLD '.net' is commonly used and not considered high-risk.",
+  "Patterns": "The URL contains a suspicious pattern with a long string of characters that seem random and are not typical for a legitimate website URL.",
+  "Other": "The URL contains a misspelled main domain and a deceptive subdomain, which are common indicators of phishing or fraudulent websites.",
+  "verdict": 8
+}
+```

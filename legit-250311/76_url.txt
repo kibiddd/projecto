@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'kadoee3' contains a misspelling of 'kadoee', which is a common tactic used in deceptive domains to mislead users.",
+  "TLD": "The TLD '.tripod.com' is a common and reputable TLD, so it does not indicate a high risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters, so it does not exhibit suspicious patterns.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 3
+}
+```

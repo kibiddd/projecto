@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL appears to be a misspelled version of a legitimate Steam community page, which could be an attempt to deceive users. The domain was registered recently and is set to expire soon, which is a potential red flag for fraud. The WHOIS information and registrar are legitimate, but the domain's short lifespan and deceptive domain name are concerning. The screenshot analysis shows that the website is styled similarly to Steam, but the displayed content warning is suspicious. The URL contains a specific file path, which is unusual for Steam. The website itself does not directly request personal information or payment, but the displayed content could be malicious, posing a phishing risk. The website appears to be impersonating the Steam platform, which raises concerns about its legitimacy.",
+  "verdict": 7
+}
+```

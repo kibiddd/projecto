@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website srvrauth.com/en/onedrive appears to be a legitimate domain with a standard structure and a common TLD. However, the domain is expiring soon, and the registrar is known for hosting domains associated with spam and fraudulent activities. The domain status indicates that client transfers are prohibited and does not use DNSSEC. The screenshot analysis suggests that the website may be attempting to impersonate a legitimate account suspension notification, which could be a precursor to phishing attempts. The website's design appears professional, but the lack of clear and trustworthy contact information and the generic suspension message increase the risk of fraudulent activity.",
+  "verdict": 7
+}
+```

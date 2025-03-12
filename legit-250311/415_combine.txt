@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website is a legitimate university press excerpts page from The University of Texas, with a domain registered since 1985, complete contact information, and no signs of phishing, suspicious offers, or impersonation. The domain is hosted by EDUCAUSE, a reputable registrar for.edu domains. The website's design is simple and functional, and it is transparent with readily available contact information. No potential risks are identified in the provided analysis.",
+  "verdict": 1
+}
+```

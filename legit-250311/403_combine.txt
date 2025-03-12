@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a legitimate clothing store in Ottawa, Canada, with a domain that is not recent but not immediately suspicious. The domain registrar is reputable, and there is no evidence of phishing or impersonation. However, the website is currently showing a 403 Forbidden error, which could indicate a technical issue rather than a scam. The lack of personal information requests and payment options on the website also suggests it is not a scam at this moment. The error message and lack of transparency are minor concerns but do not necessarily indicate a scam.",
+  "verdict": 2
+}
+```

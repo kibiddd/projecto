@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'help-ledger-livedesktop.webflow.io' appears to be a scam website. The domain name contains a misspelling of 'ledger' and uses a '.webflow.io' subdomain, which could be an attempt to deceive users. The domain registration is not recent and is set to expire in 2028, which does not indicate fraud. However, the website lacks clear contact information and uses Ledger's branding without a clear link to the official website, which could be impersonation. The offer of free shipping is plausible, but the lack of transparency and the use of a non-typical Ledger domain raise concerns. The website does not request personal information or payment, which is a positive point. Overall, the potential risks include impersonation, lack of transparency, and the use of a non-typical domain.",
+  "verdict": 7
+}
+```

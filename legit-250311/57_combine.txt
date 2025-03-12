@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website, mcgilltribune.com, appears to be a legitimate news source, specifically related to a news article about Montreal General Hospital cutting down MRI waiting times. The URL, domain, and screenshot analysis do not indicate any signs of a scam. The domain is registered with a reputable registrar, GoDaddy, and has a long expiration date, which is not unusual for established news websites. The website's format is standard and there are no apparent design flaws or typos. The contact information provided by the registrar is complete and not suspicious. The domain status indicates that client actions such as delete, renew, transfer, and update are prohibited, but this is not necessarily indicative of fraud without further context. Overall, there are no red flags or suspicious factors detected in the URL, domain, or screenshot analysis.",
+  "verdict": 1
+}
+```

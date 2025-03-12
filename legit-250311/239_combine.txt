@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'rockpeaks.com' appears to be a legitimate news website, hosting a late-night talk show segment. The domain is not recent, but it is not expiring soon, and the WHOIS information is complete and from a reputable registrar. The website does not appear to be a scam, as it does not request personal information, offer suspicious deals, or impersonate other entities. It has a professional design and clear navigation. However, the unusual prohibition of certain domain actions could be a minor red flag.",
+  "verdict": 1
+}
+```

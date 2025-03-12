@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The URL contains a misspelling of'myspace' as'myspace.com'. This is a common tactic used by fraudsters to create a deceptive domain that looks similar to a legitimate one.",
+  "TLD": "The TLD '.com' is a common and trusted TLD, so it does not indicate a high risk of fraud.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It follows a standard URL structure.",
+  "Other": "The URL does not contain any other suspicious factors.",
+  "verdict": 2
+}
+```

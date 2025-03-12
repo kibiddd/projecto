@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website maryannarw62111111.wixsite.com/so/2aPLpUXjr appears to be a Wix site, which is not inherently suspicious. However, the URL contains a sequence of numbers (111111) which is unusual and may be a red flag for deception. The domain has been registered for over 12 years, which is not recent. The domain status indicates that the owner has restricted the ability of others to delete, renew, transfer, or update the domain, which could be a sign of potential fraud. The website is asking to review the content and related data, and could potentially be used to collect personal information or redirect to a phishing page. The website uses the Facebook logo and language to create a false sense of legitimacy, and does not have clear contact information. These factors suggest that the website may be a scam.",
+  "verdict": 8
+}
+```

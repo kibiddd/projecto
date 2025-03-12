@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'groussuttoigatra-4516.vercel.app/mixcc.html' appears to be a scam. The URL contains misspellings and unusual characters, and the domain is registered for a long time. The website requests personal information and impersonates Meta's Privacy Center. It also uses a third-party domain for hosting, which is common for phishing sites. The website lacks clear contact information and creates a sense of urgency with a fake issue of account deletion due to trademark violations. The domain registrar is reputable, but the website's design and behavior are highly suspicious. The potential risks include phishing attempts, identity theft, and exposure to malware.",
+  "verdict": 9
+}
+```

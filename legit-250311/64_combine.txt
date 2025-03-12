@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL provided is https://www.lawyers.law.cornell.edu/lawyers/collections/new-jersey/monmouth-county. The URL analysis indicates no deceptive domain, a common and safe TLD, and follows a standard pattern for an educational institution. The domain analysis shows that the domain is not recent and is hosted by an authoritative registrar, EDUCAUSE. The screenshot analysis reveals no phishing, suspicious offers, or impersonation, and the website appears to be a standard 404 error page. Overall, there are no indicators of a scam.",
+  "verdict": 1
+}
+```

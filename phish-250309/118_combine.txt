@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL contains a misspelling of 'webflow.io' and is not the official Coinbase URL, suggesting it may be an unofficial or fake website. The domain was registered over 6 months ago and is not expiring soon. The website design is not professional and is impersonating Coinbase Pro, which is a potential phishing attempt. The URL does not contain excessive length, random strings, or unusual characters, but the request for login with personal information is suspicious. The domain is hosted by MarkMonitor Inc., a reputable registrar, but there are no other suspicious registration factors provided. The screenshot analysis indicates a high likelihood of the website being a scam.",
+  "verdict": 9
+}
+```

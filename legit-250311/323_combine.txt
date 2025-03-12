@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question is a 404 error page for USA Today, which is a legitimate news source. The URL, domain registration, and screenshot analysis do not indicate any signs of a scam. The domain is registered by a reputable registrar and has a long registration period. The 404 error page is professional and does not request personal information or offer suspicious services. The website is transparent and does not impersonate any other site.",
+  "verdict": 1
+}
+```

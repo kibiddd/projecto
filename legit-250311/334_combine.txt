@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a legitimate sports-related fan site for the Kansas Jayhawks, with no immediate indicators of a scam. The domain is registered by a reputable registrar, GoDaddy, and has a long expiration date. The website does not request personal information or payments, and has a clean design with high-quality images. However, the lack of visible contact information could be a minor concern. Overall, the website seems to be safe, but the absence of contact information might warrant a cautious approach.",
+  "verdict": 1
+}
+```

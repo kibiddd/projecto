@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'bryt237.github.io/Facebook-bt' appears to be a phishing attempt, mimicking Facebook's design to steal user credentials. The domain 'bryt237.github.io' is a misspelling of 'bit237.github.io', a common tactic used by fraudsters. The domain was registered over six months ago and is set to expire more than a year away. The website requests email/phone number and password, which is typical of phishing attempts. The URL is a GitHub page and not an official Facebook domain, which is a strong indicator of fraud. The domain is hosted by MarkMonitor Inc., a reputable registrar, but it is also used by many organizations. The domain status includes clientDeleteProhibited, clientTransferProhibited, and clientUpdateProhibited, which are common restrictions for domains managed by GitHub, Inc. These restrictions do not indicate fraud. The website closely mimics Facebook's design, but a closer look might reveal inconsistencies or poor rendering.",
+  "verdict": 10
+}
+```

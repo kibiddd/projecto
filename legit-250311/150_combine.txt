@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website arXiv.org is a legitimate academic repository for research papers, specifically in the field of astrophysics. The URL provided is a standard query for searching papers related to 'kormendy' in the 'astro-ph' archive. The domain is registered by Cornell University, which is a reputable institution. However, the domain was registered over two decades ago, and the registrar has been associated with hosting malicious sites in the past. The domain status indicates that it cannot be transferred, which could be a security measure but also makes it less accessible for verification. The screenshot analysis shows that the website does not request personal information or payments, offers no suspicious products or services, and appears legitimate and professional. Despite the potential risks associated with the registrar, the website itself does not exhibit signs of being a scam.",
+  "verdict": 2
+}
+```

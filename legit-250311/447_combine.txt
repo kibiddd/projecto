@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website is a legitimate Zillow listing for a property in Argusville, ND. The URL, domain registration, and screenshot analysis all indicate that the website is not a scam. The domain has been registered for over 20 years and is managed by a reputable registrar. The website does not request personal information or payment directly and provides clear and trustworthy information about the property and the real estate platform (Zillow).",
+  "verdict": 1
+}
+```

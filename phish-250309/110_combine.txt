@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'ajnaaditi30.github.io/Netflix-clone' appears to be a clone of Netflix, created with the intention of deceiving users into thinking it is the legitimate service. The domain contains a misspelling, which could be an attempt to deceive users. The domain was registered over six months ago and is set to expire more than a year from now. The website requests the user's email address, which could be used for phishing, and does not provide any contact information. The website is impersonating Netflix, which is a major red flag. The URL is not the official Netflix domain, which suggests it's likely a clone created for malicious purposes. The website offers an unlimited service at a relatively low starting price, which should be verified before entering the email. The website has an adequate design, but the lack of transparency is a red flag.",
+  "verdict": 8
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website is the Pittsburgh Post-Gazette, a reputable news organization. The URL, domain, and screenshot analysis do not indicate any signs of a scam. The domain is registered by a well-known registrar, and the website appears legitimate. However, the domain status 'clientTransferProhibited' and unsigned DNSSEC could be potential security concerns.",
+  "verdict": 1
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'goldkixx.blogspot.com' appears to be a scam. The URL contains a misspelling of 'gold' as 'goldkixx', which is a common tactic used in phishing and fraudulent activities. The domain registration is not recent and is expiring in 2025, which is more than 6 months from today. The WHOIS information provided is complete and does not appear to be redacted or suspicious. MarkMonitor Inc. is a reputable registrar known for hosting malicious sites, but it is not known for lacking verification. The domain status indicates that client and server actions are prohibited, which is unusual and could be a red flag. The website is asking for an email or phone number, which could be used for phishing attempts. The website's design and functionality look like a standard Google login page, but since the URL is not a Google domain, it may be an attempt to imitate the real thing. The website is impersonating the Google login page, which is a common tactic in phishing scams. The URL, 'goldkixx.blogspot.com' is suspicious because it does not include a standard Google domain like 'accounts.google.com'.",
+  "verdict": 9
+}
+```

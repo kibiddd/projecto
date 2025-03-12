@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'clubpalestino.cl' appears to be a deceptive domain with a misspelled 'club' in the domain name, which is a common tactic used in phishing scams. The domain registration is not recent and is not expiring soon, which could indicate a lack of urgency in the owner to maintain the site. The contact information for the registrant is redacted, which can be a red flag for potential fraud. The website is impersonating a Microsoft service, which is a deceptive tactic. The website is requesting an email address, which could be used for phishing to access sensitive information. The design appears clean, but the presence of a Cloudflare security indicator adds a layer of apparent trustworthiness. The website claims to be from 2025, which doesn't make sense, and the URL is unrelated to Microsoft. The website is likely fraudulent, trying to trick users.",
+  "verdict": 9
+}
+```

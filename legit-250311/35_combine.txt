@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website UPTONTEA.COM is a legitimate domain with a long-standing registration history, a reputable registrar, and no immediate red flags in the URL or domain analysis. However, the website currently displays a 403 error, indicating a technical issue rather than fraudulent activity. The lack of content and contact information on the error page further suggests that the website is experiencing temporary technical problems rather than being a scam.",
+  "verdict": 1
+}
+```

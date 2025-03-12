@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website hbbh.portfoliobox.net appears to be a scam website. The URL contains a misspelling of 'portfolio', the domain is registered by Ascio Technologies, Inc., known for hosting malicious sites, and the domain status is 'ok' with unsigned DNSSEC. The screenshot analysis reveals phishing tactics, impersonation of BT, lack of transparency, and a basic, unprofessional design. The website is hosted on Portfoliobox, a website builder, not BT's official domain, and the URL domain is a common indicator for phishing sites. The language used also seems odd. The website is likely to steal personal information or install malware.",
+  "verdict": 9
+}
+```

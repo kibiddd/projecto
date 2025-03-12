@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website is TMZ, a well-known entertainment news website. The URL, domain, and WHOIS information do not indicate any suspicious activity. The screenshot analysis shows a professional design, transparency, and no phishing or suspicious offers. The website is not a scam.",
+  "verdict": 1
+}
+```

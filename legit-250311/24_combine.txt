@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website, https://www.ourcampusourcommunity.wordpress.com/, appears to be a legitimate blog or community website related to McGill University's campus life. The URL, domain registration, and WHOIS information do not indicate any signs of fraud. The screenshot analysis also shows no phishing, suspicious offers, or impersonation. The website has a decent design and adequate image quality. However, there is limited contact information on the main page, which could be a minor concern for transparency.",
+  "verdict": 1
+}
+```

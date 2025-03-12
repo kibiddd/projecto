@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "No misspellings, character substitutions, or deceptive subdomains detected.",
+  "TLD": "The TLD.net is a common and low-risk domain.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters.",
+  "Other": "The URL appears to be a legitimate website for a known service (Ticketnest).",
+  "verdict": 1
+}
+```

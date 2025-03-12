@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain'sportsvite.com' is a legitimate sports-related website, and there are no misspellings, character substitutions, or deceptive subdomains present.",
+  "TLD": "The TLD '.com' is a common and trusted TLD, not considered high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It follows a standard URL structure.",
+  "Other": "The URL appears to be a legitimate sports-related website, and there are no other suspicious factors present.",
+  "verdict": 1
+}
+```

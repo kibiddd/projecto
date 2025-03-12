@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website sedl.org appears to be a legitimate non-profit organization, as indicated by the.org TLD and the URL structure. The domain is registered for over 31 years, which is unusual for a new or recently created domain, but this alone does not necessarily indicate a scam. The domain's contact information is redacted, which is common for privacy reasons, and the registrar is a well-known entity. The screenshot analysis shows that the website is blocked by a web application firewall, which could be due to legitimate reasons and not necessarily indicative of a scam. The website does not appear to be asking for personal information or payment, which reduces the risk of it being a phishing site. Overall, there are no clear indicators of a scam, but the unusual domain age and redacted contact information could be potential risks.",
+  "verdict": 2
+}
+```

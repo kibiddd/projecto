@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'cylex.ca' appears to be a misspelling of a legitimate domain, with a long-standing domain registration and a reputable registrar. The website does not seem to be a scam based on the screenshot analysis, which shows no phishing, suspicious offers, or impersonation. However, the deceptive domain name and redacted contact information are potential concerns. The website indicates that a business profile is no longer part of their directory, which could suggest a lack of active management or an outdated listing.",
+  "verdict": 3
+}
+```

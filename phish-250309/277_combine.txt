@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL contains a misspelling of 'loginengine.com' and is hosted on a subdomain of '.io', which is commonly used by legitimate tech companies. The domain was registered over 6 months ago and is not expiring soon. The website appears to have a professional design and high-quality images, but the domain name contains a misspelling, which is a common tactic used by fraudsters. The website does not appear to be requesting personal information or payment in the screenshot provided. However, the website displays logos of reputable news outlets, which might be an attempt to create a false sense of legitimacy. Further investigation is required to confirm this.",
+  "verdict": 4
+}
+```

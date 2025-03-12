@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'dexknows.com' has a deceptive domain name, which is a common phishing tactic. The domain is registered for a long time, with no imminent expiration, and the registrar is legitimate. The screenshot shows a 'Page Not Found' error, which could be a technical issue or a sign of a scam. The website does not currently appear to be requesting personal information or payment, but the deceptive domain name and error page raise concerns. The potential risks include phishing attempts and technical exploitation.",
+  "verdict": 5
+}
+```

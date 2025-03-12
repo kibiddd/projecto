@@ -4,6 +4,7 @@ from cont import content_analysis
 from url import url_analysis
 from transformers import pipeline
 from combine import combine
+import json
 
 def load_txt(path):
     with open(path, 'r') as f:
@@ -88,8 +89,78 @@ def eval_combine(dataset_path, folder_path):
         with open(combine_path, 'w') as f:
             f.write(combine_anal)
 
+def get_verdict(dataset_path, folder_path, start=0, end=-1):
+    scores = []
+    dataset = load_dataset(dataset_path)
+    dataset = dataset[start:end]
+    for idx, u in enumerate(dataset):
+        path = folder_path + str(idx) + '_combine.txt'
+        print(f'Analysing {idx+1}/{len(dataset)}, url={u}')
+        # try loading the txt file in path
+        try:
+            # Open and read the file
+            with open(path, 'r') as file:
+                # Read contents and strip unnecessary whitespace
+                contents = file.read().strip()
+
+                # If the file contains backticks or non-JSON parts, remove them
+                if contents.startswith('```json') and contents.endswith('```'):
+                    contents = contents[7:-3].strip()
+
+                # Parse the contents as JSON
+                data = json.loads(contents)
+                # append verdict
+                scores.append(data['verdict'])
+        except FileNotFoundError:
+            print(f"Error: File not found at {path}")
+            scores.append(None)
+        except json.JSONDecodeError as e:
+            print(f"Error: Failed to decode JSON. {e}")
+            scores.append(None)
+        except Exception as e:
+            print(f"Error: {e}")
+            scores.append(None)
+
+    return scores
+
+def count_verdict(scores):
+    count = {}
+    for v in scores:
+        if v in count:
+            count[v] += 1
+        else:
+            count[v] = 1
+    return count
+
+def get_false_positive(scores):
+    false_positive = []
+    nones = []
+    for idx, s in enumerate(scores):
+        if s:
+            if int(s) >= 7:
+                false_positive.append(idx)
+        else:
+            nones.append(idx)
+    return false_positive, nones
+
+def get_classification(scores):
+    classifications = []
+    for s in scores:
+        if s >= 7:
+            classifications.append('Scam')
+        elif s >= 4:
+            classifications.append('Suspicious')
+        else:
+            classifications.append('Legit')
+    return classifications
 
 if __name__ == '__main__':
-    all_anal_url('random_legit.txt', 'legit-250311/', 0, 500)
+    verdicts = get_verdict('phishing-links-250309.txt', 'phish-250309/', 0, 500)
+    print(len(verdicts))
+    print(count_verdict(verdicts))
+    # fps, nones = get_false_positive(verdicts)
+    # print(fps)
+    # print(nones)
+    # all_anal_url('random_legit.txt', 'legit-250311/', 0, 500)
     # all_anal_cont('random_legit.txt', 'ss-legit.txt', 'legit-250311/')
     #eval_combine('phishing-links-250309.txt', 'phish-250309/')

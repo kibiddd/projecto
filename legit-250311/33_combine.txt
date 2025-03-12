@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'dictionary.sensagent.com' appears to be a dictionary site related to Filipino films of the 1990s. The domain contains a misspelling, which could be an attempt to deceive users. The domain is registered for over 23 years, which is unusual for a new or temporary domain, and the domain status indicates 'clientTransferProhibited'. The website itself does not request any personal information or payment, and displays a simple message indicating a service unavailability. The website does not display contact information, but the URL suggests it is a dictionary. The fact that the service is unavailable is not a direct indicator of fraud, but it does make assessing its legitimacy difficult. The website could be a legitimate site experiencing temporary issues, or a defunct project.",
+  "verdict": 2
+}
+```

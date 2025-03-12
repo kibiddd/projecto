@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website'saddfghjkl.github.io/asdfghhhjkl' appears to be a phishing attempt, mimicking a Facebook login screen to steal user credentials. The URL contains a misspelling of 'github.io', which is a common domain for GitHub repositories, but the content presented is not legitimate. The domain was registered over six months ago and is set to expire more than a year from now. The WHOIS information does not indicate any suspicious registration factors. The screenshot analysis confirms the website's phishing nature, as it impersonates Facebook and requests sensitive information. The URL itself is nonsensical and not an official Facebook domain, further indicating malicious intent.",
+  "verdict": 10
+}
+```

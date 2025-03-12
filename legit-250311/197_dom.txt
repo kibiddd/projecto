@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 1994-12-06 and the WHOIS database was last updated on 2025-03-11, which means the domain is not recent (less than 6 months old) and is not expiring soon (less than a year).",
+  "answer2": "The contact information provided by the registrar (Tucows Domains Inc.) is complete and not redacted or partial. The abuse contact email and phone number are also provided.",
+  "answer3": "The registrar, Tucows Domains Inc., is a well-known and reputable registrar. There is no indication that they are known for hosting malicious sites or lacking verification.",
+  "answer4": "The domain status indicates that client transfers and updates are prohibited, which is a common practice for domains managed by Google. The DNSSEC is unsigned, which is also a common practice for domains managed by Google. There are no other suspicious registration factors.",
+  "verdict": 1
+}
+```

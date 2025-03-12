@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The LinkedIn URL provided is legitimate and does not show signs of being a scam based on the URL analysis. However, the domain analysis reveals that the domain is not recent and has several prohibitions, which could be potential fraud indicators. The screenshot analysis does not provide any additional information. The final verdict is based on the domain analysis, which suggests a moderate risk of the website being a scam.",
+  "verdict": 7
+}
+```

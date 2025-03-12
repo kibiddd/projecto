@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 1994-01-06, which is over 31 years ago. It is not recent, so this factor does not indicate fraud.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or suspicious. Contact information is available and appears legitimate.",
+  "answer3": "MarkMonitor Inc. is a reputable registrar known for hosting legitimate domains. There is no indication that this registrar is known for hosting malicious sites or lacking verification.",
+  "answer4": "The domain status indicates that certain actions such as clientDeleteProhibited, clientTransferProhibited, clientUpdateProhibited, serverDeleteProhibited, serverTransferProhibited, and serverUpdateProhibited are prohibited. This could be a red flag, but it is not necessarily indicative of fraud without further context. The domain is also DNSSEC unsigned, which is not uncommon and does not necessarily indicate fraud.",
+  "verdict": 1
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL contains a misspelled domain name, which is a common tactic used by fraudsters. The domain was created recently and is set to expire in less than a year, which is a potential red flag for fraud. The WHOIS information is complete and the registrar is not widely known for hosting malicious sites. However, the domain status indicates that client transfers are prohibited, which could be a concern. The DNSSEC is unsigned, which could be a concern depending on the context. The website screenshot could not be analyzed due to an error.",
+  "verdict": 7
+}
+```

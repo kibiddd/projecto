@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL 'http://info.loginhelp.help' contains a misspelling of 'info.loginhelp.help', which is a common tactic used by fraudsters to create deceptive URLs that appear similar to legitimate ones. The domain is less than a year old, which is a potential fraud indicator as many fraudulent domains are created and registered quickly. The contact information is redacted and partial, with instructions to query the RDDS service of the Registrar of Record for contact details, which is another potential fraud indicator. The registrar, NameSilo, LLC, is known for hosting a large number of domains, some of which may be malicious. The domain status includes unusual flags such as'serverTransferProhibited', 'clientHold', 'clientTransferProhibited', and 'addPeriod', which could indicate that the domain is being used in a way that is not typical for a legitimate business. The website screenshot could not be loaded, which prevents further analysis of the website's content and design.",
+  "verdict": 7
+}
+```

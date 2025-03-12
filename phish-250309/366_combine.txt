@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a phishing scam, impersonating Nordea's login page to collect user credentials. It uses a deceptive URL with a misspelling and is hosted on a non-official platform. The domain is registered by a reputable registrar, but the website's request for sensitive information and lack of transparency are highly suspicious. The screenshot analysis indicates a classic phishing tactic, with minimal contact information and a basic design mimicking a legitimate Nordea page.",
+  "verdict": 10
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "No misspellings, character substitutions, or deceptive subdomains detected.",
+  "TLD": "The TLD.nyc.gov is a common and high-trust domain used by government entities.",
+  "Patterns": "The URL is of a reasonable length and does not contain random strings or unusual characters.",
+  "Other": "The URL appears to be a legitimate government website.",
+  "verdict": 1
+}
+```

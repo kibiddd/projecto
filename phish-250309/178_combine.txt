@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a scam, attempting to impersonate Coinbase with a misspelled domain name and a modern, clean design. It requests an email address, which could be used for phishing attempts, and the domain registration is not recent. The website is likely a landing page for crypto services, but its legitimacy is uncertain. The URL is a strong indicator of a fraudulent website, as it's not the official Coinbase domain, and uses a similar name to trick users. The domain is not expiring soon, and the contact information is redacted for privacy. The website is using Cloudflare's DNS servers, which is common and not suspicious. The website seems to be impersonating Coinbase, and it's difficult to ascertain the contact information and transparency of the website from the screenshot.",
+  "verdict": 9
+}
+```

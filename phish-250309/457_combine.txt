@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website Roseflowersdelivery.org appears to be a legitimate business with a standard URL structure and a.org TLD. However, the domain was registered very recently, and the registrant's contact information is redacted, which could be a red flag for potential fraud. The website is requesting a password, which could indicate phishing. The website design is simple and functional, but it also appears to be a legitimate login page for Arvest Online Banking. The domain status indicates that client transfers are prohibited, which could be a security measure to prevent unauthorized changes. Overall, the website could potentially be a scam, but there is not enough evidence to definitively conclude this.",
+  "verdict": 7
+}
+```

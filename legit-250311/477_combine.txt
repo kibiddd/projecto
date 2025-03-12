@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website broadcastkc.com appears to be a legitimate media-related site, with a domain that is a variation of a trusted TLD and a registrar known for not hosting malicious sites. The WHOIS information is complete and does not indicate any immediate risk. The screenshot analysis does not reveal any direct phishing attempts, suspicious offers, or impersonation. The website seems to be transparent and functional, with no immediate red flags. However, the lack of detailed content in the screenshot and the absence of user reviews or feedback could be considered minor concerns. Overall, the website does not exhibit clear signs of being a scam, but caution is advised when interacting with new or unfamiliar websites.",
+  "verdict": 1
+}
+```

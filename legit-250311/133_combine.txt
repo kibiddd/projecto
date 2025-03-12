@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a legitimate press release hosted on Yahoo Finance. The domain 'biz.yahoo.com' is a misspelling of 'business.yahoo.com', which could be an attempt to deceive users. However, the URL contains a suspicious query parameter '?v=1'. The domain is registered by a reputable registrar, MarkMonitor Inc., and is not expiring soon. The website is hosted on a reputable source, Yahoo Finance, and contains a press release, indicating a degree of transparency. The URL is from a reputable source, further reducing the likelihood of fraud.",
+  "verdict": 1
+}
+```

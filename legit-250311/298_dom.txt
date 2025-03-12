@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain CITY-FEET.COM was created on 2003-07-27 and has a registration expiry date of 2027-07-27. This means the domain is not recent (less than 6 months) and is not expiring soon (less than a year).",
+  "answer2": "The contact information provided by the registrar (Tucows Domains Inc.) is complete and appears legitimate. There is no redacted or suspicious contact information.",
+  "answer3": "Tucows Domains Inc. is a well-known registrar and is not typically associated with hosting malicious sites. The registrar has a valid WHOIS server and provides contact information for abuse reports.",
+  "answer4": "There are no other suspicious registration factors mentioned in the provided information.",
+  "verdict": 1
+}
+```

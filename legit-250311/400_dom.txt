@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain CUNY.EDU was registered on 22-Apr-1987 and is expiring on 31-Jul-2025. This domain is not recent (less than 6 months) and is not expiring soon (less than a year).",
+  "answer2": "The contact information provided is complete and not redacted or partial. The administrative and technical contacts are listed with full details.",
+  "answer3": "The registrar is not explicitly mentioned in the provided information, but the domain is registered with City University of New York (CUNY). There is no indication that CUNY is known for hosting malicious sites or lacking verification.",
+  "answer4": "No other suspicious registration factors are mentioned in the provided information.",
+  "verdict": 1
+}
+```

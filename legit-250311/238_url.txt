@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'hockey.xtremetweet.com' contains a misspelling of 'hockey' and a deceptive subdomain 'xtremetweet.com' which could be an attempt to mislead users.",
+  "TLD": "The TLD '.xtremetweet.com' is uncommon and not a standard TLD, which could be a sign of a fraudulent site.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters, but the use of a non-standard TLD and deceptive subdomain are concerning.",
+  "Other": "The URL does not provide any additional suspicious factors beyond the deceptive domain and uncommon TLD.",
+  "verdict": 7
+}
+```

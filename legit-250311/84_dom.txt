@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered before August 1996 and is set to expire on June 16, 2025. This means it has been registered for over 29 years and is not recent nor expiring soon.",
+  "answer2": "The contact information is not provided in the WHOIS data, which is common practice for privacy reasons. However, the absence of contact information alone is not necessarily a fraud indicator.",
+  "answer3": "GoDaddy.com, LLC. is a well-known and reputable registrar. There is no indication that GoDaddy hosts malicious sites or lacks verification.",
+  "answer4": "N/A",
+  "verdict": 1
+}
+```

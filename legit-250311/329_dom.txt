@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2025-03-11, which is less than 6 months from the current date of 2025-03-07. This is a potential indicator of fraud as many fraudulent domains are registered recently.",
+  "answer2": "The contact information is not provided in the given information, which could be a red flag. Fraudulent domains often have redacted or incomplete contact information to avoid detection and accountability.",
+  "answer3": "The registrar information is not provided in the given information. However, if the registrar is known for hosting malicious sites or lacking verification, this would be a significant indicator of fraud.",
+  "answer4": "The URL provided does not match the domain name, which is a strong indicator of potential fraud. Fraudulent domains often have misspelled or incorrect URLs to mislead users.",
+  "verdict": 8
+}
+```

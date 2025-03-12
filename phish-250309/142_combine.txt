@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'bitfarmsmining-platform.top' appears to be a scam based on the analysis of the URL, domain registration, and a screenshot of the website. The URL contains a misspelling of 'bitfarmsmining' and uses a high-risk TLD '.top', which are common tactics used by fraudsters. The domain was registered recently and lacks transparency in its contact information. The screenshot analysis reveals potential phishing attempts and a lack of transparency, with no clear contact information and a suspicious request to visit their wallet. The website does not have a secure domain (HTTPS) and is not related to any real website or service. The website might be fake and used to phish the user.",
+  "verdict": 9
+}
+```

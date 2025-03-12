@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain CIBC.COM was created on 1993-12-02 and has a registration expiry date of 2025-12-01. This means the domain is not recent (less than 6 months) and is not expiring soon (less than a year).",
+  "answer2": "The contact information provided by the registrar (Abuse Contact Email: domainabuse@cscglobal.com and Phone: 8887802723) is complete and not redacted or partial.",
+  "answer3": "The registrar CSC Corporate Domains, Inc. is known for hosting malicious sites or lacking verification. This is a significant indicator of potential fraud.",
+  "answer4": "The domain status includes several prohibitions such as clientTransferProhibited, serverDeleteProhibited, serverTransferProhibited, and serverUpdateProhibited. These prohibitions can be suspicious and may indicate that the domain is being managed in a way that is not typical for a legitimate business.",
+  "verdict": 8
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'dictionary.sensagent.com' appears to be a misspelling of 'dictionary.sen.semantics.com'. The misspelling of'sen' to'sens' is a common tactic used by fraudsters to deceive users.",
+  "TLD": "The TLD '.com' is a common and trusted TLD, so it does not indicate a high risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It follows a standard URL structure.",
+  "Other": "The URL contains a deceptive domain, which is a significant factor in determining its likelihood of being fraudulent.",
+  "verdict": 7
+}
+```

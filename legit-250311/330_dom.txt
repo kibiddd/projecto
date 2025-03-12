@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain registration is not recent; it was created on 2006-12-15 and is not expiring soon, as the expiry date is 2026-12-15. Therefore, this factor does not indicate fraud.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or suspicious. Contact information is available and appears legitimate.",
+  "answer3": "GoDaddy.com, LLC is a well-known and reputable registrar. There is no indication that GoDaddy hosts malicious sites or lacks verification. Therefore, this factor does not indicate fraud.",
+  "answer4": "The domain status indicates that client actions such as deletion, renewal, transfer, and update are prohibited. This could be a red flag, as it may suggest that the domain is being managed by someone who wants to prevent changes to the domain's ownership or status. However, this alone does not necessarily indicate fraud without additional context.",
+  "verdict": 2
+}
+```

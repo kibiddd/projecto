@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "No misspellings or character substitutions detected.",
+  "TLD": "The TLD.org is commonly used and considered safe.",
+  "Patterns": "The URL is of a reasonable length and does not contain random strings or unusual characters.",
+  "Other": "The URL appears to be a legitimate website, but the domain name'mudcat.org' is not a well-known or widely recognized domain, which could be a red flag.",
+  "verdict": 3
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'auditionsearch.com' appears to be a legitimate domain with a long-term registration and a well-known registrar. However, the website's content is extremely basic, with a simple HTML layout and no visual elements other than a blank page. The lack of transparency and suspicious design raise concerns about its legitimacy. The website does not appear to be directly requesting personal information or payment, but it does not offer any products or services either. The overall risk associated with this website is moderate.",
+  "verdict": 5
+}
+```

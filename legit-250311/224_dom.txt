@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 1997-09-12, which is over 27 years ago. Therefore, it is not recent.",
+  "answer2": "The registrant, admin, and tech contact information is redacted for privacy. This is common practice and not necessarily indicative of fraud.",
+  "answer3": "GoDaddy.com, LLC is a well-known and reputable registrar. There is no indication that it hosts malicious sites or lacks verification.",
+  "answer4": "The domain status includes clientDeleteProhibited, clientRenewProhibited, clientTransferProhibited, and clientUpdateProhibited. This could be a red flag, but it is also possible that the domain owner has chosen to restrict these actions for various reasons.",
+  "verdict": 1
+}
+```

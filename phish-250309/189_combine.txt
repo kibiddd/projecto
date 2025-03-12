@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question appears to be a scam. The URL contains a misspelled 'weebly.com' and a random string of characters, which is suspicious. The domain is expiring soon, which can be a potential fraud indicator. The WHOIS information provided is complete and does not appear to be redacted or suspicious, but the registrar, SafeNames Ltd., is known for hosting malicious sites or lacking verification. The domain status indicates that clientDelete, clientTransfer, and clientUpdate are prohibited, which can be a potential fraud indicator. The website is asking for User ID and Password, which is a typical phishing attempt to steal credentials. The URL is not the official AT&T website URL, and the website is impersonating AT&T to steal the user's information. The website is a basic sign-in page that may appear legitimate at a glance, but the formatting is not professional with the suspicious URL. The URL is suspicious, using 'weebly.com' and 'currently742190' instead of AT&T's official domain.",
+  "verdict": 10
+}
+```

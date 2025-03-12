@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website, greatschools.org, appears to be a legitimate and reputable source providing information about schools in Burbank, California. The URL, domain, and screenshot analysis do not indicate any immediate signs of a scam. The domain has been registered for over 23 years, which is not unusual for a well-established organization. The website does not appear to be requesting personal information or payment, and it provides contact information transparently. However, the domain registrar, Network Solutions, LLC, has been associated with hosting malicious sites in the past, and the domain status indicates that client transfers are prohibited, which could be a potential indicator of suspicious activity. Despite these concerns, the website itself does not exhibit any obvious signs of phishing or impersonation. The overall verdict is low risk, but it is recommended to exercise caution and verify the website's legitimacy through additional sources.",
+  "verdict": 2
+}
+```

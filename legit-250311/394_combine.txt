@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website https://www.thefreedictionary.com/ford appears to be a legitimate dictionary website. The URL analysis indicates no deceptive domain, a common TLD, and a normal URL pattern. The domain analysis shows that the domain is not recent, but the registrar is legitimate and the contact information is available. The screenshot analysis confirms that the website is a dictionary, does not request personal information or payment, and has a professional design and transparency. There are no signs of phishing, suspicious offers, or impersonation. The website seems to be safe and trustworthy.",
+  "verdict": 1
+}
+```

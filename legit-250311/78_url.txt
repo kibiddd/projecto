@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'dexknows.com' appears to be a misspelling of 'dexknows.com'. The 'd' in 'dexknows' is replaced with a 'k', which is a common tactic used in phishing attempts to deceive users.",
+  "TLD": "The TLD '.com' is a common and trusted TLD, so it does not indicate a high risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It follows a standard URL structure.",
+  "Other": "The URL contains a business profile link, which is not inherently suspicious. However, the deceptive domain name is a red flag.",
+  "verdict": 7
+}
+```

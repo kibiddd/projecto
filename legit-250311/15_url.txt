@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "No misspellings, character substitutions, or deceptive subdomains detected.",
+  "TLD": "The TLD.com is common and considered safe.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters.",
+  "Other": "The URL appears to be a legitimate link to a ticketing page for a specific venue.",
+  "verdict": 1
+}
+```

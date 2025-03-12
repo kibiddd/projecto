@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL contains a misspelling of 'it' as 'iti' and an unusual TLD '.iti-kirkby.co.uk', which are common indicators of a scam website. The domain registration is recent, and the contact information is redacted, both of which are potential fraud indicators. The domain name contains too many parts, which is a violation of Nominet UK's naming rules and could be a red flag for fraudulent intent. However, the screenshot could not be analyzed due to an error loading the website screenshot.",
+  "verdict": 8
+}
+```

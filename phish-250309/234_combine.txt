@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'haacken.com' appears to be a phishing or fraudulent site due to the misspelled domain name, which is a common tactic used by scammers. The domain is set to expire soon, which can be a potential fraud indicator. However, the WHOIS information and registrar are not suspicious, and the domain status is 'ok'. The lack of a website screenshot prevents further analysis of the website's content and design.",
+  "verdict": 6
+}
+```

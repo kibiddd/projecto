@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2003-12-12 and is set to expire on 2025-12-12, which is more than 6 months from the current date (2025-03-07). Therefore, it is not recent. It is also not expiring soon (less than a year).",
+  "answer2": "The contact information provided (Registrar Abuse Contact Email and Phone) is complete and not redacted or suspicious.",
+  "answer3": "MarkMonitor Inc. is a well-known registrar and is not typically associated with hosting malicious sites. There is no indication that it lacks verification.",
+  "answer4": "The domain status includes clientDeleteProhibited, clientTransferProhibited, and clientUpdateProhibited, which are unusual for a legitimate business domain. This could be a red flag.",
+  "verdict": 7
+}
+```

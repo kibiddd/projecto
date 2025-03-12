@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a legitimate news site featuring an interview with Alain Montpetit on a music video show. The URL is a common misspelling of a well-known news website, and the domain is registered with a reputable registrar. The website does not request personal information or payment, and it has a professional design with no obvious typos. The domain is registered for a long time and is not expiring soon, which is typical for established websites. The WHOIS information is complete and does not appear to be redacted or partial. Based on the analysis, there are no immediate red flags indicating that the website is a scam.",
+  "verdict": 1
+}
+```

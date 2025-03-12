@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website is a Facebook profile for a user named Matt Packard. The URL, domain registration, and WHOIS information do not indicate any signs of a scam. The screenshot analysis confirms that the website appears to be a legitimate Facebook profile with a clean design and standard transparency features. There are no obvious issues or suspicious factors present. The domain was registered over 6 months ago and is not expiring soon, which is not unusual for personal profiles. The registrar is not known for hosting malicious sites. The website does not appear to be a phishing site, offer suspicious deals, or impersonate any other entity. The verdict is 1, indicating that it is not likely to be a scam.",
+  "verdict": 1
+}
+```

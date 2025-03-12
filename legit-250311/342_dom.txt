@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 1995-05-16 and the registration information was last updated on 2023-04-15. The domain is set to expire on 2025-05-17, which is less than a year from the last update date. This indicates that the domain is not recent but is expiring soon, which could be a potential red flag for fraud, especially if the domain is being transferred or renewed without legitimate reasons.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or suspicious. The registrar's contact information is also provided, which is a positive sign.",
+  "answer3": "MarkMonitor Inc. is a well-known registrar and is not typically associated with hosting malicious sites. However, it is important to note that the domain status indicates that client transfer, update, and deletion are prohibited, which could be a red flag depending on the context of the domain's use.",
+  "answer4": "The domain status indicates that client transfer, update, and deletion are prohibited. This could be a red flag if the domain is being used for fraudulent purposes, as it may be difficult to change ownership or update the domain's information. Additionally, the domain is set to expire soon, which could be a sign of an attempt to quickly sell or transfer the domain before it expires.",
+  "verdict": 6
+}
+```

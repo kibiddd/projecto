@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'blockedveins.com' appears to be a scam based on the analysis of the URL, domain registration, and lack of transparency. The domain is not well-known or reputable, and the URL contains the word 'blocked', which could be an attempt to deceive users. The domain registration date is less than 6 months from today, which is a potential indicator of fraud. The website does not provide any contact information, and it is difficult to determine the legitimacy of the website without more context or knowledge of other websites. The website does not appear to request personal information or payment, and it does not seem to offer any suspicious deals or free products. However, without any content, it is difficult to determine the legitimacy of this website.",
+  "verdict": 8
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'porn-star.com/cherokee.html' appears to be a deceptive domain using a common word 'porn' to potentially mislead users. The domain is registered with a reputable registrar and has a long expiration date, indicating it is not expiring soon. WHOIS information is complete and does not appear suspicious. The website does not seem to be a phishing site but does contain suggestive content, which can be a red flag. The website's design and content quality are low, and it lacks transparency in providing clear contact information. The sexually explicit nature of the content is often associated with scams and fraudulent activities. The website does not request personal information or payment, but the suggestive nature of the content and lack of transparency are concerning.",
+  "verdict": 7
+}
+```

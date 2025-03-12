@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website is a legitimate Wikipedia article about Dorothy Dandridge. The URL, domain registration, and screenshot analysis all indicate that it is not a scam website. The URL is well-formed and within normal length, the domain is registered by a reputable registrar, and the website is a well-formatted Wikipedia article that does not request personal information or offer suspicious products or services. The website provides clear information about the topic and is not impersonating anything.",
+  "verdict": 1
+}
+```

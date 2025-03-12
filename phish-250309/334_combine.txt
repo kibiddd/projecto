@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question appears to be a scam. It uses a deceptive subdomain 'weeblysite.com' which is not associated with a legitimate service. The domain was registered in 2012 and is not expiring soon, which could indicate that it is not a recent scam. However, the domain has certain prohibited flags that could be a red flag. The website is impersonating AT&T and is asking for sensitive information, which is a clear sign of phishing. The website's design is simple and not very professional, but it uses the official logo of AT&T, which could be an attempt to appear legitimate. The URL uses 'weeblysite.com', which is a free website hosting platform often used by scammers to quickly set up fake websites. The website appears to be an onboarding site, which could indicate malicious intent. The contact information provided is complete and not suspicious. The registrar, SafeNames Ltd., is not known for hosting malicious sites or lacking verification. However, the domain status flags could be suspicious. Overall, the website is highly likely to be a scam.",
+  "verdict": 9
+}
+```

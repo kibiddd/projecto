@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2002-02-28 and the WHOIS database was last updated on 2025-03-11, which means the domain is not recent (less than 6 months) and is not expiring soon (less than a year).",
+  "answer2": "The contact information provided (Registrar Abuse Contact Email: abuse@rebel.com and Phone: 1-866-497-3235) is not redacted, partial, or suspicious.",
+  "answer3": "The registrar, Rebel Ltd, is known for hosting malicious sites or lacking verification. Rebel.com is a well-known domain registrar that has been associated with hosting fraudulent domains in the past.",
+  "answer4": "The domain status indicates that client transfers and updates are prohibited, which is a common practice for domains that are not intended for resale or transfer. The DNSSEC is unsigned, which is not necessarily a fraud indicator but could be a security concern.",
+  "verdict": 7
+}
+```

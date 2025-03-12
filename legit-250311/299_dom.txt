@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2007-01-21 and the registration is not recent (more than 18 years old). It is not expiring soon (more than 1 year away).",
+  "answer2": "The contact information is partially provided, with links to the registrant, admin, tech, and billing emails. However, the actual email addresses are not visible in the provided WHOIS data.",
+  "answer3": "The registrar, Instra Corporation Pty Ltd, is known for hosting malicious sites or lacking verification. This is a known issue with the registrar.",
+  "answer4": "The domain status is 'ok' according to the WHOIS data, but the DNSSEC is unsigned, which is a potential security concern.",
+  "verdict": 8
+}
+```

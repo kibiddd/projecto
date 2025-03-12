@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'wobbly-hill-vulture.glitch.me' appears to be a phishing attempt, impersonating Navy Federal Credit Union. It uses a deceptive domain with misspellings and character substitutions, and the domain is managed by a reputable registrar but has restrictions that are unusual for a typical domain. The website's design is simple and could be a low-effort imitation of a legitimate banking website. The domain is not DNSSEC-signed, and the contact information is redacted. The URL analysis suggests a moderate likelihood of the site being a scam, while the domain analysis indicates a low likelihood. The screenshot analysis strongly suggests phishing behavior. The potential risks include identity theft, financial loss, and exposure to malware.",
+  "verdict": 8
+}
+```

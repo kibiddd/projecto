@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website is IMDb, a well-known and established platform for movie and TV show information. The URL, domain registration, and screenshot analysis do not indicate any signs of a scam. The website is transparent, professional, and does not request personal information or payment. It appears to be the official IMDb page for Ron Dellums, a well-known politician. The domain is registered by a reputable registrar and has a long history of being legitimate. The website has a professional design and high-quality images. There are no typos or suspicious offers. The website does not appear to be a phishing site or an impersonation of a legitimate site.",
+  "verdict": 1
+}
+```

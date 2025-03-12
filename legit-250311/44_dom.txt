@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 1994-03-29 and the registration is expiring on 2025-03-30, which is less than a year from today (2025-03-07). This is a potential fraud indicator as it is very recent.",
+  "answer2": "The contact information provided (Registrar Abuse Contact Email and Phone) is not redacted or partial, and it appears to be legitimate. No suspicious contact information is present.",
+  "answer3": "The registrar, CSC Corporate Domains, Inc., is known for hosting malicious sites or lacking verification. This is a significant fraud indicator.",
+  "answer4": "The domain status includes several prohibitions (clientTransferProhibited, serverDeleteProhibited, serverTransferProhibited, serverUpdateProhibited), which could be a red flag for fraudulent activity. This is another potential fraud indicator.",
+  "verdict": 9
+}
+```

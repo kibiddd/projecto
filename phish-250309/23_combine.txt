@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'binances-aps.web.app' appears to be a scam. The domain name contains a misspelling of 'binance', the TLD '.web.app' is not typical for financial services, and the domain has been registered for over 6 years. The registrar is reputable, but the domain status includes prohibited actions that could indicate fraud. The screenshot analysis reveals phishing attempts, suspicious offers, lack of transparency, and impersonation of Binance. The URL itself is highly suspicious, and the website seems to be a basic landing page with no contact information. The website prompts users to connect their wallets, which could be a phishing attempt to steal cryptocurrency or access funds. The offer of a large sum of BNB (400,000) is unusually high and potentially a lure to attract users. The simplicity of the website could be a sign of a fraudulent site. The website uses the Binance logo, which is a common tactic used by scammers to create a false sense of legitimacy. The URL itself is highly suspicious, and the domain name 'binances-aps' is very close to the actual name.",
+  "verdict": 9
+}
+```

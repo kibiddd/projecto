@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a legitimate doctor directory, providing information about a specific doctor, Dr. Jennifer Grant. The URL, domain, and WHOIS information do not indicate any immediate red flags. The screenshot analysis also suggests that the website is professional and transparent, without any signs of phishing, suspicious offers, or impersonation. However, the domain is not recent, which could be a potential risk factor. Overall, the website seems to be legitimate, but the older domain registration date could be a concern.",
+  "verdict": 2
+}
+```

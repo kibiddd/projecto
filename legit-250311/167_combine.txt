@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website, Absolute Astronomy, appears to be a legitimate information repository focused on astronomy topics. The URL, domain, and screenshot analysis do not indicate any signs of a scam. The domain is registered for a long time, the registrar is reputable, and the website's design and content are average but not suspicious. Contact information is not readily available, but this is not uncommon for informational websites. The website does not seem to be trying to impersonate any other entity or engage in phishing or suspicious offers. The verdict is based on the absence of any red flags in the provided analyses.",
+  "verdict": 1
+}
+```

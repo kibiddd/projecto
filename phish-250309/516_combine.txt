@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'taap.it' appears to be a scam based on the analysis of the URL, domain registration, and screenshot. The URL contains a misspelling of 'tapas.it', which is a common tactic used by scammers. The domain was created recently and is expiring soon, which is a potential red flag for fraud. The registrar is known for hosting malicious sites. The website offers a 'Start for free' button, which could be suspicious depending on the service provided. The website lacks clear and trustworthy contact information, and the footer only contains social media links and a link to see more apps. The website is promoting 'direct links to mobile apps,' which could be a legitimate service, but the lack of contact information and the free offer raise some suspicion. The website does not appear to be requesting personal information or payment at this time, but the suspicious offer and lack of transparency make it a potential scam.",
+  "verdict": 7
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'cb-new-notifs.top' is a scam website. The domain contains deceptive elements, uses a high-risk TLD, and the URL has unusual patterns. The domain is relatively new, registered by a registrar known for hosting malicious sites, and has prohibited domain status and missing DNSSEC. The screenshot could not be analyzed due to an error.",
+  "verdict": 9
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a fan page or informational site, focusing on member profiles. The URL contains a misspelled domain and a deceptive subdomain, which are common indicators of phishing attempts. The domain was created in 2009 and is not expiring soon, with legitimate contact information and a well-known registrar. The DNSSEC is unsigned, which could be a concern, but the site does not seem to be selling anything or requesting personal information. The content and format suggest this is a fan site with no immediately obvious red flags to make it appear fraudulent. However, the deceptive domain and subdomain warrant caution.",
+  "verdict": 3
+}
+```

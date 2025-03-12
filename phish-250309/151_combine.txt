@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL 'https://bulf163.com/ams7pcpbn589.html' appears to be a standard and recognizable domain with a common TLD '.com'. The domain was registered recently and is set to expire in less than a year, which is a common tactic for fraudulent domains. The registrar is not widely recognized as hosting malicious sites, but the WHOIS server is hosted by a domain that could potentially be associated with spam or fraudulent activities. The website uses Cloudflare's name servers and has an 'ok' domain status according to ICANN. However, the screenshot of the website could not be loaded, which prevents further analysis of the website's content and design.",
+  "verdict": 5
+}
+```

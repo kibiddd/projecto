@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL contains a misspelling of 'caixa' in the domain name, which is a common phishing tactic. The domain was registered recently, and the registrar is known for hosting malicious sites. The domain status includes 'clientDeleteProhibited' and 'clientTransferProhibited', and the DNSSEC is unsigned. However, a screenshot could not be analyzed due to an error loading the website screenshot.",
+  "verdict": 9
+}
+```

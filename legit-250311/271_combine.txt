@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question is hosted on MediaFire, a legitimate file hosting service. The domain has been registered for over 22 years and is managed by a reputable registrar. The website design appears modern and functional, but there is some uncertainty regarding its authenticity as it could potentially be an impersonation of MediaFire. The primary call to action is a 'Download' button, which could potentially lead to malware, but this is not certain. The website does not appear to be a scam at first glance, but there is some risk associated with downloading files from unknown sources.",
+  "verdict": 3
+}
+```

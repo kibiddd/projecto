@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'xing.com' is a legitimate and well-known professional networking site, so there are no misspellings, character substitutions, or deceptive subdomains present.",
+  "TLD": "The TLD '.com' is a common and trusted TLD, so it is not considered high-risk.",
+  "Patterns": "The URL is of a standard length and does not contain any suspicious patterns such as excessive length, random strings, or unusual characters.",
+  "Other": "The URL appears to be a legitimate profile link on a well-known professional networking site, so there are no other suspicious factors present.",
+  "verdict": 1
+}
+```

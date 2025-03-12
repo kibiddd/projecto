@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'fanbase.com' does not contain misspellings, character substitutions, or deceptive subdomains. It appears to be a legitimate domain name.",
+  "TLD": "The TLD '.com' is a common and trusted TLD, not considered high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It follows a standard URL structure.",
+  "Other": "No other suspicious URL factors are present.",
+  "verdict": 1
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'authu-app-ledegr.webflow.io' appears to be a phishing attempt, mimicking the branding of Ledger, a legitimate hardware wallet provider. The URL contains a misspelling of 'webflow.io' and the domain was registered over six months ago, with no immediate expiration date. The website is hosted on Webflow, which can be used for legitimate purposes but also by malicious actors. The screenshot analysis indicates that the website's branding closely mimics Ledger, but the URL and misspelling are significant red flags. The domain registration details do not show any immediate suspicious factors, but the overall presentation and URL suggest a high risk of being a scam.",
+  "verdict": 9
+}
+```

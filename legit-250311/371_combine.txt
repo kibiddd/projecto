@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a legitimate sports-related archive from SBNATION, with a professional design and no immediate red flags suggesting fraudulent activity. The domain is registered by a reputable registrar and has a long registration period. The URL contains an unusual date and content for a sports schedule announcement, but this could be an error or a specific event. The WHOIS data is recent, but the domain itself is not recent. The website is part of a larger network, which suggests transparency. Overall, there are no clear indicators of a scam.",
+  "verdict": 1
+}
+```

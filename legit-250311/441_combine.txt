@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'thesmartestpersonintheworld.net' appears to be a scam. The domain was registered recently, the contact information is redacted, and the website is a blank page, which is highly unusual and suspicious. The extremely simple and non-functional nature of the website is highly indicative of a fraudulent or abandoned project.",
+  "verdict": 9
+}
+```

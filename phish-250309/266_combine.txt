@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'kukoinllogim.webflow.io' appears to be a scam. The domain contains a misspelling of 'kukoinlog', which could be an attempt to deceive users. The domain was registered over 12 years ago and is not expiring soon. MarkMonitor Inc., a reputable registrar, is known for hosting malicious sites. The website may be attempting to collect login credentials through a fake login form and is offering rewards to lure users. The URL is suspicious and attempts to impersonate the legitimate KuCoin website. The website lacks transparency and provides no clear contact information. The URL uses a common phishing tactic of adding extra letters to the legitimate site's name. The webflow.io domain is often used for temporary sites, raising a flag. The website may be attempting to impersonate the legitimate KuCoin website.",
+  "verdict": 9
+}
+```

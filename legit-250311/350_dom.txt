@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain montcopa.org was registered on 1996-04-13, which is over 29 years ago. Therefore, it is not recent.",
+  "answer2": "The registrant, admin, and tech contact information is redacted for privacy. This is a common practice, but it can also be a red flag if combined with other suspicious factors.",
+  "answer3": "Network Solutions, LLC is a well-known registrar, but it has been associated with hosting malicious sites in the past. This could be a potential indicator of fraud.",
+  "answer4": "The domain status indicates that client transfers are prohibited. This could be a red flag if the domain is being used for fraudulent activities.",
+  "verdict": 3
+}
+```

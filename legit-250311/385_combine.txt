@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL provided is a legitimate Facebook page for Johnny-Associates-Poland, with a domain that is not deceptive and a common TLD. The domain registration is not recent and is not expiring soon, with complete WHOIS information and a reputable registrar. The Facebook page itself follows a standard format and is not inherently suspicious. However, without seeing the content of the page, it is difficult to fully assess transparency and potential risks. The overall risk is low, but caution is advised when interacting with any social media page.",
+  "verdict": 2
+}
+```

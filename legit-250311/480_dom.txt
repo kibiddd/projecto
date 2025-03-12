@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 1996-06-16, which is far beyond the 6-month threshold. It is not recent. The expiration date is 2027-06-15, which is more than a year away. Therefore, it is not expiring soon.",
+  "answer2": "The contact information provided by the registrar (abuse@namesrs.com and +46.313011220) is not redacted or partial. It appears to be complete and legitimate.",
+  "answer3": "The registrar, Name SRS AB, is not known for hosting malicious sites or lacking verification. The domain status is 'ok' and the registrar has provided a valid abuse contact email and phone number.",
+  "answer4": "There are no other suspicious registration factors mentioned in the provided information.",
+  "verdict": 1
+}
+```

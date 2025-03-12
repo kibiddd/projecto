@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website http://www.000121-coinbase.com appears to be a phishing attempt, impersonating the legitimate Coinbase platform. The domain contains a misspelling of 'coinbase.com' with '000121', which is not a recognizable misspelling of a known legitimate domain. The domain was registered recently, on 2025-03-08, and is hosted by NICENIC INTERNATIONAL GROUP CO., LIMITED, a registrar known for hosting malicious sites. The website may ask for wallet recovery phrases, which could be used to steal cryptocurrency. The design is generic and the domain name is very suspicious. The domain status includes 'clientDeleteProhibited' and 'clientTransferProhibited', which are unusual and could indicate that the domain is being used to prevent legitimate domain management actions. The domain is unsigned for DNSSEC, which is another potential red flag.",
+  "verdict": 10
+}
+```

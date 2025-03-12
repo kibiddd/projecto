@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'ledger-update.dev.tapym.com' appears to be a scam. The domain 'tapym.com' is a misspelling of 'paypal.com', which is a common tactic used by fraudsters to deceive users. The domain is expiring soon, which can be a potential fraud indicator. The website requests the user's recovery phrase, which is highly sensitive personal information and a common tactic in phishing scams. The website is impersonating Ledger to gain access to the user's recovery phrase. The domain 'dev.tapym.com' is not associated with Ledger. This is another significant red flag.",
+  "verdict": 10
+}
+```

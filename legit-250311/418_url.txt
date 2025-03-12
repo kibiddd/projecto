@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "No misspellings, character substitutions, or deceptive subdomains detected.",
+  "TLD": "The TLD '.org' is commonly used for non-profit organizations and is not considered high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters.",
+  "Other": "The URL appears to be a legitimate request for a game, but without further context, it's difficult to determine if it's fraudulent.",
+  "verdict": 2
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question appears to be a phishing attempt, impersonating AT&T by using a misspelled domain and a subdomain not typically associated with high-risk domains. The domain is registered by SafeNames Ltd. and is not expiring soon, which could indicate a long-term scam operation. The website's design and functionality are basic, and it requests personal information such as email and password, which is a common characteristic of phishing sites. The use of AT&T's branding to collect login information further supports the suspicion of impersonation. The combination of these factors suggests a high likelihood of the website being a scam.",
+  "verdict": 9
+}
+```

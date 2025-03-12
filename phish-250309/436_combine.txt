@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question appears to be a scam. It uses a deceptive subdomain, has an uncommon TLD, and the URL contains unusual patterns. The domain is not recent, and while the registrar is reputable, the domain status is unusual. The screenshot analysis reveals potential phishing attempts, suspicious offers, impersonation, and other red flags. The website mimics a legitimate USPS interface but has errors and lacks transparency. The overall risk is high.",
+  "verdict": 9
+}
+```

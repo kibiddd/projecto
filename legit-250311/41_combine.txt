@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website nethelper.com appears to be a legitimate sports news site, specifically covering San Diego Chargers articles. The domain is well-established, with a long history and a reputable registrar. The URL, domain registration, and screenshot analysis do not indicate any signs of a scam. The website seems to be a genuine sports news platform.",
+  "verdict": 1
+}
+```

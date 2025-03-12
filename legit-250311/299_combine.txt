@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website radioguide.fm/genre/pop/ appears to be a legitimate radio station website offering a free service of pop genre listings. The URL analysis shows no deceptive domain or suspicious patterns, and the domain is registered by a known registrar with some known issues. The domain is not recent, and the registrar has hosted malicious sites in the past. However, the website does not request personal information or payment, has a clean and professional design, and provides clear contact information. The DNSSEC is unsigned, which is a potential security concern, but this does not necessarily indicate a scam. The website does not appear to be a scam based on the provided information.",
+  "verdict": 2
+}
+```

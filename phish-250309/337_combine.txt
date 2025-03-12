@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL contains a misspelled domain and uses a high-risk TLD, which are common indicators of a scam. The domain is registered for a long time and is not expiring soon, which could mean it is not a temporary scam site. The registrar is reputable, but the redaction of contact information is unusual. The inability to load a screenshot of the website prevents further analysis of its content. Potential risks include phishing attempts, fraudulent activities, and lack of transparency due to redacted contact information.",
+  "verdict": 7
+}
+```

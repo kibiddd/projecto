@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'last.fm/music/Abscess' appears to be a legitimate music streaming service, as indicated by the analysis of the URL, domain registration, and screenshot. The domain 'last.fm' is well-known and associated with a reputable music streaming service. The domain was registered over 23 years ago, and the contact information is partially redacted, but the domain is hosted by reputable nameservers. The website has a clean and professional design, and there are no obvious signs of phishing, suspicious offers, or impersonation. However, the domain status indicates that client transfer, update, and delete are prohibited, which could be a red flag depending on the context. Overall, the potential risks are low, but the prohibition on domain changes could be a concern.",
+  "verdict": 2
+}
+```

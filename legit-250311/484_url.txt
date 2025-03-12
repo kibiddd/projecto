@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'wn.com' is a misspelling of 'win.com', which is a common deceptive practice to trick users into visiting a fraudulent site.",
+  "TLD": "The TLD '.com' is a common and trusted TLD, so it does not indicate a high risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters.",
+  "Other": "The URL does not contain any other suspicious factors.",
+  "verdict": 3
+}
+```

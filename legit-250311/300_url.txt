@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'tucson.craigslist.org' is a legitimate domain and does not contain misspellings, character substitutions, or deceptive subdomains.",
+  "TLD": "The TLD '.org' is a common and trusted TLD, not considered high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It follows a standard URL structure.",
+  "Other": "The URL appears to be a legitimate Craigslist listing URL, which is a well-known and trusted platform for classified ads.",
+  "verdict": 1
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question is a Weebly-hosted site with a misspelled domain name, which is a common tactic used by scammers. The domain is expiring soon, which could be a red flag, but the WHOIS information does not indicate any immediate concerns. The domain status shows prohibited actions and an unsigned DNSSEC, which are unusual and could be indicative of potential fraud. The screenshot analysis reveals that the website is impersonating AT&T, which is a significant risk factor. The website's request for a User ID and Password without clear legitimacy and the use of a suspicious domain and URL format further support the suspicion of a scam. The website's generic format and the fact that it is on 'weebly.com' may also indicate a quick setup, which is typical for scam sites. Overall, the website presents several risk factors that suggest it could be a scam.",
+  "verdict": 8
+}
+```

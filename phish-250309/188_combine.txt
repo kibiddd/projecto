@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question, currently32146.weebly.com, appears to be a deceptive domain with a suspicious URL pattern. The domain registration is recent and has less than a year until expiration, which could be a potential fraud indicator. WHOIS information is complete and does not raise immediate red flags. However, the domain status shows prohibited client actions and an unsigned DNSSEC, which are unusual and could be suspicious. The screenshot analysis reveals that the website is impersonating AT&T and requests user credentials, which is a common characteristic of phishing attacks. The URL uses 'weebly.com', suggesting it is not a legitimate AT&T domain. The combination of a deceptive domain, suspicious URL, and phishing characteristics makes this website highly likely to be a scam.",
+  "verdict": 9
+}
+```

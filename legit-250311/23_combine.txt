@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "Santander.co.uk is a legitimate banking website with a long-standing domain registration, no suspicious WHOIS information, and a professional design. The website has a login button, which could be a potential phishing risk if users are tricked into entering their credentials on a fake website. However, the offers appear to be typical of a bank and there is no indication of impersonation. The website has a 'Contact us' link, suggesting they are willing to provide their contact information. Overall, the website appears to be legitimate, but users should be cautious when entering their credentials.",
+  "verdict": 1
+}
+```

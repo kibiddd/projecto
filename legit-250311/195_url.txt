@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The URL contains a deceptive domain as it uses 'wiki.answers.com' instead of the correct 'answers.com'. The 'Q/' prefix is also misleading, suggesting it is a question from a wiki, which is not the case.",
+  "TLD": "The TLD '.com' is common and not considered high-risk, so this factor does not indicate fraud.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It follows a standard URL structure.",
+  "Other": "The URL is misleading and attempts to appear as a legitimate question from a wiki, which is not the case. It is designed to trick users into visiting a potentially malicious site.",
+  "verdict": 7
+}
+```

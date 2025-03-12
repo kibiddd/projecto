@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2002-03-20, which is over 23 years ago. Therefore, it is not recent.",
+  "answer2": "The contact information is partially redacted, with only the domain name provided and no direct contact details for the registrant, admin, or tech contacts.",
+  "answer3": "MarkMonitor, Inc. is a reputable registrar, but the domain status indicates that client transfer, update, and delete are prohibited, which could be a red flag depending on the context.",
+  "answer4": "The domain is hosted by NS0004.SECONDARY.CLOUDFLARE.COM and NS0243.SECONDARY.CLOUDFLARE.COM, which are secondary nameservers for Cloudflare, a legitimate and widely used service. The DNSSEC is unsigned, which is not necessarily suspicious but could be a concern for security.",
+  "verdict": 2
+}
+```

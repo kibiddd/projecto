@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL contains a misspelling of a legitimate domain name and uses a '.app' TLD, which is not uncommon but can be deceptive. The URL analysis suggests a high likelihood of it being a scam due to excessive length, random strings, and unusual characters. The domain has been registered for over 5 years, which is not recent, and the registrar is reputable. However, the inability to load a screenshot of the website prevents further analysis of its content. The domain status indicates that client transfers and updates are prohibited, which could be a security measure or a red flag. The lack of visible content on the website and the presence of several suspicious factors suggest potential risks such as phishing or scam activities.",
+  "verdict": 7
+}
+```

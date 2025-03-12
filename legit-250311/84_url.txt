@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "No misspellings, character substitutions, or deceptive subdomains detected.",
+  "TLD": "The TLD.co.uk is common and not high-risk.",
+  "Patterns": "The URL is of a reasonable length and does not contain random strings or unusual characters.",
+  "Other": "The URL appears to be from a legitimate source (The Guardian), and the structure is typical for a news website.",
+  "verdict": 1
+}
+```

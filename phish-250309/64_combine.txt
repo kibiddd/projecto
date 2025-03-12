@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question, http://koutroprautraza-4169.vercel.app/mixcc.html, appears to be a scam. The URL contains a misspelling of 'koutroprautraza' and uses'vercel.app' as a subdomain, which is unusual for a website. The domain was registered on 2020-01-28 and is expiring in 2026, which is not recent. The registrant and contact information is redacted, and the domain status indicates that client transfers and updates are prohibited. The website asks for user login information and personal details, which presents a significant phishing risk. The site impersonates Meta's Privacy Center and communicates a message about scheduled ad account deletion, which raises suspicion. The website's design appears clean, but the context and generic language used increase suspicion. Based on these factors, the website is likely a scam.",
+  "verdict": 9
+}
+```

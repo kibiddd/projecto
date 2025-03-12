@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'census-online.us/view/DUBINSKY/' appears to be a legitimate census-related site, but the subdomain 'DUBINSKY' could be a deceptive attempt to mimic a legitimate domain. The domain is registered for over 6 years and is not expiring soon, which is a positive sign. The registrar is reputable, and there are no other suspicious registration factors. The screenshot shows an error message, which is not necessarily indicative of fraud. Overall, there are no clear indicators of a scam, but the deceptive subdomain warrants caution.",
+  "verdict": 3
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question appears to be a library database for death records, which is a legitimate function. However, the URL contains misspellings and character substitutions, and the TLD '.mo.us' is uncommon and not typically associated with legitimate websites. The domain was created in 2002 and is not expiring soon, which could be a red flag. The domain status includes several prohibited actions, which could indicate potential issues. The website does not appear to be a phishing site or offering a suspicious service, but the unusual URL and lack of design could be concerning. Overall, the website seems to be a legitimate library database, but there are some red flags that could indicate potential risks.",
+  "verdict": 5
+}
+```

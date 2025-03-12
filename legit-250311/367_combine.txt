@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'whatsbrowndone.com' has a recent domain registration date, lacks contact information, and has a minimalist design with an 'About' section that lacks specific details. These factors raise concerns about its legitimacy. The URL does not contain any deceptive elements, but the domain registration date and lack of transparency are potential red flags. The website's minimalist design and ambiguous presentation also contribute to the uncertainty about its legitimacy. Overall, the website exhibits some characteristics commonly associated with scam websites, but it is not definitively fraudulent.",
+  "verdict": 5
+}
+```

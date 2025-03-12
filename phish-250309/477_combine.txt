@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a phishing scam, impersonating the Trezor hardware wallet interface. It uses a deceptive domain name with a misspelling and a deceptive subdomain, which are common indicators of fraud. The domain registration is not recent, but the domain status includes common restrictions for domains managed by a third-party service like Webflow. The website is made with Webflow and the overall design looks clean, but the fake wallet is an indicator of a fraudulent website. The URL itself is not a legitimate Trezor domain and is an obvious sign of fraud. The website is a Trezor wallet simulator, requesting login through a fake login page, which is a phishing attempt.",
+  "verdict": 9
+}
+```

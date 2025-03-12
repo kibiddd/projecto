@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website is Wikipedia, a well-known and reputable organization. The URL, domain registration, and screenshot analysis do not indicate any signs of a scam. The domain is registered by the Wikimedia Foundation, Inc., and the website has a clear and professional design. The website provides extensive and easily accessible information about the organization. There are no phishing, suspicious offers, impersonation, or other suspicious factors present.",
+  "verdict": 1
+}
+```

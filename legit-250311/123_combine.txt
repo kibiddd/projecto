@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a legitimate entertainment news site for celebrity information, specifically for Diane Brewster. The URL, domain registration, and screenshot analysis do not indicate any signs of a scam. The domain is registered by a reputable registrar, and the WHOIS information is complete and legitimate. The website design appears professional, and there are no requests for personal information or suspicious offers. The 'page not found' error is a legitimate error, and the website is likely a real website for entertainment news.",
+  "verdict": 1
+}
+```

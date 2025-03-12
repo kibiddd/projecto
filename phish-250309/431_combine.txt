@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'ujguijbjkg.weebly.com' appears to be a phishing attempt, as indicated by the misspelling in the domain name, the recent and short-term registration of the domain, the suspicious registrar, and the request for login credentials. The screenshot analysis further supports the suspicion, showing a phishing page impersonating AT&T. The website is hosted on a free platform, which is often used by scammers. The potential risks include identity theft, financial loss, and unauthorized access to personal accounts. The final verdict is 10, indicating a high likelihood of the website being a scam.",
+  "verdict": 10
+}
+```

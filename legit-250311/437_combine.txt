@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'worthpoint.com' appears to be a misspelled version of a legitimate domain, which is a common phishing tactic. The domain has been registered for over 18 years, which is not unusual, but the misspelling is a red flag. The WHOIS information is complete and from a reputable registrar, but the domain status indicates that client actions are prohibited, which could be a concern. The website's design is professional, and it does not request payment for browsing, but it does require a sign-in to view pricing information, which could be a method to collect user data. The offer of a 'Start Free Trial' could be attractive, but there is no immediate indication of an excessively good offer. The website's transparency cannot be fully assessed without viewing the 'About Us' page and other sections. Overall, the website could be a scam, but there is not enough information to make a definitive conclusion.",
+  "verdict": 5
+}
+```

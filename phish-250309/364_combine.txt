@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website sharpethomas36.wixsite.com is a personal website hosted on a Wix subdomain. It appears to be impersonating the AT&T sign-in page, asking users to sign in to AT&T Mail and Currently.com. The domain was created in 2012 and is registered with GoDaddy, a reputable registrar. The website does not provide contact information and is asking for personal information, which could be a potential phishing attempt. The website is basic in design and does not contain any obvious typos. The domain status indicates that certain client actions are prohibited, which could be a security measure taken by the domain owner. The website is not recent and is not expiring soon, which could be a red flag. The website is hosted on a Wix subdomain, which is an indicator of a personal website instead of an official AT&T site.",
+  "verdict": 8
+}
+```

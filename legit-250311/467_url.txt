@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'xvideos.com' is a misspelled version of 'videos.com', which is a common misspelling used to deceive users into thinking they are visiting a legitimate site.",
+  "TLD": "The TLD '.xyz' is uncommon and considered high-risk, often associated with fraudulent activities.",
+  "Patterns": "The URL contains a suspicious pattern with an excessive length and a random string 'k=christina+aguilera+dirrty+completely+uncut', which could be an attempt to disguise the actual content or purpose of the link.",
+  "Other": "The URL contains a misspelled domain and an uncommon TLD, both of which are strong indicators of potential fraud.",
+  "verdict": 9
+}
+```

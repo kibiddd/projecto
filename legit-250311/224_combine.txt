@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website mudcat.org/hurt.cfm appears to be a historical archive focused on Mississippi John Hurt, which is not a well-known or widely recognized domain. The domain was registered over 27 years ago, and the registrant, admin, and tech contact information is redacted for privacy. The domain status includes clientDeleteProhibited, clientRenewProhibited, clientTransferProhibited, and clientUpdateProhibited, which could be a red flag. The website does not request personal information or payment, and its focus is informational and historical. No significant typos are present, and the website appears to be a legitimate historical archive, not impersonating another entity. However, the lack of transparency and the outdated format could be potential risks.",
+  "verdict": 2
+}
+```

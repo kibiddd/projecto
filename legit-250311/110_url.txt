@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'rivals.com' is a legitimate sports website, so there are no misspellings, character substitutions, or deceptive subdomains.",
+  "TLD": "The TLD '.com' is a common and trusted TLD, so it is not considered high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It follows a standard URL structure.",
+  "Other": "The URL appears to be a legitimate sports website, and there are no other suspicious factors.",
+  "verdict": 1
+}
+```

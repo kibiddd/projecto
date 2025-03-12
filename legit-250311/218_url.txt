@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'www' and a character substitution in 'goldenmap' (using 'g' instead of 'f').",
+  "TLD": "The TLD '.com' is common and not considered high-risk.",
+  "Patterns": "The URL contains a suspicious pattern with a character substitution and an unusual character ('%c3%a9').",
+  "Other": "The URL contains a misspelling and character substitution, which are common indicators of phishing or fraudulent sites.",
+  "verdict": 7
+}
+```

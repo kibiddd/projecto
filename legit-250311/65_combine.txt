@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'evri.com' appears to be a legitimate organization with a long-standing domain registration. However, the URL contains a misspelling of 'evi.com', which is a common phishing tactic. The domain is not expiring soon, and the registrar is reputable. The screenshot shows a standard 404 error page, which is not necessarily indicative of a scam. The main concern is the URL, which could potentially lead to a phishing site. The website itself does not request personal information or payment, and the contact information is provided. The domain status indicates that certain actions are prohibited, and the DNSSEC is unsigned, which is unusual for a long-standing domain. Overall, the potential risks are low, but the URL should be approached with caution.",
+  "verdict": 3
+}
+```

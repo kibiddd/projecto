@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'tennis-support.com' appears to be a scam website. The domain is registered for a short period, and the WHOIS information is complete and legitimate. However, the website displays a'register and receive' offer with a large bonus, which is a common scam tactic. The website also shows signs of phishing, suspicious offers, poor design, and impersonation of legitimate brands. The website is related to gambling and sport betting, which is often associated with fraud. The combination of these factors increases the likelihood of the website being fraudulent.",
+  "verdict": 8
+}
+```

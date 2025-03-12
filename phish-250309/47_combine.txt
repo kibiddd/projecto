@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL 'http://findhelp.support/r33' contains a misspelling in the domain name, which could be an attempt to deceive users. The domain was recently registered and is expiring soon, which is a common characteristic of scam websites. The registrar is not widely recognized, and the domain status indicates a transfer prohibition, which could be a security measure or a tactic used by fraudulent domains. The lack of a screenshot prevents further analysis of the website's content and design, which could provide additional clues about its legitimacy. The website's support page URL contains a misspelled domain, which could be an attempt to deceive users into thinking it is a legitimate site.",
+  "verdict": 7
+}
+```

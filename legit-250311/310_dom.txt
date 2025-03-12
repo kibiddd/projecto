@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain MENUPIX.COM was created on 2005-01-29 and the WHOIS database was last updated on 2025-03-11. This means the domain is not recent (less than 6 months) and it is not expiring soon (less than a year).",
+  "answer2": "The contact information provided by the registrar (Hostopia Canada Corp) is complete and not redacted or partial. The abuse contact email and phone number are also provided.",
+  "answer3": "The registrar, Hostopia Canada Corp, is not known for hosting malicious sites or lacking verification. The registrar's WHOIS server is hosted by names4ever.com, which is a reputable registrar.",
+  "answer4": "There are no other suspicious registration factors mentioned in the provided information.",
+  "verdict": 1
+}
+```

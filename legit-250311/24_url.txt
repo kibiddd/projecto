@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "No misspellings, character substitutions, or deceptive subdomains detected.",
+  "TLD": "The TLD.wordpress.com is a common and reputable domain for blogs and websites, not high-risk.",
+  "Patterns": "The URL is of a reasonable length and does not contain random strings or unusual characters.",
+  "Other": "The URL appears to be a legitimate blog or community website, with no other suspicious factors detected.",
+  "verdict": 1
+}
+```

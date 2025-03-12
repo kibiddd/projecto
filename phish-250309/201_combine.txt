@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question appears to be a scam. The URL contains a misspelling in the domain name, which is a common tactic used by fraudsters. The domain registration is not recent and has been around for over six months, which is not a strong indicator of fraud. However, the domain status includes restrictions that are common and not inherently suspicious. The screenshot analysis reveals potential phishing risks, a suspicious offer, a lack of transparency, and possible impersonation of a legitimate brand. The URL's unusual character and the use of Webflow, which can be used by scammers, add to the suspicion. The website's design and branding are similar to the legitimate BlockFi website, which is a tactic to lure users. Overall, the website presents several red flags that suggest it is a scam.",
+  "verdict": 8
+}
+```

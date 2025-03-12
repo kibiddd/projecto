@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL provided leads to a 'page not found' error on Classmates.com, which is a legitimate directory service. The domain registration is not recent and is expiring in 2025, which is not indicative of a scam. The URL contains a long query string, which could be suspicious, but the website appears to be a legitimate directory service with a clean, professional design. The screenshot analysis does not indicate any phishing, suspicious offers, or impersonation. The contact information provided by the registrar is standard and appears legitimate. The website provides copyright information, although there is no visible contact information on the error page. The verdict is 2, as there are some minor concerns but no strong evidence of a scam.",
+  "verdict": 2
+}
+```

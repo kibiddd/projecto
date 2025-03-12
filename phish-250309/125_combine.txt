@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question appears to be a phishing attempt, mimicking a legitimate AT&T login page to steal user credentials. The URL contains a misspelling of 'weeblysite.com', which is a common domain extension used by Weebly, a website building platform. The domain was created in 2012 and is not expiring soon, and the registrar, SafeNames Ltd., is not known for hosting malicious sites. However, the domain status flags could be a red flag. The website's design attempts to mimic a legitimate AT&T login page, and the domain name does not use an official domain name. The specific dates in the domain name suggest an attempt to create a sense of urgency or a limited-time offer, a technique often used in phishing.",
+  "verdict": 9
+}
+```

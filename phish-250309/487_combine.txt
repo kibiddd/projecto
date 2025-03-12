@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website, upheldd-login.mystrikingly.com, appears to be a legitimate login page for a website hosted by MyStrikingly, a known web hosting service. The domain is not deceptive, and the TLD '.com' is common and not considered high-risk. The domain was created in 2018 and is not expiring soon. The registrar, NameCheap, Inc., is reputable and the domain status indicates client transfers are prohibited. The screenshot analysis shows no phishing, suspicious offers, or design flaws, and the website's content is related to education and empowerment, which doesn't raise immediate red flags. However, the domain is not recent, which could be a potential risk factor.",
+  "verdict": 3
+}
+```

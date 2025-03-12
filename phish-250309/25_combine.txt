@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question, http://blockfilogi--official.webflow.io, appears to be a scam. The URL contains a hyphen instead of a dot, which is not a common practice and could be an attempt to confuse users. The domain was registered over six months ago and is not expiring soon, which is not necessarily indicative of fraud. However, the contact information is redacted, and the registrar is reputable. The screenshot analysis reveals that the website's main call to action is a login button, which could be used to phish credentials, and the context of 'Wallet withdrawals' raises a red flag. The website attempts to impersonate BlockFi, a real company, and the URL is highly suspicious. The website has a basic, clean design, but the URL is a common tactic used by phishers.",
+  "verdict": 9
+}
+```

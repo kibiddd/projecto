@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'faqspatents.org' appears to be a legitimate patent search database, despite the deceptive domain name 'faqspatents' being a misspelling of 'fapatsents'. The domain was registered over 28 years ago and is not expiring soon. The registrant, admin, and tech contact information is redacted for privacy, which is common practice. Network Solutions, LLC, the registrar, has been associated with hosting malicious sites in the past but is also a legitimate registrar. The website does not appear to be a phishing site, offer suspicious promotions, or impersonate any other entity. It provides information related to patents and does not require any contact to the user. However, the deceptive domain name is a red flag.",
+  "verdict": 1
+}
+```

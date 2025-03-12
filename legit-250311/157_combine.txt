@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website is a Craigslist listing for Charlotte, North Carolina, with a legitimate-looking domain and no immediate red flags in the URL, domain registration, or screenshot analysis. Craigslist is a well-known and trusted website, and the domain appears to be a legitimate subdomain. However, the domain has several prohibitions that could be a red flag, although they are not definitive indicators of fraud. Craigslist's basic design and transparency in contact information do not indicate fraud. The domain was registered over 6 months ago and is not expiring soon, which is typical for legitimate domains. Overall, there are no apparent issues that would suggest this is a scam website.",
+  "verdict": 1
+}
+```

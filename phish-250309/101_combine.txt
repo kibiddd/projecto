@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website at https://827581.cc is a scam website. The URL contains a misspelling of 'google.com' and uses the '.cc' TLD, which is commonly associated with scam websites. The domain was created recently and is set to expire soon, which can be a potential fraud indicator. The WHOIS information is complete and the registrar is a well-known one, but the domain status indicates that client transfers are prohibited. The website is requesting a password, which is a sign of potential phishing activity. The website's layout is very simple, potentially indicating a low-quality design or the site is incomplete. The combination of the very short URL and the password field on the webpage points to a high probability of fraudulent activity. The lack of any other information besides password entry also raises suspicion.",
+  "verdict": 9
+}
+```

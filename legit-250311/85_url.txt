@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "No misspellings, character substitutions, or deceptive subdomains detected.",
+  "TLD": "The TLD.gov is a common and trusted domain for government websites, not high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters.",
+  "Other": "The URL appears to be a legitimate government website, and there are no other suspicious factors.",
+  "verdict": 1
+}
+```

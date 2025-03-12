@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain registration is recent, as the last update of the WHOIS database is 2025-03-11, which is less than 6 months from today, 2025-03-07. This could be a potential indicator of fraud, as fraudulent domains are often registered recently to avoid detection.",
+  "answer2": "The contact information is redacted, which is a common indicator of fraudulent activity. Fraudulent domain owners often hide their contact information to avoid being traced or held accountable.",
+  "answer3": "The registrar is not specified in the provided information, so it is not possible to determine if it is known for hosting malicious sites or lacking verification. However, the domain itself is not found, which could indicate a problem with the registrar or the domain.",
+  "answer4": "Other suspicious registration factors include the domain not being found, which could indicate that the domain is not properly set up or is intentionally misleading. Additionally, the domain name 'roadplanner.org/gamerequest.cqs' does not provide any clear indication of the intended purpose or legitimacy of the site.",
+  "verdict": 8
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website mygovaus-inbox.com appears to be a phishing scam, mimicking the official myGov website to steal user credentials. The domain contains a misspelling of 'govaus', which could be an attempt to deceive users. The domain was registered recently and is set to expire soon. The registrar, NICENIC INTERNATIONAL GROUP CO., LIMITED, is known for hosting malicious sites. The website's design and layout mimic the official myGov website, but the URL is highly suspicious. The website is requesting personal information, which is a common phishing tactic. The website's URL (mygovaus-inbox.com) is a major red flag. Official government websites use.gov or.gov.au domains.",
+  "verdict": 10
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website uxcurrentjhfduxux.weebly.com appears to be a scam based on the analysis of the URL, domain registration, and a screenshot of the website. The URL contains misspellings and character substitutions, which are common indicators of a deceptive domain. The domain was created on 2006-03-29 and is expiring soon, which can be a potential fraud indicator. The WHOIS information provided is complete and does not appear to be redacted or suspicious, but the registrar, SafeNames Ltd., is known for hosting malicious sites or lacking verification. The website is requesting User ID and password, which are personal information, and is impersonating AT&T. The website has poor design and low-quality image, and there is a typo. The URL is suspicious. The website is likely a phishing scam.",
+  "verdict": 9
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'armythlonindia.com' appears to be a misspelled version of a potentially legitimate domain, with a short domain registration period and a registrar known for legitimate operations. However, the unusual characters in the URL and the lack of a website screenshot make it difficult to assess the site's legitimacy. The absence of a screenshot prevents a visual inspection of the website's content, which could be crucial in determining its legitimacy. The short registration period could indicate a temporary or fraudulent site, but without further evidence, it is not conclusive.",
+  "verdict": 6
+}
+```

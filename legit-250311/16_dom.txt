@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 20-Jan-1999 and is set to expire on 20-Jan-2026, which means it is not recent (less than 6 months) and not expiring soon (less than a year).",
+  "answer2": "The contact information is not provided in the WHOIS data, which could be considered suspicious as it lacks transparency.",
+  "answer3": "Blue Spark Limited t/a Blue Spark is a known registrar, but there is no specific information indicating that they host malicious sites or lack verification. However, the lack of contact information could be a red flag.",
+  "answer4": "The domain has been registered for a long time (since 1999) and has not been updated recently (last updated on 21-Dec-2024).",
+  "verdict": 3
+}
+```

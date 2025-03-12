@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2006-12-18, which is over 18 years ago. Therefore, it is not recent.",
+  "answer2": "The contact information provided by the registrar is complete and not redacted or suspicious.",
+  "answer3": "MarkMonitor Inc. is a reputable registrar known for hosting legitimate domains. There is no indication that it hosts malicious sites or lacks verification.",
+  "answer4": "The domain status indicates that client actions such as deletion, transfer, and update are prohibited. This could be a red flag, but it is not necessarily indicative of fraud.",
+  "verdict": 1
+}
+```

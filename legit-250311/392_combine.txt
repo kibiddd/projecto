@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website hfboards.com appears to be a legitimate forum, but the requested page is not found, resulting in a 404 error. The domain is over 23 years old, registered with a reputable registrar, and has no deceptive elements. However, the lack of content on the requested page could be a sign of a technical issue rather than a scam. The website itself does not display phishing, suspicious offers, or impersonation, but the 404 error could be a red flag for users.",
+  "verdict": 1
+}
+```

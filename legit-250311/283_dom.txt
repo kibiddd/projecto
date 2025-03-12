@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2009-04-06 and the WHOIS update was on 2023-04-07, which means it has been registered for over 16 years. Therefore, it is not recent (less than 6 months) nor expiring soon (less than a year).",
+  "answer2": "The contact information provided by the registrar (GoDaddy.com, LLC) is complete and not redacted or partial. The registrar's abuse contact email and phone number are also provided, which is not suspicious.",
+  "answer3": "GoDaddy.com, LLC is a well-known and reputable registrar. There is no indication that it hosts malicious sites or lacks verification. The domain is registered with GoDaddy, which is a legitimate and trusted registrar.",
+  "answer4": "There are no other suspicious registration factors mentioned in the provided information.",
+  "verdict": 1
+}
+```

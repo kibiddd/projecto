@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'unbouncepages.com/mexico52tn' appears to be a scam. The URL contains a misspelled domain and a deceptive subdomain, which are common indicators of fraudulent websites. The domain was created on 2009-10-26 and the registration is expiring on 2025-10-26, which is more than 6 years away. The WHOIS information provided is complete and there is no redacted or suspicious contact information. The registrar, NameCheap, Inc., is a well-known and reputable registrar. The domain status indicates 'clientTransferProhibited', which is a common restriction for domains managed by certain registrars or for specific reasons. The website design is consistent with the official Facebook website, but the URL indicates a different domain. The website appears to be impersonating the Facebook login page.",
+  "verdict": 9
+}
+```

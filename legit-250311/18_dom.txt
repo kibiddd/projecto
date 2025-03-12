@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 1997-03-29, which is far beyond the 6-month threshold for recent registration. It is not expiring soon either, as the expiration date is 2033-03-30. Therefore, this factor does not indicate potential fraud.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or suspicious. All relevant contact information is available, including the registrar's abuse contact email and phone number.",
+  "answer3": "The registrar, RegistrarSafe, LLC, is a legitimate and well-known registrar. There is no indication that it hosts malicious sites or lacks verification. Therefore, this factor does not indicate potential fraud.",
+  "answer4": "N/A",
+  "verdict": 1
+}
+```

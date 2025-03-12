@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'bpsa.bravehost.com' appears to be associated with Brave, a well-known privacy-focused web browser, and is hosted on Bravehost. The domain 'bravehost.com' is not deceptive and is associated with Brave's services. The domain was registered over 23 years ago, which is unusual for a new or fraudulent domain, and the domain status 'clientTransferProhibited' could be a concern. The website offers web hosting and site building services, which may involve requesting payment information, making it vulnerable to phishing if not handled securely. The website's design appears basic but functional, and it provides contact information through the 'Bravenet' service. However, the URL 'bpsa.bravehost.com' suggests a subdomain on Bravehost, which could host legitimate websites but also fraudulent ones. The website does not contain any obvious phishing indicators, suspicious offers, or impersonation attempts. The potential risks include phishing and the possibility of hosting fraudulent websites.",
+  "verdict": 4
+}
+```

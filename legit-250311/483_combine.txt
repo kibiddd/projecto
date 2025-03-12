@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question is a legitimate news article from the Tampa Bay Times, reporting on a soccer match. The URL, domain, and screenshot analysis do not indicate any signs of a scam. The website is well-established, the domain is registered by a reputable registrar, and the 404 error page is professional and transparent. The potential risks are minimal, as the website is a trusted news source and the error page does not request personal information or payment.",
+  "verdict": 1
+}
+```

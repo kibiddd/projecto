@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL provided redirects to a legitimate Yahoo Finance page, which is a trusted service. The domain 'ca.finance.yahoo.com' contains a misspelling of 'com', but this alone does not indicate a scam. The domain was created in 1995, which is not recent, but it is hosted by a reputable registrar, MarkMonitor Inc. The domain status includes several prohibitions, which could be a red flag. The screenshot analysis did not reveal any phishing, suspicious offers, or other red flags. Based on the analysis, the website appears to be legitimate, but the unusual domain status could warrant caution.",
+  "verdict": 3
+}
+```

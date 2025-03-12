@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website is IMDb's official soundtrack page for the movie 'The Shawshank Redemption'. It is a legitimate and well-established website with a professional design and clear contact information. The domain is registered by a reputable registrar and has no suspicious registration factors. The website does not request any personal information or payment, and there are no suspicious offers or impersonation. The URL, domain registration, and screenshot analysis all indicate that this is not a scam website.",
+  "verdict": 1
+}
+```

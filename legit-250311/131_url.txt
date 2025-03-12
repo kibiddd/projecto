@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'emilystrange.com' does not contain obvious misspellings or character substitutions. It appears to be a legitimate domain name, although it is not a common domain name.",
+  "TLD": "The TLD '.com' is a common and trusted TLD, so it does not indicate a high risk of fraud.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It follows a standard URL structure.",
+  "Other": "The URL contains a '.com' domain, which is a common and trusted TLD. The URL does not contain any obvious signs of being a phishing or scam site.",
+  "verdict": 1
+}
+```

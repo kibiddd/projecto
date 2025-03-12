@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website realfootball365.com appears to be a legitimate sports-related site, offering articles and a sportsbook promo code. The domain is registered by a reputable registrar, GoDaddy, and has a long registration period. The website is well-designed and provides information on how to claim the sportsbook offer. However, the offer of $1,100 in first bet insurance could be considered suspicious if the terms are not clearly laid out. The website does not directly ask for sensitive information like credit card details, so the risk is low. The trustworthiness of the website depends on the legitimacy of the sportsbook itself.",
+  "verdict": 3
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL contains a misspelling of 'webflow.io', which is a common platform for hosting websites, but this could be an attempt to deceive users. The domain was registered over 6 months ago and is not expiring soon, which is not indicative of fraud. The contact information is redacted, which is common but can be a red flag in combination with other suspicious factors. MarkMonitor Inc., a reputable registrar, is known for hosting malicious sites, and the domain status includes client management restrictions, which could be indicative of potential fraud. The website appears professional and modern, with no immediate phishing or suspicious offers detected. The URL indicates it's hosted on Webflow, which is not inherently suspicious. Overall, there are some red flags, but not enough to definitively label the site as a scam.",
+  "verdict": 5
+}
+```

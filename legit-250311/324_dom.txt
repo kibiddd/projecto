@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 1995-03-30 and is expiring on 2025-03-31, which is less than a year from the current date of 2025-03-07. This indicates that the domain is expiring soon, which can be a potential fraud indicator as it may be a short-term registration often used for malicious purposes.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or suspicious. The registrar and contact information are clearly listed, which is a positive sign.",
+  "answer3": "The registrar, CSC Corporate Domains, Inc., is a legitimate and well-known registrar. There is no indication that this registrar is known for hosting malicious sites or lacking verification.",
+  "answer4": "The domain status includes several prohibitions such as clientTransferProhibited, serverDeleteProhibited, serverTransferProhibited, and serverUpdateProhibited. These prohibitions can be a red flag as they may indicate that the domain owner is trying to prevent changes to the domain, which can be a tactic used by fraudulent actors to maintain control over the domain.",
+  "verdict": 7
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain METACAFE.COM was created on 2001-05-08 and has a registry expiry date of 2027-05-08. This means the domain is not recent (less than 6 months) and is not expiring soon (less than a year). Therefore, this factor does not indicate potential fraud.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted, partial, or suspicious. The registrar and contact information are clearly provided. Therefore, this factor does not indicate potential fraud.",
+  "answer3": "GoDaddy.com, LLC is a well-known and reputable registrar. There is no indication that GoDaddy hosts malicious sites or lacks verification. Therefore, this factor does not indicate potential fraud.",
+  "answer4": "The domain status indicates that clientDeleteProhibited, clientRenewProhibited, clientTransferProhibited, and clientUpdateProhibited. This could be a red flag, as it may indicate that the domain owner is trying to prevent changes to the domain, which could be a tactic used by fraudulent actors. However, this alone is not a definitive indicator of fraud. Therefore, this factor is somewhat suspicious but not conclusive.",
+  "verdict": 3
+}
+```

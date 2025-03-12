@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL contains misspellings and character substitutions, which are common indicators of a deceptive domain. The domain registration is recent, with an expiration date less than a year from the current date, which can be a potential fraud indicator. WHOIS information is complete and does not appear to be redacted or suspicious. SafeNames Ltd. is the registrar, and there is no information suggesting it hosts malicious sites. The domain status indicates that clientDelete, clientTransfer, and clientUpdate are prohibited, and DNSSEC is unsigned. The website is asking for personal information, which is a phishing attempt. The URL is a random string of characters followed by '.weebly.com', which is not the official BT website URL. The website is impersonating BT. The website's format looks legitimate, but the phishing attempt and impersonation are significant risks.",
+  "verdict": 9
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "No misspellings or character substitutions detected. The domain 'charlotte.craigslist.org' appears to be a legitimate subdomain of Craigslist, which is a well-known and trusted website.",
+  "TLD": "The TLD '.org' is commonly used by non-profit organizations and is generally considered safe. It is not uncommon or high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It follows a standard URL structure.",
+  "Other": "The URL appears to be a legitimate Craigslist listing for Charlotte, North Carolina. There are no other suspicious factors present.",
+  "verdict": 1
+}
+```

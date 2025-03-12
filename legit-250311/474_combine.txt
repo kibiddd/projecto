@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'lastcombat.com' appears to be a legitimate gaming website based on the URL and domain analysis. However, the domain registration is not recent and is expiring soon, which could be a red flag for potential fraud. The screenshot analysis shows a 404 error, indicating a page that doesn't exist, which could suggest poor site maintenance or potential issues with the URL structure. The contact information provided by the registrar appears to be legitimate, and the registrar itself is well-known and reputable. The domain status indicates that client actions such as deletion, renewal, transfer, and update are prohibited, which could be a sign of a domain that is being managed by a third party or is under some form of restriction. Overall, there is not enough information to determine if the website is fraudulent, but the recent domain registration and 404 error could be potential risks.",
+  "verdict": 3
+}
+```

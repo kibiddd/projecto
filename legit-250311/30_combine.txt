@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL contains a misspelled subdomain which could be an attempt to deceive users. The domain is registered for a long time and is managed by a reputable registrar. The website might request personal information or login credentials, and the lack of visible design raises concern. The obscure URL and lack of content also raise concern. The website appears to be an educational institution, but the misspelled subdomain and lack of visible design raise concern.",
+  "verdict": 7
+}
+```

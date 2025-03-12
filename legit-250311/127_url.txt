@@ -1,0 +1,7 @@
+```json
+{
+  "Deceptive Domain": "The domain name contains a misspelling of 'embassy' as 'embassyhomepage'. This could be an attempt to deceive users into thinking they are visiting an official embassy website.",
+  "TLD": "The TLD '.com' is a common and low-risk TLD, so this factor does not indicate fraud.",
+  "Patterns": "The URL is excessively long and contains a mix of hyphens and underscores, which could be used to obfuscate the true nature of the website. However, it does not contain random strings or unusual characters.",
+  "Other": "The URL contains the word 'embassy' which could be legitimate, but the misspelling and the context of the URL suggest it might be an attempt to mimic an official site. The presence of 'holiday_phrases_in_russian' could be a legitimate service, but the overall context raises suspicion.",
+  "verdict": 6

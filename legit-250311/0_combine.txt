@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'afterelton.com' appears to be a genealogy site related to family trees and historical records, as indicated by the screenshot analysis. The URL contains a misspelling of the domain, which could be an attempt to deceive users. The domain registration is not recent and is expiring in 2025, which does not indicate a high risk of being a scam. However, the website uses an old-style CGI interface with a plain design, which may raise some suspicion. The website does not seem to be requesting payment or sensitive personal information in a phishing manner, but the basic and dated design could be a potential risk. Overall, the website seems to be legitimate but may not be the most up-to-date or user-friendly.",
+  "verdict": 4
+}
+```

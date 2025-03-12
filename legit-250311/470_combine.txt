@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website DOCSPOT.COM appears to be a legitimate psychiatry-related service, with a professional design and no direct phishing attempts. However, the presence of an advertisement that redirects to a therapy service raises a mild concern. The domain is not recent and is registered with a reputable registrar, but the prohibition of client transfers and unsigned DNSSEC could be potential red flags. The website seems transparent with contact and legal information provided, but the advertisement's nature could be considered suspicious. Overall, there are no strong indicators of a scam, but caution is advised due to the potential risks associated with the advertisement and domain registration details.",
+  "verdict": 4
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "No misspellings, character substitutions, or deceptive subdomains detected.",
+  "TLD": "The TLD.net is a common and trusted TLD, not high-risk.",
+  "Patterns": "The URL is of a reasonable length and does not contain random strings or unusual characters.",
+  "Other": "The URL appears to be a legitimate link to a sports-related website, with no other suspicious factors detected.",
+  "verdict": 1
+}
+```

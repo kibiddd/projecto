@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2000-01-28 and the WHOIS database was last updated on 2025-03-11. This means the domain is over 23 years old, not recent. Therefore, the domain registration is not recent.",
+  "answer2": "The contact information provided by the registrar (GoDaddy) is complete and not redacted or suspicious.",
+  "answer3": "GoDaddy is a well-known and reputable registrar, and there is no indication that they are known for hosting malicious sites or lacking verification.",
+  "answer4": "The domain status indicates that client actions such as deletion, renewal, transfer, and update are prohibited. This could be a red flag, but it is not necessarily indicative of fraud. The domain is also using an unsigned DNSSEC, which is not uncommon and does not necessarily indicate fraud.",
+  "verdict": 1
+}
+```

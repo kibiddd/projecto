@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'westport.k12.ct.us' appears to be a legitimate school district domain, but the inclusion of 'cchome.htm' at the end of the URL could be a deceptive practice to trick users into visiting a different page or site.",
+  "TLD": "The TLD '.us' is a common and legitimate TLD for the United States, so it does not indicate a high risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It follows a standard URL structure.",
+  "Other": "The URL appears to be a legitimate link to a school district's website, but the inclusion of 'cchome.htm' could be a deceptive practice to trick users into visiting a different page or site.",
+  "verdict": 2
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2003-12-09 and the registration information was last updated on 2023-07-25. This means the domain has been registered for over 21 years, which is far beyond the 6-month and 1-year thresholds for recent or expiring registrations. Therefore, this factor does not indicate potential fraud.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or suspicious. The registrar's contact information is also provided, which is a good sign of transparency.",
+  "answer3": "The registrar, Tucows Domains Inc., is a well-known and reputable registrar. There is no indication that Tucows hosts malicious sites or lacks verification. Therefore, this factor does not indicate potential fraud.",
+  "answer4": "There are no other suspicious registration factors mentioned in the provided information.",
+  "verdict": 1
+}
+```

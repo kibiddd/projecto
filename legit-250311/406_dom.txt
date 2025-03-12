@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain JAMBASE.COM was created on 1999-03-19 and the WHOIS database was last updated on 2025-03-11. This means the domain is not recent (less than 6 months) and it is not expiring soon (less than a year).",
+  "answer2": "The contact information provided by the registrar (Dynadot Inc) is complete and not redacted or partial. The abuse contact email and phone number are also provided.",
+  "answer3": "Dynadot Inc is a well-known registrar and is not known for hosting malicious sites or lacking verification. The registrar is a reputable company in the domain registration industry.",
+  "answer4": "The domain status indicates that client transfers are prohibited, which is a common restriction for domains managed by certain registrars or organizations. The DNSSEC is unsigned, which is not necessarily a red flag, but it could be a concern depending on the context. The name servers are provided, which is a good sign.",
+  "verdict": 1
+}
+```

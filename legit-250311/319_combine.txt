@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website is TV Guide, a well-known and established media brand providing TV show recommendations and information. The URL, domain registration, and screenshot analysis do not indicate any signs of a scam. The domain is registered by a reputable registrar, and the website has a professional design with no obvious typos or phishing attempts. The website does not ask for personal information or payment, and the contact information would be expected to be available on other pages of the site.",
+  "verdict": 1
+}
+```

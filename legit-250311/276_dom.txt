@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain MIKESCRABHOUSE.COM was created on 1999-06-11 and has an expiration date of 2025-06-11. This means the domain is not recent (less than 6 months) and is not expiring soon (less than a year).",
+  "answer2": "The contact information provided by the registrar (NameCheap, Inc.) is complete and not redacted or partial. The abuse contact email and phone number are also provided.",
+  "answer3": "The registrar, NameCheap, Inc., is a well-known and reputable registrar. There is no indication that it hosts malicious sites or lacks verification.",
+  "answer4": "The domain status indicates that client transfers are prohibited, which is a common restriction for domains managed by registrars. The DNSSEC is unsigned, which is not necessarily a red flag, but it is something to be aware of. The domain name itself does not raise any immediate red flags.",
+  "verdict": 1
+}
+```

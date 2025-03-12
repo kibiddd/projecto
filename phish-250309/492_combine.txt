@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'wap.hutianwei.cn' has a recent domain registration date, a partial email address for contact, a common domain name associated with phishing, and an unsigned DNSSEC. These factors, combined with the inability to view the website's content, suggest potential risks of it being a scam. However, the domain's TLD is not uncommon, and the registrar is not widely known for hosting malicious sites. The final verdict is cautious due to the lack of direct evidence from the website content.",
+  "verdict": 7
+}
+```

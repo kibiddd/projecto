@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'openmindinsertbook.blogspot.com' does not contain misspellings, character substitutions, or deceptive subdomains. It appears to be a legitimate domain.",
+  "TLD": "The TLD '.com' is a common and low-risk TLD, not uncommon or high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It follows a standard URL structure.",
+  "Other": "The URL appears to be a blog post link, which is a common and expected format for such content. There are no other suspicious factors present.",
+  "verdict": 1
+}
+```

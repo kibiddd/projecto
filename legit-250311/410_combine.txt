@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL provided is for Fisher-Price, a well-known brand, and the domain analysis indicates that the domain is not recent and is not expiring soon. The domain is registered with MarkMonitor Inc., a reputable registrar, and the contact information is complete. The screenshot analysis shows that the website appears legitimate, professional, and does not seem to be a phishing site or offering suspicious deals. However, the domain status indicates that client actions are prohibited, and the DNSSEC is unsigned, which could be a concern. The website does not appear to be a scam based on the provided information.",
+  "verdict": 1
+}
+```

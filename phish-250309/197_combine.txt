@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a phishing attempt, impersonating the Outlook Web App login page to steal credentials. The URL contains misspellings and unusual characters, and the domain is registered by a well-known registrar but has a 'clientTransferProhibited' status. The website is not recent and is not expiring soon, which is unusual for a domain involved in fraudulent activities. The website claims to be associated with Microsoft, but the URL does not appear to be legitimate. The website is requesting login credentials, which is a characteristic of phishing attempts. The website appears to be a legitimate login page for Outlook Web App, but the URL is very long and contains gibberish characters, which is a common tactic in phishing scams.",
+  "verdict": 10
+}
+```

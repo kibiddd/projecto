@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain TAMPABAY.COM was created on 1995-06-02 and has an expiration date of 2025-06-01. This means the domain is not recent (less than 6 months) and is not expiring soon (less than a year). Therefore, this factor does not indicate potential fraud.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted, partial, or suspicious. The registrar and contact information are clearly listed, which is a positive indicator against fraud.",
+  "answer3": "GoDaddy.com, LLC is a well-known and reputable registrar. There is no indication that GoDaddy hosts malicious sites or lacks verification. Therefore, this factor does not indicate potential fraud.",
+  "answer4": "There are no other suspicious registration factors mentioned in the provided information. The domain status indicates that certain actions are prohibited, but this is a common practice for domains managed by organizations to prevent unauthorized changes.",
+  "verdict": 1
+}
+```

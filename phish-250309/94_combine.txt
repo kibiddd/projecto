@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question appears to be a scam. It uses a deceptive domain with misspellings and unusual characters, and the URL is excessively long and obfuscated. The domain is registered by a reputable registrar, but the domain status indicates that client transfers and updates are prohibited. The website is impersonating Meta, using a similar layout and logo, and is requesting personal information under the guise of appealing a policy violation. The lack of clear contact information and the use of a Vercel domain instead of a meta domain are also red flags. The website's design is generic and lacks the polish and branding of a legitimate Meta interface. The very unusual URL and the tactics used to create urgency are highly suspicious. The website is likely to be a phishing scam.",
+  "verdict": 9
+}
+```

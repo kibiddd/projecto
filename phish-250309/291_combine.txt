@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question appears to be a phishing attempt, impersonating AT&T's login page to harvest user credentials. The URL contains a misspelled domain extension, and the domain is registered by SafeNames Ltd. with a long registration period. The screenshot analysis confirms the phishing nature of the site, with requests for user ID and password, a basic design, and a masked password field. The website is hosted by Weebly, which is not unusual, but the specific impersonation of AT&T's login page is a significant red flag. The URL's deceptive domain and the phishing indicators in the screenshot analysis suggest a high risk of the website being a scam.",
+  "verdict": 9
+}
+```

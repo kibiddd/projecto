@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website clarksvilleonline.com is a news source reporting on a licensing agreement between Netflix, Disney, and ABC Television Group from 2011. The URL, domain, and screenshot analysis do not indicate any signs of a scam. The domain was created in 1997 and is set to expire in 2025, which is not unusual for a news website. The WHOIS information is complete and the registrar is reputable. The website does not request personal information or payment, and it appears to have a professional design. The article is reporting on a news event from 2011, which is not inherently suspicious. However, the domain's short-term registration could be a potential risk indicator.",
+  "verdict": 2
+}
+```

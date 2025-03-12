@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'nowtorrents.com' appears to be a deceptive domain with a misspelling, and it is associated with torrent sites, which are often linked to illegal content and potential malware risks. The domain is not recent, but the WHOIS information is complete and the registrar is reputable. The website lacks transparency and may impersonate legitimate services. The screenshot analysis suggests a lack of quality and transparency, with potential risks of phishing and illegal content. The overall verdict is high due to the nature of torrent sites and the deceptive domain.",
+  "verdict": 8
+}
+```

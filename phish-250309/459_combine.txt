@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL provided appears to be a misspelled version of a legitimate domain, potentially intended to deceive users. The domain 'vaonischile.cl' is a deceptive domain, and the website was registered less than six months ago, which is a common characteristic of fraudulent sites. The lack of contact information for the registrant and the recent registration date are concerning. However, the screenshot could not be analyzed due to an error in loading the website screenshot.",
+  "verdict": 8
+}
+```

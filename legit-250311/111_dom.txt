@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2001-01-13, which is over 23 years ago, so it is not recent or expiring soon. Therefore, this factor is not applicable.",
+  "answer2": "The registrant, admin, and tech contact information is redacted for privacy, which is common practice and not necessarily indicative of fraud. This factor is not applicable.",
+  "answer3": "MarkMonitor Inc. is a reputable registrar known for hosting a variety of domains, including those of non-profit organizations. There is no known association with malicious sites. This factor is not applicable.",
+  "answer4": "The domain is associated with the Wikimedia Foundation, Inc., which is a well-known and reputable organization. The domain status indicates client-prohibited actions, which is a common practice for domains managed by organizations to prevent unauthorized changes. This factor is not applicable.",
+  "verdict": 1
+}
+```

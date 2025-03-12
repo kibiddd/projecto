@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2006-03-09, which is over 19 years ago, so it is not recent. The expiration date is 2027-03-09, which is more than a year away. Therefore, it is not expiring soon.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or suspicious.",
+  "answer3": "NameCheap, Inc. is a well-known registrar, and there is no indication that it hosts malicious sites or lacks verification. The registrar's abuse contact email and phone number are provided, which is a positive sign.",
+  "answer4": "The domain status indicates 'clientTransferProhibited', which means the domain cannot be transferred to another registrar. This is a common restriction and not necessarily a fraud indicator. The DNSSEC is unsigned, which is not uncommon for many domains, especially those not handling sensitive transactions. The last update of the WHOIS database was on 2025-03-11, which is very recent, but this does not indicate fraud.",
+  "verdict": 1
+}
+```

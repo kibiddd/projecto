@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website artandpopularculture.com appears to be a legitimate site with a common TLD and no deceptive domain patterns. The domain was created in 2007 and is not expiring soon, which is not a typical characteristic of scam websites. However, the registrar, Key-Systems GmbH, is known for hosting malicious sites, which raises some concerns. The domain status and DNSSEC issues are not definitive indicators of fraud but do suggest potential security risks. The website's design is functional and dated, with no obvious signs of phishing, suspicious offers, or impersonation. Overall, while there are some red flags, the evidence does not strongly suggest that this is a scam website.",
+  "verdict": 3
+}
+```

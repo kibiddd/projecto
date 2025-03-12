@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a GitHub repository for a Netflix landing page, which is a legitimate use of the domain. The domain is registered by a reputable registrar and has been in existence for over six months. The website requests an email address, which is a standard action for Netflix, and offers a standard promotion. The website is a basic implementation of the Netflix landing page and does not appear to be a scam. However, the URL does not appear to be the official Netflix domain, which could be a potential risk.",
+  "verdict": 2
+}
+```

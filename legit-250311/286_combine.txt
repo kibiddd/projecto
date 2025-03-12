@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a Facebook page, but the URL is not the standard 'facebook.com' and includes a specific username, which could indicate a targeted phishing attempt. The domain is registered for a long time and is not expiring soon, which is not inherently suspicious. The WHOIS information is complete and the registrar is reputable. The screenshot shows a login page with a repeated warning message, which is not typical for Facebook and could be a phishing tactic. The website's footer contains Facebook's legal information, but the login page lacks additional contact information. The presence of the user's name in the URL suggests a targeted attempt, and the unusual repeated warning message is a red flag. The website's design is consistent with Facebook's usual login page, but the context and specific URL raise concerns about its legitimacy.",
+  "verdict": 7
+}
+```

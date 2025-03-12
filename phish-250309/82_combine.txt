@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'http://pcqygl.cn' has a legitimate-looking domain with a common country code top-level domain (ccTLD) for China. The domain registration is not recent, and the sponsoring registrar is not known for hosting malicious sites. However, the domain status indicates a prohibited client transfer, which could be a red flag. The inability to load a screenshot of the website prevents further analysis of its content and design, which could be crucial in determining its legitimacy. Without additional information, it is difficult to assess the potential risks fully.",
+  "verdict": 3
+}
+```

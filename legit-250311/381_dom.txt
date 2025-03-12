@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 1996-09-19, which is far beyond the 6-month threshold. Therefore, it is not recent. The expiration date is 2028-04-30, which is more than a year away. So, it is not expiring soon.",
+  "answer2": "The contact information provided by the registrar (MarkMonitor Inc.) is complete and appears legitimate. There is no redacted or suspicious contact information.",
+  "answer3": "MarkMonitor Inc. is a well-known and reputable registrar. There is no indication that they are known for hosting malicious sites or lacking verification.",
+  "answer4": "The domain status indicates that clientDeleteProhibited, clientTransferProhibited, and clientUpdateProhibited. This could be a red flag, but it is not necessarily indicative of fraud. It could be a policy of the registrar or the domain owner.",
+  "verdict": 1
+}
+```

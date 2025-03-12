@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "No misspellings, character substitutions, or deceptive subdomains detected.",
+  "TLD": "Common TLD (.com) - Not high-risk.",
+  "Patterns": "URL is of standard length and contains expected characters for a hotel booking website.",
+  "Other": "URL appears to be from a legitimate and well-known domain (hotels.com).",
+  "verdict": 1
+}
+```

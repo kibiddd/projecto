@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website http://loginekucoeine.webflow.io appears to be a phishing attempt, mimicking the legitimate KuCoin website to deceive users into providing sensitive information. The domain contains misspellings and character substitutions, and the domain registration is not recent. The website offers mystery boxes worth up to $500 exclusively for new users, which is a common tactic used by scammers. The website lacks transparency, as it does not provide any contact information. The shortened URL also signals a fraudulent website. The website is likely a scam.",
+  "verdict": 9
+}
+```

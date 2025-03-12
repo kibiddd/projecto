@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'cb-new-notifier.top/newtransfer' is potentially a scam. The URL contains a misspelling of 'new' as 'n', uses a high-risk TLD '.top', lacks HTTPS, and mimics a legitimate service with 'newtransfer' in the path. The domain is newly registered, with less than a year until expiration, and is hosted by a registrar known for malicious sites. Contact information is redacted, and the domain has prohibited transfer and deletion flags, with no DNSSEC signature. A screenshot could not be analyzed due to an error loading the website.",
+  "verdict": 9
+}
+```

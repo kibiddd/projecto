@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain registration is recent, as it was created on 1994-03-30 and updated on 2024-03-27, which is less than 6 months from the current date of 2025-03-07. Additionally, the domain is set to expire on 2025-03-31, which is less than a year from the current date. This indicates a recent registration and an impending expiration, both of which can be potential fraud indicators.",
+  "answer2": "The contact information provided by the registrar (abuse contact email: domainabuse@cscglobal.com and phone: 8887802723) appears to be complete and not redacted or suspicious. Therefore, there are no issues with the contact information.",
+  "answer3": "The registrar, CSC Corporate Domains, Inc., is known for hosting malicious sites or lacking verification. This is a significant red flag and a strong indicator of potential fraud.",
+  "answer4": "Other suspicious registration factors include the domain status indicating clientTransferProhibited, serverDeleteProhibited, serverTransferProhibited, and serverUpdateProhibited. These restrictions can be used to prevent legitimate domain transfers and updates, which is often a tactic used by fraudulent actors to maintain control over a domain.",
+  "verdict": 9
+}
+```

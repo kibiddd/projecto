@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'trezzorr-suite-it.webflow.io' appears to be a scam website. The domain name contains a misspelling of 'trezor', which is a legitimate cryptocurrency wallet, potentially to deceive users. The domain was registered in 2013 and is not expiring soon, which is not unusual but does not indicate fraud. MarkMonitor Inc., a reputable registrar, hosts the domain. The website offers crypto wallet services, which could involve phishing attempts, especially since it impersonates the Trezor Suite wallet login page. The use of a Webflow subdomain for the main login/landing page is suspicious. The website's design is professional, but the URL structure raises concerns. The domain status includes common restrictions, which do not indicate fraud. Overall, the website's design, URL structure, and impersonation of a legitimate service increase the likelihood of it being a scam.",
+  "verdict": 9
+}
+```

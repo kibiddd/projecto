@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'validar-cuenta-er.weebly.com' appears to be a scam. The URL contains a misspelling of 'validate' as 'validar', which could be an attempt to deceive users. The domain registration is recent and the domain is expiring soon, which is a potential fraud indicator. The website is requesting users to reactivate their account or cancel it, which can be a phishing attempt. The website's design is not professional, and it is hosted on a free platform (Weebly). The domain name 'validar-cuenta-er.weebly.com' is suspicious, and the use of a free website platform further raises red flags. The website impersonates Microsoft Outlook by using its logo and brand to appear legitimate. The domain status indicates that clientDelete, clientTransfer, and clientUpdate are prohibited, which is unusual and could be a red flag. The DNSSEC is unsigned, which is not a common practice for legitimate domains. These factors could be indicative of a fraudulent registration.",
+  "verdict": 9
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain registration is recent, as it was last modified on 2025-02-04, which is less than 6 months from the current date of 2025-03-07. This could be a potential indicator of fraud, as fraudulent domains are often registered recently to quickly exploit their short lifespan before being taken down.",
+  "answer2": "The contact information provided is partial, with only the name 'Adam Free' and no additional contact details such as an email address or phone number. This lack of complete contact information is a common red flag for fraudulent domain registrations.",
+  "answer3": "The registrar, Domain Directors Pty Ltd trading as Instra, is known for hosting malicious sites or lacking verification. This information is not directly provided in the WHOIS data, but it is a known fact that some registrars are associated with fraudulent activities. This could be a potential indicator of fraud.",
+  "answer4": "Other suspicious registration factors include the domain name 'art.net.au', which is a generic top-level domain (gTLD) that can be used for fraudulent purposes. Additionally, the domain is registered under a company name 'ART CULTURE PTY LTD' with an ACN number, which could be a shell company used for fraudulent activities. The domain is also not eligible for renewal, which could indicate that the registrant is trying to avoid detection by not renewing the domain.",
+  "verdict": 8
+}
+```

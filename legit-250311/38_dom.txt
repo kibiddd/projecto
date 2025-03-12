@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain NYTIMES.COM was created on 1994-01-18 and the WHOIS database was last updated on 2025-03-11. This means the domain has been registered for over 31 years, which is far beyond the 6-month threshold for recent registration. Therefore, it is not recent.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or suspicious. All relevant contact information, including the Registrar Abuse Contact Email and Phone, is provided.",
+  "answer3": "MarkMonitor Inc. is a well-known and reputable registrar. There is no indication that they are known for hosting malicious sites or lacking verification. They are a legitimate and trusted registrar in the industry.",
+  "answer4": "There are no other suspicious registration factors mentioned in the provided information.",
+  "verdict": 1
+}
+```

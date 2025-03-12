@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website'mediacodehub.com' appears to be a legitimate domain with a common and trusted TLD '.com'. The domain was created recently and is set to expire in less than a year, which could be a potential fraud indicator. The WHOIS information is complete and the registrar is reputable. However, the website displays a 404 error and is currently unavailable, with no content provided. The URL structure is obfuscated and uses a shortener, making it difficult to ascertain its nature. The lack of content and 404 error do not provide any clues.",
+  "verdict": 5
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'friendsofairforcebasketball' contains a misspelling of 'friendsofairforce', which could be an attempt to deceive users into thinking it is a legitimate site.",
+  "TLD": "The TLD '.org' is commonly used by non-profit organizations and is generally considered safe. It is not uncommon or high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 2
+}
+```

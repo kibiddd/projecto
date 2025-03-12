@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'ilike.com' contains a misspelling of 'like.com', which is a common tactic used by fraudulent sites to deceive users.",
+  "TLD": "The TLD '.com' is a common and trusted TLD, so it does not indicate a high risk of fraud.",
+  "Patterns": "The URL contains a suspicious pattern with the use of spaces and a hyphen in the path, which could be used to mislead users.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 4
+}
+```

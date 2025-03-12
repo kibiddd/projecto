@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'aqdk42.com' has a deceptive domain name with a misspelling of a legitimate domain, a short registration period, and is hosted by a registrar known for hosting malicious sites. Additionally, the domain status is 'clientHold' and the DNSSEC is unsigned, which are potential red flags for fraud. However, the WHOIS information is complete and there is no redacted contact information. The website screenshot could not be analyzed due to an error.",
+  "verdict": 7
+}
+```

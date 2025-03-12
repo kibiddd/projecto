@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website reghartt.ca appears to be a legitimate Canadian domain with a basic, functional design. The domain was created in 2010 and is not expiring soon. The registrar is a well-known entity, and the domain is not currently hosting any suspicious activities. The website does not request personal information or payment and provides a physical address and contact information. However, the domain contains a misspelling of'reghardt.ca', which could be an attempt to deceive users. The domain is unsigned for DNSSEC, which could be a security concern. The website does not offer any products or services and does not appear to be a phishing site. The website's transparency and lack of impersonation are positive indicators. Overall, the website seems legitimate, but the misspelling of the domain name could be a potential risk.",
+  "verdict": 2
+}
+```

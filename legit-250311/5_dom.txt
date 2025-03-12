@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain registration is not recent; it was created on 1990-12-12T05:00:00Z, which is well over 6 months ago. It is also not expiring soon; the expiry date is 2025-12-11T05:00:00Z, which is more than a year away. Therefore, this factor does not indicate potential fraud.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or suspicious. All relevant contact information is available, including the Registrar Abuse Contact Email and Phone. This factor does not indicate potential fraud.",
+  "answer3": "MarkMonitor Inc. is a reputable registrar known for hosting a wide range of domains, including those of well-known organizations. There is no indication that this registrar is known for hosting malicious sites or lacks verification. This factor does not indicate potential fraud.",
+  "answer4": "There are no other suspicious registration factors present in the provided information. The domain status indicates that certain actions are prohibited, but this is a common practice for many domains to prevent unauthorized changes. This factor does not indicate potential fraud.",
+  "verdict": 1
+}
+```

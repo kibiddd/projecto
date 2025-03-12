@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 1997-04-22 and the registration information was last updated on 2022-02-22. This means the domain has been registered for over 27 years, which is not recent. The domain is not expiring soon either, as the expiry date is 2027-04-23. Therefore, this factor does not indicate potential fraud.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or suspicious. The registrar and contact information are clearly provided. Therefore, this factor does not indicate potential fraud.",
+  "answer3": "Network Solutions, LLC is a well-known registrar, and there is no indication that it hosts malicious sites or lacks verification. Therefore, this factor does not indicate potential fraud.",
+  "answer4": "The domain status indicates that client transfers are prohibited, which is a common practice to prevent unauthorized transfers. The DNSSEC is unsigned, which is not necessarily a red flag, as many domains choose not to use DNSSEC. The registrar's abuse contact information is provided, which is a good practice. Therefore, this factor does not indicate potential fraud.",
+  "verdict": 1
+}
+```

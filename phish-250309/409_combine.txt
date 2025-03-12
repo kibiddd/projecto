@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL contains a deceptive domain with a misspelled brand name and an uncommon TLD, which are common indicators of a scam website. The domain was registered recently and has redacted contact information, which could be a sign of fraudulent activity. The domain status shows 'clientTransferProhibited' and 'addPeriod', and the domain name is a common pattern used in phishing attacks. The lack of a verified DNS security (DNSSEC) could also be a concern. However, the inability to analyze the website's content due to an error in loading the screenshot prevents a complete assessment of the website's legitimacy.",
+  "verdict": 8
+}
+```

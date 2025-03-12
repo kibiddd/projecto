@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website srfsask.org is a potential scam due to the deceptive domain name, the domain's recent registration, the use of a registrar known for hosting malicious sites, and the prohibition of client transfers. The lack of visible content on the website and the inability to load a screenshot further raise concerns about its legitimacy. The domain's short lifespan and the privacy measures taken by the registrant also contribute to the suspicion. However, without additional information or a successful screenshot, it is difficult to fully assess the website's intentions.",
+  "verdict": 8
+}
+```

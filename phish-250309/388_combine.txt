@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question, sso-bllockf-auth-s-sso.webflow.io, appears to be a scam. The URL contains a misspelling of 'block' as 'blocc' and'sso' as's-sso', which is a common tactic used in phishing attempts. The domain was registered in 2013 and is not expiring soon, which is not a strong indicator of fraud. However, the domain is hosted by MarkMonitor Inc., a registrar known for hosting malicious sites, and has unusual restrictions on domain management. The website's poor format, low-quality images, and typo in 'bllockf' further raise concerns. The URL suggests an attempt to impersonate BlockFi's official website, which is a significant red flag. The website promotes a cryptocurrency credit card with an unusual offer, which is typical of scam sites. The combination of these factors makes it highly likely that the website is fraudulent.",
+  "verdict": 9
+}
+```

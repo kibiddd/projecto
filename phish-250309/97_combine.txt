@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website at https://551003k.cc is a high-risk gambling site with a suspicious domain name and uncommon TLD. The domain was registered recently and is set to expire soon, which could indicate a temporary scam operation. The WHOIS information is complete, but the domain's short registration period is a red flag. The website is not directly asking for personal information or payment in the screenshot, but the context suggests it could be related to gambling, which is often associated with scams. The website displays a generic 'Forbidden' error message, and the IP address is masked, making it difficult to assess the site's legitimacy. The lack of transparency and the nature of the service raise concerns about the website's trustworthiness.",
+  "verdict": 8
+}
+```

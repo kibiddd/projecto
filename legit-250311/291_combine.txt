@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'lindasmalley.com' appears to be a domain for sale, with a legitimate-looking domain name and registration details. The domain was created in 1999 and is set to expire in 2025, which could be a potential fraud indicator. The website has a basic design and limited features, and while it does not appear to be directly involved in phishing, the transaction aspect could make it vulnerable to phishing via compromised payment processes. The lack of detailed information and basic design could indicate a lack of effort to build trust. The domain status indicates that client actions are prohibited, which could be a red flag. Overall, the website seems to be a legitimate domain for sale, but there are some potential risks associated with the transaction process.",
+  "verdict": 5
+}
+```

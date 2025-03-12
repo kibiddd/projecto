@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain registration is not recent; it was created on 2000-07-31 and is expiring in 2025-07-31, which is more than 6 years from now. Therefore, it is not a recent registration.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or suspicious.",
+  "answer3": "MarkMonitor Inc. is a reputable registrar known for hosting a variety of domains, including those of legitimate businesses. There is no indication that they are known for hosting malicious sites or lacking verification.",
+  "answer4": "N/A",
+  "verdict": 1
+}
+```

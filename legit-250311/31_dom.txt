@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2025-03-11, which is less than 6 months from today (2025-03-07). This is a potential indicator of fraud as many fraudulent domains are registered recently.",
+  "answer2": "The contact information is redacted, which is a common indicator of fraudulent activity. Fraudulent registrants often hide their contact details to avoid detection and accountability.",
+  "answer3": "The registrar is not explicitly mentioned in the provided information, but the lack of a match for the domain in the WHOIS database could suggest that the registrar is not well-known or reputable. This could be a red flag for potential fraud.",
+  "answer4": "Other suspicious registration factors include the domain name being similar to a legitimate one (THEKINGSMEADOW.NET vs. THEKINGSMEADOW.NET), which could be an attempt to deceive users.",
+  "verdict": 8
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website is the official Metacritic page for the movie 'The Limits of Control'. It is a legitimate and well-established site with no signs of phishing, suspicious offers, or impersonation. The domain has been registered for over 25 years and is managed by a reputable registrar. The website has a professional design and provides clear information about the movie and its ratings. The only potential risk is the subscription links to streaming services, which are standard for such websites. However, there are no other suspicious factors detected.",
+  "verdict": 1
+}
+```

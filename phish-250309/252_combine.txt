@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'impots-gouv-particuliers.fr' appears to be a phishing attempt, impersonating the official French tax authority 'impots.gouv.fr'. The URL analysis shows no deceptive domain or patterns, but the domain is not recent and is not expiring soon. The domain registration details are legitimate, with a reputable registrar and no suspicious factors. However, the screenshot analysis reveals that the website is requesting authentication, displaying a technical error, and lacks transparency and contact information. The website is impersonating the French tax authority and is not the official one, which is a clear indication of phishing. The URL is static and shows a fake error page. The website's design and logo seem legitimate, but the ultimate goal of the site is to receive payment, which is something that fraudulent websites may also want to get.",
+  "verdict": 9
+}
+```

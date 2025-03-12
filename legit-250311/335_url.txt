@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "No misspellings, character substitutions, or deceptive subdomains detected.",
+  "TLD": "Common TLD (.org) - Not high-risk.",
+  "Patterns": "URL is of normal length and contains expected characters for a legitimate website.",
+  "Other": "The URL appears to be from a well-known and reputable organization (GreatSchools.org).",
+  "verdict": 1
+}
+```

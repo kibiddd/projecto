@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'fanbase.com' appears to be a legitimate domain with a common TLD and a standard URL structure. The domain has been registered for over 23 years, which is not recent, but the registrar is reputable. However, the domain status indicates that the owner has restricted the ability to delete, renew, transfer, or update the domain, which could be a red flag for potential fraud. The screenshot analysis did not reveal any phishing, suspicious offers, or other red flags. Therefore, the potential risks are low, but the restricted domain status warrants caution.",
+  "verdict": 3
+}
+```

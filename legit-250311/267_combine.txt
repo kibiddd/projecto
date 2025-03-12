@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL provided is a YouTube video link, which is not a typical scam website. The domain is registered for a long time, the registrar is reputable, and the screenshot shows a standard YouTube video embedded within a web page. There are no signs of phishing, suspicious offers, impersonation, or other scam indicators. The website appears to be legitimate and not a scam.",
+  "verdict": 1
+}
+```

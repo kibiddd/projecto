@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website is an obituary page hosted on legacy.com, a reputable source for obituaries. The URL, domain, and screenshot analysis do not indicate any signs of a scam. The domain is not recent and is not expiring soon, which is typical for such domains. The WHOIS information is complete and does not appear suspicious. The website is well-designed, transparent, and linked to a reputable source. It does not request personal information or payment and is not offering any suspicious products or services. The primary purpose of the website is to display obituary information, which is consistent with its intended use.",
+  "verdict": 1
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'tductlm.vercel.app/xkjg.cno' appears to be a scam. The URL contains misspellings and character substitutions, and the domain is registered for a long period. The website claims to be a privacy center dealing with advertisement and account suspension, which could be impersonating a legitimate platform. The provided screenshot indicates potential phishing by asking users to submit personal information to appeal a decision. The URL uses a free hosting service and a seemingly random file path, which are common tactics used by malicious websites. The domain registrar is reputable, but the website's design and content raise concerns. The website lacks transparency, as it does not provide contact information.",
+  "verdict": 8
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a legitimate news source, with a domain that is not deceptive and a WHOIS record indicating an older, established domain. The screenshot analysis shows no signs of phishing, suspicious offers, or poor design. The domain registrar has a mixed history, but the domain itself is not recent, which is common for established news outlets. The website does not request personal information or payment, and it seems to be associated with a known news source, suggesting transparency and trustworthiness. Overall, there are no immediate red flags indicating that this is a scam website.",
+  "verdict": 1
+}
+```

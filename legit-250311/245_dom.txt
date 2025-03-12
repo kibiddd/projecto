@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain BIKEREG.COM was created on 1999-03-25 and has a registration expiry date of 2026-03-25. This means the domain is not recent (less than 6 months) and is not expiring soon (less than a year).",
+  "answer2": "The contact information provided by the registrar (Cloudflare, Inc.) is complete and not redacted or partial. The abuse contact email and phone number are also provided.",
+  "answer3": "Cloudflare, Inc. is a reputable registrar known for hosting many legitimate websites. There is no indication that Cloudflare is known for hosting malicious sites or lacking verification.",
+  "answer4": "The domain status indicates that client transfers are prohibited, which is a common restriction for domains managed by registrars to prevent unauthorized transfers. The DNSSEC is unsigned, which is not necessarily a red flag, as many domains do not use DNSSEC. The last update of the whois database was on 2025-03-11, which is recent but not suspicious.",
+  "verdict": 1
+}
+```

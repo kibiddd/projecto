@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL 'https://www.godfreycambridge.com/' appears to have a common TLD and no deceptive domain patterns. However, the domain was registered less than 6 months ago, and the contact information is redacted, which are potential indicators of fraud. The registrar information is not specified, and the domain name does not match the expected format. The screenshot analysis does not provide additional information. The website content is not available for further analysis. Based on the provided information, the website may be a scam.",
+  "verdict": 8
+}
+```

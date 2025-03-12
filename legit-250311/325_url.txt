@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'wj2d' contains a misspelling of 'wj2d', which could be an attempt to deceive users into thinking it's a legitimate domain.",
+  "TLD": "The TLD '.tripod.com' is a common TLD and not considered high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters.",
+  "Other": "The URL contains a misspelled domain, which is a common tactic used in phishing and fraudulent activities.",
+  "verdict": 7
+}
+```

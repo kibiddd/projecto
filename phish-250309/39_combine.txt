@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL contains a misspelling of 'desktop' as 'desktpp' and a slight misspelling of 'ledger' as 'ledgre'. The domain was registered over 6 months ago and is not expiring soon. The registrar is reputable, but the domain has restrictions that are common for third-party managed domains. The screenshot analysis suggests that the website is impersonating the legitimate Ledger Live platform, which is a significant red flag. The website's design appears clean and polished, but the slight misspellings and the use of a webflow.io subdomain raise concerns about its legitimacy. The website does not directly request personal information or payments in the provided screenshot, but the impersonation and URL structure suggest potential risks. The website could be a scam, attempting to deceive users into thinking it is the legitimate Ledger Live platform.",
+  "verdict": 8
+}
+```

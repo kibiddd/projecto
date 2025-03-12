@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'pushtan-spk3.top' appears to be a scam based on the analysis of the URL, domain registration, and a screenshot of the website. The URL contains a misspelled domain and a high-risk TLD, the domain is recently registered and has unusual status flags, and the website's design and lack of transparency are suspicious. The website also impersonates Sparkasse, a legitimate bank, and requests users to update their data, which could involve sensitive personal information. The URL is highly suspicious and does not seem to be the official domain of Sparkasse.",
+  "verdict": 9
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 1999-03-23 and is expiring on 2025-03-23, which is less than a year from the current date (2025-03-07). This is a potential red flag for fraud as it indicates a very short lifespan for a domain, which is unusual for legitimate businesses.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or suspicious. The contact information for the registrar is also provided, which is a positive sign.",
+  "answer3": "The registrar, CSC Corporate Domains, Inc., is known for hosting domains for various businesses and does not have a reputation for hosting malicious sites. However, the domain status indicates that client transfers are prohibited, which is a common practice and not necessarily indicative of fraud.",
+  "answer4": "The domain is relatively old, having been created in 1999, and is expiring soon. The domain status indicates that client transfers are prohibited, which could be a red flag if the domain is being transferred to a fraudulent entity. The DNSSEC is unsigned, which is not necessarily a fraud indicator but could be a security concern.",
+  "verdict": 7
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL 'https://findhelp.support/JCW' appears to be a legitimate-looking URL with a common TLD '.support' and a standard URL structure. However, the domain 'findhelp.support' was registered less than a year ago, which could be a potential fraud indicator. The registrar 'Sav.com, LLC' is not widely recognized as reputable, and the domain status indicates 'clientTransferProhibited', which could be a red flag. Unfortunately, the screenshot of the website could not be analyzed due to an error loading the screenshot.",
+  "verdict": 8
+}
+```

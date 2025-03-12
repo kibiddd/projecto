@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'flow.page' is a deceptive domain with a misspelled TLD, created less than a year ago, and has a recent registration. The domain is not expiring soon, and the registrar is reputable. The website's purpose is unclear, potentially being a phishing attempt, and it uses a short URL service, which is a common tactic for deceptive sites. The website has a clean design and includes legitimate-looking links, but the use of the AT&T logo could be an attempt to impersonate a legitimate entity. The domain status indicates that client actions are prohibited, which could be a red flag. Overall, the website presents several potential risks, including phishing and impersonation.",
+  "verdict": 7
+}
+```

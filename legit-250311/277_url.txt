@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'awtc.ancestry.com' contains a misspelling of 'atc.ancestry.com', which is a common tactic used by fraudsters to deceive users into thinking they are visiting a legitimate site.",
+  "TLD": "The TLD '.com' is common and not considered high-risk, so this factor does not indicate fraud.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters, so this factor does not indicate fraud.",
+  "Other": "The URL contains a suspicious parameter 'op=REG&db=charlebois47&id=I043578&ti=5543' which could be used for malicious purposes, such as executing unauthorized actions on the server.",
+  "verdict": 7
+}
+```

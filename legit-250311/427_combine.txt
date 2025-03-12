@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website MP3RAID.COM appears to be a music download site, which could potentially be legitimate. However, the domain was registered over six months ago and is not expiring soon, which could be a red flag. The WHOIS information is complete and the registrar is reputable, but the website's primary purpose of offering free music downloads, especially of potentially copyrighted material, raises concerns. The website currently shows a 404 error page, which could indicate poor maintenance or inactivity. The lack of transparency and the association with piracy and copyright infringement further increase the risk. The website could potentially be a scam, especially if it attempts to exploit users with malicious redirects or pop-ups.",
+  "verdict": 7
+}
+```

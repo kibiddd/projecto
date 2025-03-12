@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL contains a misspelling of 'city' as 'city-feet', which could be an attempt to deceive users. The domain was created in 2003 and is not expiring soon, and the registrar is a well-known and legitimate one. The website is a forum, which does not inherently indicate fraud. No phishing, suspicious offers, or impersonation were detected in the screenshot analysis. The website appears to be a legitimate forum, but the misspelling in the URL could potentially mislead users.",
+  "verdict": 2
+}
+```

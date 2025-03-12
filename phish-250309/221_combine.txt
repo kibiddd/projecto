@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'globalauthresolution.pages.dev' has a domain that uses 'pages.dev' as a subdomain, which is a known platform for hosting websites and could be used to mask the true nature of the site. The domain was registered more than 6 months ago and has contact information redacted for privacy. The domain status includes unusual restrictions such as clientDeleteProhibited, clientTransferProhibited, and clientUpdateProhibited. The website screenshot could not be loaded, which prevents further analysis of the website's content and design. The use of 'pages.dev' as a subdomain and the unusual domain status restrictions could be potential red flags, but without a screenshot, it is difficult to assess the website's legitimacy fully. The website does not exhibit obvious signs of a scam, but the potential risks include the possibility of the site being used for malicious purposes or being a front for fraudulent activities.",
+  "verdict": 4
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'http://app-676e6d82c1ac180c503a7fd7.closte.com/ous/generale/home/nkl-log.php' appears to be a phishing attempt. The domain 'closte.com' is a misspelling of 'close.com', which is a common tactic used by fraudsters. The URL contains an excessive length and unusual characters, and the website is requesting personal information such as a card number. The domain was created in 2015 and is not expiring soon, and the registrar is a reputable one. The website has a clean and professional design, but it attempts to impersonate a legitimate banking website. The suspicious URL and the login page's address further suggest that this could be a phishing site. The potential risks include identity theft, financial loss, and other forms of fraud.",
+  "verdict": 9
+}
+```

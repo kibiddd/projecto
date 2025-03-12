@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL 'coinbasewallet-initiate.com' appears to be a misspelled version of 'coinbase.com', which is a legitimate domain. The domain was registered recently and is set to expire soon, which could be a potential fraud indicator. The WHOIS information is complete and the registrar is not known for hosting malicious sites. However, the domain name is similar to a well-known cryptocurrency exchange, which could be a phishing attempt. The screenshot could not be analyzed due to an error.",
+  "verdict": 7
+}
+```

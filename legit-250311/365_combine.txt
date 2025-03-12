@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL contains a misspelling of 'Weebly', which could be a tactic to deceive users. The domain is expiring soon, and the registrar is known for hosting malicious sites. The website's design suggests it might be built using a free or basic website builder, and it is a plain white page, raising some suspicion. The WHOIS information is complete and appears legitimate, but the domain status indicates that clientDelete, clientTransfer, and clientUpdate are prohibited. The website's content, purpose, and reputation should be verified to determine its legitimacy. The potential risks include phishing, suspicious offers, and impersonation, although none are explicitly present in the provided analysis. The final verdict is 3, indicating a small amount of suspicion.",
+  "verdict": 3
+}
+```

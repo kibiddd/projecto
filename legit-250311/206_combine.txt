@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website is a legitimate bookstore, Barnes & Noble, selling a book titled 'Mockingbird' by Charles J. Shields. The URL, domain, and screenshot analysis do not indicate any signs of a scam. The domain is registered by a legitimate registrar and has no suspicious patterns. The website has a professional design and belongs to a well-known company. The domain is relatively new but not necessarily indicative of a scam. The website does not appear to be requesting personal information or payment in the provided context. The verdict is 1.",
+  "verdict": 1
+}
+```

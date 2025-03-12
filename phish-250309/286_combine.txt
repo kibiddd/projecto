@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website'my-bt-c17730.webflow.io' appears to be a scam. The URL contains a misspelling of 'webflow.io', which could be an attempt to deceive users. The domain was registered in 2013 and is not expiring soon, which is not necessarily indicative of fraud. However, the website is requesting sensitive information such as a BT ID or email address and password, which is typical of phishing attempts. The website's format is questionable and could be a fake login page designed to mimic the official BT site. The URL is highly suspicious and doesn't look like the official BT domain. The website attempts to impersonate the official BT login page, making it look legitimate and tricking users into entering their credentials.",
+  "verdict": 10
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2003-07-26 and the registration is not recent (more than 6 months old). The expiry date is in the future (2026-07-26), so it is not expiring soon (less than a year).",
+  "answer2": "The WHOIS information provided is complete and there is no redacted or suspicious contact information.",
+  "answer3": "GoDaddy.com, LLC is a well-known and reputable registrar. There is no indication that it hosts malicious sites or lacks verification.",
+  "answer4": "The domain status indicates that client actions such as delete, renew, transfer, and update are prohibited. This could be a red flag, but it is not necessarily indicative of fraud. The DNSSEC is unsigned, which is not uncommon and does not necessarily indicate fraud.",
+  "verdict": 1
+}
+```

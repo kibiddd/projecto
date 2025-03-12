@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a phishing attempt, impersonating AT&T's login page with a highly suspicious URL and a deceptive subdomain. The domain is registered by a well-known registrar, but the domain status and DNSSEC status are not indicative of fraud. The screenshot analysis indicates a high likelihood of phishing due to the request for an email address and password and the impersonation of AT&T's branding. The URL contains a random string and an excessive length, which are red flags. The domain is not expiring soon, which could indicate a long-term scam operation. The contact information provided by the registrar is not suspicious, but the website's transparency and legitimacy are questionable.",
+  "verdict": 9
+}
+```

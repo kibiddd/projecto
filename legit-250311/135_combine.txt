@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website geckogo.com/Attraction/Canada/Quebec/Montreal/Olympic-Stadium/ appears to be a legitimate site providing information about the Olympic Stadium in Montreal, Canada. The URL, domain registration, and screenshot analysis do not indicate any signs of a scam. The domain is not recent, but it is not expiring soon, and the WHOIS information is complete and from a reputable registrar. The website is well-designed, professional, and focuses on providing information about an attraction without any suspicious offers or requests for personal information.",
+  "verdict": 1
+}
+```

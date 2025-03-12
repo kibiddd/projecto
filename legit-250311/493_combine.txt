@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'https://www.yelp.ca/biz/journal-de-montreal-montreal' appears to be a misspelled version of a legitimate Yelp page, with a suspicious '.ca' TLD and an old domain registration date. Despite the professional design and transparency in contact information, the misspelled domain and uncommon TLD raise concerns. The domain analysis indicates that the domain is not recent and is registered by a reputable registrar, but the domain's age and misspelling are red flags. The screenshot analysis does not reveal any phishing or suspicious offers, but the website's legitimacy is still questionable due to the domain issues.",
+  "verdict": 7
+}
+```

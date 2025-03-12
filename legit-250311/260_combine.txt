@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website is YouTube, a legitimate and widely used platform for video sharing. The URL, domain registration, and screenshot analysis do not indicate any signs of a scam. The domain has been registered for a long time, but this is common for established websites. The registrar is reputable, and the website's design appears standard and legitimate. No phishing, suspicious offers, or impersonation were detected. The potential risks are minimal, as the website is a well-known and trusted platform.",
+  "verdict": 1
+}
+```

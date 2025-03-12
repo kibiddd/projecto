@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website'realitybytes.net.au/mswiss' appears to be a relatively new domain with a recent registration date. The domain uses a common TLD for Australian websites, which is not inherently suspicious. However, the subdomain'mswiss' could be an attempt to deceive users by mimicking a legitimate domain or company name. The registrar's contact information is redacted, and the registrar itself has a server renewal prohibition status, which could be a red flag. The domain is registered under the names of Richard P Seares and Thor A Nancarrow, which could be suspicious if these names are not legitimate or are used to hide the true owner's identity. The lack of a screenshot prevents further analysis of the website's content and design, which could provide additional clues about its legitimacy. Given these factors, there is a moderate risk that the website could be a scam.",
+  "verdict": 5
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website is a legitimate news source, Detroit Free Press, with a professional design and no obvious signs of phishing, suspicious offers, or impersonation. The domain is registered by a reputable registrar, GoDaddy, and is not expiring soon. The URL and domain analysis do not indicate any red flags. The screenshot analysis confirms the website's legitimacy and transparency. The website appears to be safe and trustworthy.",
+  "verdict": 1
+}
+```

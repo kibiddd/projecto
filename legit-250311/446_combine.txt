@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL contains a deceptive domain and an uncommon TLD, which are indicators of potential fraud. The domain has been registered for over 26 years, which is not recent. The WHOIS information provided is from a reputable registrar, and there are no other suspicious registration factors mentioned. The screenshot analysis indicates that the website is not requesting personal information or payment, does not seem to be offering any suspicious offer, and displays a standard error page. The website provides contact information and a privacy policy, and there is no sign of impersonation. Overall, the website appears to be legitimate, but the deceptive domain and uncommon TLD are potential red flags.",
+  "verdict": 3
+}
+```

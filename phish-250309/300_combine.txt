@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL contains a deceptive domain with a misspelled version of a legitimate domain, which is a common tactic used by scammers. The domain is relatively new and has a long expiration date, which could indicate that it is not a recent scam. The registrar is a legitimate company, and the domain status does not show any immediate red flags. However, the excessive length and mix of characters in the URL could be considered suspicious. The inability to load a screenshot of the website prevents further analysis of the website's content and design, which could provide additional clues about its legitimacy.",
+  "verdict": 4
+}
+```

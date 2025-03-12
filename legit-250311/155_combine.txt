@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'cliff-bells-detroit' on Yelp.com appears to be a legitimate business listing. The URL analysis shows no deceptive domain or suspicious patterns. The domain was created in 2003 and is set to expire in 2025, which is not recent but also not expiring soon. The domain has unusual restrictions such as clientDeleteProhibited, clientTransferProhibited, and clientUpdateProhibited, which could be a red flag. The screenshot analysis shows a professional design and transparency, with no phishing, suspicious offers, or impersonation detected. However, the unusual domain restrictions raise some concerns.",
+  "verdict": 5
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website UNIPRIX.COM appears to be a legitimate university-related website, with no signs of deceptive domain, suspicious patterns, or phishing attempts. The domain is registered by a reputable registrar, and the website's design and transparency are professional. The screenshot analysis does not reveal any immediate red flags. The website is requesting cookie preferences, which is standard practice, and there are no overly suspicious offers or impersonation attempts. The domain is registered by a reputable registrar and has a long-standing registration history, which adds to its credibility. The website's transparency and professional design further support its legitimacy. Overall, the website appears to be legitimate and not a scam.",
+  "verdict": 1
+}
+```

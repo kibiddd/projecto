@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain'metalsucks.net' does not contain misspellings or character substitutions. It is a legitimate domain, but the subdomain'metalsucks' is not commonly associated with the main domain'metalsucks.net'.",
+  "TLD": "The TLD '.net' is a common and low-risk TLD, so there is no indication of a high-risk TLD.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It follows a standard URL structure.",
+  "Other": "The URL appears to be a legitimate link to a blog post about Slayer touring without Jeff Hanneman. There are no other suspicious factors.",
+  "verdict": 1
+}
+```

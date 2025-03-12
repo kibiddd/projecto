@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "No misspellings, character substitutions, or deceptive subdomains detected.",
+  "TLD": "Common TLD (.com), not high-risk.",
+  "Patterns": "URL is within normal length and contains expected characters for a Wikimedia Commons URL.",
+  "Other": "URL is a legitimate Wikimedia Commons page, not suspicious.",
+  "verdict": 1
+}
+```

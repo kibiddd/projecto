@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'familytreemaker.genealogy.com' appears to be a legitimate-looking domain, but the use of 'genealogy' in the domain name could be a deceptive tactic to appear trustworthy. However, there are no obvious misspellings or character substitutions that would immediately raise red flags.",
+  "TLD": "The TLD '.com' is a common and trusted TLD, so it does not indicate a high risk of fraud.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It follows a standard URL structure with a clear path and query parameters.",
+  "Other": "The URL contains a mix of alphanumeric characters and hyphens, which is typical for legitimate websites. There are no other suspicious factors present.",
+  "verdict": 2
+}
+```

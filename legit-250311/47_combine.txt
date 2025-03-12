@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL provided points to a document on Docstoc.com, a known document sharing service. The domain analysis indicates that the domain is not recent and is not expiring soon, which does not inherently indicate fraud. The WHOIS information is complete and the registrar is reputable. However, the domain status shows prohibitions on certain actions, which could be a red flag. The screenshot analysis does not provide any direct evidence of phishing, suspicious offers, or impersonation. Without the content of the document, it is not possible to assess the website's legitimacy fully. The potential risks include the possibility of encountering a malicious document if the document itself is not trustworthy. The final verdict is low due to the lack of direct evidence of fraud but slightly higher due to the domain status red flag.",
+  "verdict": 3
+}
+```

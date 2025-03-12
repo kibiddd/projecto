@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2000-02-12 and the registration is not recent (less than 6 months). It is also not expiring soon (less than a year).",
+  "answer2": "The contact information provided by the registrar is complete and not redacted or partial.",
+  "answer3": "The registrar, GKG.Net, Inc., is not known for hosting malicious sites or lacking verification. It is a legitimate registrar.",
+  "answer4": "The domain status indicates that client transfers are prohibited, which is a common practice for domains with a high level of security or privacy concerns. The DNSSEC is unsigned, which is not necessarily a red flag, as many domains choose not to use DNSSEC.",
+  "verdict": 1
+}
+```

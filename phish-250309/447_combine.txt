@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'wedoit.com.ar' appears to be a scam due to the deceptive domain name and recent domain registration. The website does not seem to be a phishing site, but it does not offer anything and lacks transparency in contact information. The presence of Shutterstock ads and the potential for downloading files raises concerns about the legitimacy of the website. The domain was registered recently, which is a common red flag for fraudulent sites. The website's design is clean, but the lack of contact information and the deceptive domain name are significant risks. The final verdict is a 7 out of 10, indicating a high likelihood of the website being a scam.",
+  "verdict": 7
+}
+```

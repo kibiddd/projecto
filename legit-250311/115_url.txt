@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain'members.tripod.com' contains a misspelling of'members.tripod.com' with an extra's' in'soaring_hawk'.",
+  "TLD": "The TLD '.tripod.com' is a common and reputable domain, not high-risk.",
+  "Patterns": "The URL contains an unusual pattern with the extra's' in'soaring_hawk', which could be an attempt to deceive or mislead.",
+  "Other": "The URL does not contain excessive length, random strings, or unusual characters beyond the misspelling.",
+  "verdict": 3
+}
+```

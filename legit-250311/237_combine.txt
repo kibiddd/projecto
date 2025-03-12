@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website sportscardsource.com appears to be a legitimate sports card retailer, listing baseball cards and player information. The domain is not recent, but it is not expiring soon, and the registrar is not known for hosting malicious sites. The website has a basic design and lists sports cards, which is normal for such a site. However, the low-quality image and the fact that the website is not very recent could be potential red flags. The website does not appear to be a scam based on the provided information, but it is not entirely free from potential risks.",
+  "verdict": 2
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website findagrave.com is a legitimate genealogy website with a long history and a reputable registrar. The URL and domain analysis do not indicate any signs of fraud. However, the screenshot analysis shows that the site is blocked, which may indicate security concerns or malicious activities. The website is blocked, but it is still a legitimate and well-known website.",
+  "verdict": 2
+}
+```

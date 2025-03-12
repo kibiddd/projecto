@@ -1,0 +1,6 @@
+```json
+{
+  "Deceptive Domain": "The domain 'last.fm' is legitimate and commonly used for music-related services. However, the subdomain'music' is also legitimate. The path '/Sleepytime+Gorilla+Museum' contains a misspelled word 'Gorilla' instead of 'Gorilla', which could be a deceptive attempt to mislead users.",
+  "TLD": "The TLD '.fm' is a legitimate and commonly used TLD for music-related services. It is not uncommon or high-risk.",
+  "Patterns": "The URL contains a misspelled word 'Gorilla' instead of 'Gorilla', which could be a deceptive attempt to mislead users. The URL also contains a '+' character, which is not unusual in URLs but could be used in deceptive practices.",
+  "Other": "The URL contains a misspelled word 'Gorilla' instead of 'Gorilla', which could

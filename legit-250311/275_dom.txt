@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2009-06-27 and is expiring on 2025-06-27, which is more than 6 years from now. Therefore, it is not recent nor expiring soon.",
+  "answer2": "The contact information for the registrant, admin, and tech contacts is redacted for privacy. This is a common practice, but in the context of potential fraud, it could be a red flag if combined with other suspicious factors.",
+  "answer3": "GoDaddy.com, LLC is a well-known and reputable registrar. There is no indication that GoDaddy hosts malicious sites or lacks verification. However, the domain status indicates that certain actions are prohibited, which could be a sign of a domain that is not actively managed or is under some form of restriction.",
+  "answer4": "The domain status indicates that client actions such as delete, renew, transfer, and update are prohibited. This could be a sign of a domain that is not actively managed or is under some form of restriction. Additionally, the domain is not currently active (clientDeleteProhibited, clientRenewProhibited, clientTransferProhibited, clientUpdateProhibited).",
+  "verdict": 3
+}
+```

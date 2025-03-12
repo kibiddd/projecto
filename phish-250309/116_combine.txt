@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL contains a misspelled domain name intended to mimic a legitimate domain, uses a high-risk TLD '.me', and has contact information redacted for privacy. The domain was registered over six months ago and is set to expire more than a year away. GoDaddy.com, LLC is a reputable registrar, but the combination of these factors raises concerns. The inability to load a screenshot prevents further analysis of the website's content.",
+  "verdict": 7
+}
+```

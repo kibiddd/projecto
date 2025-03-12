@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website http://policy-violation-100029395937.aplewisandsons.co.uk appears to be a scam. The domain contains a misspelling of 'apple' as 'aple', which is a common tactic used by scammers. The domain was registered less than 6 months ago, which is a potential indicator of fraud. The WHOIS information is complete and the registrar is reputable, but the domain name contains too many parts, which contravenes the Nominet UK naming rules. The website is requesting account security measures, which could be a phishing attempt to gain access to account credentials. The URL is suspicious and not professional, and the website attempts to create a sense of legitimacy by focusing on account security and the appearance of a login process. The URL suggests that the website is malicious and that the user should stay away from the website.",
+  "verdict": 9
+}
+```

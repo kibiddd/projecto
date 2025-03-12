@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website http://www.t0t00.com has several indicators of being a scam. The URL contains a character substitution, which is a common tactic used in deceptive domains. The domain was registered recently and is set to expire in less than a year, which is a potential red flag for fraud. The registrar, MAFF Inc., is known for hosting malicious sites and lacks verification. The domain status indicates 'clientTransferProhibited', and the DNSSEC is unsigned. However, a screenshot could not be analyzed due to an error loading the website screenshot.",
+  "verdict": 9
+}
+```

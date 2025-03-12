@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 1995-01-12, which is far beyond the 6-month threshold. It is not recent. The domain is not expiring soon, as the expiration date is 2034-12-23, which is well beyond a year from today (2025-03-07).",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or suspicious. All relevant contact information is available.",
+  "answer3": "GoDaddy.com, LLC is a well-known and reputable registrar. There is no indication that GoDaddy hosts malicious sites or lacks verification. The domain is registered with GoDaddy, which is a legitimate and trusted registrar.",
+  "answer4": "N/A",
+  "verdict": 1
+}
+```

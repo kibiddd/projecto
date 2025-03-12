@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2001-01-29, which is over 23 years old. Therefore, it is not recent.",
+  "answer2": "The contact information provided by the registrar is complete and appears legitimate.",
+  "answer3": "Register.com, Inc. is a well-known registrar and is not typically associated with hosting malicious sites. However, the domain status indicates 'clientTransferProhibited', which could be a red flag depending on the context.",
+  "answer4": "The domain has been registered for over 23 years, which is unusual for a new or fraudulent domain. The domain status 'clientTransferProhibited' could also be a concern if the domain is being transferred without proper authorization.",
+  "verdict": 2
+}
+```

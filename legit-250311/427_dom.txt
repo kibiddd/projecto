@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain registration is not recent; it was created on 2000-02-14, which is well over 6 months ago. It is also not expiring soon, as the expiration date is 2026-02-14, which is more than a year away. Therefore, this factor does not indicate fraud.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or suspicious. The registrar and contact information are clearly listed, which is a good sign of transparency.",
+  "answer3": "GoDaddy.com, LLC is a well-known and reputable registrar. There is no indication that GoDaddy hosts malicious sites or lacks verification. This factor does not indicate fraud.",
+  "answer4": "The domain is registered under a generic top-level domain (gTLD) which is common for many legitimate websites. The domain name 'MP3RAID.COM' suggests a music-related service, which could be legitimate. There are no other suspicious registration factors provided.",
+  "verdict": 1
+}
+```

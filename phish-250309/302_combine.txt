@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'pagina.pro/supportfacebookmexico52' appears to be a scam website that is impersonating Facebook. The URL contains a misspelling of 'pagina.com', and the domain was registered more than a year ago. The website is requesting login credentials, which is characteristic of phishing attempts. The design imitates the Facebook login page, but the URL is highly suspicious. The domain does not appear to be affiliated with Facebook, and there is no clear contact information available. The domain status includes prohibitions that may indicate it is being managed by a third party or is under some form of restriction. The website is likely to be a phishing attempt and poses a significant risk to users.",
+  "verdict": 10
+}
+```

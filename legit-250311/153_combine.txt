@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website, www.forexyard.com, appears to be a legitimate financial news source based on the URL, domain registration, and screenshot analysis. The URL does not contain any deceptive elements, the domain is registered by a reputable registrar, and the website design looks professional. There are no obvious signs of phishing, suspicious offers, or impersonation. The domain is not expiring soon, and the contact information provided by the registrar is complete and not suspicious. However, the domain status indicates that client actions such as delete, renew, transfer, and update are prohibited, which could be a red flag. Overall, the website seems to be legitimate, but further investigation may be needed to confirm its authenticity.",
+  "verdict": 1
+}
+```

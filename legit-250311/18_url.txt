@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'facebook.com' is legitimate and not deceptive. No misspellings or character substitutions are present.",
+  "TLD": "The TLD '.com' is a common and trusted TLD, not high-risk.",
+  "Patterns": "The URL follows a standard pattern for Facebook pages and does not contain excessive length, random strings, or unusual characters.",
+  "Other": "The URL appears to be a legitimate Facebook page for a youth hockey club in London. No other suspicious factors are present.",
+  "verdict": 1
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'ringed-liberating-adasaurus.glitch.me/tart.html' appears to be a phishing attempt, impersonating Coinbase, and asking for sensitive personal information. The domain contains a misspelled version of 'glitch.me', is registered by MarkMonitor Inc., and has prohibited client actions. The URL is unusual and lacks official Coinbase elements. The website's request for a 12-word recovery phrase is a classic phishing tactic. The combination of these factors indicates a high risk of being a scam website.",
+  "verdict": 10
+}
+```

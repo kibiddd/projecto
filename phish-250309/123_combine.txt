@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL contains a misspelled domain extension, the domain is registered for a long time, the contact information seems complete, the registrar is not known for hosting malicious sites, but the domain status flags could be a red flag, and the website is requesting login credentials, which is a typical sign of phishing. The website looks generic and is impersonating AT&T's login page. The URL using 'weeblysite.com' is a strong red flag, indicating a likely scam.",
+  "verdict": 10
+}
+```

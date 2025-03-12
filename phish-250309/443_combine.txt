@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question, https://web3-spectrum-xoiv6bh-vbn.weebly.com, appears to be a scam. The URL contains a misspelling of 'weebly.com', which is a common and reputable domain extension, but the excessive length and unusual characters in the URL are suspicious. The domain was created on 2006-03-29 and is expiring soon, which can be a potential fraud indicator. The WHOIS information is complete and the registrar is legitimate, but the domain statuses are unusual and the DNSSEC is unsigned. The website is asking for an email address and password, which is typical for a login page, but the URL is highly suspicious. The website attempts to impersonate Spectrum's webmail login page, but the URL is not the legitimate Spectrum domain. The use of 'weebly.com' is a significant red flag.",
+  "verdict": 9
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'jiwang.org' contains a misspelling of 'jewg.org', which is a common tactic used by fraudsters to create deceptive domains that are visually similar to legitimate ones.",
+  "TLD": "The TLD '.org' is commonly used by legitimate organizations, but it is not inherently high-risk. However, the domain name itself is suspicious.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure for a webpage.",
+  "Other": "The domain name 'jiwang.org' is not a well-known or established domain, which could be a red flag. Additionally, the content of the URL suggests it may be related to pirated content, which could be a concern.",
+  "verdict": 7
+}
+```

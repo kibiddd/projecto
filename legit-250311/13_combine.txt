@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'nraila.org' appears to be a legitimate non-profit organization based on the URL and domain analysis. The domain is well-known and has been registered for over 27 years, which is not unusual for established organizations. The TLD '.org' is a common and trusted extension. However, the domain status includes several prohibited actions, which could be a red flag. The screenshot analysis indicates a professional design and no obvious signs of phishing or scam. However, the website is currently reporting a 'Page Not Found' error, which could indicate a temporary issue or a problem with the website's content or structure. Despite these concerns, there is no direct evidence of a scam.",
+  "verdict": 2
+}
+```

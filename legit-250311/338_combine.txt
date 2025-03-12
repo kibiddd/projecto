@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL provided is for a legitimate business, Golden Gate Truck Center, located in Oakland, CA, and is registered with a common TLD (.com) which is not typically associated with scams. The domain has been registered for a long time and is not expiring soon, which is common for established businesses. The WHOIS information is complete and the registrar is a legitimate company. The screenshot analysis indicates that the website is displaying a standard 404 error page, which is normal when a page is not found, and there are no signs of phishing, suspicious offers, impersonation, or other red flags. The website appears to be a legitimate company with clear contact information and policies. The potential risks are minimal, as the website is not requesting any information and is simply displaying a 404 error page.",
+  "verdict": 1
+}
+```

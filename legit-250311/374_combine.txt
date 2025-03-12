@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website is the official University of Arizona Libraries exhibit page, which is not a scam. It is a legitimate educational resource with a long-standing domain registration, a reputable registrar, and a professional design. The URL is correctly formatted and does not contain any deceptive elements. The website does not request personal information or payment and clearly displays contact information. The only issue is that the specific exhibit page requested does not exist, which is not indicative of a scam but rather a non-existent page.",
+  "verdict": 1
+}
+```

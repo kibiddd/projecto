@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'update-ledger-start.webflow.io' appears to be a scam website. The domain name contains a misspelling of 'webflow.io', which is a legitimate domain, but the use of 'webflow.io' instead of 'webflow.com' could be a tactic to deceive users. The domain was registered over 6 months ago and is not expiring soon. The website's design appears clean and modern, but it is hosted on 'webflow.io', a common platform for prototyping and personal websites. The domain name is quite specific, suggesting an update, which is a red flag. The website does not seem to be directly asking for personal information or payments, but it could potentially be a vector for phishing if the user is directed to a malicious application or website from there. The website's transparency is low, with no clear contact information or information regarding the company behind the webpage. The website seems to be impersonating the official Ledger website to get users to interact with Ledger Live web. The specific and unusual domain name is a significant red flag. The website looks like it is trying to trick users to update their ledger wallet using some phishing method.",
+  "verdict": 9
+}
+```

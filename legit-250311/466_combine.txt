@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL provided is for a legitimate company, Petroglyph Games, which is known for publishing board games. The domain was registered in 2003 and is not recent, but the registrar is known for hosting malicious sites. The screenshot analysis shows a 'Not Found' error, which is typical for a non-existent URL, and the error message includes the server details, indicating transparency. There are no signs of phishing, suspicious offers, or impersonation. The website does not request personal information or payment, and there are no immediately apparent typos or suspicious design elements. However, the registrar's reputation for hosting malicious sites raises some concerns.",
+  "verdict": 3
+}
+```

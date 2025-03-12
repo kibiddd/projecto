@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'ebay.among2.me' appears to be a scam website based on the analysis of the URL, domain registration, and a screenshot of the website. The URL contains a misspelling of 'ebay' and an unusual subdomain 'among2.me', which could be an attempt to deceive users into thinking it's a legitimate eBay site. The domain was created on 2024-08-19 and is expiring on 2025-08-19, which is less than a year from the current date of 2025-03-07. The registrant, admin, and tech contact information is redacted for privacy, and the registrar, GNAME.COM PTE. LTD., is known for hosting malicious sites and lacking verification. The website is requesting login credentials (mobile number and password), which is a common tactic used in phishing attacks to steal user accounts. The website's design and quality are not consistent with the official eBay website, and the URL 'among2.me' is highly suspicious, as it is not associated with eBay, suggesting an attempt to redirect users to a fake website. The absence of a secure connection (HTTPS) further raises red flags.",
+  "verdict": 9
+}
+```

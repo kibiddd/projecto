@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a phishing attempt, impersonating Coinbase's support page. It uses a deceptive subdomain and offers a suspicious incentive. The domain registration is not recent, and the registrar is known for hosting malicious sites. The website lacks transparency and contact information, which are common in legitimate websites. The URL is not directly to Coinbase, which could be a red flag. The website's design is professional, but the offer and impersonation are concerning. The potential risks include phishing, data theft, and financial loss for users who might be deceived into providing personal information.",
+  "verdict": 8
+}
+```

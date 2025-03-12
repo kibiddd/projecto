@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a legitimate business listing on the'manta.com' domain, which is a well-known and trusted domain. The domain was created in 2004 and is not expiring soon. The WHOIS database is up-to-date, and the registrar is reputable. The website does not appear to be directly requesting personal information or payment, and it provides basic contact information for the business. There are no obvious signs of phishing, suspicious offers, or impersonation. The URL follows a standard structure and does not contain excessive length, random strings, or unusual characters. The domain status indicates that clientDelete, clientTransfer, and clientUpdate are prohibited, which is unusual but not necessarily indicative of fraud. The website seems to be a business listing or a directory entry, and the design and quality are not primary concerns as long as the information is accessible and accurate.",
+  "verdict": 1
+}
+```

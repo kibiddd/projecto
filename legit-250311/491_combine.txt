@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website, Scribd, is a legitimate document hosting service with a well-established domain and registrar. The URL and domain analysis indicate that the domain is not recent and is not expiring soon, which is unusual but not necessarily indicative of a scam. The domain's contact information is complete and appears legitimate, and the registrar is reputable. The screenshot analysis shows that the website does not appear to be directly requesting personal information or payment, offers a free trial, and has a professional design. The website provides clear information about its services and contact information. Overall, there are no obvious signs of a scam on this website.",
+  "verdict": 1
+}
+```

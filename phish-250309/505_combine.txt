@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be impersonating the Earthlink login page, which is a common phishing tactic. The domain 'govaere.be' contains a misspelling of 'Google', which is a deceptive practice often used by fraudsters. The domain was registered over 24 years ago, and the contact information for the registrant is not shown, which is suspicious. The website requests an email address and password, which could be used for phishing. The website has a clean, professional design and layout, and includes a copyright notice and links to a privacy policy, suggesting some level of transparency. However, the presence of the Earthlink logo, combined with the login fields and website elements, strongly suggests this is the intended branding. The domain is not available, which could be a red flag depending on the context.",
+  "verdict": 7
+}
+```

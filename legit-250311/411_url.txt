@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'ncaawiki.com' appears to be a misspelling of 'ncaawiki.org', which is a legitimate domain for the National Collegiate Athletic Association (NCAA). The misspelling could be an attempt to deceive users into thinking it is related to the NCAA.",
+  "TLD": "The TLD '.com' is a common and high-risk TLD, which is often used by fraudulent sites to appear legitimate.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It follows a standard URL structure.",
+  "Other": "The URL contains a misspelled domain, which is a common tactic used by fraudulent sites to deceive users.",
+  "verdict": 7
+}
+```

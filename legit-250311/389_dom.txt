@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 1994-09-29 and the registration is not recent (less than 6 months). It is also not expiring soon (less than a year). The domain has a long history and is not a recent registration.",
+  "answer2": "The contact information provided by the registrar (MarkMonitor Inc.) is complete and not redacted or partial. The abuse contact email and phone number are also provided.",
+  "answer3": "MarkMonitor Inc. is a reputable registrar known for hosting legitimate domains. There is no indication that this registrar is known for hosting malicious sites or lacking verification.",
+  "answer4": "The domain status indicates that clientDeleteProhibited, clientTransferProhibited, and clientUpdateProhibited. This could be a red flag, but it is not necessarily indicative of fraud. It could be a policy of the domain owner or the registrar.",
+  "verdict": 1
+}
+```

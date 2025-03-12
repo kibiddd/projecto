@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website sakshi25-ghb.github.io appears to be a GitHub Pages site, which is not inherently suspicious. However, the use of 'ghb' instead of 'ghb' (GitHub Pages) could be a slight misspelling or unconventional naming, which might be a red flag. The domain was registered over six months ago and is set to expire more than a year away, with no immediate red flags from the domain registration details. The screenshot analysis suggests that the website mimics the LinkedIn login page, which is not the official LinkedIn website, and the URL suggests it is a test page rather than a genuine LinkedIn page. The lack of URL security and the GitHub hosting indicate potential low quality and a possible lack of security. The website requests email and password, which is standard for a login page, but the URL suggests it's a test page, which could be a phishing attempt if the user entered their real credentials. The website lacks any contact information, which is typical of a legitimate service, but the attempt to impersonate the official LinkedIn login page is a significant concern.",
+  "verdict": 7
+}
+```

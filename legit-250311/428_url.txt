@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "No misspellings, character substitutions, or deceptive subdomains detected.",
+  "TLD": "Common TLD (.gov) which is generally considered safe.",
+  "Patterns": "URL contains a numeric ID which is not unusual for government websites.",
+  "Other": "No other suspicious URL factors detected.",
+  "verdict": 1
+}
+```

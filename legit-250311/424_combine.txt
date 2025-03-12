@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The Miami Herald website appears to be legitimate, with no signs of phishing, suspicious offers, or impersonation. The domain is registered by a reputable registrar and is set to expire soon, which could be a potential risk factor. The website itself is a 404 error page, which may indicate a broken link or a temporary issue. Overall, the website seems to be a legitimate news source, but the expiring domain and the 404 error page could be potential risks.",
+  "verdict": 2
+}
+```

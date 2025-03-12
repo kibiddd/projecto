@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'televisual.com' appears to be a misspelling of 'television.com', which could be an attempt to deceive users. The domain was created in 1996 and is set to expire in 2029, indicating it is not recent. WHOIS information is complete and provided by a legitimate registrar, Tucows Domains Inc. The website itself does not appear to be requesting personal information or payments, and it has a professional design with standard error pages and transparency links. However, the deceptive domain is a red flag.",
+  "verdict": 3
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain NETHELPER.COM was created on 1996-02-22, which is well over 6 months old, and the expiration date is 2026-02-23, which is more than a year away. Therefore, it is neither recent nor expiring soon.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or suspicious.",
+  "answer3": "The registrar, GoDaddy Online Services Cayman Islands Ltd., is a well-known and reputable registrar. The WHOIS server used by the registrar, whois.uniregistrar.com, is also a legitimate service. There is no indication that this registrar is known for hosting malicious sites or lacks verification.",
+  "answer4": "N/A",
+  "verdict": 1
+}
+```

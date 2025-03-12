@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'hzwdjc.com' has a deceptive domain with misspellings and character substitutions, which are common indicators of a deceptive domain. The domain was created recently and is expiring soon, which can be a potential fraud indicator. The WHOIS information is complete and the registrar is a well-known one, but the domain status is 'ok' and DNSSEC is unsigned. The website screenshot could not be analyzed due to an error.",
+  "verdict": 7
+}
+```

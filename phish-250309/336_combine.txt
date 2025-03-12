@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website'restkstore06.top' appears to be a scam based on the analysis of the URL, domain registration, and other factors. The URL contains a misspelling of'restkstore' and uses a high-risk TLD '.top'. The domain was registered recently and lacks transparency in contact information. The registrar is not widely recognized as reputable. The website is branded as 'TikTok shop', which is a common tactic used by fraudsters. The screenshot analysis does not indicate any phishing, suspicious offers, or poor design, but the overall analysis suggests a high risk of being a scam.",
+  "verdict": 8
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'celebbusters.net' appears to be a gallery of images featuring celebrities, which is a common theme for potentially malicious sites. The domain was registered recently, and the contact information is missing, which are both red flags. The website's design is basic and outdated, and it lacks transparency. While it does not directly request personal information or payments, it could be a vector for phishing attempts through misleading advertisements or redirects. The presence of potentially NSFW content could also be exploited for malicious purposes. The website's potential risks include phishing, malware, and misleading advertisements.",
+  "verdict": 7
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question appears to be a fraudulent imitation of Coinbase Pro, a legitimate cryptocurrency exchange. The URL contains a deceptive domain with a misspelled 'coinbasepro' and an unusual subdomain, which is not the official Coinbase Pro domain. The domain registration is not recent and has a long expiry date, which is not necessarily indicative of fraud but could be a red flag. The website is built with Webflow, a legitimate platform, but the URL's structure is unusual and contains elements that are not commonly found in legitimate URLs. The screenshot analysis suggests that the website is a landing page for Coinbase Pro and does not directly request personal information or payment, but it is possible that a fraudulent site might mimic the login page. The URL itself is the biggest red flag, as it attempts to mimic legitimate Coinbase branding to mislead users. Therefore, it is highly likely to be a scam website.",
+  "verdict": 9
+}
+```

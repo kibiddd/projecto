@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'atomicsoda.com' does not appear to contain misspellings, character substitutions, or deceptive subdomains. It is a legitimate-looking domain.",
+  "TLD": "The TLD '.com' is a common and trusted TLD, not considered high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "No other suspicious URL factors are present.",
+  "verdict": 1
+}
+```

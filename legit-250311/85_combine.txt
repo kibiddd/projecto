@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a legitimate government website, specifically related to the U.S. Customs and Border Protection. The URL, domain, and screenshot analysis do not indicate any signs of a scam. The website is well-designed, professional, and transparent, providing relevant contact information and details. There are no suspicious offers, phishing attempts, or impersonation detected. The domain registration information is not provided, but the URL and domain are common and trusted for government websites. The verdict is 1, indicating that it is not a scam website.",
+  "verdict": 1
+}
+```

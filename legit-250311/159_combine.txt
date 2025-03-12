@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be the official eMusic platform, a legitimate music store. The domain is registered by a reputable registrar, GoDaddy, and the WHOIS information is complete. The domain is set to expire soon, which could be a potential fraud indicator, but there are no other suspicious factors detected. The website's format appears professional and there are no immediate red flags with typos or low-quality images. The website is requesting payment to purchase songs, which is their business model, and there are no immediately apparent suspicious offers. Based on the analysis, the website is likely legitimate.",
+  "verdict": 1
+}
+```

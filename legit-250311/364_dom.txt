@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 1999-09-18 and the registration is not recent (less than 6 months). It is also not expiring soon (less than a year).",
+  "answer2": "The contact information provided (abuse@regtons.com and +420.734 463 373) is not redacted, partial, or suspicious.",
+  "answer3": "The registrar, Gransy, s.r.o., is not known for hosting malicious sites or lacking verification. The registrar WHOIS Server is whois.regtons.com, which is a legitimate registrar.",
+  "answer4": "The domain status is 'ok' and the DNSSEC is unsigned, which is not necessarily suspicious. The domain is registered with a reputable registrar and has a valid registration period.",
+  "verdict": 1
+}
+```

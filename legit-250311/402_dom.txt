@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain registration is not recent; it was created on 2001-10-21T19:11:37Z, which is well over 6 months old. It is also not expiring soon; the expiration date is 2025-10-21T19:11:37Z, which is more than a year away. Therefore, this factor does not indicate potential fraud.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or partial. The contact information for the registrar is also provided, including an abuse contact email and phone number. This factor does not indicate potential fraud.",
+  "answer3": "The registrar, NameCheap, Inc., is a well-known and reputable registrar. There is no indication that it hosts malicious sites or lacks verification. This factor does not indicate potential fraud.",
+  "answer4": "The domain status indicates that client transfers are prohibited, which is a common restriction for domains managed by certain registrars or for specific types of domains. This factor alone does not indicate potential fraud.",
+  "verdict": 1
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain'marvunapp.com' contains a misspelling of'marvelapp.com', which is a deceptive domain as it may be intended to mimic a legitimate domain to deceive users.",
+  "TLD": "The TLD '.com' is a common and trusted TLD, so it does not indicate a high risk of fraud.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters, so there are no suspicious patterns in the URL structure.",
+  "Other": "The URL does not contain any other obvious suspicious factors such as a lack of HTTPS, which could be a red flag for security concerns.",
+  "verdict": 3
+}
+```

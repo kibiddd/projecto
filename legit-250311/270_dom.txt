@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain SPOKEO.COM was created on 2006-04-04 and has a registration expiry date of 2026-04-04. This means the domain is not recent (less than 6 months) and is not expiring soon (less than a year).",
+  "answer2": "The contact information provided by the registrar (Enom, LLC) is complete and not redacted or partial. The abuse contact email and phone number are also provided.",
+  "answer3": "Enom, LLC is a well-known registrar and is not typically associated with hosting malicious sites. However, it is important to note that the domain status indicates 'clientTransferProhibited', which could be a red flag depending on the context.",
+  "answer4": "The domain has been registered for a long time (since 2006) and has a long remaining registration period (until 2026). The domain status indicates 'clientTransferProhibited', which could be a red flag depending on the context.",
+  "verdict": 2
+}
+```

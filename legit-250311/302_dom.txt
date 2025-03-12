@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2003-03-06 and the registration is not recent (less than 6 months). It is also not expiring soon (less than a year).",
+  "answer2": "The contact information provided is complete and does not appear to be redacted or partial.",
+  "answer3": "The registrar, CSC Corporate Domains, Inc., is a legitimate registrar and there is no indication that it hosts malicious sites or lacks verification.",
+  "answer4": "The domain status indicates that client transfers are prohibited, which is a common restriction for domains managed by certain registrars or organizations. The DNSSEC is unsigned, which is not necessarily a fraud indicator but could be a security concern.",
+  "verdict": 1
+}
+```

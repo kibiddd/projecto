@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'thesan.pages.dev' has a misspelled domain name, which could be an attempt to deceive users. The domain is registered for a long period, and the contact information is redacted, which could be a red flag. The domain status includes prohibited actions, which could indicate third-party management with restricted access. However, the TLD '.dev' is commonly used for development and testing, and the URL does not contain excessive length, random strings, or unusual characters. The website screenshot could not be analyzed due to an error loading the screenshot.",
+  "verdict": 5
+}
+```

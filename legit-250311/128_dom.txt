@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 1999-05-18, which is over 26 years ago. Therefore, it is not recent. The domain is not expiring soon as the expiration date is 2028-05-18. Verdict: 0",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or suspicious. Verdict: 0",
+  "answer3": "GoDaddy.com, LLC is a well-known and reputable registrar. There is no indication that it hosts malicious sites or lacks verification. Verdict: 0",
+  "answer4": "There are no other suspicious registration factors mentioned. Verdict: N/A",
+  "verdict": 0
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'xexegallery.com' contains a misspelling of 'exegallery.com', which could be an attempt to deceive users into thinking it is a legitimate domain.",
+  "TLD": "The TLD '.com' is common and considered safe, so there is no indication of a high-risk TLD here.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters, so there are no suspicious patterns in this URL.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 2
+}
+```

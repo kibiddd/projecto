@@ -1,0 +1,6 @@
+```json
+{
+  "Deceptive Domain": "The domain 'full-albums.net' does not contain obvious misspellings or character substitutions, but it is not a well-known or trusted domain. The use of 'full-albums.net' instead of a more generic or recognizable domain name could be a red flag.",
+  "TLD": "The TLD '.net' is a common and trusted TLD, so it does not indicate a high risk of fraud.",
+  "Patterns": "The URL contains a mix of alphanumeric characters and hyphens, which is typical for URLs. However, the presence of 'R-43.asp' at the end of the URL could be suspicious, as it resembles a query string parameter rather than a typical file extension. This could be an attempt to disguise the true nature of the link.",
+  "Other": "The URL contains a query parameter 'R-43.asp', which could be an attempt to trick users into thinking they are

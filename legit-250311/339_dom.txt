@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 1995-09-20, which is far beyond the 6-month threshold. Therefore, it is not recent.",
+  "answer2": "The contact information provided by the registrar is complete and appears legitimate.",
+  "answer3": "MarkMonitor Inc. is a well-known registrar and does not have a reputation for hosting malicious sites. It is a reputable registrar.",
+  "answer4": "The domain status indicates that client deletion, transfer, and update are prohibited, which is unusual but not necessarily indicative of fraud. The domain is hosted by Salesforce, which is a legitimate company.",
+  "verdict": 1
+}
+```

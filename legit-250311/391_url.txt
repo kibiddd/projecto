@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "No misspellings or character substitutions detected.",
+  "TLD": "Common TLD (.ca) - Not high-risk.",
+  "Patterns": "URL is of normal length and contains a mix of alphanumeric characters and symbols.",
+  "Other": "The URL appears to be a legitimate link to a Canadian website, with no other suspicious factors.",
+  "verdict": 1
+}
+```

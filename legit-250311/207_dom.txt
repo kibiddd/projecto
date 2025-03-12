@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2006-09-24 and the registration is expiring on 2025-09-24, which is more than 6 months old and not expiring soon. Therefore, this factor does not indicate fraud.",
+  "answer2": "The contact information provided (Abuse Contact Email: abuse@support.gandi.net and Phone: +33.170377661) is not redacted or partial, and it appears to be legitimate. Therefore, this factor does not indicate fraud.",
+  "answer3": "Gandi SAS is a well-known registrar and is not typically associated with hosting malicious sites. Therefore, this factor does not indicate fraud.",
+  "answer4": "The domain status indicates 'clientTransferProhibited', which means the domain cannot be transferred to another registrar. This is a legitimate restriction and does not indicate fraud.",
+  "verdict": 1
+}
+```

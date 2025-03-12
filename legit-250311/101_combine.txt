@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website is a legitimate page for the game 'Witcher' credits on the official Mobygames website. The URL, domain registration, and screenshot analysis do not indicate any signs of a scam. The domain is registered by a known registrar, the contact information is legitimate, and the website design is of high quality. The website provides information about the game credits, which suggests a degree of transparency. There are no personal information or payment requests, no suspicious offers, and no impersonation. The domain status indicates some prohibited actions, but this could be a security measure taken by the domain owner.",
+  "verdict": 1
+}
+```

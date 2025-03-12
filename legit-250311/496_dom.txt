@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2001-09-09 and the registration is expiring on 2025-09-09, which is more than 6 months from today (2025-03-07). Therefore, it is not recent nor expiring soon.",
+  "answer2": "The contact information provided by the registrar (NameCheap, Inc.) is complete and not redacted or partial. The abuse contact email and phone number are also provided.",
+  "answer3": "The registrar, NameCheap, Inc., is a well-known and reputable registrar. There is no indication that it hosts malicious sites or lacks verification.",
+  "answer4": "The domain status indicates 'clientTransferProhibited', which means the domain cannot be transferred to another registrar. This is a common restriction and not necessarily indicative of fraud.",
+  "verdict": 1
+}
+```

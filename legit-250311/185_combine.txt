@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL contains a deceptive subdomain and uncommon TLDs, which are potential indicators of fraud. The domain was registered over 30 years ago and is not expiring soon. WHOIS information is complete and hosted by a reputable registrar. The domain status indicates that clientDelete, clientTransfer, and clientUpdate are prohibited, which is unusual for a legitimate domain. The website appears to be a simple webpage with a basic design and is hosted on a site focused on genealogy. The content of the specific page is unknown, but the URL structure is consistent with genealogy sites. The website does not provide contact information, which could be a red flag.",
+  "verdict": 3
+}
+```

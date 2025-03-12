@@ -1,0 +1,7 @@
+```json
+{
+  "Deceptive Domain": "The domain'realwealthcommunity.com' appears to be a misspelling of'realwealthcommunity.com'. The misspelling of 'university' to 'univ' is a common tactic used in phishing attempts to deceive users into thinking they are visiting a legitimate site.",
+  "TLD": "The TLD '.com' is a common and trusted TLD, so it does not indicate a high risk of fraud.",
+  "Patterns": "The URL contains a query string with parameters that could be used to hide malicious intent. The presence of'media.php?search=printable-university-of-kentucky-basketball-schedule' suggests that the URL is designed to look like a legitimate search query, which could be a tactic to trick users into clicking on it.",
+  "Other": "The URL does not contain any other obvious signs of fraud, such as excessive length or unusual characters.",
+  "verdict

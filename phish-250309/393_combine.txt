@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website'staemcommuniity.com' appears to be a scam, impersonating the legitimate Steam community website. The domain contains a misspelling of'steamcommunity.com', which is a common tactic used by fraudsters. The domain was registered recently and is set to expire soon, which could be a potential fraud indicator. The website is asking users to sign in, which could be used to phish credentials. It offers a suspicious offer of a $50 gift card, especially given the high number of cards already received. The website is impersonating Steam by using their logo, layout, and gift card promotion. The domain name'staemcommuniity' is a clear indication of fraud due to the typo. The URL doesn't match the actual Steam domain. The registrar is not widely recognized as hosting malicious sites or lacking verification, but further investigation into the registrar's reputation and history would be necessary to confirm this. The domain status indicates that client transfers are prohibited, which is a common restriction for domains managed by certain registrars or for specific types of domains. The DNSSEC is unsigned, which is not necessarily a fraud indicator but could be a security concern. The registrar's WHOIS server is hosted by Ordertld.com, which is not a well-known registrar and could be a potential red flag.",
+  "verdict": 9
+}
+```

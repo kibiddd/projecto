@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a legitimate cooking-related service with a common TLD and a reputable registrar. However, the domain is expiring soon, which could be a potential fraud indicator. The website does not appear to be a phishing site, does not offer suspicious deals, and has a basic but functional design. It also provides contact information and does not seem to impersonate any other entity. Despite these positive aspects, the soon-to-expire domain status raises some concerns.",
+  "verdict": 4
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website'muetsmasklogpon.webflow.io' appears to be a scam. The domain contains a misspelling of'music' as'muets', which is a deceptive attempt to mislead users. The domain registration is not recent and is not expiring soon, but the domain status indicates that clientDelete, clientTransfer, and clientUpdate are prohibited. The website is trying to impersonate Metamask, but the domain is not legitimate. The URL is suspicious and attempts to mimic the official Metamask. The website itself doesn't appear to directly request personal information or payment in the screenshot, but a login page could be a potential phishing vector depending on the full scope. The design seems clean and professional, but there is no contact information available based only on the screenshot of the image.",
+  "verdict": 9
+}
+```

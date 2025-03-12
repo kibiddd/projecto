@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'blocxchain.co' appears to have a legitimate-looking domain with a common TLD and standard URL structure. However, the domain is very recently registered and has unusual status indicators, which could be potential red flags. The lack of contact information and the inability to view the website screenshot further contribute to the uncertainty. Without additional information or verification, it is difficult to determine the legitimacy of the website.",
+  "verdict": 7
+}
+```

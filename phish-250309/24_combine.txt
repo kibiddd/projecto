@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website bioelectricity.icu has an uncommon TLD '.icu' which could be considered high-risk. The domain is less than 6 months old, which is a potential fraud indicator. The domain status includes'serverTransferProhibited', 'clientHold', and 'clientTransferProhibited', which are unusual and could indicate non-typical use. The domain registrant information is redacted, which can be a red flag. The website screenshot could not be analyzed due to an error.",
+  "verdict": 8
+}
+```

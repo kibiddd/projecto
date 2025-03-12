@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL contains misspellings and unusual characters, which are common indicators of a deceptive domain. The domain was created over six months ago and is not expiring soon, which reduces the urgency of the risk. The registrar is reputable, and the contact information appears legitimate. However, the excessive length and unusual characters in the URL, along with the lack of a clear and recognizable structure, suggest potential risks. The inability to view the website screenshot prevents further analysis of the website's content and design, which could provide additional insights into its legitimacy.",
+  "verdict": 5
+}
+```

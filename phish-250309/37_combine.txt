@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question has several red flags that suggest it may be a scam. The URL contains misspellings and unusual characters, the TLD is uncommon and potentially high-risk, and the domain was created over six months ago and is currently reserved. The lack of contact information and the absence of updates since 2019 further raise concerns. However, without a screenshot, it is not possible to analyze the website's content for additional scam indicators. The final verdict is based on the available information, which points to a moderate to high likelihood of the website being a scam.",
+  "verdict": 7
+}
+```

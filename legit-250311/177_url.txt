@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'tdjournal.csunacctis.com' appears to be a legitimate domain, with no misspellings or character substitutions. It does not contain deceptive subdomains.",
+  "TLD": "The TLD '.csunacctis.com' is a legitimate and uncommon TLD, but it is not considered high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It follows a standard URL structure.",
+  "Other": "The URL appears to be legitimate and does not contain any other suspicious factors.",
+  "verdict": 1
+}
+```

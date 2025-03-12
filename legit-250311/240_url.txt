@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "No misspellings, character substitutions, or deceptive subdomains detected.",
+  "TLD": "Common TLD (.com) - Not high-risk.",
+  "Patterns": "URL is within expected length and contains typical URL characters.",
+  "Other": "URL appears to be a legitimate Amazon search URL.",
+  "verdict": 1
+}
+```

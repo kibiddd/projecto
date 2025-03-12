@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2005-02-07 and the registration information was last updated on 2025-02-06. This means the domain has been registered for over 20 years, which is not recent. The domain is not expiring soon either, as the expiration date is 2026-02-07. Therefore, this factor does not indicate potential fraud.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or suspicious. The contact information for the registrar is also provided, which is a good sign. Therefore, this factor does not indicate potential fraud.",
+  "answer3": "The registrar, eNom, LLC, is a well-known and reputable registrar. There is no indication that they are known for hosting malicious sites or lacking verification. Therefore, this factor does not indicate potential fraud.",
+  "answer4": "The domain status indicates that client transfers are prohibited, which is a common practice for domains with sensitive or controversial content. The DNSSEC is unsigned, which is not necessarily a red flag, as it depends on the specific use case. The name servers are hosted by Cloudflare, which is a reputable DNS provider. Therefore, this factor does not indicate potential fraud.",
+  "verdict": 1
+}
+```

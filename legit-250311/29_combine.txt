@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website sports.yahoo.com/mlb/teams/kan/stats appears to be a legitimate sports-related website, specifically for MLB team statistics. The URL analysis indicates no deceptive domain or unusual patterns, and the domain is registered by a reputable registrar with a long-term expiration date. The screenshot analysis shows no signs of phishing, suspicious offers, or impersonation, and the website has a professional design with clear contact information and verified brand identity. Overall, there are no apparent risks associated with this website.",
+  "verdict": 1
+}
+```

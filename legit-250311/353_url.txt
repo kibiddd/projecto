@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'filetram.com' appears to be a misspelling of 'filetram.com'. The misspelling could be an attempt to deceive users into thinking it is a legitimate site.",
+  "TLD": "The TLD '.com' is a common and trusted TLD, so it does not indicate a high risk.",
+  "Patterns": "The URL is relatively short and does not contain excessive length or random strings. It also does not contain unusual characters.",
+  "Other": "The URL contains a long and descriptive path, which could be a tactic to trick users into clicking on it. The use of'si-la-vida-es-un-juego' (life is a game) in the file name could be an attempt to entice users with a misleading or enticing title.",
+  "verdict": 6
+}
+```

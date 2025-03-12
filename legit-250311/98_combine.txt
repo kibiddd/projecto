@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website fanbase.com/Jocelyn-Guevremont appears to be a legitimate domain with a common TLD and a reputable registrar. The domain has been registered for over 23 years, which is not recent, but there are no immediate red flags in the URL, domain registration, or screenshot analysis. The domain status indicates restricted actions, which could be a legitimate business decision. Overall, there are no clear indicators of a scam.",
+  "verdict": 1
+}
+```

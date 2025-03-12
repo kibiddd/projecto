@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain METROLYRICS.COM was created on 2002-12-30 and has an expiration date of 2025-12-30. This means the domain is not recent (less than 6 months) and is not expiring soon (less than a year).",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or partial. The contact information for the registrar is also provided.",
+  "answer3": "The registrar GoDaddy Corporate Domains, LLC is a well-known and reputable registrar. There is no indication that this registrar is known for hosting malicious sites or lacking verification.",
+  "answer4": "The domain status indicates that client transfers are prohibited, which is a common restriction for domains managed by GoDaddy. The DNSSEC is unsigned, which is not necessarily a red flag, as many domains do not use DNSSEC. The last update of the WHOIS database was on 2025-03-11, which is recent but not suspicious.",
+  "verdict": 1
+}
+```

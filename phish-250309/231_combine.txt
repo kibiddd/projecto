@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'haacken.com' appears to be a scam due to the misspelling of 'hackers.com' in the domain, which is a common tactic used by fraudulent sites to deceive users. The URL contains an excessive length and unusual characters, which could be indicative of a phishing attempt. The domain was created recently and is expiring soon, which can be a potential fraud indicator. However, the WHOIS information and registrar do not raise any immediate concerns. The website is currently in 'ok' status according to the ICANN Whois Inaccuracy Complaint Form, and the DNSSEC is unsigned. The screenshot could not be analyzed due to an error.",
+  "verdict": 7
+}
+```

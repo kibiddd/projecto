@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'wright2-1547' hosted by Indiana University (letrs.indiana.edu) appears to be a legitimate educational institution's website. The domain is registered under the trusted.edu TLD, and the contact information provided is complete and associated with Indiana University. The website's design is simple and functional, suitable for displaying academic content, and it is hosted by a reputable educational institution. There are no obvious signs of phishing, suspicious offers, poor design, impersonation, or other red flags. The domain was activated on 03-Mar-1986 and is not expiring soon, which is consistent with a long-standing educational institution.",
+  "verdict": 1
+}
+```

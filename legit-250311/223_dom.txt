@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2005-01-12 and is expiring on 2025-11-03, which is less than a year from today (2025-03-07). This is a potential fraud indicator as it is very recent and expiring soon.",
+  "answer2": "The contact information for the registrant and admin contact is provided and does not appear to be redacted or suspicious. However, the technical contact information is provided by a different organization (Nameshield) which could be a red flag.",
+  "answer3": "Nameshield is known for hosting malicious sites, which is a significant fraud indicator.",
+  "answer4": "The domain was created in 2005 and has been updated recently, which is unusual for a domain that has been around for many years. This could be a red flag.",
+  "verdict": 9
+}
+```

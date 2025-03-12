@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL provided is 'https://www.videosurf.com/jamie-dixon-14331'. The URL analysis indicates no deceptive domain, common TLD, and no suspicious patterns, suggesting it appears legitimate. The domain analysis shows the domain is expiring soon, but the registrar is reputable and the WHOIS information is complete. The screenshot analysis reveals a 404 error, indicating a non-existent page rather than a scam. No phishing, suspicious offers, impersonation, or transparency issues are detected. The website does not seem to be a scam based on the provided information.",
+  "verdict": 1
+}
+```

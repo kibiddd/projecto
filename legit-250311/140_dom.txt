@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain registration date is 2025-03-11, which is less than 6 months from today (2025-03-07). This is a potential indicator of fraud as many fraudulent domains are registered recently.",
+  "answer2": "The WHOIS information provided is complete and does not indicate that the contact information is redacted, partial, or suspicious.",
+  "answer3": "The registrar information is not provided in the WHOIS data, so it cannot be determined if the registrar is known for hosting malicious sites or lacks verification.",
+  "answer4": "The domain is not found, which is a strong indicator of potential fraud or a non-existent domain.",
+  "verdict": 9
+}
+```

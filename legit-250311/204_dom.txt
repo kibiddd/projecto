@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 1995-01-18, which is far beyond the 6-month threshold. Therefore, it is not recent.",
+  "answer2": "The contact information provided is complete and not redacted or suspicious.",
+  "answer3": "MarkMonitor Inc. is a reputable registrar known for hosting legitimate domains. There is no indication that it hosts malicious sites or lacks verification.",
+  "answer4": "The domain status includes several prohibitions such as clientDeleteProhibited, clientTransferProhibited, clientUpdateProhibited, serverDeleteProhibited, serverTransferProhibited, and serverUpdateProhibited. These prohibitions are unusual and could be a red flag.",
+  "verdict": 7
+}
+```

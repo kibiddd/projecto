@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website http://spotify.recompensas.click appears to be a scam. The URL contains misspellings and character substitutions, and the TLD '.click' is uncommon and potentially high-risk. The domain was recently registered and is expiring soon, with redacted contact information, which are potential fraud indicators. The website promises'recompensas' (rewards), which is highly suspicious. The URL suggests an attempt to impersonate Spotify, and the website lacks transparency and legitimate contact information. The use of a generic domain name and the promise of rewards strongly suggest malicious intent.",
+  "verdict": 10
+}
+```

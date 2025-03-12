@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain registration is not recent; it was created on 2003-10-20 and is expiring in 2025-10-20, which is more than a year away. Therefore, it does not meet the criteria of being recent or expiring soon.",
+  "answer2": "The contact information provided by the registrar (abuse@directnic.com and +1.5043550081) is not redacted or partial, but it is not suspicious on its own. However, the registrar's reputation will be considered in the next point.",
+  "answer3": "The registrar, DNC Holdings, Inc., is known for hosting malicious sites and lacks verification. This is a significant indicator of potential fraud.",
+  "answer4": "The domain status includes clientDeleteProhibited, clientTransferProhibited, and clientUpdateProhibited, which are unusual and could be indicative of a domain being managed by a party that wants to prevent changes to the domain's registration details. This could be a red flag for potential fraud.",
+  "verdict": 8
+}
+```

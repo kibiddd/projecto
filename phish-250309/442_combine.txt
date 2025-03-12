@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL contains a misspelling of 'wap', which is a common misspelling of 'wap.com'. The domain was created on 2013-08-05 and is expiring on 2025-08-05, which is more than a year away. The WHOIS information provided is complete and does not appear to be redacted or partial. Gname.com is a well-known registrar, and there is no indication that it hosts malicious sites or lacks verification. However, the domain status indicates that client transfers are prohibited, which is a common practice for domains with sensitive or high-value content. The domain has been registered for a long time (since 2013), and the registrar is reputable. There are no other suspicious registration factors mentioned. The website screenshot could not be loaded, which prevents further analysis of the website's appearance and content.",
+  "verdict": 4
+}
+```

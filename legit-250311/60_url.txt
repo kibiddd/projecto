@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "No misspellings, character substitutions, or deceptive subdomains detected.",
+  "TLD": "cdbaby.com is a well-known and trusted domain with a common TLD (.com).",
+  "Patterns": "URL is of standard length and contains no unusual characters or random strings.",
+  "Other": "No other suspicious URL factors detected.",
+  "verdict": 1
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2000-10-16, which is over 23 years ago. Therefore, it is not recent.",
+  "answer2": "The contact information provided is complete and appears legitimate.",
+  "answer3": "The registrar, Authentic Web Inc., is a legitimate registrar and there is no indication that it hosts malicious sites or lacks verification.",
+  "answer4": "N/A",
+  "verdict": 1
+}
+```

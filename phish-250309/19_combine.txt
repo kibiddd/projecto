@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website http://b96w.xyz is a scam website. The URL contains a misspelling of 'web' and uses a high-risk TLD.xyz. The domain was registered recently, and the contact information is redacted or suspicious. The domain status indicates prohibited server and client transfers, and the domain name is unusual. The website displays a phishing message, promotes a suspicious offer, and impersonates the well-known brand 'bet365'. The website's format appears unprofessional, lacks transparency, and encourages users to visit the official website, which is suspicious behavior. The website's overall appearance and behavior raise significant red flags.",
+  "verdict": 9
+}
+```

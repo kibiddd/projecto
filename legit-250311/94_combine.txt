@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a legitimate company page, with a domain that is not recent and has a long registration period. The domain registrar is not widely known for hosting malicious sites, and the contact information provided is complete. However, the website is displaying a 404 error page, which could indicate a problem with accessing specific content. The 404 error does not necessarily indicate a scam, but it could be a sign of poor maintenance or a temporary issue. The website does not appear to be a phishing site, and there are no obvious signs of a scam. The potential risks are low, but the 404 error could be a concern.",
+  "verdict": 2
+}
+```

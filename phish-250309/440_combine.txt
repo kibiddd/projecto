@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website'vedi.176-65-141-34.cprapid.com' appears to be a phishing site attempting to impersonate PayPal. It requests personal and sensitive information such as email, password, and phone number, which are common tactics used by scammers. The domain contains a misspelling of 'video' and uses an uncommon TLD '.cprapid.com', which could be high-risk. The website's design resembles a legitimate PayPal login page, but the URL and IP address are not associated with PayPal, making it highly suspicious. The domain is older than 6 months but less than a year old, and the registrar is reputable. The contact information provided is legitimate. The website's attempt to impersonate PayPal and the suspicious URL are major red flags.",
+  "verdict": 10
+}
+```

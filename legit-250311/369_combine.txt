@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be associated with Coleytown Middle School in Westport, CT, and the domain 'westport.k12.ct.us' is a legitimate school district domain. However, the URL contains 'cchome.htm' which could be a deceptive practice. The domain was registered over 23 years ago and is expiring soon, which is unusual for a legitimate domain. The website is basic HTML with no obvious phishing or suspicious offers, but the domain status indicates inactivity and prohibitions on server updates, transfers, and deletions, which are red flags. The contact information is complete and the registrar is legitimate. The website's transparency is somewhat reassuring, but the potential risks associated with the domain's status and the deceptive URL structure raise concerns.",
+  "verdict": 7
+}
+```

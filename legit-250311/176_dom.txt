@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain registration is not recent; it was created on 2001-01-10T19:12:50Z, which is well over 6 months old. It is also not expiring soon; the expiration date is 2027-01-10T19:12:50Z, which is more than a year away. Therefore, this factor does not indicate fraud.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or partial. The contact information for the registrar is also provided, including an abuse contact email and phone number. This factor does not indicate fraud.",
+  "answer3": "The registrar, Global Domain Group LLC, is not known for hosting malicious sites or lacking verification. The registrar's WHOIS server and abuse contact information are provided, which suggests a legitimate operation. This factor does not indicate fraud.",
+  "answer4": "There are no other suspicious registration factors provided in the WHOIS information. The domain status indicates that client transfers are prohibited, which is a common practice and does not necessarily indicate fraud. The DNSSEC is unsigned, which is not uncommon and does not necessarily indicate fraud. This factor does not indicate fraud.",
+  "verdict": 1
+}
+```

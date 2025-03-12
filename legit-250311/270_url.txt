@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain'spokeo.com' does not contain misspellings or character substitutions, and the subdomain 'www' is commonly used and not deceptive.",
+  "TLD": "The TLD '.com' is a common and trusted TLD, not high-risk.",
+  "Patterns": "The URL contains a suspicious pattern with an excessive length and a random string 'John+Collet' which could be used to mislead users.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 5
+}
+```

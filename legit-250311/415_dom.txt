@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain registration is not recent, as it was activated on 13-Aug-1985. It is not expiring soon either, as it expires on 31-Jul-2026. Therefore, this factor does not indicate fraud.",
+  "answer2": "The contact information provided is complete and not redacted or suspicious. The administrative and technical contacts are clearly listed with full details, including phone numbers and email addresses.",
+  "answer3": "The registrar, EDUCAUSE, is known for hosting.EDU domains and is considered authoritative for this domain. There is no indication that EDUCAUSE hosts malicious sites or lacks verification. Therefore, this factor does not indicate fraud.",
+  "answer4": "There are no other suspicious registration factors present in the provided information.",
+  "verdict": 1
+}
+```

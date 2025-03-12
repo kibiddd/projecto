@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'nowtorrents.com' contains a misspelling of 'nowtorrents.com' which is a common tactic used by fraudulent sites to deceive users. The misspelling can be easily overlooked by users, making it a deceptive domain.",
+  "TLD": "The TLD '.com' is a common and trusted TLD. It is not considered high-risk or uncommon.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure for a website.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 3
+}
+```

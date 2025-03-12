@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question, http://pub-861d014fac87455fb5abf7195983f363.r2.dev/index.html, appears to be a scam based on several factors. The URL contains a misspelled 'r2' instead of 'r2dev', which is a common tactic used by fraudsters. The '.dev' TLD is not standard for commercial websites and could be a red flag. The domain was registered recently and has a short remaining registration period, which can be a potential fraud indicator. The contact information for the registrant, admin, and tech contacts is redacted for privacy, and the domain has restrictions on certain administrative actions. The website attempts to impersonate Stripe, which is a significant red flag. The website design appears professional, but the URL is suspicious and not associated with the original company. The website requests email and password, which could be used for phishing if the site is not legitimate. Based on these factors, the website is likely a scam.",
+  "verdict": 9
+}
+```

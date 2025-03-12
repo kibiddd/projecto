@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2011-04-06 and the registration is expiring on 2025-04-06, which is more than 6 months old and not expiring soon. Therefore, this factor does not indicate fraud.",
+  "answer2": "The contact information provided (abuse@dynadot.com and +16502620100) is complete and does not appear to be redacted or suspicious. Therefore, this factor does not indicate fraud.",
+  "answer3": "Dynadot Inc is a well-known registrar and there is no indication that it hosts malicious sites or lacks verification. Therefore, this factor does not indicate fraud.",
+  "answer4": "The domain status indicates that client transfers are prohibited, which is a common restriction for domains managed by registrars or hosting providers. This factor alone does not indicate fraud.",
+  "verdict": 1
+}
+```

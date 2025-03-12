@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "No misspellings, character substitutions, or deceptive subdomains detected.",
+  "TLD": "msnbc.msn.com is a well-known and trusted domain with a.com TLD, which is not uncommon or high-risk.",
+  "Patterns": "The URL is of a reasonable length and does not contain excessive length, random strings, or unusual characters.",
+  "Other": "The URL appears to be a legitimate link to a news website, and there are no other suspicious factors present.",
+  "verdict": 1
+}
+```

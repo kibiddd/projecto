@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website NTS.edu appears to be a legitimate educational institution based on the URL, domain registration, and screenshot analysis. The URL does not contain deceptive elements, the domain is registered by a reputable registrar, and the website design appears professional. The domain is not recent, which could be a red flag, but there are no immediate signs of phishing or other malicious activities. The website provides navigation to important information, indicating transparency. However, the lack of recent registration and the need for further investigation into the website's internal pages could pose potential risks. Overall, the website seems legitimate but warrants caution.",
+  "verdict": 3
+}
+```

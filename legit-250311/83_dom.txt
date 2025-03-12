@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain JIGSAW.COM was registered on 1995-09-20, which is far beyond the 6-month threshold for recent registration. It is also not expiring soon, as the expiration date is 2026-07-15, which is more than a year away. Therefore, this factor does not indicate potential fraud.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or suspicious. The contact information for the registrar is also provided, including an abuse contact email and phone number. This factor does not indicate potential fraud.",
+  "answer3": "MarkMonitor Inc. is a well-known registrar with a good reputation. There is no indication that they are known for hosting malicious sites or lacking verification. This factor does not indicate potential fraud.",
+  "answer4": "The domain status indicates that clientDelete, clientTransfer, and clientUpdate are prohibited, which is a common practice for domains managed by a third-party service like Salesforce. The DNSSEC is unsigned, which is also a common practice for domains managed by Salesforce. These factors do not indicate potential fraud.",
+  "verdict": 1
+}
+```

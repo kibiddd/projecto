@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2021-12-15 and is set to expire on 2025-12-15, which is more than a year away. Therefore, it is not expiring soon.",
+  "answer2": "The contact information provided (support@namebright.com and phone number 17204960020) appears to be valid and not redacted or partial.",
+  "answer3": "The registrar, DropCatch.com, is not widely known for hosting malicious sites, and there is no immediate indication that it lacks verification. However, further investigation into the registrar's reputation would be prudent.",
+  "answer4": "The domain is registered with NameBright, which is a legitimate registrar, and the domain status is 'ok'. The DNSSEC is unsigned, which is not necessarily a red flag. The URL provided is for a legitimate ICANN Whois Inaccuracy Complaint Form.",
+  "verdict": 2
+}
+```

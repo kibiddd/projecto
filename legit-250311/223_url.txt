@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "No misspellings or character substitutions detected. The domain'marieclaire.it' appears legitimate and correctly spelled.",
+  "TLD": "The TLD '.it' is common and not considered high-risk. It is associated with Italy, which is a legitimate country.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "No other suspicious URL factors are present. The URL seems to be a legitimate link to a news article on a well-known publication.",
+  "verdict": 1
+}
+```

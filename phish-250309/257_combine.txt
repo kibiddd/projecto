@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL provided leads to a legitimate Steam store page for the game 'STALKER 2: Heart of Chornobyl'. However, the domain 'jd2.ru' contains a misspelling of 'jd2.com', which is a common tactic used by fraudsters. The domain was registered less than 6 months ago, which is a potential fraud indicator. The registrar, RU-CENTER-RU, is not widely recognized as a reputable registrar. The contact information provided is a link to the TCI Whois Service, which is in Russian and not directly provided in the WHOIS data. These factors could be concerning, but the website itself appears to be legitimate.",
+  "verdict": 7
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a personal genealogy profile page on Family Tree Maker genealogy website. It does not seem to request personal information or payment, and the domain is registered by a reputable registrar. The website is very basic and seems to be an archived personal webpage with limited design. There are no obvious signs of phishing, suspicious offers, or impersonation. The domain is not recent or expiring soon, and the WHOIS information is complete and not suspicious. The website seems to be legitimate and not a scam.",
+  "verdict": 1
+}
+```

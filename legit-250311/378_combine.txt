@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a legitimate sports website, specifically related to soccer, with no immediate signs of phishing, suspicious offers, or impersonation. The domain has a long history and is registered by a reputable registrar. The website's design is professional, and there are no obvious signs of fraud. However, the presence of a consent pop-up for data processing by partners introduces a potential risk related to data privacy. The URL, domain registration, and screenshot analysis do not indicate a scam website.",
+  "verdict": 1
+}
+```

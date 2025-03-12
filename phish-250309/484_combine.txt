@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question, http://unbouncepages.com/facebook-protected-verify-code-bo-1, appears to be a phishing scam. The URL contains a misspelled domain and a suspicious pattern, suggesting an attempt to deceive users into thinking it is a legitimate Facebook verification page. The domain was registered over six years ago and is not expiring soon, which does not immediately indicate a scam. However, the WHOIS information is complete and the registrar is reputable. The screenshot analysis reveals that the website is asking for personal credentials, which is a common phishing tactic. The website is not the official Facebook domain and is hosted on a misspelled domain, which increases the likelihood of it being malicious. The website is attempting to impersonate Facebook to steal login credentials. The potential risks include identity theft, financial loss, and unauthorized access to personal accounts.",
+  "verdict": 10
+}
+```

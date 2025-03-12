@@ -1,0 +1,6 @@
+```json
+{
+  "Deceptive Domain": "The domain name contains a misspelling of 'Weebly', which is a legitimate domain registrar. However, the use of 'weebly.com' instead of 'weebly.com' could be a tactic to deceive users into thinking the website is associated with the official Weebly platform.",
+  "TLD": "The TLD '.weebly.com' is a common and legitimate domain extension used by Weebly, a popular website builder. It is not considered high-risk or uncommon.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure for a website hosted on Weebly.",
+  "Other": "The URL points to a website hosted on Weebly, which is a legitimate platform. However, the misspelling in the domain name could be a tactic to deceive users. The website's content, purpose, and reputation should be verified to determine if

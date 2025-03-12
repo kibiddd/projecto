@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2011-04-07 and the registration is expiring on 2025-04-07, which is more than a year away. Therefore, it is not recent nor expiring soon.",
+  "answer2": "The contact information provided (Registrar Abuse Contact Email: abuse@promopeople.com and Phone: 9053153466) is not redacted or partial, but it is suspicious due to the registrar's reputation.",
+  "answer3": "The registrar, Promo People, Inc., is known for hosting malicious sites or lacking verification. This is a significant red flag.",
+  "answer4": "Other suspicious registration factors include the domain status being 'clientTransferProhibited' and 'clientUpdateProhibited', and the DNSSEC being unsigned.",
+  "verdict": 9
+}
+```

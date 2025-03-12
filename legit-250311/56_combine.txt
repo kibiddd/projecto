@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website pes-patch.com appears to be a legitimate sports-related site, specifically offering a patch for a video game. The domain is not recent, and the registrar is reputable. However, the website may contain outdated design, lack of transparency, and potential copyright infringement issues. There is a moderate risk associated with downloading content from the site due to the possibility of malware or phishing.",
+  "verdict": 4
+}
+```

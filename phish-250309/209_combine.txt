@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'findcare.za.com' appears to be a legitimate domain with a clear and recognizable structure, using a country code top-level domain (ccTLD) for South Africa. However, the domain was registered less than 6 months ago, which is a potential indicator of fraud. The lack of contact information and the discrepancy between the URL and WHOIS information are also concerning. Unfortunately, the screenshot could not be analyzed due to an error loading the website screenshot.",
+  "verdict": 8
+}
+```

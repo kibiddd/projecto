@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2000-01-28 and the updated date is 2025-01-28, which means it has been registered for over 25 years. Therefore, it is not recent (less than 6 months) nor expiring soon (less than a year).",
+  "answer2": "The contact information provided by the registrar (abuse@godaddy.com and 480-624-2505) is complete and not redacted or partial. There are no suspicious elements in the contact information.",
+  "answer3": "GoDaddy.com, LLC is a well-known and reputable registrar. There is no indication that GoDaddy hosts malicious sites or lacks verification. The domain is registered with GoDaddy, which is a legitimate and trusted registrar.",
+  "answer4": "There are no other suspicious registration factors mentioned in the provided information.",
+  "verdict": 1
+}
+```

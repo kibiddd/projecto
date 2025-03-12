@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 1995-03-23, which is well over 30 years ago, so it is not recent. The expiration date is 2034-03-24, which is more than 9 years away, so it is not expiring soon. Verdict: 0",
+  "answer2": "The contact information provided by the registrar (NameCheap, Inc.) is complete and not redacted or suspicious. Verdict: 0",
+  "answer3": "The registrar, NameCheap, Inc., is a well-known and reputable registrar. There is no indication that it hosts malicious sites or lacks verification. Verdict: 0",
+  "answer4": "There are no other suspicious registration factors mentioned. The domain status indicates client transfer is prohibited, which is a common restriction for many domains. Verdict: 0",
+  "verdict": 0
+}
+```

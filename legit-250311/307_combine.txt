@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website is a LinkedIn profile for Russell Levi, which appears to be legitimate and not a scam. The URL, domain registration, and screenshot analysis do not indicate any deceptive or malicious activity. The LinkedIn profile adheres to the platform's standard design and provides transparency with contact information. There are no phishing attempts, suspicious offers, or impersonation detected. The domain is registered by a reputable registrar and is not recent, which is typical for personal profiles.",
+  "verdict": 1
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "No misspellings or character substitutions detected.",
+  "TLD": "MySpace is a well-known and trusted domain, not high-risk.",
+  "Patterns": "URL is of normal length and does not contain random strings or unusual characters.",
+  "Other": "MySpace is a legitimate social media platform, not associated with any known scams.",
+  "verdict": 1
+}
+```

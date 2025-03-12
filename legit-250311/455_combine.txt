@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website'memorabletv.com' appears to be a legitimate site based on the URL, domain registration, and WHOIS analysis. The domain is not recent, but it is not expiring soon, and the registrar is legitimate. The website's design is professional, and it provides a privacy policy and terms of service. However, the website is asking for consent to use personal data for advertising and content measurement, which could potentially be exploited if the site is compromised. The website also has a 404 error page, which could indicate a server-side issue or a bad link. Overall, the website seems to be legitimate, but there are some potential risks associated with data collection and the 404 error page.",
+  "verdict": 3
+}
+```

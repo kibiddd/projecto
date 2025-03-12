@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website, http://auth-ca-ndax-console.webflow.io, appears to be a scam. The URL contains a misspelling of 'auth' as 'auth-ca', which could be an attempt to deceive users. The domain registration is not recent and is hosted by MarkMonitor Inc., a registrar known for hosting malicious sites. The domain status includes clientDeleteProhibited, clientTransferProhibited, and clientUpdateProhibited, which are unusual and may indicate an attempt to prevent changes to the domain registration. The website is not accessible and the provided URL is for webflow.io, which is not the primary URL of NDAX, suggesting the website is a scam. The website is offering a platform to buy and sell cryptocurrency, which typically involves financial transactions and personal information, making it susceptible to phishing attempts.",
+  "verdict": 9
+}
+```

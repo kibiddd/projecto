@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question, identified by the URL 'https://getprox.cc/go/3394z2/03a4.php/3394z2', exhibits several red flags that are commonly associated with scam websites. The domain 'getprox.cc' is a misspelled version of 'getprox.com', which is a tactic often used by fraudulent sites to deceive users. The '.cc' TLD is considered high-risk and is frequently linked to phishing and fraudulent activities. The URL itself is excessively long and contains unusual characters, which are not typical for legitimate websites. Additionally, the domain was registered very recently, which is a common characteristic of scam domains that are created quickly to exploit their short lifespan. The registrar, NICENIC INTERNATIONAL GROUP CO., LIMITED, is known for hosting malicious sites, further raising concerns about the legitimacy of the domain. The domain status indicates that it cannot be easily transferred or deleted, which is another common tactic used by fraudulent operators. Unfortunately, a screenshot of the website could not be provided due to an error loading the website.",
+  "verdict": 9
+}
+```

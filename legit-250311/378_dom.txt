@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 1999-09-18 and the registration is not recent (less than 6 months). It is also not expiring soon (less than a year). The domain has a long history, which is not a typical indicator of fraud.",
+  "answer2": "The contact information provided (abuse@regtons.com and +420.734 463 373) appears to be valid and not redacted or suspicious.",
+  "answer3": "The registrar, Gransy, s.r.o., is not widely known for hosting malicious sites or lacking verification. The registrar's WHOIS information is provided, and there are no immediate red flags regarding the registrar's reputation.",
+  "answer4": "The domain status is 'ok' and DNSSEC is unsigned, which is not necessarily suspicious. The domain has been active for a long time, which is not a typical indicator of fraud.",
+  "verdict": 1
+}
+```

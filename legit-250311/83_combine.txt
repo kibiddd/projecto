@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website Jigsaw.com appears to be a legitimate business contact database profile page. The URL, domain registration, and WHOIS information do not indicate any signs of fraud. The screenshot analysis also suggests that the website is legitimate and not involved in phishing, suspicious offers, or impersonation.",
+  "verdict": 1
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'bulgariantvandmovies.com' appears to be a legitimate Bulgarian-focused website with a clear and descriptive domain name. The domain was created recently and is set to expire in less than a year, which could be a potential fraud indicator. The WHOIS information is complete and provided by a reputable registrar. The website does not appear to request personal information or payments, and it offers no suspicious deals or free products/services. However, the lack of HTTPS security and the somewhat outdated design raise concerns. The website has a professional design with generally good quality images, but there are a few grammar or spelling errors visible. The website provides some contact information, including social media links, which can be investigated further for contact information. The URL structure is not typical, which could make the website look possibly suspicious.",
+  "verdict": 4
+}
+```

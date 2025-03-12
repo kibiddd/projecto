@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "Panoramio is a discontinued photo-sharing website that was acquired by Google. The URL, domain registration, and website screenshot analysis do not indicate any signs of a scam. The website is a legitimate announcement from Google about the discontinuation of the service. The domain registration is not recent, but it is not necessarily indicative of fraud. The website has a clean and professional design, and there are no suspicious offers or requests for personal information.",
+  "verdict": 1
+}
+```

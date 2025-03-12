@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL provided appears to be a legitimate link to a commercial video. The domain was created in 2009 and is not expiring soon. The registrar is a legitimate one, and the contact information provided is valid. However, the website has a 404 error page, indicating a broken link or page that doesn't exist. The design is simple, which might indicate a less sophisticated site. The website doesn't seem to have any clear contact information. The URL does not contain excessive length, random strings, or unusual characters, and the TLD.com is common and not considered high-risk. The domain status indicates 'clientTransferProhibited', which means the domain cannot be transferred to another registrar. The DNSSEC is unsigned, which is not necessarily suspicious, but it is not ideal for security reasons. The website does not appear to be a scam based on the analysis of the URL, domain registration, and a screenshot of the website.",
+  "verdict": 1
+}
+```

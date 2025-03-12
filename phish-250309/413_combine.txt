@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL contains a misspelling of'steam.com', which is a common gaming platform, and the domain is expiring soon, hosted by a registrar known for hosting malicious sites. The domain status indicates prohibited client transfers and an unsigned DNSSEC. However, the screenshot could not be analyzed due to an error.",
+  "verdict": 8
+}
+```

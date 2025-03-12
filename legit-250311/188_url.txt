@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'gand.uscourts.gov' appears to be a misspelling of 'gand.uscourt.gov'. The misspelling of 'uscourt' to 'uscourts' is a common tactic used by fraudsters to create deceptive domains that look similar to legitimate ones.",
+  "TLD": "The TLD '.gov' is a high-risk TLD as it is commonly used by government entities. However, the URL provided is not a typical '.gov' domain, which raises suspicion.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "The URL does not contain any other suspicious factors.",
+  "verdict": 2
+}
+```

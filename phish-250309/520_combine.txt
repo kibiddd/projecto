@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'zevie.cn' has a misspelled domain name, which is a common phishing tactic. The domain was registered recently, and the contact information provided is suspicious. The registrar is not widely known for hosting malicious sites, but further investigation is needed. The website screenshot could not be analyzed due to an error.",
+  "verdict": 7
+}
+```

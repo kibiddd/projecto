@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'lein-lavoie.com' appears to be a legitimate domain with a recent registration date. The URL structure suggests it is related to genealogical information, which is not inherently suspicious. However, the use of an old genealogy viewer and the potential for data exposure raise some concerns. The domain does not show signs of being a scam based on the provided information, but caution is advised due to the potential risks associated with data breaches.",
+  "verdict": 2
+}
+```

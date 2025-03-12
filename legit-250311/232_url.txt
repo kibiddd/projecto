@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'xpornz.com' contains a misspelling of 'porn.com', which is a common tactic used by fraudulent sites to deceive users.",
+  "TLD": "The TLD '.xyz' is uncommon and considered high-risk, which is a strong indicator of a potentially fraudulent site.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters, so this factor does not indicate fraud.",
+  "Other": "The URL contains a misspelled domain and uses a high-risk TLD, both of which are strong indicators of a potentially fraudulent site.",
+  "verdict": 9
+}
+```

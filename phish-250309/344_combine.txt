@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'rtu-quiz.ru' appears to be a legitimate domain with a recent registration and a standard URL structure. However, the presence of 'wp-admin' in the URL could be a red flag, as it might be an attempt to trick users into accessing a restricted area of a website. The domain was registered less than 6 months ago, and the registrar TIMEWEB-RU is associated with suspicious domains. The contact information provided is partial and suspicious, and the domain is registered with a private person and delegated to multiple nameservers. The screenshot of the website could not be analyzed due to an error.",
+  "verdict": 8
+}
+```

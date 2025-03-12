@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a legitimate Amazon affiliate site for book sellers, with a common TLD and a professional design. The domain is expiring soon, which could be a potential risk factor, but the WHOIS information is complete and the registrar is legitimate. The website requests payment information for purchases, which is expected for an e-commerce platform. No suspicious offers or impersonation are detected. The website provides clear contact information for sellers.",
+  "verdict": 2
+}
+```

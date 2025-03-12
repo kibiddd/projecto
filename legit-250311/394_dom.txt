@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2003-06-05 and the WHOIS database was last updated on 2025-03-11, which means the domain is not recent (less than 6 months) and is not expiring soon (less than a year).",
+  "answer2": "The contact information provided by the registrar (abuse contact email and phone) is not redacted, partial, or suspicious.",
+  "answer3": "The registrar, CSC Corporate Domains, Inc., is not known for hosting malicious sites or lacking verification. It is a legitimate registrar.",
+  "answer4": "The domain status indicates that client transfers are prohibited, which is a common restriction for many domains. The DNSSEC is unsigned, which is not necessarily a red flag unless there are other suspicious factors. The name servers are provided, which is normal.",
+  "verdict": 1
+}
+```

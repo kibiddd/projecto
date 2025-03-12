@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website http://safety-profiles-fb-ads-3692201588.vercel.app appears to be a scam. The URL contains a misspelling and uses a deceptive subdomain, which is not a standard domain name for websites. The domain was registered over six months ago and the registrant's contact information is redacted. The website's format is unprofessional, lacks transparency, and attempts to impersonate Facebook/Meta. The account suspension message and poor grammar are strong indicators of a fraudulent site. The domain is using Vercel's DNS servers, which is legitimate, but the other factors outweigh this.",
+  "verdict": 9
+}
+```

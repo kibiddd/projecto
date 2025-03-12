@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website is YouTube, a legitimate and widely used platform for video sharing. The URL, domain registration, and screenshot analysis do not indicate any signs of a scam. The website is transparent, has a clean design, and does not ask for personal information or offer suspicious deals. The domain has been registered for a long time and is managed by a reputable registrar. The website is not asking for any personal information or payment, and it is not offering any free or too-good-to-be-true product/service. The website has a clean and modern design, with no noticeable typos or low-quality images. The website provides contact information in the footer, which is a sign of transparency. The website is displaying a notification indicating that the browser is not supported anymore, the interface appears legitimate, and the URL is YouTube, therefore it's not trying to impersonate.",
+  "verdict": 1
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2004-07-06 and is expiring on 2025-07-06, which is more than 6 years from now. Therefore, it is not recent or expiring soon.",
+  "answer2": "The registrant, admin, and tech contact information is redacted for privacy, which is common practice but can also be a red flag if combined with other suspicious factors.",
+  "answer3": "The registrar, Domain.com, LLC, is not widely known for hosting malicious sites, but it is important to verify the registrar's reputation. The WHOIS server URL provided is not a standard WHOIS server, which could be a sign of a less reputable registrar.",
+  "answer4": "The domain is hosted by inmotionhosting.com, which is a legitimate hosting provider, but the domain's DNSSEC is unsigned, which is unusual for a legitimate domain and could be a sign of potential misuse.",
+  "verdict": 3
+}
+```

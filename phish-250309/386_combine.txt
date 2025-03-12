@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question, https://sso-app--uphold--nav-cdn.webflow.io, appears to be a landing page for a cryptocurrency platform with a professional design and high-quality images. The URL contains a deceptive domain with a double hyphen, which is not a standard practice and could be an attempt to obfuscate the actual domain name. The domain registration is not recent, and the contact information for the registrant, admin, and tech contacts is redacted for privacy. MarkMonitor Inc., a reputable registrar known for hosting malicious sites, is associated with the domain. The website directs users to 'Get the app', which could potentially be a phishing attempt if the app itself is malicious. The website's claim 'Trade Crypto Better' could be seen as a potentially misleading offer, and the lack of contact information within the displayed portion is a factor to consider. The use of 'Made in Webflow' could be an attempt to look more legitimate and trustworthy. The domain status includes clientDeleteProhibited, clientTransferProhibited, and clientUpdateProhibited, which are unusual and could indicate that the domain is being managed by a third party with restricted access.",
+  "verdict": 7
+}
+```

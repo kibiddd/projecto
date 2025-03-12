@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL provided leads to a document on Scribd, a well-known platform. The domain analysis indicates that the domain is not expiring soon and is registered with a reputable registrar. The screenshot analysis shows a professional design and transparency, with no immediate signs of phishing or suspicious offers. However, the presence of a deletion notice could potentially be exploited in phishing attempts. Overall, the website appears legitimate, but caution is advised when interacting with documents that have been deleted.",
+  "verdict": 1
+}
+```

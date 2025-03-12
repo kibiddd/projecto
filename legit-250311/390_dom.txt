@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2005-02-05, which is over 20 years ago, so it is not recent.",
+  "answer2": "The registrant, admin, and tech contact information is redacted for privacy, which is common but can also be a red flag if combined with other suspicious factors.",
+  "answer3": "The registrar, Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság, is known for hosting malicious sites and lacks verification.",
+  "answer4": "The domain status is 'ok' and the domain is not expiring soon, but the registrar is known for hosting malicious sites.",
+  "verdict": 9
+}
+```

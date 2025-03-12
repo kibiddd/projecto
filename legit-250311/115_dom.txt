@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 1994-09-29 and the registration is expiring on 2025-09-28, which is more than a year away. Therefore, it is not recent nor expiring soon.",
+  "answer2": "The contact information provided by the registrar (abuse@cscglobal.com and phone number 8887802723) is not redacted or partial, and it appears to be legitimate.",
+  "answer3": "The registrar, CSC Corporate Domains, Inc., is not known for hosting malicious sites or lacking verification. It is a legitimate registrar.",
+  "answer4": "The domain status indicates that client transfers are prohibited, which is a common restriction for many registrars and does not necessarily indicate fraud. The DNSSEC is unsigned, which is not uncommon and does not necessarily indicate fraud either.",
+  "verdict": 1
+}
+```

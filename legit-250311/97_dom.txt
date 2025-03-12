@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain KSN.COM was created on 1997-09-25 and has a registration expiry date of 2025-09-24. This means the domain is not recent (less than 6 months) and is not expiring soon (less than a year).",
+  "answer2": "The contact information provided by the registrar (abuse contact email: domainabuse@cscglobal.com and phone: 8887802723) is not redacted, partial, or suspicious. It appears to be complete and valid.",
+  "answer3": "The registrar CSC Corporate Domains, Inc. is known for hosting domains and does not appear to be associated with malicious activities. There is no indication that it lacks verification.",
+  "answer4": "There are no other suspicious registration factors mentioned in the provided information.",
+  "verdict": 1
+}
+```

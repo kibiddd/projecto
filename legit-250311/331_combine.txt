@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website at the provided URL appears to be non-functional, as indicated by a 404 error message. The domain has been registered for over 28 years, which is not recent, and the registrar is a reputable company. However, the lack of content and functionality raises concerns about the website's legitimacy and purpose. The website does not exhibit signs of phishing, suspicious offers, or impersonation, but the broken page could be a red flag for potential risks such as a poorly maintained or abandoned site. The final verdict is a 7, indicating a moderate likelihood of the website being a scam.",
+  "verdict": 7
+}
+```

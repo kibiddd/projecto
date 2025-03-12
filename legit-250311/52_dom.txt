@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2005-03-10 and the WHOIS database was last updated on 2025-03-11, which means the domain is not recent (less than 6 months) and is not expiring soon (less than a year).",
+  "answer2": "The contact information provided by the registrar (MarkMonitor Inc.) is complete and not redacted or partial. The abuse contact email and phone number are also provided.",
+  "answer3": "MarkMonitor Inc. is a well-known registrar and is not typically associated with hosting malicious sites. They are a reputable company in the domain registration industry.",
+  "answer4": "The domain status is 'ok' and the DNSSEC is unsigned, which is not necessarily a red flag. The domain has been registered for a long time and has a valid registration period until 2026-03-10.",
+  "verdict": 1
+}
+```

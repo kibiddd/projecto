@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a legitimate hockey statistics database, with a functional but dated design. The domain is not recent, but it is not expiring soon, and the registrar is known for hosting domains. The URL provided does not seem to be directly related to the domain name, which could be a red flag. The domain's DNSSEC is unsigned, which is a security concern but not necessarily indicative of malicious intent. The website provides clear information and does not appear to be a scam.",
+  "verdict": 2
+}
+```

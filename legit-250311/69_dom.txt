@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2007-07-01 and is expiring on 2025-06-30, which is more than 6 years from now. Therefore, it is not recent or expiring soon.",
+  "answer2": "The contact information provided is complete and appears legitimate, with no redacted or suspicious details.",
+  "answer3": "The registrar, NameCheap, Inc., is a well-known and reputable registrar. There is no indication that it hosts malicious sites or lacks verification.",
+  "answer4": "No other suspicious registration factors are present.",
+  "verdict": 1
+}
+```

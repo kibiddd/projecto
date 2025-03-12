@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'educatsy.co.uk' appears to be a scam based on the analysis of the URL, domain registration, and a screenshot of the website. The URL does not contain any deceptive elements, but the domain was registered recently and is not expiring soon, which could be unusual for a new or active business. The screenshot analysis reveals that the website is asking for personal information, which is a common phishing tactic, and it appears to be impersonating Chase, a well-known bank. The website design looks legitimate, but the lack of transparency and the suspicious offer make it a potential scam.",
+  "verdict": 9
+}
+```

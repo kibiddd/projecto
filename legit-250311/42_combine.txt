@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website, Ejpress.org, appears to be a legitimate news source with a domain that is not deceptive and is registered for a long time. The domain is hosted by a reputable provider, although the DNSSEC is unsigned, which is unusual but not necessarily indicative of a scam. The website does not appear to be directly requesting personal information or payments, and its content focuses on news and information without offering any products or services. The website's design appears professional, and there are no obvious signs of phishing, suspicious offers, impersonation, or other fraudulent activities. However, the unsigned DNSSEC and the redacted WHOIS information could be potential risks. The website also shows a 'Page Not Found' error, which may indicate an issue with the website.",
+  "verdict": 2
+}
+```

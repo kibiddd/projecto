@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL contains a misspelling of'steamcommunity.net' and an unusual character in the domain name, which could be an attempt to deceive users. The domain is relatively new, registered less than a year ago, and is hosted by a registrar known for hosting malicious sites. The domain status indicates that it cannot be easily transferred or deleted, which is a common tactic used by fraudulent actors. However, the screenshot could not be analyzed due to an error.",
+  "verdict": 9
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'essaydepot.com' appears to be a legitimate service offering essay samples. The URL and domain analysis do not indicate any immediate signs of a scam, and the screenshot analysis shows a clean and modern website design without any obvious phishing or suspicious offers. However, the website's transparency cannot be fully assessed with the provided information. The domain has been registered for over 26 years and is not expiring soon, which is not necessarily a red flag. The website does not request personal information or payment directly in the provided screenshot, which is a positive sign. Overall, the potential risks seem to be low, but further investigation is recommended to ensure the website's legitimacy.",
+  "verdict": 1
+}
+```

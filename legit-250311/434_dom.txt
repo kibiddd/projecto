@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2000-10-25 and is set to expire on 2025-10-25, which is more than 6 years from now. Therefore, it is not recent nor expiring soon.",
+  "answer2": "The contact information provided by the registrar (abuse@uniregistry.com and +1 4805058800) is complete and does not appear to be redacted or suspicious.",
+  "answer3": "GoDaddy is a well-known and reputable registrar, and there is no indication that they are known for hosting malicious sites or lacking verification. The registrar WHOIS server (whois.uniregistrar.com) is also a legitimate service.",
+  "answer4": "The domain status indicates that client actions such as delete, renew, transfer, and update are prohibited. This could be a red flag, but it is not necessarily indicative of fraud. The domain is also using Google domains for its name servers, which is a common practice.",
+  "verdict": 2
+}
+```

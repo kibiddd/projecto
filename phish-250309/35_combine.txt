@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL contains a misspelling of 'weebly.com' and an excessive length with a random string, which could indicate a scam. The domain is recently registered and expiring soon, with unusual prohibitions on domain transfers and updates, and an unsigned DNSSEC. The screenshot shows an AT&T sign-in page, which is not consistent with the URL domain, suggesting a phishing attempt. The website requests sensitive personal information, which is a common phishing tactic. The website's legitimacy is questionable, and it poses potential risks of phishing and identity theft.",
+  "verdict": 9
+}
+```

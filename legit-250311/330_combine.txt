@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question, beenverified.com, appears to be a legitimate people search service. The URL does not contain any deceptive elements, and the domain is registered by a reputable registrar, GoDaddy. The WHOIS information is complete and does not raise any red flags. The screenshot analysis indicates that the website is professional in format and transparency, with no obvious phishing or suspicious offers. However, the website is currently displaying a 404 error page, which could be a temporary issue or an indication of a problem with the website's content management. The domain registration date is quite old, but this alone does not indicate fraud. The verdict is based on the available information and is not definitive.",
+  "verdict": 3
+}
+```

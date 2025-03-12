@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 1998-12-28, which is far beyond the 6-month threshold. Therefore, it is not recent.",
+  "answer2": "The registrant, admin, and tech contact information is redacted for privacy, which is common for domains but can be a red flag if combined with other suspicious factors.",
+  "answer3": "Network Solutions, LLC is a well-known registrar, but it has been associated with hosting malicious sites in the past. This could be a potential indicator of fraud.",
+  "answer4": "The domain status indicates 'clientTransferProhibited', which means the domain cannot be transferred to another registrar. This could be a security measure, but it also means the domain owner is not easily reachable for verification.",
+  "verdict": 7
+}
+```

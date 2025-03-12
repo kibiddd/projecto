@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question, kemsnzxsewoeir.weebly.com, has a deceptive domain with misspellings and character substitutions, a recent domain registration, and a soon-to-expire domain. The WHOIS data indicates a potential fraud attempt due to the short-term registration. The website's design is basic and resembles a phishing attempt, impersonating AT&T Mail, and it requests sensitive information such as email and password. The domain is registered with SafeNames Ltd., which does not have immediate indicators of hosting malicious sites. The URL is on a free website platform, which is common for phishing sites. The domain status indicates that client actions are prohibited, which could be a red flag. The website's potential risks include phishing, credential theft, and impersonation.",
+  "verdict": 9
+}
+```

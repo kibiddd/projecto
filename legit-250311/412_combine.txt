@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website is an official iTunes page for the album 'Breakfast for Dogs' with a domain registered in 1987, which is not recent. The domain has several prohibitions that are unusual for a legitimate domain, raising some concerns. However, the website itself appears to be a standard iTunes page with a professional design and no signs of phishing, suspicious offers, or impersonation. The domain registrar is associated with Apple Inc., which is a legitimate registrar. The contact information provided is complete and not suspicious. Overall, the website seems legitimate, but the unusual domain prohibitions warrant caution.",
+  "verdict": 3
+}
+```

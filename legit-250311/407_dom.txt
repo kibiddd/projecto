@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2000-03-29 and is expiring on 2025-03-29, which is more than 6 months old and not expiring soon. Therefore, this factor does not indicate fraud.",
+  "answer2": "The contact information provided (abuse@reg.ru and +74955801111) is not redacted or partial, and it appears to be legitimate. This factor does not indicate fraud.",
+  "answer3": "The registrar, REG.RU LLC, is known for hosting malicious sites or lacking verification. This factor indicates potential fraud.",
+  "answer4": "The domain status is 'clientTransferProhibited', which could be a red flag. However, this alone does not necessarily indicate fraud without additional context. This factor is somewhat suspicious but not definitive on its own.",
+  "verdict": 6
+}
+```

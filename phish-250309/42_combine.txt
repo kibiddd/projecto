@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question appears to be a phishing attempt, mimicking the Facebook login page with a misspelled domain. The domain was recently registered and is set to expire soon, with partial contact information provided. The registrar is not well-known, and the URL structure is suspicious. The lack of a screenshot prevents further visual analysis, but the URL and domain analysis strongly suggest potential risks associated with phishing and malicious activities.",
+  "verdict": 9
+}
+```

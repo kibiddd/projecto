@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website, asbmarketingsolutions.com, appears to be a legitimate marketing solutions provider with a common TLD and a professional design. However, the domain was registered less than 6 months ago, which is a potential indicator of fraud. The contact information is provided, but the registrar is not mentioned, making it difficult to assess the legitimacy of the domain. The website does not appear to be directly requesting personal information or payment, and it does not seem to offer anything suspicious. The website also does not appear to be impersonating any other entity. Overall, the website seems legitimate, but the recent domain registration and lack of information about the registrar raise some concerns.",
+  "verdict": 4
+}
+```

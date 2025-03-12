@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'afterelton.com' contains a misspelling of 'afterelton.com'. This could be an attempt to deceive users into thinking it is a legitimate site.",
+  "TLD": "The TLD '.com' is common and considered safe. It is not high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "The URL does not contain any other suspicious factors.",
+  "verdict": 2
+}
+```

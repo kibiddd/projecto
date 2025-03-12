@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2003-06-24 and is set to expire on 2025-06-24, which is more than 6 months from the current date of 2025-03-07. Therefore, it is not recent nor expiring soon.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or suspicious.",
+  "answer3": "MarkMonitor Inc. is a reputable registrar known for hosting a variety of domains, including those of legitimate businesses. There is no indication that it hosts malicious sites or lacks verification.",
+  "answer4": "N/A",
+  "verdict": 1
+}
+```

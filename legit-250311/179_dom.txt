@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain registration is not recent; it was created on 2002-11-02 and is expiring in 2025-11-02. Therefore, it is not less than 6 months old nor expiring soon (less than a year).",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or suspicious.",
+  "answer3": "MarkMonitor Inc. is a reputable registrar known for hosting malicious sites or lacking verification. This could be a potential fraud indicator.",
+  "answer4": "The domain status includes several prohibitions such as clientDeleteProhibited, clientTransferProhibited, clientUpdateProhibited, serverDeleteProhibited, serverTransferProhibited, and serverUpdateProhibited. This could be a potential fraud indicator.",
+  "verdict": 7
+}
+```

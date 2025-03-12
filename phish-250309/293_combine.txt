@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a cryptocurrency trading platform, mimicking the legitimate Coinbase Pro website. The URL contains multiple hyphens and unusual characters, and the domain registration is not recent, with the domain created over six months ago and not expiring soon. The contact information for the registrant, admin, and tech contacts is redacted, and the domain is hosted by MarkMonitor Inc., a registrar known for hosting malicious sites. The domain status includes clientDeleteProhibited, clientTransferProhibited, and clientUpdateProhibited, and the domain is not using DNSSEC. The website uses a clean, modern design, but the URL suggests it might be a development or testing instance. The URL contains 'webflow.io', which is a web design platform, and the use of hyphens in the URL could be an attempt at obfuscation. These factors raise concern that the site might not be what it appears.",
+  "verdict": 7
+}
+```

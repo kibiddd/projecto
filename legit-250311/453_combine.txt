@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website radactphoto.com was analyzed for potential scam indicators. The URL analysis showed no deceptive domain patterns, but the domain was registered recently, which is a common indicator of fraud. The domain name does not match any known legitimate domain, further raising suspicion. The screenshot analysis revealed that the website appears to be a placeholder or under construction, with a blank page indicating a lack of content and design. This raises concerns about the legitimacy of the website. The website lacks transparency, and the absence of information is concerning. Overall, the website shows several potential scam indicators, including a recently registered domain, a suspicious domain name, and a blank website.",
+  "verdict": 8
+}
+```

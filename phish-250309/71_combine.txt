@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL contains a misspelling and an extra hyphen, which could be an attempt to mimic a legitimate Ledger website. The domain was registered over six months ago and is not expiring soon, which is not a strong indicator of fraud. However, the domain is hosted by MarkMonitor Inc., known for hosting malicious sites, and has prohibited client changes, which are unusual and could indicate fraud. The screenshot analysis reveals that the website appears to be a Ledger product landing page but uses 'Ledgar' instead of 'Ledger' in the URL, indicating an attempt to impersonate the legitimate website. The website does not ask for personal information or payment directly on this page, but it could lead to phishing pages. The website has a professional design and no obvious typos, but lacks transparency and contact information. The use of'sso' in the URL suggests it might be related to a single sign-on attempt, making it a potential phishing attack. Overall, the website is highly suspicious and likely a scam.",
+  "verdict": 9
+}
+```

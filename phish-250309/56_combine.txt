@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question, http://getprox.cc/go/3394z2/03a4.php/3394z2/03a4, appears to be a scam based on several indicators. The domain contains a misspelled version of a legitimate domain, uses a high-risk TLD, and has a complex URL structure with unusual characters. The domain is relatively new and hosted by a registrar known for malicious sites. WHOIS information is complete but the registrar lacks verification. The domain has restrictions on deletion and transfer, and DNSSEC is unsigned. A screenshot could not be analyzed due to an error loading the website. The potential risks include phishing attempts, malware distribution, and identity theft.",
+  "verdict": 9
+}
+```

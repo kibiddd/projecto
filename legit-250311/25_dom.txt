@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2000-10-25, which is far beyond the 6-month threshold. Therefore, it is not recent.",
+  "answer2": "The contact information for the registrant and administrative contacts is provided and does not appear to be redacted or suspicious.",
+  "answer3": "The registrar, Webnames.ca, is not known for hosting malicious sites, and there is no indication that it lacks verification. The registrar's WHOIS information is provided, which is a positive sign.",
+  "answer4": "There are no other suspicious registration factors provided in the WHOIS data.",
+  "verdict": 1
+}
+```

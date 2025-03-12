@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question, https://help-trezor--sso.webflow.io, appears to be a phishing attempt designed to impersonate the official Trezor website. The URL contains a deceptive subdomain and uses a common web design platform, which is unusual for a cryptocurrency site. The domain registration is not recent and is managed by a reputable registrar known for hosting malicious sites. The website's design and layout are professional and similar to the original Trezor website, but the URL and subdomain are highly suspicious. The website presents a login page for the Trezor Suite Web App and asks users to manage their assets, which could potentially be used to steal information and access user funds. The website attempts to impersonate the official Trezor website by using a similar design, branding, and service offerings, to create a false sense of legitimacy and trick users into believing they are on the real site. The suspicious URL is the main indicator of a fraudulent site. The hyphen-separated subdomain is not part of the legitimate domain structure of Trezor. The use of 'help' in the sub-domain sounds like a support page, making users less wary. Because Webflow is commonly used to create quick websites, the URL and site design make it likely this website has been designed for malicious activity.",
+  "verdict": 9
+}
+```

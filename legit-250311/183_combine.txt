@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website is IMDb, a well-established platform for movie and TV show information. The URL, domain, and screenshot analysis do not indicate any signs of a scam. The domain is registered by a reputable registrar, and the website has a clean design and high-quality images. The website provides contact information and is transparent about its operations. The website is not a phishing site, does not offer suspicious offers, and there are no impersonation attempts. The website is legitimate and safe to use.",
+  "verdict": 1
+}
+```

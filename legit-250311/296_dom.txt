@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2002-03-20, which is over 23 years ago. Therefore, it is not recent.",
+  "answer2": "The contact information is partially redacted, with only the domain name provided and no direct contact details for the registrant, admin, or tech contacts.",
+  "answer3": "MarkMonitor, Inc. is a reputable registrar, but the domain status indicates that client transfer, update, and delete are prohibited, which could be a red flag depending on the context. However, there is no direct evidence that MarkMonitor hosts malicious sites or lacks verification.",
+  "answer4": "The domain status indicates that client transfer, update, and delete are prohibited, which could be suspicious if the domain owner is trying to prevent changes to the domain information. Additionally, the domain is registered with a secondary DNS provided by Cloudflare, which is a legitimate service, but the DNSSEC is unsigned, which is not inherently suspicious.",
+  "verdict": 2
+}
+```

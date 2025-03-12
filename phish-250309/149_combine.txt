@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question appears to be a phishing attempt, impersonating a legitimate BT service. The URL contains misspellings and unusual characters, and the domain is recently registered and set to expire soon, which are common indicators of a scam. The screenshot analysis confirms that the website is requesting login credentials and is impersonating BT. The domain is hosted on a Weebly subdomain, which is unusual for a large company like BT, and the design is basic. The domain status indicates that clientDelete, clientTransfer, and clientUpdate are prohibited, and the DNSSEC is unsigned, which are security concerns. The contact information provided by the registrar appears to be complete and not suspicious, but further investigation into the registrar's reputation would be necessary. The website is highly likely to be a scam.",
+  "verdict": 9
+}
+```

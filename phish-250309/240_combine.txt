@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question appears to be a phishing attempt, impersonating the official Trezor website. The URL contains a deceptive domain with double hyphens and a hyphenated subdomain, which is not typical for standard URLs. The domain registration is not recent, and the contact information is redacted. The website is hosted by a registrar known for hosting malicious sites, and the use of a webflow.io subdomain for the official Trezor website is unusual and a significant red flag. The website uses a professional design and does not directly request personal information or payments, but it still appears to impersonate the real Trezor website. The potential risks include phishing attempts, identity theft, and financial loss.",
+  "verdict": 8
+}
+```

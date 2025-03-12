@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL 'https://ledger-live-webapp.pages.dev' appears to be a development or testing environment, as indicated by the '.dev' TLD and the absence of suspicious URL factors. The domain 'ledger-live-webapp' is descriptive and does not contain deceptive elements. However, the domain is registered for a long duration (more than 6 months), and the contact information is redacted, which could be a potential red flag. Additionally, the domain status includes unusual restrictions such as clientDeleteProhibited, clientTransferProhibited, and clientUpdateProhibited, which could indicate third-party management or restrictions. The screenshot could not be analyzed due to an error. The website does not appear to be a scam, but the potential risks and unusual domain status warrant caution.",
+  "verdict": 3
+}
+```

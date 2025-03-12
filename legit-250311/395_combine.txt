@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL provided is https://www.muhc.ca/mch/dashboard. The URL analysis indicates no deceptive domain, common TLD, or suspicious patterns. The domain was registered over 6 years ago and is not expiring soon, with legitimate contact information and registrar. The screenshot analysis shows an error message, suggesting a technical issue rather than a scam. The domain name suggests it is likely a legitimate Canadian healthcare-related organization (McGill University Health Centre).",
+  "verdict": 1
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "No misspellings, character substitutions, or deceptive subdomains detected.",
+  "TLD": "The TLD.net is a common and trusted domain extension, not high-risk.",
+  "Patterns": "The URL contains a hyphen and a double hyphen, which are not unusual, but the presence of double hyphens could be a red flag for some users.",
+  "Other": "The URL appears to be a legitimate link to a law firm's website, with no other suspicious factors detected.",
+  "verdict": 2
+}
+```

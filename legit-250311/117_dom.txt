@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2007-04-07 and the registration is expiring on 2025-04-07, which is more than 6 months old and not expiring soon. Therefore, this factor does not indicate fraud.",
+  "answer2": "The contact information provided (Registrar Abuse Contact Email and Phone) is not redacted or partial, and it appears to be legitimate. Therefore, this factor does not indicate fraud.",
+  "answer3": "The registrar, Key-Systems GmbH, is known for hosting malicious sites and lacking verification. This is a significant indicator of potential fraud.",
+  "answer4": "The domain status is 'clientTransferProhibited', which could be a red flag, but it is not necessarily indicative of fraud. The domain is also using multiple name servers from NGCOMMUNICATIONS.COM, which could be a sign of a compromised domain. The DNSSEC is unsigned, which is a security concern but not necessarily indicative of fraud. The last update of the whois database is recent, which is good for transparency but does not indicate fraud.",
+  "verdict": 7
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'datagivers.com' appears to be a legitimate-looking domain with a common TLD and a reputable registrar. However, the domain was registered only a little over a year ago, which could be a potential red flag for a scam. The domain status indicates that client transfers are prohibited, which is a common practice to prevent unauthorized transfers. The DNSSEC is unsigned, which could be a security concern. The website screenshot could not be analyzed due to an error loading the website screenshot.",
+  "verdict": 6
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 1999-04-21 and is set to expire on 2025-04-21, which is less than a year from the current date of 2025-03-07. This indicates that the domain is expiring soon, which can be a potential fraud indicator as it may be a short-term registration often used for malicious purposes.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or suspicious. The contact information for the registrar is also provided, which is a good sign.",
+  "answer3": "GoDaddy.com, LLC is a well-known and reputable registrar. There is no indication that GoDaddy hosts malicious sites or lacks verification. Therefore, this factor does not indicate potential fraud.",
+  "answer4": "The domain status indicates that clientDeleteProhibited, clientRenewProhibited, clientTransferProhibited, and clientUpdateProhibited. This means that the domain owner has restricted the ability to modify the domain's registration details, which can be a red flag for potential fraud. Additionally, the DNSSEC is unsigned, which is not necessarily a fraud indicator but could be a security concern.",
+  "verdict": 7
+}
+```

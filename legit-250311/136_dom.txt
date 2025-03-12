@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2001-01-13, which is over 23 years ago, so it is not recent or expiring soon. This factor does not indicate fraud.",
+  "answer2": "The registrant, admin, and tech contact information is redacted for privacy, which is common for large organizations like the Wikimedia Foundation. This factor alone does not indicate fraud.",
+  "answer3": "MarkMonitor Inc. is a reputable registrar known for hosting a variety of domains, including those of large organizations. There is no indication that this registrar hosts malicious sites or lacks verification. This factor does not indicate fraud.",
+  "answer4": "The domain status includes clientDeleteProhibited, clientTransferProhibited, and clientUpdateProhibited, which are common for domains managed by large organizations to prevent unauthorized changes. This factor does not indicate fraud.",
+  "verdict": 1
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a legitimate music archive, with no immediate signs of phishing, suspicious offers, or impersonation. The domain is not expiring soon, and the registrar is known for hosting malicious sites, which is somewhat concerning. The website's contact information is not readily apparent, but it does not seem to be trying to hide its identity. The website has a basic but functional design, and there are no obvious typos. Overall, the website seems to be a legitimate music archive, but there are some potential risks associated with the registrar and the lack of transparency in contact information.",
+  "verdict": 3
+}
+```

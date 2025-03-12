@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question, metasupport-potarl-checkpoint1531716410482018.abaytravel.com, appears to be a scam. The URL contains misspellings and unusual characters, the domain is registered by a company not known for hosting malicious sites, and the domain is not expiring soon. However, the website mimics the style of Meta/Facebook's Privacy Center and uses a domain that is highly suspicious and not affiliated with Meta. The website also uses common phishing tactics, such as creating a sense of urgency and asking for no personal information or payment. The website is impersonating Meta/Facebook and is highly likely to be fraudulent.",
+  "verdict": 9
+}
+```

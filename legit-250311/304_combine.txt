@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL, domain registration, and screenshot analysis indicate that the website is likely legitimate. The URL does not contain deceptive elements, the domain is well-known and has a reputable registrar, and the screenshot shows a simple message indicating a service outage. There are no signs of phishing, suspicious offers, or impersonation. The website appears to be a legitimate news website, and there are no immediate risks associated with visiting it.",
+  "verdict": 1
+}
+```

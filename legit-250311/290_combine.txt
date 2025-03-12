@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website is a legitimate music streaming service, Last.fm, with a domain that has been registered for over 23 years. The domain is hosted by reputable nameservers, although the DNSSEC is unsigned. The website design is clean and professional, and it does not appear to be a phishing site. However, the domain's registration date is old, and the contact information is partially redacted, which could be a concern. The overall risk is low, but the outdated domain registration date and lack of direct contact details could be potential red flags.",
+  "verdict": 2
+}
+```

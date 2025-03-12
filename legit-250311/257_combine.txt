@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website'mahalo.com' appears to be a historical reference site with no immediate signs of phishing, suspicious offers, or impersonation. The domain is registered by a reputable registrar, and the WHOIS information is complete. The website displays a basic, almost blank page with content related to the year 1973. Despite the minimal content and slight suspicion due to the lack of clear purpose, the historical context and lack of malicious indicators make it less likely to be a scam. However, the domain's age and the prohibition of client actions such as deletion, renewal, transfer, and update could be potential risks.",
+  "verdict": 2
+}
+```

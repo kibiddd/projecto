@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain'silentday.org' does not contain misspellings, character substitutions, or deceptive subdomains. It appears to be a legitimate domain name.",
+  "TLD": "The TLD '.org' is a common and trusted TLD, typically used by non-profit organizations. It is not considered high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It follows a standard URL structure.",
+  "Other": "The URL contains a '.org' TLD, which is commonly used by non-profit organizations. There are no other suspicious factors present.",
+  "verdict": 1
+}
+```

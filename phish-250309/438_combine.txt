@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website v50card.ru offers a free $50 gift card, which is a common scam tactic. The domain was registered recently and is expiring soon, which is a potential red flag. The registrar is not widely recognized, and the website is hosted on a suspicious domain. The website also impersonates Steam, which is a significant indicator of a scam. The website lacks transparency and does not provide direct contact information. The website's design appears legitimate, but the suspicious domain and phishing tactics raise concerns. The website is likely a scam.",
+  "verdict": 9
+}
+```

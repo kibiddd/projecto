@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2003-08-22 and the registration information was last updated on 2022-09-01. This means the domain has been registered for over 22 years, which is far beyond the 6-month and 1-year thresholds for recent or expiring soon registrations. Therefore, this factor does not indicate potential fraud.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or suspicious. The registrar and contact information are clearly listed, and there are no indications of partial or suspicious contact details.",
+  "answer3": "GoDaddy.com, LLC is a well-known and reputable registrar. There is no indication that GoDaddy hosts malicious sites or lacks verification. Therefore, this factor does not indicate potential fraud.",
+  "answer4": "There are no other suspicious registration factors mentioned in the provided information. The domain has been registered for a long time, and the registrar is reputable. Therefore, this factor is N/A.",
+  "verdict": 1
+}
+```

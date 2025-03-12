@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a legitimate link to a survey from a radio station website. The domain was registered on 2002-12-23 and is expiring on 2025-12-23, which is more than 6 years from now. The registrant, admin, and tech contact information is redacted for privacy, which is common practice but can also be a red flag if combined with other suspicious factors. Porkbun LLC is a well-known registrar, but the domain status indicates that client deletion and transfer are prohibited, which could be a red flag depending on the context. The website doesn't appear to be requesting any personal information or payment, and it doesn't offer any products or services, and doesn't make any claims that seem suspicious. The website seems to be well-designed with a clear layout and no obvious typos. The website provides general contact information and is not impersonating a legitimate website or organization. The page is showing a 404 error, which suggests a possible issue with the site or the requested content, but this alone doesn't indicate fraud.",
+  "verdict": 1
+}
+```

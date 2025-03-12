@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website, sportcontact.org, appears to be a legitimate travel agency offering sports travel services. The URL does not contain any deceptive elements, and the domain is registered with a Spanish company and a registrar that is not widely known for hosting malicious sites. The website has a clean and professional design, provides clear contact information, and does not directly request sensitive personal information or payments. However, the registrant, admin, and tech contact information is redacted for privacy, which could be a potential red flag. The domain was registered over 18 years ago, which is not recent. Overall, there are no obvious signs of a scam, but the redacted contact information could be a concern.",
+  "verdict": 2
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 1995-02-21, which is over 30 years ago, so it is not recent. The expiration date is 2026-02-19, which is more than a year away. Therefore, it is not expiring soon.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or suspicious.",
+  "answer3": "GoDaddy.com, LLC is a well-known and reputable registrar. There is no indication that it hosts malicious sites or lacks verification.",
+  "answer4": "The domain status indicates that client actions such as deletion, renewal, transfer, and update are prohibited. This could be a red flag, but it is not necessarily indicative of fraud. The DNSSEC is unsigned, which is not uncommon for many domains.",
+  "verdict": 1
+}
+```

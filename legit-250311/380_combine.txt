@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website https://www.boustany.house.gov/ is the official website for a member of the House of Representatives, John Bostany. The URL analysis indicates that it is a legitimate government website with a trusted TLD (.gov). The domain registration details are not provided, but the website appears to be professionally designed and maintained, with clear contact information and no signs of phishing, suspicious offers, or impersonation. The message 'Stream was cancelled' could be a technical issue rather than fraud. Overall, there are no suspicious factors detected in the URL, domain registration, or screenshot analysis.",
+  "verdict": 1
+}
+```

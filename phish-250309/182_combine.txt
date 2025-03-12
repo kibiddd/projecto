@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'cn.150manx.com' has a deceptive domain with a misspelled'manx' and a potentially malicious registrar, 1API GmbH, known for hosting malicious sites. The domain is expiring soon, and it has a 'clientTransferProhibited' status with an unsigned DNSSEC. The website screenshot could not be analyzed due to an error loading the screenshot.",
+  "verdict": 9
+}
+```

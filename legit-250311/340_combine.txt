@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website artistdirect.com/artist/april-wine/398109 appears to be a legitimate artist profile page on a music website. The URL, domain registration, and screenshot analysis do not indicate any signs of a scam. The domain is not recent, but it is not expiring soon, and the WHOIS information is complete and provided by a reputable registrar. The website does not appear to be requesting personal information or payment, and there are no suspicious offers or impersonation. The website seems transparent in its purpose and content, and it is about music artists, so it doesn't have the same requirements for contact info as other types of sites.",
+  "verdict": 1
+}
+```

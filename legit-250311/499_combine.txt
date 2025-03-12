@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website MetroLyrics.com is a well-established lyrics website that provides lyrics for various songs, including 'Walker, Texas Ranger' by Chuck Norris. The URL, domain, and screenshot analysis do not indicate any signs of a scam. The domain is registered by a reputable registrar, GoDaddy, and the WHOIS information is complete and not redacted. The website does not appear to be requesting personal information or payment, and it is not offering anything suspicious. The website is well-designed and transparent, with no signs of phishing, impersonation, or other malicious activities. The website is likely legitimate and not a scam.",
+  "verdict": 1
+}
+```

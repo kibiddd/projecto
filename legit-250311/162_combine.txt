@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website sportsmemorabilia.com appears to be a legitimate sports memorabilia site, selling autographed hockey jerseys. The URL and domain analysis do not indicate any immediate signs of fraud, and the domain has been registered for a long time. The WHOIS information is complete and the registrar is reputable. The screenshot analysis shows a professional design and transparency, with no obvious signs of phishing or impersonation. However, the website is offering a discount, which is a common marketing tactic. The website asks for payment information, which is expected for an online store. Overall, the website seems legitimate, but users should be cautious when providing payment information online.",
+  "verdict": 2
+}
+```

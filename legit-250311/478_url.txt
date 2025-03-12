@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "No misspellings, character substitutions, or deceptive subdomains detected.",
+  "TLD": "The TLD (.com) is common and not high-risk.",
+  "Patterns": "The URL is within a reasonable length and does not contain random strings or unusual characters.",
+  "Other": "The URL appears to be a legitimate page from a well-known website (baseball.wikia.com).",
+  "verdict": 1
+}
+```

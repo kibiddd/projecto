@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'yummy-rhinestone-button.glitch.me/hover.html' appears to be a temporary or testing website created using the 'glitch.me' service. The domain 'glitch.me' is known for creating temporary websites, which can be used for deceptive purposes. The domain was registered over 17 years ago and is expiring soon, with redacted registrant and contact information, and unusual domain status flags. The website requests a 12-word recovery phrase, which is highly sensitive personal information, and attempts to impersonate Coinbase. The URL itself raises a red flag due to its association with temporary websites. The website could potentially be a phishing attempt.",
+  "verdict": 9
+}
+```

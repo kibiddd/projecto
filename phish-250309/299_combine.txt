@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question appears to be a crypto exchange platform, but there are several red flags that suggest it may not be legitimate. The URL contains a misspelling of 'webflow.io', which could be an attempt to deceive users. The domain was registered over six months ago and is not expiring soon, which is not inherently suspicious but could be a concern if combined with other factors. The contact information is redacted, which is common but can be a red flag when combined with other suspicious factors. The registrar is reputable, but the domain status includes restrictions that are not inherently suspicious. The screenshot analysis indicates that the website could be a phishing attempt, as it requires personal information and payment, and the URL looks suspicious. The website does not provide clear and trustworthy contact information, and it could be impersonating NDAX. Overall, the website seems to have a good design, but the suspicious URL and lack of transparency are concerning.",
+  "verdict": 8
+}
+```

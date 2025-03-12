@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'art.net.au' is a registration page for a domain that was recently registered and is associated with a company that could potentially be a shell company. The domain registrar is known for hosting malicious sites, and the domain is not eligible for renewal, which could be an attempt to avoid detection. The URL extension '.asp' is not inherently suspicious, but without content, it's impossible to determine if it's a phishing attempt or asking for personal information. The lack of complete contact information and the recent registration date are potential indicators of fraud. The website's legitimacy cannot be fully assessed without content, but the factors mentioned suggest a higher risk of it being a scam.",
+  "verdict": 7
+}
+```

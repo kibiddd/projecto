@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2003-03-16, which is over 22 years ago, so it is not recent.",
+  "answer2": "The registrant, admin, and tech contact information is redacted for privacy, which is common for non-profit organizations like the Wikimedia Foundation but can also be a red flag for fraud.",
+  "answer3": "MarkMonitor Inc. is a reputable registrar known for hosting a variety of domains, including those of non-profit organizations. There is no indication that it hosts malicious sites or lacks verification.",
+  "answer4": "The domain status includes clientDeleteProhibited, clientTransferProhibited, and clientUpdateProhibited, which are common for domains managed by organizations like the Wikimedia Foundation to prevent unauthorized changes. There are no other suspicious registration factors provided.",
+  "verdict": 1
+}
+```

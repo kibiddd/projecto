@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL contains a deceptive domain with a double hyphen, the domain registration is not recent and has unusual status flags, and the screenshot analysis suggests potential phishing and impersonation. The website appears clean but could be an imposter using BlockFi branding. The combination of these factors indicates a moderate risk of being a scam website.",
+  "verdict": 7
+}
+```

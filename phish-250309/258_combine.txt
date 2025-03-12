@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website jjfgfy.weebly.com appears to be a phishing attempt, impersonating the AT&T sign-in page. The domain contains misspellings and character substitutions, and the website is hosted on a free website builder, which is often used for fraudulent activities. The domain is not recent nor expiring soon, and the registrar is legitimate. However, the website does not provide contact information, and the use of a Weebly domain raises concerns about its legitimacy and transparency. The website is requesting a User ID and Password, which is a standard sign-in procedure for email accounts, but the suspicious domain indicates this might be a phishing attempt to steal user credentials. The website is attempting to impersonate the AT&T sign-in page, and the format seems legitimate at a first glance but it's hosted on a weebly.com domain. The domain status indicates that clientDelete, clientTransfer, and clientUpdate are prohibited, which is unusual and could be a red flag. The DNSSEC is unsigned, which is not a common practice for domains that are actively used and maintained. The website does not provide contact information, and the use of a Weebly domain raises concerns about its legitimacy and transparency.",
+  "verdict": 9
+}
+```

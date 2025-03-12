@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The URL, domain registration, and screenshot analysis suggest that the website is a legitimate hotel booking site. The URL is from a well-known domain, the domain registration is recent but not necessarily indicative of fraud, and the screenshot shows a professional design with no obvious signs of phishing or impersonation. However, the domain registrar is known for hosting malicious sites, which is a significant red flag. The domain also has several prohibited status flags, which could be used by fraudulent actors to maintain control over the domain. Despite these concerns, the website appears to be legitimate based on the provided information.",
+  "verdict": 3
+}
+```

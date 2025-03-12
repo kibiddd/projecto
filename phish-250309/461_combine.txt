@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL provided appears to be a misspelling of a legitimate domain, potentially aiming to deceive users. The domain was registered recently, and the contact information is redacted, which are common indicators of fraudulent activity. The WHOIS data suggests the domain may be registered by a potentially front company. However, without a screenshot, it is not possible to visually assess the website's content or design for further signs of a scam.",
+  "verdict": 8
+}
+```

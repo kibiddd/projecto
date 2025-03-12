@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The URL contains a deceptive subdomain'maxime.bernier.beauce' which is a misspelling of'maxime.bernier.beau' (the correct spelling of the name). This is a common tactic used by fraudsters to create a domain that appears similar to a legitimate one.",
+  "TLD": "The TLD '.beauce' is uncommon and not typically associated with Facebook, which uses '.com'. This could be an attempt to deceive users into thinking the URL is legitimate.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a straightforward URL with a deceptive subdomain.",
+  "Other": "The URL is attempting to mimic a legitimate Facebook URL by using a deceptive subdomain. This is a common tactic used by fraudsters to trick users into clicking on malicious links.",
+  "verdict": 7
+}
+```

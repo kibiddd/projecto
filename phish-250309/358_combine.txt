@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question appears to be a phishing attempt, masquerading as a legitimate BlockFi site. The URL contains a misspelled domain, and the domain registration is not recent. The website asks users to log in for wallet withdrawals, which is a common phishing tactic. The website lacks transparency, as it does not display any contact information, and the URL is unusual with a double hyphen. The website's design appears clean and professional, but this alone isn't a guarantee of legitimacy. The website's content aims to appear legitimate by addressing 'wallet withdrawals' and linking the content with BlockFi, which can create a false sense of legitimacy. The website's URL and the absence of more information are unusual and may indicate fraudulent intent. The website's domain registration is not recent, and the contact information for the registrant, admin, and tech contacts is redacted for privacy. MarkMonitor Inc. is a reputable registrar known for hosting a variety of domains, including those of well-known companies. The domain status includes clientDeleteProhibited, clientTransferProhibited, and clientUpdateProhibited, which are common restrictions placed by registrars to prevent unauthorized changes to domain settings. These restrictions are not inherently suspicious and do not indicate fraud.",
+  "verdict": 8
+}
+```

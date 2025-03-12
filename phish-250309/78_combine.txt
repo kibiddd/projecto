@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website http://page-docs-trezr.webflow.io appears to be a scam website. The domain contains a misspelling of 'trezor', which is a legitimate cryptocurrency wallet, and the domain registration is not recent. The website displays a 'Limited time offer! Get 30% off' promotion, which could potentially lead to phishing attempts. The website uses the Trezor brand and logo, but the Webflow.io domain raises concerns. The website does not request personal information or payment, but the promotional offer could entice users into providing information. The website appears to have a professional design with high-quality images and no obvious typos, but given the Webflow.io domain, it may be an unofficial or temporary site. The website lacks transparency, such as contact information or terms of service. The use of a Webflow.io domain is suspicious, as it may indicate a temporary or unofficial site. The URL does not match the official Trezor website (trezor.io).",
+  "verdict": 7
+}
+```

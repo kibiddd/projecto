@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "No misspellings or character substitutions detected.",
+  "TLD": "The TLD.com is common and not considered high-risk.",
+  "Patterns": "The URL is of normal length and does not contain random strings or unusual characters.",
+  "Other": "The domain name'spokeo.com' is a legitimate and well-known service, and the URL structure is typical for a reputable website.",
+  "verdict": 1
+}
+```

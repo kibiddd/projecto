@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'hj88.loans' has a suspicious domain name and a TLD that is not standard for financial services. The domain was recently created and is expiring soon, which is a common practice for fraudulent domains. The registrant and contact information is redacted, making it difficult to verify the legitimacy of the domain owner. The domain status indicates that it is inactive, which could suggest abandonment or fraudulent intent. However, the inability to load a screenshot of the website prevents further analysis of the website's content and design, which could provide additional insights into its legitimacy.",
+  "verdict": 7
+}
+```

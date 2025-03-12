@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL appears to be a misspelling of a legitimate domain, with a very recent registration and unusual domain status settings. The lack of a screenshot prevents further analysis of the website's content. The presence of a token in the URL could be legitimate, but the recent registration and domain status settings raise concerns. The website could potentially be a scam, but without further evidence, the risk cannot be fully assessed.",
+  "verdict": 5
+}
+```

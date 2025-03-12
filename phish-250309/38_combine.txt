@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'dbanks.vercel.app' appears to be a simple messenger platform hosted on Vercel, a legitimate cloud platform. The domain 'dbanks.vercel.app' is not deceptive, and the TLD '.app' is common and not high-risk. However, the domain was registered over six months ago, and the registrant information is redacted. The domain status indicates client transfer and update are prohibited, and the domain is unsigned for DNSSEC, which could be a security concern. The website asks to 'Log in via web3 wallet', which could be a phishing attempt, and the website's name is similar to the legitimate DeBank platform, which could be intended to deceive users. The website lacks clear contact information, which raises a red flag. The website may be malicious because it is using a fake domain.",
+  "verdict": 7
+}
+```

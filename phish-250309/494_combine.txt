@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'wap.pieice.com' appears to be a scam website based on the analysis of the URL, domain registration, and screenshot. The URL contains a misspelling of 'web.pieice.com', which is a common tactic used by fraudsters. The domain was created recently and is expiring soon, which could indicate a temporary scam site. The website promotes gambling platforms and offers too-good-to-be-true incentives, such as '6666' upon registration and'repeated deposits'. The website lacks transparency, clear contact information, terms of service, and privacy policy. It also features logos related to the EURO 2024 and Bet365, suggesting potential impersonation of official platforms. The website's layout is not of very low quality, but it might not be as professionally designed as official gambling platforms. The website's promotion of multiple gambling platforms adds complexity and potential risk. The website's lack of DNSSEC and the prohibition of client transfers are also red flags. The website's potential risks include phishing attempts, financial loss, and exposure to unregulated gambling platforms.",
+  "verdict": 8
+}
+```

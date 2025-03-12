@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a legitimate genealogy website, part of Rootsweb, with a domain that is not recent but not inherently suspicious. The domain registration is old but not indicative of fraud, and the website's outdated design is more likely due to age rather than malicious intent. No phishing, suspicious offers, or impersonation were detected. The domain has some security measures in place, which are not uncommon for legitimate sites. The overall risk seems low, but the outdated nature of the site could potentially pose some risks if it lacks current security measures.",
+  "verdict": 2
+}
+```

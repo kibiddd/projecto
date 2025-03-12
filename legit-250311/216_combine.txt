@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website nycmarathon.org appears to be a legitimate organization related to marathons, with a common TLD (.org) and a professional design. The domain was registered over 29 years ago, and the registrant contact information is redacted for privacy, which is common practice. Cloudflare, Inc. is a reputable registrar, and the domain has standard protections against unauthorized changes. The website has contact information in the footer, indicating transparency. No phishing, suspicious offers, or impersonation were detected in the screenshot analysis. The website does not show any obvious signs of being a scam.",
+  "verdict": 1
+}
+```

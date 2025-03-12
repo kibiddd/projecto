@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL provided, https://www.veromi.com/Stacy-Schwartz.aspx, appears to be a legitimate link to a website with a common and safe TLD.com. The domain registration is not recent, having been created over 19 years ago, and the WHOIS information is complete and provided by a reputable registrar, GoDaddy.com, LLC. The screenshot analysis shows a standard Cloudflare error page without any phishing, suspicious offers, or impersonation. The error indicates a server connection issue, and there is no immediate evidence of a scam. However, the lack of recent domain registration and the potential for the original website to have transparency issues warrant caution.",
+  "verdict": 1
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website, Calgary Broadcasters, appears to be a legitimate broadcaster with a common TLD and a domain that is expiring soon. The WHOIS information is complete and the registrar is not known for hosting malicious sites. The website does not request personal information or payment and has a basic but functional design. However, the domain is expiring soon, which could be a potential fraud indicator. The website provides some basic information but lacks detailed contact information. The verdict is based on the analysis of the URL, domain registration, and a screenshot of the website.",
+  "verdict": 3
+}
+```

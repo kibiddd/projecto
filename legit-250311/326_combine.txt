@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website is Wikipedia, a reputable source with a well-designed format. No typos were observed in the context provided. The domain registration is not recent, but it is associated with the Wikimedia Foundation, Inc., a well-known and reputable organization. The WHOIS information does not indicate any suspicious factors, and the website provides clear and trustworthy information about the topic.",
+  "verdict": 1
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'rhall.blogspot.com' contains a misspelling of 'hall', which could be an attempt to deceive users into thinking it's a legitimate domain.",
+  "TLD": "The TLD '.com' is common and not considered high-risk, so this factor does not indicate fraud.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters, so this factor does not indicate fraud.",
+  "Other": "The URL contains a '.blogspot.com' subdomain, which is a legitimate blogging platform, so this factor does not indicate fraud.",
+  "verdict": 2
+}
+```

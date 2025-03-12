@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website shaikawez59.github.io/Netflix-Clone appears to be a personal or demonstration website rather than an official Netflix domain. The URL contains a misspelled subdomain 'github.io' instead of the correct 'github.com', which could be an attempt to deceive users. The domain was registered over six months ago and is set to expire more than a year from now, with no immediate red flags from the registrant or tech contact information. However, the website attempts to impersonate Netflix, which is a key indicator of potential fraud. The blurry Netflix logo and the request for an email address are additional red flags. The offer of 'unlimited movies, TV shows and more' is a standard marketing claim and not inherently suspicious. The website's design may have minor imperfections, but these are not significant enough to be a major concern. Overall, the website poses a risk of phishing and impersonation.",
+  "verdict": 8
+}
+```

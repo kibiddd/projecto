@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question appears to be a scam, impersonating a legitimate gaming platform, Steam, and offering a suspicious gift card promotion. The URL contains a deceptive domain and an unusual ending, which could be an attempt to trick users. The website's design is professional, but the message about the account size limit and the phishing attempt to sign in raise concerns. The domain is registered with a reputable registrar, but the overall presentation and the phishing attempt make it highly suspicious.",
+  "verdict": 9
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a phishing attempt, mimicking a legitimate service by using a misspelled version of 'onedrive.service-office365.com' and a personal domain. The domain is not recent, and the contact information provided by the registrar is legitimate. The website asks for an email address, which could lead to further phishing attempts. The URL contains random strings and unusual characters, which could be an attempt to obfuscate the true destination of the link. The website's format looks professional, but the transparency and impersonation aspects raise concerns. The combination of these factors suggests potential risks associated with the website.",
+  "verdict": 8
+}
+```

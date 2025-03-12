@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'faqspatents' is a misspelling of 'fapatsents', which is a deceptive domain as it is intended to mislead users into thinking it is a legitimate site.",
+  "TLD": "The TLD '.org' is commonly used by non-profit organizations and is not considered high-risk. However, the content of the site should be verified for legitimacy.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It follows a standard URL structure.",
+  "Other": "The URL leads to a page that provides information about patents, which is a legitimate topic. However, the deceptive domain name is a red flag.",
+  "verdict": 7
+}
+```

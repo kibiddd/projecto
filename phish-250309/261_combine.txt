@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website joaovictorsanchesandrade.github.io/instagram appears to be a GitHub repository hosting a project related to Instagram. The URL analysis indicates that the domain is not deceptive and is associated with a legitimate GitHub repository. However, the domain registration details suggest that the domain is not recent and is set to expire in the future. The screenshot analysis reveals that the website is requesting login credentials, which is a characteristic of phishing, and the website's format and design are similar to the official Instagram login page, which can be deceptive. The website is impersonating the Instagram login page, which poses a potential risk to users.",
+  "verdict": 8
+}
+```

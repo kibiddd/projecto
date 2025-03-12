@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website servinghistory.com appears to be a legitimate domain with a clean design and no obvious phishing or scam indicators. The domain was registered in 2008 and is not expiring soon, which is not a typical characteristic of scam websites. The registrar is known and not associated with malicious activities. The website's primary message is the sale of the domain, which is a common and non-suspicious activity. However, the domain's client-prohibited status could be a potential red flag, although it is not uncommon for legitimate domains to have such restrictions. Overall, there are no immediate signs of a scam, but the prolonged registration period and client-prohibited status warrant a cautious approach.",
+  "verdict": 2
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain VISITRI.COM was created on 1996-08-26 and has an expiration date of 2025-08-25. This means the domain is not recent (less than 6 months) and is not expiring soon (less than a year).",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or partial. The contact information for the registrar is also provided.",
+  "answer3": "Network Solutions, LLC is a well-known registrar, but it has been associated with hosting malicious sites in the past. However, it is also a legitimate registrar and not exclusively known for hosting malicious sites.",
+  "answer4": "The domain status indicates that client transfers are prohibited, which is a common restriction for domains managed by Network Solutions. The DNSSEC is unsigned, which is not necessarily a red flag, but it is not recommended to have DNSSEC enabled for security reasons. The registrar's abuse contact email and phone number are provided, which is a positive sign.",
+  "verdict": 3
+}
+```

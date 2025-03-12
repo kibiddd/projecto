@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'ca.finance.yahoo.com' contains a misspelling of 'com' which could be an attempt to deceive users into thinking it is a legitimate domain.",
+  "TLD": "The TLD '.com' is a common and trusted TLD, so it does not indicate a high risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters, so it does not show suspicious patterns.",
+  "Other": "The URL redirects to a Yahoo Finance page, which is a legitimate service, so there are no other suspicious factors.",
+  "verdict": 1
+}
+```

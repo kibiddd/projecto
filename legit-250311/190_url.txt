@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a deceptive subdomain 'francois.paquette2' which is a misspelling of 'francois.paquette', potentially indicating an attempt to deceive or mislead.",
+  "TLD": "The TLD '.com' is common and not considered high-risk, so this factor does not indicate fraud.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters, so this factor does not indicate fraud.",
+  "Other": "The URL appears to be a legitimate Facebook URL, but the deceptive subdomain is a red flag.",
+  "verdict": 3
+}
+```

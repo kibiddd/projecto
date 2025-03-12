@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question is a profile for the artist 'Frank Marino and Mahogany Rush' on ReverbNation, a legitimate platform for musicians. The URL does not contain any deceptive elements, and the domain was created in 2006 and is set to expire in 2025, which is less than a year from the current date. The WHOIS information is complete and provided by a reputable registrar, GoDaddy. The website has a simple design and appears to be the official page for the artist. However, the domain status indicates that client actions such as delete, renew, transfer, and update are prohibited, which could be a red flag. The screenshot analysis does not indicate any phishing, suspicious offers, or impersonation. The potential risks are low, but the domain expiration date could be a concern.",
+  "verdict": 3
+}
+```

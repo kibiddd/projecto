@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a legitimate law firm specializing in Canadian law, with a domain that is not expiring soon and a common TLD. However, the registrar is associated with hosting malicious sites, and the domain has prohibitions on certain changes, which are unusual. The screenshot analysis reveals a blank page, which is a significant red flag for a legitimate website. Contact information is not visible due to the lack of content, making it impossible to verify the legitimacy of the contact details provided. The website does not appear to be directly requesting personal information or payments, but the lack of content and the suspicious registrar are concerning. The website's potential risks include being a front for a scam or a phishing attempt, as it could be designed to look legitimate while collecting personal information from unsuspecting visitors.",
+  "verdict": 7
+}
+```

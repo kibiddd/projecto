@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website'meta.recoverpagecase.eu' appears to be a scam due to the misspelling of a legitimate domain name, recent domain registration, redacted contact information, and lack of disclosed WHOIS information. The inability to load a screenshot of the website further raises concerns about its legitimacy. The potential risks include phishing attempts, identity theft, and financial loss. The final verdict is 8 out of 10, indicating a high likelihood of the website being a scam.",
+  "verdict": 8
+}
+```

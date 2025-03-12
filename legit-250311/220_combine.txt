@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website, https://www.wn.com/Swimming_at_the_2004_Summer_Olympics, appears to be a legitimate video platform hosting content related to the 2004 Summer Olympics. The URL analysis indicates no deceptive domain or unusual patterns, and the domain registration details show a reputable registrar with no suspicious factors. The screenshot analysis confirms that the website does not appear to be a phishing site, does not offer suspicious content, and has a functional and transparent design. The website is a video platform that hosts news and events related to the Olympics.",
+  "verdict": 1
+}
+```

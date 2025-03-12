@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 1997-06-26 and is expiring on 2025-06-25, which is less than a year from the current date of 2025-03-07. This indicates that the domain is expiring soon, which can be a potential fraud indicator.",
+  "answer2": "The contact information provided by the registrar (abusecomplaints@markmonitor.com and +1.2086851750) is complete and does not appear to be redacted or suspicious.",
+  "answer3": "MarkMonitor Inc. is a reputable registrar known for hosting legitimate domains. There is no indication that this registrar is known for hosting malicious sites or lacking verification.",
+  "answer4": "The domain status includes clientDeleteProhibited, clientTransferProhibited, and clientUpdateProhibited, which are unusual for a legitimate domain. This could be a potential red flag.",
+  "verdict": 7
+}
+```

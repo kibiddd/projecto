@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL provided appears to be a misspelling of a legitimate domain, which is a common tactic used in phishing attempts. The domain was registered recently and is set to expire in less than a year, which could be a potential fraud indicator. The WHOIS information is complete and appears legitimate, and the registrar is a well-known and reputable one. However, the URL contains a query string that could be used to hide malicious intent. The screenshot analysis did not reveal any obvious signs of phishing, suspicious offers, or other red flags. Based on this analysis, the website could potentially be a scam, but there is not enough evidence to make a definitive conclusion.",
+  "verdict": 4
+}
+```

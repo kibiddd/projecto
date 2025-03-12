@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website, prosportsdaily.com/nhl/maple-leafs/, appears to be a legitimate sports news and betting site, focusing on NHL content. The URL, domain, and screenshot analysis do not indicate any immediate red flags. The domain is registered by Amazon Registrar, Inc., a reputable registrar, and the domain is not expiring soon. The website has a professional design and does not appear to be a phishing site. However, the prohibition of clientDelete, clientTransfer, and clientUpdate could be a minor concern. The website lists various promotions from sportsbooks, which is typical for this type of site. Overall, the website seems legitimate, but users should still exercise caution when engaging with betting sites.",
+  "verdict": 2
+}
+```

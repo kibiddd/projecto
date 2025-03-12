@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL, domain registration, and screenshot analysis do not indicate any signs of a scam. The URL appears legitimate, the domain is registered for a long time, and the registrar is reputable. The screenshot shows an error page, which could be due to temporary technical issues rather than malicious intent. The website seems to be a legitimate Canadian store with no immediate red flags.",
+  "verdict": 1
+}
+```

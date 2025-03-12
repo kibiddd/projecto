@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain UNIPRIX.COM was registered on 1996-08-08, which is far beyond the 6-month threshold. It is not recent and is not expiring soon (less than a year).",
+  "answer2": "The contact information provided by the registrar (abuse@cscglobal.com and 8887802723) is not redacted, partial, or suspicious. It appears to be complete and valid.",
+  "answer3": "The registrar CSC Corporate Domains, Inc. is not known for hosting malicious sites or lacking verification. It is a legitimate registrar with a valid WHOIS server and contact information.",
+  "answer4": "The domain status indicates that client transfers are prohibited, which is a common restriction for domains managed by certain registrars. The DNSSEC is unsigned, which is not necessarily a fraud indicator but could be a security concern. The registrar's WHOIS server is hosted by corporatedomains.com, which is a legitimate service provider.",
+  "verdict": 1
+}
+```

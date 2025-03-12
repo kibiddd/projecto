@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website is a LinkedIn profile for Dominic Seiterle, which is a legitimate and trustworthy platform. The URL, domain registration, and screenshot analysis do not indicate any signs of a scam. The domain is registered by a reputable registrar, and the LinkedIn profile appears to be genuine. There are no phishing attempts, suspicious offers, or impersonation detected. The website is transparent and provides a legitimate service.",
+  "verdict": 1
+}
+```

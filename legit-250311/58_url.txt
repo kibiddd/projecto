@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "No misspellings, character substitutions, or deceptive subdomains detected.",
+  "TLD": "The TLD.com is common and considered safe.",
+  "Patterns": "The URL follows a standard pattern with no excessive length, random strings, or unusual characters.",
+  "Other": "No other suspicious URL factors detected.",
+  "verdict": 1
+}
+```

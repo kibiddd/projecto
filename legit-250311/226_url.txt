@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'lein-lavoie.com' appears to be a misspelling of 'Leinway.com', which is a legitimate domain. No deceptive subdomains or character substitutions are present.",
+  "TLD": "The TLD '.com' is a common and low-risk TLD.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It follows a standard URL structure.",
+  "Other": "The URL appears to be a legitimate link to a specific page on a website. No other suspicious factors are present.",
+  "verdict": 1
+}
+```

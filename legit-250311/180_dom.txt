@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2006-07-17 and is expiring on 2025-07-17, which is more than 6 months old and not expiring soon. Therefore, this factor does not indicate fraud.",
+  "answer2": "The contact information provided (Registrar Abuse Contact Email and Phone) is not redacted or partial, and it appears to be legitimate. Therefore, this factor does not indicate fraud.",
+  "answer3": "The registrar, CSC Corporate Domains, Inc., is a legitimate registrar and is not known for hosting malicious sites or lacking verification. Therefore, this factor does not indicate fraud.",
+  "answer4": "The domain status indicates that client transfers are prohibited, which is a common restriction for domains managed by Google Domains. The DNSSEC is unsigned, which is not necessarily suspicious. The registrar and WHOIS information appear legitimate. Therefore, this factor does not indicate fraud.",
+  "verdict": 1
+}
+```

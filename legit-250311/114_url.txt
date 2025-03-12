@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "No misspellings, character substitutions, or deceptive subdomains detected.",
+  "TLD": "The TLD.com is common and not considered high-risk.",
+  "Patterns": "The URL contains a long query string with a mix of alphanumeric characters and symbols, which could be considered suspicious.",
+  "Other": "The URL appears to be a legitimate link to a directory on a well-known website, but the long query string could be a red flag.",
+  "verdict": 3
+}
+```

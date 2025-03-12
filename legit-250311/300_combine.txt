@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website is a Craigslist listing for a used car, which is a legitimate platform for classified ads. The domain is registered by MarkMonitor Inc., a reputable registrar, and is not recent nor expiring soon. The website itself is functional and follows a standard format for Craigslist listings. However, there is a small risk associated with the private exchange of information between buyers and sellers, which could potentially lead to fraudulent activities. It is important to verify the seller and the car before proceeding with any transaction.",
+  "verdict": 3
+}
+```

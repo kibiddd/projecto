@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'getprox.cc' is a potential scam due to the deceptive domain name, high-risk TLD, excessive URL length, and unusual characters. The domain was recently registered, and the registrar is known for hosting malicious sites. The domain status also indicates restrictions on transfer and deletion, which are common in fraudulent domains. However, a screenshot could not be analyzed due to an error loading the website screenshot.",
+  "verdict": 9
+}
+```

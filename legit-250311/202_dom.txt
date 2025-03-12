@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 1997-06-04 and the registration is expiring on 2025-06-03, which is less than a year from today (2025-03-07). This is a potential fraud indicator as it suggests the domain may be a short-term registration, possibly for malicious purposes.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or suspicious. The contact information for the registrar is also provided, which is a good sign.",
+  "answer3": "GoDaddy.com, LLC is a well-known and reputable registrar. There is no indication that they are known for hosting malicious sites or lacking verification.",
+  "answer4": "The domain status indicates that client actions such as deletion, renewal, transfer, and update are prohibited. This could be a red flag, as it may suggest that the domain is being managed by someone who wants to prevent changes to the domain's ownership or status.",
+  "verdict": 7
+}
+```

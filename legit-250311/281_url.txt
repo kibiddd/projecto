@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'rbr.com' appears to be a misspelling of 'brave.com', which is a legitimate domain. No deceptive subdomains or character substitutions are present.",
+  "TLD": "The TLD '.com' is a common and high-risk TLD, but it is not considered high-risk in the context of fraud indicators.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It follows a standard URL structure.",
+  "Other": "The URL appears to be a legitimate link to a radio programming language flip for KTRB-AM in San Francisco. No other suspicious URL factors are present.",
+  "verdict": 1
+}
+```

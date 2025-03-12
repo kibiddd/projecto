@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website http://477442.com appears to be a scam website based on the analysis of the URL, domain registration, and a screenshot of the website. The URL does not contain any deceptive domain or suspicious patterns, but the domain was registered on a recent date and has a short expiration period, which could be a potential fraud indicator. The WHOIS information is complete and does not appear to be redacted or partial, but the domain status 'clientTransferProhibited' and unsigned DNSSEC could be a concern. The screenshot analysis indicates that the website is likely requesting personal information and/or payments, offering suspicious offers, and impersonating a legitimate betting site. The website also has poor design, low-quality images, typos, and lacks trustworthy contact information. The URL '4000.top' is highly suspicious. The website is likely a phishing scam and poses potential risks to users.",
+  "verdict": 9
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The URL contains a misspelling of'sonnet.com', which is a common tactic used in phishing attacks. The domain was registered over 6 months ago and is not expiring soon, which does not indicate fraud. The WHOIS information is complete and the registrar is reputable. The domain status is 'ok' and DNSSEC is unsigned, which is not uncommon. However, the URL contains excessive length and unusual characters, which are common indicators of phishing or fraudulent URLs. The website screenshot could not be loaded, which prevents further analysis.",
+  "verdict": 7
+}
+```

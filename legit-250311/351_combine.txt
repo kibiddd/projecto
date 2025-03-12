@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL provided is a YouTube video link, which is a legitimate and common platform for sharing videos. The domain analysis indicates that the domain has been registered for a long time and is managed by a reputable registrar. The screenshot analysis confirms that the website has a clean design and is likely the legitimate YouTube platform. There are no signs of phishing, suspicious offers, impersonation, or other red flags. Therefore, the website appears to be legitimate and not a scam.",
+  "verdict": 1
+}
+```

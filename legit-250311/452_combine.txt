@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question, TorrentReactor.net, is a torrent site that has been in existence since 2003. The domain registration is not recent and is set to expire in 2025, which is a significant red flag. The registrar, DNC Holdings, Inc., is known for hosting malicious sites and lacks verification, further increasing the risk of fraud. Additionally, the website displays a 'File not found' error, indicating potential issues with the site's functionality. While torrent sites can sometimes be associated with illegal activity, there are no immediate indicators of fraud based on the URL structure alone. However, the combination of the domain's age, the registrar's reputation, and the website's error message suggests potential risks.",
+  "verdict": 8
+}
+```

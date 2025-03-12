@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'www.mijn-abn-controle.nl' appears to be a legitimate Dutch website, with no deceptive domain, common TLD, or suspicious URL patterns. The domain was created over six years ago and is not expiring soon, which does not indicate fraud. The website is currently showing an error message and is unavailable, but this does not necessarily indicate it is fraudulent. The website is not asking for any personal information and does not show signs of phishing, suspicious offers, impersonation, or poor design. However, the website is currently unavailable, which could be a temporary issue or a sign of potential problems.",
+  "verdict": 1
+}
+```

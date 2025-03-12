@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question, https://dfdhkkgj.weebly.com, appears to be a scam based on several indicators. The URL contains misspellings and character substitutions, which are common indicators of deceptive domains. The domain registration is recent and short-term, which is often used by scammers. The registrar, SafeNames Ltd., is known for hosting malicious sites or lacking verification. The website requests email and password, which could be used for phishing attacks, and is designed to look like an AT&T sign-in page, which could be a form of impersonation. The use of a free website builder like Weebly is sometimes associated with fraudulent websites. The URL is also suspicious. The website has a simple format, but it's unclear if it's poorly designed or low-quality because the provided image is the sign-in portion of the website. The image does not show any typos.",
+  "verdict": 8
+}
+```

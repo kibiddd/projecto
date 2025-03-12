@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a Microsoft login page, but the domain is not Microsoft's and the layout could be considered poor. The domain name is highly suspicious, and does not belong to Microsoft. The website is requesting an email, phone number or Skype ID, which could be used for phishing to steal credentials. The domain was registered on 2013-03-08, which is more than 6 months ago, and is set to expire on 2027-03-08, which is more than a year away. The registrant, admin, and tech contact information is redacted for privacy, which is common practice and not necessarily indicative of fraud. MarkMonitor Inc. is a reputable registrar known for hosting malicious sites, but it is also a legitimate registrar used by many organizations. The domain status includes clientDeleteProhibited, clientTransferProhibited, and clientUpdateProhibited, which are common restrictions for GitHub-owned domains. There are no other suspicious registration factors.",
+  "verdict": 9
+}
+```

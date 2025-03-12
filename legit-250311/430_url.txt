@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'chop' instead of 'chop' and'mysaucepan' instead of'saucepan'. This could be an attempt to deceive users into thinking the website is related to a legitimate brand or product.",
+  "TLD": "The TLD '.com' is a common and low-risk TLD, so this factor does not indicate fraud.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "The URL contains misspellings and deceptive subdomains, which are common indicators of phishing or fraudulent websites.",
+  "verdict": 7
+}
+```

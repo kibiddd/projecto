@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website is a legitimate search result for a person's name on Whitepages.com, a well-known and reputable website. The domain is not recent and is not expiring soon, and the registrar is a reputable company. The screenshot shows a standard security block page, indicating that the user's access is restricted, which is a normal security measure and not indicative of a scam.",
+  "verdict": 1
+}
+```

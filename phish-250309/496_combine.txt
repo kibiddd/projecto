@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website http://webrsmi-kpon.ghdsyw.biz.id appears to be a scam based on the analysis of the URL, domain registration, and the fact that the website cannot be accessed. The URL contains misspellings and character substitutions, and the TLD is uncommon and not a standard TLD. The domain was created more than 6 months ago and is not expiring soon, but it is reserved and has an abuse report link. The lack of contact information and the inability to access the website further raise concerns. The website's potential risks include phishing, malware distribution, and identity theft. The final verdict is 9 out of 10, indicating a high likelihood of the website being a scam.",
+  "verdict": 9
+}
+```

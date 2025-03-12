@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website is a personal blog hosted on LiveJournal, with a domain that has been registered since 1999 and is not expiring soon. The WHOIS information is complete and the registrar is associated with the Russian Federation. The website does not appear to be a scam, as it is a personal blog platform that does not request personal information or payment, and does not offer any products or services. The design is dated but functional, and there are no obvious signs of phishing, suspicious offers, impersonation, or other fraudulent activities. The website is transparent about being a personal blog and provides the author's username.",
+  "verdict": 1
+}
+```

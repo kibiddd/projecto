@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'prosystemsug.com/backup/byxugqlc/ic-access/email.html' appears to be a phishing attempt, impersonating Idaho Central Credit Union to collect personal information. The URL and domain analysis show no immediate red flags, but the screenshot analysis reveals a suspicious URL and impersonation attempt. The domain is not recent and is not expiring soon, and the registrar is reputable. The website's request for personal information is a common phishing tactic. The final verdict is based on the phishing attempt and impersonation, with a high likelihood of being a scam.",
+  "verdict": 9
+}
+```

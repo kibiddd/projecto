@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question is hosted on 'glitch.me', a platform known for creating temporary websites, which can sometimes be used for deceptive purposes. The domain 'narrow-frill-chamomile.glitch.me' was registered over 17 years ago and is set to expire soon. The domain's registrant, admin, and tech contact information is redacted, and it is hosted by MarkMonitor Inc., a registrar that has been associated with malicious sites. The website's design mimics a Navy Federal Credit Union login page, which is a clear indicator of phishing. The URL itself is a random string, which could be a red flag for a temporary or deceptive site. The domain status includes clientDeleteProhibited, clientTransferProhibited, and clientUpdateProhibited, which are unusual and could indicate that the domain is being managed by a third party or is under some form of restriction.",
+  "verdict": 10
+}
+```

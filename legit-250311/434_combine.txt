@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'forums.redflagdeals.com' is a forum discussing a promotion from Public Mobile, offering a free phone or 20% off any phone in Quebec. The domain and registrar analysis shows no immediate red flags, but the website's reliance on user discussions for promotional offers introduces potential risks. The offer's limited time and regional specificity could be suspicious, and users are advised to verify the deal directly with Public Mobile. The website itself does not directly request personal information or payment, but users should be cautious of links or information shared within the forum that could lead to phishing attempts.",
+  "verdict": 5
+}
+```

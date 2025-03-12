@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL provided appears to be a legitimate-looking website with a common TLD and a domain that is not recent. The domain registration details indicate that the domain is not expiring soon and is hosted by a well-known registrar. However, the screenshot provided shows a '403 Forbidden' error, which does not necessarily indicate a scam but could be a sign of restricted access. The website's legitimacy cannot be fully assessed without further information.",
+  "verdict": 2
+}
+```

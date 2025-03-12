@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain'manta.com' appears to be a legitimate and well-known domain. No misspellings or character substitutions are evident.",
+  "TLD": "The TLD '.com' is a common and trusted TLD, not considered high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It follows a standard URL structure.",
+  "Other": "The URL appears to be a legitimate link to a specific page on the'manta.com' website. No other suspicious factors are present.",
+  "verdict": 1
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website, Scribd, is a legitimate document hosting service with a well-known and reputable domain registrar, Gandi SAS. The domain is not recent nor expiring soon, and the contact information provided is complete and legitimate. The website does not appear to be a phishing site, does not offer suspicious deals, and has a clean and professional design. It provides contact information and company details, and there is no indication of impersonation or other red flags. The website is likely a legitimate service.",
+  "verdict": 1
+}
+```

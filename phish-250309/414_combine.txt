@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website'starth-iotrezor.webflow.io' appears to be a scam. The URL contains a misspelling of'start' as'starth', which could be an attempt to deceive users. The domain was registered in 2013 and is not expiring soon. The website does not provide clear and trustworthy contact information. It is likely an impersonation of the official Trezor website, using the brand name and logo to create a sense of legitimacy. The website is built on Webflow, a platform known to be used in phishing schemes. The website is promoting a product (Trezor hardware wallet) and uses attractive offers, but it does not immediately offer a suspicious offer. The website has a clean design, but without further access, the quality is unknown. The domain status includes clientDeleteProhibited, clientTransferProhibited, and clientUpdateProhibited, which are common restrictions for domains managed by a third-party service like Webflow. These restrictions do not indicate fraud. The website does not explicitly request personal information or payment at first glance, but it's a landing page, and the malicious activities might occur later on the website.",
+  "verdict": 8
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website http://www.e-dvltaidatt.xyz/login.php appears to be a scam based on the analysis of the URL, domain registration, and other factors. The URL contains a misspelling of 'e-dvltadatt' and uses a high-risk TLD '.xyz'. The domain was registered recently and has several prohibitions, including serverTransferProhibited, clientHold, clientTransferProhibited, and clientDeleteProhibited. The contact information is redacted or suspicious, and the website is located in the US, a common location for fraudulent activities. The screenshot could not be analyzed due to an error loading the website screenshot.",
+  "verdict": 8
+}
+```

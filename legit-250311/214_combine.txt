@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL provided is for a Bellator MMA fight video, which appears to be legitimate. The domain'mmatko.com' is not deceptive, the TLD '.com' is common and trusted, and the URL follows a standard structure without any suspicious patterns. The domain was created in 2006 and is not expiring soon, and the registrar GoDaddy is reputable. The screenshot analysis did not reveal any phishing, suspicious offers, or other red flags. The website seems to be a legitimate source for Bellator MMA fight videos.",
+  "verdict": 1
+}
+```

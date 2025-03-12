@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'famouswhy.com' contains a misspelling of 'famouswhy.com' which could be an attempt to deceive users into thinking it is a legitimate site.",
+  "TLD": "The TLD '.com' is a common and trusted TLD, so it does not indicate a high risk of fraud.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters, so it does not show suspicious patterns.",
+  "Other": "The URL does not contain any other obvious suspicious factors.",
+  "verdict": 2
+}
+```

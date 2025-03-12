@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL contains a misspelling of 'program' and an uncommon TLD, which could be an attempt to deceive users. The domain was created over six years ago and is marked as RESERVED, with a history of abuse reports. The lack of contact information and registrar details further raises concerns. The inability to view the website via a screenshot prevents a complete analysis of the site's content and design, which could also be indicative of a scam.",
+  "verdict": 9
+}
+```

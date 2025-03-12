@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website is a news article from CBC News, a reputable Canadian news organization. The URL, domain, and screenshot analysis do not indicate any signs of a scam. The domain is registered over 23 years ago, but the contact information is complete and appears legitimate. The website has a professional design and belongs to a well-known news organization. There are no phishing attempts, suspicious offers, or impersonation detected.",
+  "verdict": 1
+}
+```

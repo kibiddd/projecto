@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'evri.com' appears to be a legitimate delivery service website based on the screenshot analysis. The domain was created in 2003 and is not expiring soon, and the Amazon Registrar, Inc. is a reputable registrar. However, the URL contains a misspelled domain name and an unusual character, which are indicators of potential fraud. The domain status also shows that clientDelete, clientTransfer, and clientUpdate are prohibited, and the DNSSEC is unsigned. The website provides contact information, but the URL provided seems to be a random page, possibly an error page or a page that doesn't exist. Overall, the potential risks are low, but there are some red flags that could indicate a scam.",
+  "verdict": 3
+}
+```

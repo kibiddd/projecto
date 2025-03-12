@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 1987-02-19, which is far beyond the 6-month threshold. Therefore, it is not recent.",
+  "answer2": "The contact information provided (Registrar Abuse Contact Email and Phone) is complete and does not appear to be redacted or suspicious.",
+  "answer3": "The registrar, COM LAUDE, is associated with Apple Inc. and is a legitimate registrar. There is no indication that it hosts malicious sites or lacks verification.",
+  "answer4": "The domain status includes several prohibitions (clientDeleteProhibited, clientTransferProhibited, clientUpdateProhibited, serverDeleteProhibited, serverTransferProhibited, serverUpdateProhibited), which are unusual for a legitimate domain. This could be a red flag.",
+  "verdict": 7
+}
+```

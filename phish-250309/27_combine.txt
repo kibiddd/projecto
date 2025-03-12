@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'bridge-trrizor-iobr.webflow.io' appears to be a scam website. The URL contains a misspelling of 'Trezor' and a suspicious domain name that combines 'bridge' with a misspelling of 'iobr'. The domain was registered in 2013 and is not expiring soon, which could indicate a long-term scam operation. The website lacks transparency, with no contact information provided. The screenshot analysis suggests that the website is attempting to impersonate the official Trezor hardware wallet website, which is a common tactic used by scammers. The website directs users to download the Trezor Suite, which could be a vector for phishing if the download link is compromised. The website's design and branding are clean, but the URL and domain name raise significant red flags. The potential risks include phishing attempts and the distribution of malware through compromised download links.",
+  "verdict": 9
+}
+```

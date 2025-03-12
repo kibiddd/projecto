@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 1997-04-22 and the WHOIS database was last updated on 2025-03-11. This means the domain is not recent (less than 6 months) and is not expiring soon (less than a year).",
+  "answer2": "The contact information provided by the registrar (Network Solutions, LLC) is not redacted, partial, or suspicious. The abuse contact email and phone number are provided.",
+  "answer3": "Network Solutions, LLC is a well-known registrar, but it is not known for hosting malicious sites. However, the registrar's WHOIS server (whois.networksolutions.com) is not a reputable source for WHOIS information.",
+  "answer4": "The domain status is 'clientTransferProhibited', which means the domain cannot be transferred to another registrar. The DNSSEC is unsigned, which is a security concern. The registrar's WHOIS server is not a reputable source for WHOIS information.",
+  "verdict": 3
+}
+```

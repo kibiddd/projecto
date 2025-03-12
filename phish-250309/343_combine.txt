@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'rtu-quiz.ru' appears to be a legitimate-looking domain with a recent registration and a common TLD for Russia. However, the domain is registered with a suspicious registrar known for hosting malicious sites, and the contact information provided is partial and suspicious. The recent registration and the association with a suspicious registrar raise concerns about the legitimacy of the website. The inability to load a screenshot of the website further adds to the uncertainty. The website may pose potential risks such as phishing, malware, or other malicious activities.",
+  "verdict": 7
+}
+```

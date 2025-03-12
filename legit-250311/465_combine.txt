@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website kshs.org is a legitimate non-profit organization providing information about historical markers in Kansas. The URL, domain registration, and screenshot analysis do not indicate any signs of a scam. The website appears to be well-organized, professional, and transparent, with no suspicious offers or phishing attempts. The domain is registered by a reputable registrar and has been in existence for over six months. The website's contact information is likely to be readily available, promoting transparency. The website is unlikely to be an impersonation, as it appears to be an official government or non-profit website providing public information. Overall, the website is safe to visit and use.",
+  "verdict": 1
+}
+```

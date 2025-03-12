@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL provided is a legitimate article link from The New York Times website. The domain NYTIMES.COM has been registered for over 31 years, making it a well-established and reputable source. The WHOIS information is complete and provided by a reputable registrar, MarkMonitor Inc. The screenshot analysis shows that the website is a 404 error page, which is common and does not indicate fraudulent activity. There are no signs of phishing, suspicious offers, or impersonation. The website clearly identifies itself as The New York Times and provides contact information.",
+  "verdict": 1
+}
+```

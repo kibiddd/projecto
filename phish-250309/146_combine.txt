@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'booga.life' has several indicators of being a scam. The domain contains a misspelling of a legitimate domain, uses an uncommon and potentially high-risk TLD, and was registered very recently with a short expiration date. The registrant and contact information is redacted, and the registrar is not widely known. The domain status indicates a prohibition on client transfers and a period of renewal, which could be an attempt to renew without proper verification. The inability to load a screenshot of the website further raises concerns about its legitimacy. These factors combined suggest a high likelihood of the website being a scam.",
+  "verdict": 9
+}
+```

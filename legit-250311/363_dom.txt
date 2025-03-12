@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2016-06-25 and is expiring on 2025-06-25, which is less than a year from the current date of 2025-03-07. This indicates that the domain is expiring soon, which can be a potential fraud indicator as it may be a short-term registration often used for malicious purposes.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or suspicious. The contact information for the registrar is also provided and seems legitimate.",
+  "answer3": "The registrar, Above.com, is known for hosting malicious sites or lacking verification. This is a significant red flag and should be considered a strong indicator of potential fraud.",
+  "answer4": "The domain status indicates that client transfers are prohibited, which is unusual for a legitimate domain. Additionally, the DNSSEC is unsigned, which is another potential red flag. These factors, combined with the registrar's reputation, increase the likelihood of fraud.",
+  "verdict": 8
+}
+```

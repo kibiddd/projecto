@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL provided appears to be a misspelling of a legitimate domain used by a popular mobile browser, but the presence of '9hW' at the end of the URL is unusual and could be a deceptive attempt to trick users. The domain '.mt' is a legitimate country code top-level domain for Malta, and the registrar RIPE is reputable. However, the lack of a website screenshot prevents further analysis of the website's content and design, which could provide additional clues about its legitimacy. The potential risks of visiting this website include falling victim to phishing or malware attacks, as the URL's deceptive nature suggests it may be intended to deceive users.",
+  "verdict": 7
+}
+```

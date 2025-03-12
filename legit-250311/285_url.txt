@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "No misspellings, character substitutions, or deceptive subdomains detected.",
+  "TLD": "gldworks.com uses a common and safe TLD (.com).",
+  "Patterns": "URL is of normal length and does not contain random strings or unusual characters.",
+  "Other": "No other suspicious URL factors detected.",
+  "verdict": 1
+}
+```

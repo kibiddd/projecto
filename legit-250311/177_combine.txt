@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'tdjournal.csunacctis.com' appears to be a legitimate academic journal site, but there are some potential risks. The domain was registered recently, and the contact information is not provided, which are common indicators of fraudulent domains. The website itself does not appear to be directly requesting personal information or payment, but it could be part of a phishing scheme. The website's design is simple and adequate for its purpose, and it does not appear to impersonate other entities. However, the URL is associated with a legitimate academic journal, but it can be exploited as part of a phishing scheme. Overall, the potential risks are moderate.",
+  "verdict": 5
+}
+```

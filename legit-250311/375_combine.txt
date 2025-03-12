@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website at https://www.spoke.com/info/pFYiBnE/JasonHesse appears to be a scam. The URL analysis indicates no deceptive domain or suspicious patterns, but the domain analysis shows that the domain is not recent and has prohibited client actions, which could be a red flag. The screenshot analysis reveals a '404 page not found' error, suggesting the website is not functional. These factors combined raise concerns about the legitimacy of the website.",
+  "verdict": 7
+}
+```

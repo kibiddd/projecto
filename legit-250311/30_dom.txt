@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2000-02-14 and modified on 2023-07-19, which means it is not recent (less than 6 months) and not expiring soon (less than a year).",
+  "answer2": "The contact information for the administrative contact is provided (tanya.forsyuk@gmail.com, +380.933229766, +380.445813991), which is not redacted or suspicious.",
+  "answer3": "The registrar, Hostmaster LLC, is a known and reputable registrar, not associated with hosting malicious sites or lacking verification.",
+  "answer4": "No other suspicious registration factors are evident.",
+  "verdict": 1
+}
+```

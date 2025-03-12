@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'gatasi.com' appears to be a misspelled version of 'gatorade.com', which is a common phishing tactic. The domain is not recent and is not expiring soon, and the registrar is reputable. The website shows a 404 error page, which is not necessarily indicative of fraud but raises a slight concern. The URL contains suspicious patterns, but no other obvious suspicious factors are present. The contact information provided by the registrar is complete and not suspicious. Overall, the website could potentially be a scam, but it is not highly likely.",
+  "verdict": 4
+}
+```

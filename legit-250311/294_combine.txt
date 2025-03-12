@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL provided appears to be a legitimate link to a research paper on Brown University's website. The domain is registered with a reputable registrar (EDUCAUSE) and has a common TLD (.edu), which is generally considered safe. The domain is set to expire in less than a year, which could be a potential fraud indicator, but the contact information provided is complete and not suspicious. The screenshot analysis shows a 'Not Found' error, indicating a broken link rather than a scam. Overall, there are no immediate red flags suggesting this is a scam website.",
+  "verdict": 1
+}
+```

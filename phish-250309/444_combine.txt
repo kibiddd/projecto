@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question, https://web86.secure-secure.co.uk/arelkatombb.co.uk/template/images/tit, appears to be a scam based on several indicators. The URL contains misspellings and deceptive subdomains, which are common tactics used by scammers to create a false sense of legitimacy. The domain registration information is somewhat suspicious, with redacted contact information and a domain name that violates Nominet UK's naming rules. The screenshot analysis reveals that the website is impersonating Navy Federal Credit Union, which is a significant red flag. The website also requests username and password, a common phishing tactic. The URL itself is suspicious due to the unrelated domain name and the'secure-secure' subdomain. Overall, these factors suggest a high likelihood of the website being a scam.",
+  "verdict": 9
+}
+```

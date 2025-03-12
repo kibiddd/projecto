@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2002-03-21 and the WHOIS database was last updated on 2025-03-11, which means the domain is not recent (less than 6 months) and is not expiring soon (less than a year).",
+  "answer2": "The contact information provided by the registrar is complete and appears to be legitimate.",
+  "answer3": "The registrar, Synergy Wholesale Accreditations Pty Ltd, is not known for hosting malicious sites or lacking verification. The registrar's WHOIS server is listed as whois.synergywholesale.com, which is a legitimate registrar.",
+  "answer4": "The domain status is 'ok' and the domain is not listed as suspended or in a questionable status. The DNSSEC is unsigned, but this is not necessarily a red flag for fraud. The domain name 'MEMORABLETV.COM' is a generic name and could be used by legitimate businesses.",
+  "verdict": 1
+}
+```

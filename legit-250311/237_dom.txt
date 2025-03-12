@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2000-03-15, which is over 23 years old, so it is not recent. The expiration date is 2026-03-14, which is more than a year away, so it is not expiring soon. Therefore, the answer is N/A.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or suspicious. Therefore, the answer is N/A.",
+  "answer3": "The registrar, FastDomain Inc., is not known for hosting malicious sites or lacking verification. Therefore, the answer is N/A.",
+  "answer4": "There are no other suspicious registration factors mentioned in the provided information. Therefore, the answer is N/A.",
+  "verdict": 1
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website, motorsportsquared.com/VisionX_Images.html, appears to be a legitimate domain with a common TLD (.com) and no deceptive domain patterns. The domain was registered in 2007 and is set to expire in 2025, which is not recent. WHOIS information is complete and provided by a reputable registrar, GoDaddy.com, LLC. The website does not appear to be a phishing site and does not request personal information or payment directly. However, the website's design and content are basic, and the lack of substantial content, including blank images, raises suspicion. The website's transparency is unclear, and there are no obvious signs of phishing, suspicious offers, impersonation, or other red flags. The potential risks include the possibility of the website being a low-quality or non-existent site, given the lack of substantial content and the presence of blank images.",
+  "verdict": 6
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question appears to be a phishing scam. It uses a misspelled domain name, a less common TLD associated with a specific website builder, and requests sensitive information such as email and password. The domain is not recent and has a long expiration date, but the contact information provided is complete. The registrar is not known for hosting malicious sites, but there are some prohibitions on domain actions. The website's design is simple and unprofessional, and it attempts to impersonate an AT&T login page. The use of a Weebly domain and the suspicious 'att' with a series of numbers are red flags. The screenshot analysis indicates classic phishing behavior, and the website's attempt to steal user credentials is a significant risk.",
+  "verdict": 10
+}
+```

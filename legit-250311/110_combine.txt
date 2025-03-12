@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a legitimate sports news site, with a standard format and layout. The domain 'rivals.com' is a legitimate sports website, and the TLD '.com' is a common and trusted TLD. The domain was registered on 1998-11-04 and is expiring on 2025-11-03, which is more than 6 years away. The contact information provided is complete and does not appear to be redacted or suspicious. The website seems to be associated with a known sports news network (Rivals), suggesting a degree of transparency. However, the domain is hosted by MarkMonitor Inc., which is known for hosting malicious sites or lacking verification, and the domain status includes clientDeleteProhibited, clientTransferProhibited, and clientUpdateProhibited, which could be a potential fraud indicator. Despite these concerns, the website appears to be legitimate based on the analysis of the URL, domain registration, and screenshot.",
+  "verdict": 3
+}
+```

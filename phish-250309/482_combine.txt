@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a scam, attempting to impersonate a legitimate hardware wallet provider, Trezor, by using their branding and offering similar services. The URL contains misspellings and unusual characters, and the domain registration is not recent. The website also requests personal information, such as a private key, which is a common phishing tactic. The domain is hosted by a reputable registrar, but the restrictions on the domain do not indicate fraud. The website's poor design and lack of transparency further raise suspicions. The screenshot analysis indicates a high likelihood of phishing.",
+  "verdict": 9
+}
+```

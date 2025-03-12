@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL contains a misspelled domain name and uses a high-risk TLD, which are common indicators of a scam. The domain is relatively new, and while the registrar is reputable, the presence of several prohibitions and the lack of DNSSEC signature are concerning. The inability to load a screenshot of the website further adds to the suspicion. However, without additional evidence, it is not possible to definitively conclude that the website is a scam.",
+  "verdict": 6
+}
+```

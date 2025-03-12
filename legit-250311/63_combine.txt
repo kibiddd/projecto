@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a legitimate e-commerce site selling pewter bracelets. The domain is not recent, but it is not expiring soon. The registrar is a well-known and reputable company. The website has a professional design, clear contact information, and no suspicious offers or requests for personal information. The URL, domain, and screenshot analysis do not indicate any signs of a scam.",
+  "verdict": 1
+}
+```

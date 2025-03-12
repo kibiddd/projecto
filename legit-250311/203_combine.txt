@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'usidentify.com' appears to be a legitimate domain with a common and trusted TLD '.com'. The domain was created in 2009 and is not expiring soon, with a reputable registrar GoDaddy.com, LLC. However, the screenshot provided is blank, making it impossible to assess the website's design, transparency, or any potential phishing or suspicious offers. The domain status indicates that client actions such as delete, renew, transfer, and update are prohibited, which could be a red flag. Based on the available information, there are no clear indicators of a scam, but the lack of transparency in the screenshot is concerning.",
+  "verdict": 3
+}
+```

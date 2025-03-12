@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "No misspellings or character substitutions detected in the domain name.",
+  "TLD": "metacafe.com is a common and trusted TLD.",
+  "Patterns": "The URL is of a reasonable length and does not contain random strings or unusual characters.",
+  "Other": "The URL appears to be a legitimate link to a video on Metacafe, a well-known video-sharing platform.",
+  "verdict": 1
+}
+```

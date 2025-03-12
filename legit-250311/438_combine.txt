@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a legitimate directory for Catholic organizations, with a common TLD and no deceptive domain or suspicious patterns. The domain registration is not recent and is expiring in 2025, which is not a red flag. The website itself is a directory and does not request personal information or payment directly on the main page. The design appears functional for a directory, but could be considered dated. The website provides clear information for directory listings, including contact information and details about the organization. No other suspicious registration factors are apparent from the provided information. The screenshot analysis indicates no phishing, suspicious offers, or impersonation, but the website's design could be considered outdated.",
+  "verdict": 1
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website quickmba.com/law/partnership/limited/ is a legitimate and reputable source for business and legal information. The domain was created on 2000-02-12 and the registration is not recent (less than 6 months). It is also not expiring soon (less than a year). The registrar, GKG.Net, Inc., is not known for hosting malicious sites or lacking verification. The website appears well-designed with no obvious signs of poor quality. The website provides clear and trustworthy content related to business education. There are no signs of phishing, suspicious offers, impersonation, or other red flags.",
+  "verdict": 1
+}
+```

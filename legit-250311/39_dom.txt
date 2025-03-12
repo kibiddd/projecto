@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain registration is not recent; it was created on 2000-09-19T18:44:39Z, which is over 23 years ago. It is not expiring soon; the expiration date is 2025-07-16T04:00:00Z, which is more than a year away. Therefore, this factor does not indicate fraud.",
+  "answer2": "The contact information provided for the registrant and administrative contacts is complete and appears legitimate. There are no redacted or suspicious details in the contact information.",
+  "answer3": "Amazon Technologies, Inc. is a well-known and reputable company. The registrar, MarkMonitor International Canada Ltd., is also a reputable registrar. There is no indication that the registrar is known for hosting malicious sites or lacking verification.",
+  "answer4": "There are no other suspicious registration factors present in the provided information.",
+  "verdict": 1
+}
+```

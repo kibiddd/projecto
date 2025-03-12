@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question, https://webapp-docs-treezor.webflow.io, appears to be a Webflow-hosted page with a potentially deceptive domain name. The domain was registered in 2013 and is not expiring soon, which could be a red flag. The screenshot analysis suggests that while the website may not be directly asking for personal information or payments, the use of a Webflow domain instead of the official Trezor domain is a significant concern. The website could be impersonating the official Trezor welcome page, which is a common tactic used by scammers. The website has a clean, professional design, but the deceptive domain name and the potential for impersonation warrant caution. The website does not seem to be a scam at first glance, but the use of a Webflow domain and the potential for impersonation make it a risk.",
+  "verdict": 7
+}
+```

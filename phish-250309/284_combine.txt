@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website mr.ahmed-elgamal.com appears to be a scam website impersonating MetaMask. It requests the user's secret recovery phrase, which is a critical piece of personal information that can be used to access a cryptocurrency wallet. The domain contains a misspelling of 'elgamal', is registered very recently, and has a basic, potentially low-quality design. The unusual and non-standard domain name is a significant red flag. The website is impersonating MetaMask to steal the user's secret recovery phrase.",
+  "verdict": 10
+}
+```

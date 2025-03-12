@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website is associated with Saginaw Valley State University (SVSU) and provides information about a recruiting class. The domain is registered for over 23 years, and the contact information appears legitimate. The website does not appear to be requesting personal information or payment directly, and it is hosted under the university's domain. However, the page content is outdated and the design is basic, which might not be indicative of fraud but could also suggest a lack of maintenance or updates.",
+  "verdict": 1
+}
+```

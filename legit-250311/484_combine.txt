@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'wn.com/Raymond_Rouleau' appears to be a misspelled version of a legitimate domain, potentially aiming to deceive users. The domain is registered with a reputable registrar and has a long expiration date, indicating it is not expiring soon. The screenshot analysis shows a clean and modern website design without any obvious signs of phishing, suspicious offers, impersonation, or lack of transparency. However, the deceptive domain name itself poses a risk of confusion or deception.",
+  "verdict": 4
+}
+```

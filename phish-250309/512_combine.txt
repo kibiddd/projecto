@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'roseflowersdelivery.org' appears to be a scam based on the URL, domain registration details, and the screenshot analysis. The URL does not match the expected format for a legitimate bank website, and the domain is newly registered with a short expiration date. The screenshot analysis indicates phishing concerns, as the website is impersonating a bank and asking for personal information. The lack of transparency in the domain registration and the suspicious domain status also raise red flags. The website's potential risks include phishing attacks, identity theft, and financial loss for unsuspecting users.",
+  "verdict": 9
+}
+```

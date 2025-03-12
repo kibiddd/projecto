@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website is the official IMDb page for the movie 'The Shawshank Redemption' (IMDb ID: tt0118843). The URL, domain, and WHOIS information are legitimate and not indicative of a scam. The screenshot analysis confirms that the website is professional, transparent, and not requesting any personal information or payment. The website is a legitimate source for movie information and does not pose any potential risks.",
+  "verdict": 1
+}
+```

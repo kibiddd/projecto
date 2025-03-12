@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question, pipl.com, is a directory service that has been associated with privacy concerns and potential misuse. The domain is not recent and is set to expire in the future, which is not a typical characteristic of scam websites. The registrar is reputable, and the domain status does not indicate immediate fraud. The screenshot analysis shows a standard 404 error page, which is common and not necessarily indicative of a scam. However, the website's association with privacy concerns and potential misuse could pose risks to users.",
+  "verdict": 2
+}
+```

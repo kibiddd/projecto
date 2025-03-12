@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2005-06-27 and is set to expire on 2025-12-31, which is more than 19 years from the current date of 2025-03-07. Therefore, it is not recent nor expiring soon.",
+  "answer2": "The contact information provided by the registrar (abuse@godaddy.com and phone number 480-624-2505) is complete and not redacted or suspicious.",
+  "answer3": "GoDaddy.com, LLC is a well-known and reputable registrar. There is no indication that it hosts malicious sites or lacks verification.",
+  "answer4": "The domain status indicates that client actions such as delete, renew, transfer, and update are prohibited. This could be a red flag, but it is not necessarily indicative of fraud without further context.",
+  "verdict": 1
+}
+```

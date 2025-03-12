@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website flixster.com/actor/ursula-thiess appears to be a legitimate sports statistics resource, with no signs of phishing, suspicious offers, or impersonation. The URL, domain registration, and website design all suggest that it is a genuine website. The domain was created in 2003 and is not expiring soon, and the WHOIS information is complete and provided by a reputable registrar. The website has a professional design and layout, and provides clear information and contact details. There are no obvious risks associated with this website.",
+  "verdict": 1
+}
+```

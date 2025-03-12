@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'console-ndax-connect.webflow.io' appears to be a misspelled version of a legitimate domain, potentially attempting to deceive users. The domain was registered over six months ago and is not expiring soon, which could indicate a long-term scam operation. The website is related to cryptocurrency trading, a common target for phishing attacks, and lacks transparency with no contact information provided. The professional design and high-quality images do not necessarily indicate legitimacy. The use of a subdomain from a reputable hosting service does not mitigate the risks associated with the deceptive domain name and the potential for impersonation. The website's value proposition is not inherently suspicious, but the lack of transparency and the potential for phishing are concerning. The overall risk is moderate, but the deceptive domain name and the context of cryptocurrency trading increase the potential for scams.",
+  "verdict": 6
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a trading platform, potentially impersonating Coinbase Pro, and is hosted on a Webflow subdomain. The URL contains a deceptive domain part, and the domain registration is not recent, with the registrant's contact information redacted. The domain status prohibits certain actions, which could be a potential indicator of fraud. The website design looks professional, but the URL's deceptive part and the use of a CDN subdomain raise concerns. The website may request personal and payment information, which is a common characteristic of phishing sites. The overall risk is moderate due to the combination of these factors.",
+  "verdict": 5
+}
+```

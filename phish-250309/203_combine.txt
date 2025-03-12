@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a scam, attempting to impersonate BlockFi. The URL contains a misspelled domain name, and the domain registration is not recent. The website lacks transparency, such as contact details, and the offer of up to 3.5% back in crypto on every purchase is suspicious. The website is hosted on a Webflow domain, which is uncommon for a major financial service. The screenshot analysis suggests that the website is likely a fake, attempting to phish BlockFi users. The website has a clean and professional design, but the lack of contact information and the suspicious URL are concerning. The website is not offering anything for free, which is unusual for a legitimate financial service. The website is likely a scam, and users should be cautious when interacting with it.",
+  "verdict": 9
+}
+```

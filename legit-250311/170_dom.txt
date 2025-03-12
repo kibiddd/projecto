@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain registration is not recent; it was created on 2003-09-23 and is expiring in 2025-09-23, which is more than a year away. Therefore, it does not meet the criteria of being recent or expiring soon.",
+  "answer2": "The contact information provided by the registrar (abuse@godaddy.com and phone number 480-624-2505) is not redacted, partial, or suspicious. It is a valid and accessible contact method.",
+  "answer3": "GoDaddy.com, LLC is a well-known and reputable registrar. There is no indication that it hosts malicious sites or lacks verification. The registrar's WHOIS information is valid and accessible.",
+  "answer4": "There are no other suspicious registration factors mentioned in the provided information.",
+  "verdict": 1
+}
+```

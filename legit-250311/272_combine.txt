@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website, Stonebridge Media, appears to be a legitimate domain with a common TLD and no deceptive domain patterns. The domain was created in 2009 and is set to expire in 2025, which is not immediately concerning. The WHOIS information is complete and provided by a reputable registrar, DreamHost, LLC. The domain status indicates client transfers are prohibited, which is a common practice for domains with high security or privacy concerns. The DNSSEC is unsigned, which is not necessarily a red flag. The screenshot analysis does not show any signs of phishing, suspicious offers, or impersonation, and the website has a clean, professional design. However, it is not possible to assess all elements of the website based on one image. The website likely provides contact information, which is a positive sign of transparency. Overall, there are no immediate red flags indicating that Stonebridge Media is a scam website.",
+  "verdict": 1
+}
+```

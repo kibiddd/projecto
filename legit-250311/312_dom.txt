@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2004-08-31 and the registration is not recent (more than 6 months old). The expiry date is 2026-08-31, which is more than a year away. Therefore, this factor does not indicate fraud.",
+  "answer2": "The contact information provided (Abuse Contact Email: compliance@domain-inc.net and Phone: 602-226-2389) is not redacted or partial. It appears to be legitimate and not suspicious.",
+  "answer3": "The registrar, Domain.com, LLC, is not known for hosting malicious sites or lacking verification. The registrar's contact information is provided, and there are no known issues with this registrar. Therefore, this factor does not indicate fraud.",
+  "answer4": "The domain status includes clientDeleteProhibited, clientTransferProhibited, and clientUpdateProhibited, which are unusual for a legitimate domain. Additionally, the DNSSEC is unsigned, which is not a common practice for legitimate domains. These factors could be suspicious.",
+  "verdict": 5
+}
+```

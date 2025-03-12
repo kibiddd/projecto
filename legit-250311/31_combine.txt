@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL, domain registration, and screenshot analysis suggest potential risks. The domain was registered recently, contact information is redacted, and the registrar is not well-known. The website's design is simple and outdated, and the URL structure is unusual. These factors indicate a higher likelihood of the website being a scam.",
+  "verdict": 7
+}
+```

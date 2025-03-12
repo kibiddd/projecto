@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'ag-boten.com' appears to be a phishing attempt, as indicated by the misspelling of 'agbot.com' in the domain name. The domain is relatively new, with an expiration date less than a year from the current date, and the registrar is not known for hosting malicious sites. However, the domain status indicates that client transfers are prohibited and DNSSEC is unsigned, which could be potential security concerns. The inability to load a screenshot of the website prevents further analysis of its content and design, which could provide additional clues about its legitimacy.",
+  "verdict": 7
+}
+```

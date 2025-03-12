@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website, spokeo.com, is a people search engine that collects personal information such as names, addresses, and phone numbers. The domain was registered in 2006 and has a long remaining registration period until 2026. The website has a clean, professional design and provides clear information about its purpose. However, the domain status indicates 'clientTransferProhibited', which could be a red flag. The URL contains a suspicious pattern with an excessive length and a random string, which could be used to mislead users. The website does not directly ask for payment to view results, but it may have a paywall for more detailed information. Overall, the website appears to be legitimate, but there are some potential risks associated with its domain status and URL pattern.",
+  "verdict": 3
+}
+```

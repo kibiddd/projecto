@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website sff.org appears to be a legitimate non-profit organization based on the URL analysis, which shows no deceptive domain or patterns. However, the domain analysis reveals that the domain is registered with a registrar that has been associated with hosting malicious sites, and the domain status indicates that client transfers are prohibited. The screenshot analysis shows no phishing or suspicious offers, but a 'Page Not Found' error could indicate a site issue. Overall, the website seems legitimate, but there are some potential risks associated with the domain registrar and the 'Page Not Found' error.",
+  "verdict": 3
+}
+```

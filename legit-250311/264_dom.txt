@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 1997-07-28, which is far beyond the 6-month threshold. It is not recent. The expiration date is 2026-07-27, which is more than a year away. Therefore, it is not expiring soon.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or partial. The contact information for the registrar is also provided and does not seem suspicious.",
+  "answer3": "The registrar, NameSilo, LLC, is a well-known registrar and does not have a reputation for hosting malicious sites. The WHOIS server used by the registrar is also a legitimate service.",
+  "answer4": "The domain status indicates that client transfers are prohibited, which is a common practice for domains with sensitive content. The DNSSEC is unsigned, which is not necessarily a red flag for fraud but could be a security concern. The URL provided is for a WHOIS inaccuracy complaint form, which is a legitimate resource.",
+  "verdict": 1
+}
+```

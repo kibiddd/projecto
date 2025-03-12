@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question appears to be a landing page for Coinbase Wallet, which is a legitimate product. The URL contains a misspelling of 'coinbase' and uses a deceptive subdomain, which are red flags. The domain registration is not recent, and the domain status includes protections against unauthorized changes. The screenshot analysis suggests that the website is not promoting phishing or suspicious offers, but the unusual URL warrants caution. The website seems to be a legitimate presentation of Coinbase Wallet features, but the deceptive domain and subdomain are concerning. The potential risks include the possibility of a phishing attempt or a scam website using the Coinbase brand to deceive users. The final verdict is a 5, indicating a moderate likelihood of the website being a scam.",
+  "verdict": 5
+}
+```

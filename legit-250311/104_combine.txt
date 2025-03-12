@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website martinbrodeur30.com appears to be related to sports statistics, specifically Martin Brodeur, based on the URL domain name. The URL analysis indicates no deceptive domain or suspicious patterns, and the domain was created in 2008 and is not expiring soon. The domain registrar is GoDaddy, a reputable company. The screenshot analysis does not show any direct phishing attempts, suspicious offers, or impersonation, but it also does not provide enough information to fully evaluate the website's transparency and overall quality. The website seems legitimate based on the limited data, but further investigation is recommended to ensure its authenticity.",
+  "verdict": 2
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question, m-com-start-ledger-cdn.webflow.io, appears to be a secondary or test website for Ledger products, hosted on Webflow. The URL contains a misspelling of'm.com', which could be an attempt to deceive users. The domain was registered in 2013 and is not expiring soon, which is not a typical characteristic of scam websites. The domain is hosted by MarkMonitor Inc., a registrar known for hosting malicious sites, and has several prohibited flags that could indicate an attempt to prevent changes to the domain registration. The screenshot analysis shows a clean and professional design, with no direct requests for personal information or payment, and no suspicious offers. However, the website does not explicitly display contact information, and the URL is not directly tied to Ledger's primary domain. The potential risks include the possibility of the website being a test or secondary site, and the domain's association with a registrar known for hosting malicious sites.",
+  "verdict": 4
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2006-04-04 and the registration is not recent (more than 19 years old). It is not expiring soon (more than a year away).",
+  "answer2": "The contact information provided by the registrar is complete and not redacted or suspicious.",
+  "answer3": "eNom, LLC is a well-known registrar and there is no indication that it hosts malicious sites or lacks verification.",
+  "answer4": "The domain status indicates that client transfers are prohibited, which is a common practice for domains with sensitive or high-profile content. The DNSSEC is unsigned, which is not necessarily a fraud indicator but could be a security concern.",
+  "verdict": 1
+}
+```

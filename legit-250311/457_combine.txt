@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website is a legitimate news article from CBS Local, published on 2011-09-21. The URL, domain, and screenshot analysis do not indicate any signs of a scam. The domain is registered with a reputable registrar and has no suspicious patterns. The website appears to be a legitimate news source with no phishing, suspicious offers, or impersonation. The contact information is not available in the screenshot but would typically be found on the main CBS Local website.",
+  "verdict": 1
+}
+```

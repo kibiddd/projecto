@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 1995-02-21, which is far beyond the 6-month threshold. Therefore, it is not recent.",
+  "answer2": "The contact information provided by the registrar (abuse@godaddy.com, 480-624-2505) is complete and not redacted or suspicious.",
+  "answer3": "GoDaddy.com, LLC is a well-known and reputable registrar. There is no indication that it hosts malicious sites or lacks verification.",
+  "answer4": "The domain status indicates that client actions such as delete, renew, transfer, and update are prohibited. This could be a red flag, but it is not necessarily indicative of fraud without further context.",
+  "verdict": 1
+}
+```

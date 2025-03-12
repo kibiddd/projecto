@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website KSN.COM is a news outlet providing information about a local sports event, specifically a basketball signing. The domain is not recent and is not expiring soon, but it is not associated with any malicious activities. The website does not request personal information or payment, and it appears to be a legitimate news article. There are no other suspicious factors detected.",
+  "verdict": 1
+}
+```

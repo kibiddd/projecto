@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website is a legitimate book retailer, Simon & Schuster, offering a free ebook with a mailing list signup. The domain is expiring soon, which could be a potential fraud indicator, but the WHOIS information and registrar are legitimate. The website is well-designed and transparent, with no signs of phishing or impersonation. The offer of a free ebook is not inherently suspicious for a bookseller. The domain status and unsigned DNSSEC are unusual but not necessarily indicative of fraud. Overall, the website appears legitimate, but the expiring domain warrants caution.",
+  "verdict": 3
+}
+```

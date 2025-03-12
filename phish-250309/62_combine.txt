@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'imwallel.com' has a misspelled domain name that resembles a legitimate domain, with a recent registration and an upcoming expiration date. The WHOIS information is complete and the registrar is reputable. However, the domain name is similar to 'IMWALLET.COM', which could be a typo or an attempt to deceive. The website screenshot could not be analyzed due to an error.",
+  "verdict": 5
+}
+```

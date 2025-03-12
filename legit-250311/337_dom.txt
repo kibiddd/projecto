@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain DISCOVERSOUTHCAROLINA.COM was created on 2000-04-02, which is over 23 years old. Therefore, it is not recent and not expiring soon.",
+  "answer2": "The contact information provided by the registrar (Network Solutions, LLC) is complete and not redacted or partial. The abuse contact email and phone number are also provided.",
+  "answer3": "Network Solutions, LLC is a well-known registrar, but it has been associated with hosting malicious sites in the past. However, it is also a legitimate registrar and not exclusively known for hosting malicious sites.",
+  "answer4": "The domain status indicates that client transfers are prohibited, which is a common restriction for domains managed by Network Solutions, LLC. The DNSSEC is unsigned, which is not necessarily a red flag, as many domains do not have DNSSEC enabled. The domain is not listed as suspended or in a similar status that would indicate fraud.",
+  "verdict": 2
+}
+```

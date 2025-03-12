@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a legitimate hotel booking site for 'hotels-scotland.co.uk'. The URL analysis indicates no deceptive domain or unusual patterns, and the domain registration is set to expire soon, which could be a potential fraud indicator. The WHOIS data shows a lack of contact information, which is common for privacy reasons, but the domain name does not match the website's content, which could be a red flag. The screenshot analysis shows a dated and basic design, which can be a red flag, but no immediate phishing or suspicious offers are visible. The website seems to be a legitimate hotel booking site, but the potential risks include the short domain registration period and the mismatch between the domain name and website content.",
+  "verdict": 5
+}
+```

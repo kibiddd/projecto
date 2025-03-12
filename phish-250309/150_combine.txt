@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'bubyed.cc' is a scam website. The URL contains a misspelling of 'bubblie', which is a common deceptive practice to trick users into visiting a fraudulent site. The TLD '.cc' is considered high-risk and is often associated with fraudulent activities. The website requests a mobile phone number or email address, which could be used for phishing or other malicious activities. The URL is suspicious and is likely an attempt to impersonate the legitimate website 'Bybit'.",
+  "verdict": 9
+}
+```

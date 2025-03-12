@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2009-04-24 and the registration information was last updated on 2024-04-25. This means the domain has been registered for over 6 years, so it is not recent nor expiring soon. Therefore, this factor does not indicate potential fraud.",
+  "answer2": "The contact information provided by the registrar (abuse@godaddy.com and 480-624-2505) is complete and does not appear to be redacted or suspicious. Therefore, this factor does not indicate potential fraud.",
+  "answer3": "GoDaddy.com, LLC is a well-known and reputable registrar. There is no indication that GoDaddy hosts malicious sites or lacks verification. Therefore, this factor does not indicate potential fraud.",
+  "answer4": "The domain status indicates that clientDeleteProhibited, clientRenewProhibited, clientTransferProhibited, and clientUpdateProhibited. This means that the domain owner has restricted the ability of others to delete, renew, transfer, or update the domain. This could be a red flag for potential fraud, as it may indicate that the domain owner is trying to prevent others from accessing or modifying the domain. Therefore, this factor indicates potential fraud.",
+  "verdict": 5
+}
+```

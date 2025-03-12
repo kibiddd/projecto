@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "No misspellings, character substitutions, or deceptive subdomains detected.",
+  "TLD": "flickr.com is a common and trusted TLD.",
+  "Patterns": "URL is within a reasonable length and contains expected characters for a Flickr URL.",
+  "Other": "No other suspicious URL factors detected.",
+  "verdict": 1
+}
+```

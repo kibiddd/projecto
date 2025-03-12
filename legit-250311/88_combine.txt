@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website is a LinkedIn profile page for Pirabakaran Navaratnam, which is a legitimate and professional platform. The URL, domain, and screenshot analysis do not indicate any signs of a scam. The domain is registered by a reputable registrar and has a long registration period, which is typical for professional profiles. The LinkedIn URL format is standard and expected for such a profile. The website appears to be transparent and not involved in phishing, suspicious offers, or impersonation.",
+  "verdict": 1
+}
+```

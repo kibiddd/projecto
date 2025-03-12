@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain DOCSPOT.COM was created on 2004-05-16 and the WHOIS database was last updated on 2025-03-11. This means the domain is not recent (less than 6 months) and is not expiring soon (less than a year).",
+  "answer2": "The contact information provided by the registrar (NameSilo, LLC) is complete and not redacted or partial. The abuse contact email and phone number are also provided.",
+  "answer3": "The registrar, NameSilo, LLC, is a well-known registrar and does not have a reputation for hosting malicious sites or lacking verification. However, the domain status indicates that client transfers are prohibited, which could be a red flag depending on the context.",
+  "answer4": "The domain status indicates that client transfers are prohibited, which could be a red flag depending on the context. Additionally, the domain is registered with Cloudflare, which is a reputable DNS provider, but the DNSSEC is unsigned, which could be a security concern.",
+  "verdict": 3
+}
+```

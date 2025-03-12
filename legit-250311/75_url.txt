@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "No misspellings or character substitutions detected.",
+  "TLD": "The TLD.com is common and not considered high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters.",
+  "Other": "The domain 'pipl.com' is a legitimate and well-known service for reverse searching and verifying identities.",
+  "verdict": 1
+}
+```

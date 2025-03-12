@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2005-02-15 and the registration information was last updated on 2025-01-14. This means the domain has been registered for a long time, not recently. Therefore, the domain is not recent.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or suspicious. The contact information is provided and appears to be legitimate.",
+  "answer3": "The registrar, MarkMonitor Inc., is a well-known and reputable registrar. There is no indication that they are known for hosting malicious sites or lacking verification.",
+  "answer4": "There are no other suspicious registration factors mentioned in the provided information.",
+  "verdict": 1
+}
+```

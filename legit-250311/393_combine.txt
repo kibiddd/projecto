@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'tokyohot.com' appears to be a scam due to deceptive domain practices, misspelled main domain, and association with illegal content. The domain is registered with a legitimate registrar but has a long expiration date. The website's poor design and illegal content further raise suspicions. The URL contains a deceptive subdomain and a misspelled main domain, which are common indicators of phishing or fraudulent websites. The domain is registered with a legitimate registrar, but the website's content suggests it is related to illegal activities, making it highly suspect.",
+  "verdict": 8
+}
+```

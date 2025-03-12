@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 1999-08-06 and the registration is expiring on 2025-08-06, which is more than a year away. Therefore, it is not recent nor expiring soon.",
+  "answer2": "The contact information provided by the registrar is complete and does not appear to be redacted or partial.",
+  "answer3": "The registrar, Register.com, Inc., is a well-known registrar and there is no indication that it hosts malicious sites or lacks verification. However, the domain status indicates that client transfers are prohibited, which is a common practice and not necessarily indicative of fraud.",
+  "answer4": "The domain is over 25 years old, which is unusual for a new or recently created domain. Additionally, the domain status indicates that client transfers are prohibited, which could be a red flag for some users. However, these factors alone are not strong indicators of fraud.",
+  "verdict": 2
+}
+```

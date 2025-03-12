@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL contains a misspelling of 'weebly.com' and appears to be impersonating AT&T, which is a common tactic used by fraudsters. The domain was registered in 2006 and is not expiring soon, but the domain status indicates that clientDelete, clientTransfer, and clientUpdate are prohibited, and DNSSEC is unsigned. The screenshot analysis shows that the website is requesting a user ID and password, which is typical for a login page but can be used for phishing if the site is not legitimate. The website uses a basic, potentially unprofessional design, and the domain name (weebly.com) is a significant red flag. The combination of these factors makes it highly likely that the website is fraudulent.",
+  "verdict": 9
+}
+```

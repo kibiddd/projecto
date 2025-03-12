@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website makarska-riviera.com/info/biokovo/biokovo-en.htm appears to be a legitimate tourist website with a common TLD.com, a domain that is not recent but not expiring soon, and a registrar known for legitimate operations. The URL does not contain deceptive elements, and the screenshot indicates a broken link rather than a scam. The WHOIS information is complete and does not suggest any fraudulent activity. The website's design quality is good, and there are no signs of phishing, suspicious offers, impersonation, or lack of transparency. The verdict is based on the absence of any red flags in the provided analysis.",
+  "verdict": 1
+}
+```

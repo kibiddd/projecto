@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL contains a misspelled domain name, which is a common tactic used by fraudsters. The domain is set to expire soon, which could indicate a short-term registration often used for malicious purposes. The WHOIS information is complete and does not appear to be redacted or suspicious. The registrar is not widely known for hosting malicious sites, but further investigation into its reputation would be necessary. The website uses Cloudflare's name servers, which is common for legitimate websites. However, the website screenshot could not be loaded, which prevents further analysis of the website's content and design.",
+  "verdict": 6
+}
+```

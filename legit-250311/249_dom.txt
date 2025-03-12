@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 1996-04-08 and the WHOIS database was last updated on 2025-03-11, which means the domain is not recent (less than 6 months old) and is not expiring soon (less than a year).",
+  "answer2": "The contact information provided by the registrar (Amazon Registrar, Inc.) is not redacted, partial, or suspicious. The registrar's abuse contact email and phone number are provided.",
+  "answer3": "Amazon Registrar, Inc. is a well-known and reputable registrar, and there is no indication that it hosts malicious sites or lacks verification. The registrar is associated with Amazon, a major and reputable company.",
+  "answer4": "There are no other suspicious registration factors mentioned in the provided information.",
+  "verdict": 1
+}
+```

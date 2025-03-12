@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a legitimate radio station's website, WNNX, with a common misspelling in the domain name. The domain is registered for a long time and is not expiring soon. The WHOIS information is complete and provided by a reputable registrar. The website does not appear to be a scam, as it does not request personal information, offer suspicious deals, or have a poor design. However, the lack of visible contact information could be a concern for transparency.",
+  "verdict": 1
+}
+```

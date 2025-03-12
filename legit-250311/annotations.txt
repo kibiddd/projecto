@@ -1,0 +1,43 @@
+[19, 30, 31, 45, 53, 54, 93, 118, 122, 127, 140, 141, 145, 160, 179, 188, 212, 223, 232, 238, 242, 262, 263, 264, 286, 308, 309, 314, 325, 331, 347, 352, 359, 363, 369, 373, 375, 377, 382, 390, 393, 404, 405, 408, 411, 414, 416, 418, 427, 430, 431, 441, 445, 452, 453, 467, 471, 482, 493]
+
+
+19: not secure
+domain ok
+url ok
+ss blank 6
+ver 7
+
+30: can't reach this page
+url ok
+domain ok
+ss blank 6
+ver 7
+
+31: can't reach this page
+url ok
+domain no match 8
+ss blank 3
+ver 7
+
+45: can't reach
+url ok
+domain no match 5
+ss blank 8
+ver 7
+
+482: TRUE FP
+url (misclassified misspelling)
+domain ok
+ss ok
+ver 7
+
+493: TRUE FP
+url (.ca recognized as malicious)
+domain ok
+ss ok
+ver 7
+
+pseudocode:
+if screenshot = blank and domain = no match:
+    general_alert (site not found, but stay cautious)
+

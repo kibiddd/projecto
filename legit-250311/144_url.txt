@@ -1,0 +1,6 @@
+```json
+{
+  "Deceptive Domain": "The domain 'lhl.lib.mo.us' appears to be a legitimate domain, but the subdomain 'events_exhib' and the path 'napoleon_scientist.shtml' could be deceptive. The use of 'lhl' instead of 'lib' might be an attempt to mislead users into thinking it's related to a library.",
+  "TLD": "The TLD '.us' is common and not considered high-risk, so this factor does not indicate fraud.",
+  "Patterns": "The URL contains a mix of uppercase and lowercase letters, which is not unusual. However, the path 'napoleon_scientist.shtml' is unusually long and specific, which could be a red flag for a phishing attempt.",
+  "Other": "The URL does not contain any obvious suspicious characters or patterns, but the use of'shtml' instead of 'html' could be a sign that the website is outdated or not maintained

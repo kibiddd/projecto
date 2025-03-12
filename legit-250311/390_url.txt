@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'famguardian1.org' contains a misspelling of 'familyguardian.org'. This could be an attempt to deceive users into thinking it is related to a legitimate organization.",
+  "TLD": "The TLD '.org' is commonly used by non-profit organizations and is generally considered safe. However, the domain name itself is suspicious.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "The URL contains a misspelled domain name, which is a common tactic used in phishing and fraudulent activities. The URL also includes a long and complex path, which could be an attempt to make it less recognizable.",
+  "verdict": 7
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'gemqminilogginuss.webflow.io' appears to be a scam website. The URL contains a misspelling of'minilogo' as'minilogginuss', which could be an attempt to deceive users. The domain was registered over 6 months ago and is not expiring soon, which is not a strong indicator of fraud. However, the website's purpose is to get the user to login, which could be a phishing attempt if it's trying to steal credentials to access crypto accounts. The website is impersonating Gemini to steal credentials and uses a suspicious URL. The website also has poor typography and appears to be a low-quality, potentially fraudulent attempt.",
+  "verdict": 9
+}
+```

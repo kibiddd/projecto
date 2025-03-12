@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website ZYXSTAR.COM is a recent domain with a modern but unfinished design, potentially using phishing tactics by requesting a username. The domain is registered by DropCatch.com, a registrar with no immediate red flags, but the domain is expiring soon. The website's formatting issues and placeholder text raise concerns about its legitimacy. The combination of a deceptive domain name, recent registration, and phishing attempt places it at a higher risk of being a scam.",
+  "verdict": 7
+}
+```

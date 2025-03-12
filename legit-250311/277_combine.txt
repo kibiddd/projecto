@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a genealogy database, part of Ancestry.com, with a domain that contains a misspelling of 'atc.ancestry.com'. The domain was registered in 1995 and is not expiring soon. The registrar is well-known and not typically associated with malicious sites. The website does not request financial details and focuses on genealogical research. However, the URL contains a suspicious parameter and the domain is unsigned for DNSSEC, which are potential security concerns. The website displays a simple format typical for a genealogy database and does not appear to be impersonating any other site. The contact information provided by the registrar is complete and not suspicious. Overall, the website seems legitimate but there are some minor security concerns.",
+  "verdict": 2
+}
+```

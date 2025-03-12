@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL provided, https://steamncommunity.shop/giftcard, appears to be a scam due to the misspelling of'steamcommunity' in the domain name, which is a common gaming platform. The '.shop' TLD is not inherently suspicious, but the lack of provided domain registration, contact, and registrar information, along with the server being currently busy, raises concerns. The inability to analyze the website screenshot further complicates the assessment. The potential risks include phishing attempts, fraudulent activities, and exposure to malware. The final verdict is based on the available information and is a moderate risk.",
+  "verdict": 6
+}
+```

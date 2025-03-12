@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website, Spokeo, appears to be a legitimate service offering public record information. The URL, domain, and WHOIS information do not indicate any immediate red flags. The screenshot analysis shows a modern, clear design without phishing or suspicious offers. The domain is not expiring soon, and the registrar is a well-known entity. Overall, there are no significant risks identified, and the website seems to be a legitimate service.",
+  "verdict": 1
+}
+```

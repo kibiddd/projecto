@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question appears to be a scam. The URL contains a deceptive domain with a misspelled 'i-o-ca' and an unusual subdomain 'webflow.io', which is not standard for a secure service. The domain was registered over six months ago and is not expiring soon, but it is hosted by MarkMonitor Inc., a registrar known for hosting malicious sites. The domain status includes prohibited actions, which can indicate third-party management. The screenshot analysis reveals that the website is designed to prompt users to'sign up', potentially to collect personal information, and it impersonates the real NDAX website. The URL domain name does not match a common NDAX website. The website's design appears professional, but the URL suggests it could be a test or temporary site.",
+  "verdict": 9
+}
+```

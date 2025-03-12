@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL contains a deceptive domain with a misspelled'secure' and unusual patterns, the domain is registered for over 6 months with a long expiration date, and the contact information is redacted. The website is advertising a credit card and offers a crypto bonus, which could be a phishing risk. The website design appears professional, but the URL raises some concerns. The domain is hosted by a reputable registrar, but the website's transparency cannot be fully assessed from the screenshot alone. The website could potentially be a scam, but there is not enough information to make a definitive judgment.",
+  "verdict": 6
+}
+```

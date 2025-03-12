@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "No misspellings, character substitutions, or deceptive subdomains detected.",
+  "TLD": "Common TLD (.org) - Not high-risk.",
+  "Patterns": "URL is of reasonable length and contains expected characters for a.org domain.",
+  "Other": "No other suspicious URL factors detected.",
+  "verdict": 1
+}
+```

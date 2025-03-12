@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain name contains a misspelling of'southindianactresshotphoto.blogspot.com' which could be an attempt to deceive users into thinking it is a legitimate site.",
+  "TLD": "The TLD '.com' is common and not considered high-risk, so this factor does not indicate fraud.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters, so this factor does not indicate fraud.",
+  "Other": "The URL contains a '.blogspot.com' which is a legitimate blogging platform, but the misspelling in the domain name could be a red flag for deception.",
+  "verdict": 3
+}
+```

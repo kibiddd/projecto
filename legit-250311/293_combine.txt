@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The URL https://www.cibc.com/ca/about.html appears to be a legitimate CIBC website, as indicated by the standard URL structure, common TLD, and professional design. However, the domain CIBC.COM has been registered for a long time and is hosted by a registrar known for hosting malicious sites. Additionally, the domain has several prohibitions that could indicate suspicious management. Despite the lack of phishing or suspicious offers on the specific page analyzed, the association with a registrar known for hosting malicious sites raises concerns. The website's transparency and lack of impersonation are positive indicators, but the potential risks associated with the domain's registration and management cannot be ignored. Overall, the website may not be a scam, but there are enough red flags to warrant caution.",
+  "verdict": 4
+}
+```

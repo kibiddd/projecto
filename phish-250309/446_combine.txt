@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'webfun.website' appears to be a scam based on the analysis of the URL, domain registration, and a screenshot of the website. The URL contains a deceptive domain and an uncommon TLD, which are common tactics used by fraudsters. The domain was created recently and is expiring soon, which could indicate domain squatting or a domain being sold off shortly before expiration. The website is asking for a username and password, which is a common phishing tactic. The website is impersonating a Microsoft login page and does not provide any contact information. The URL itself is very suspicious, with a random string after the landing page id. The website's design appears clean and professional, but the URL suggests a landing page, which can be used in phishing attempts. The domain status is 'clientTransferProhibited', which could be a red flag if the domain owner is trying to prevent the domain from being transferred to a more reputable registrar.",
+  "verdict": 9
+}
+```

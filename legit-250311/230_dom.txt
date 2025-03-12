@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2004-01-08 and the WHOIS database was last updated on 2025-03-11, which means the domain is not recent (less than 6 months old) and is not expiring soon (less than a year).",
+  "answer2": "The contact information provided is complete and not redacted or partial. The registrar's abuse contact email and phone number are provided.",
+  "answer3": "Amazon Registrar, Inc. is a well-known and reputable registrar. There is no indication that it hosts malicious sites or lacks verification.",
+  "answer4": "The domain status indicates that clientDelete, clientTransfer, and clientUpdate are prohibited, which is unusual for a legitimate domain. However, this alone does not necessarily indicate fraud.",
+  "verdict": 2
+}
+```

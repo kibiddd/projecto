@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a legitimate Canadian government website, providing information without directly asking for personal information or payment. The domain registration is not recent but not expiring soon, and the registrar is not known for hosting malicious sites. The website design is professional and transparent, with no obvious typos or impersonation attempts. However, it is important to be cautious as fraudulent sites mimicking legitimate ones could be created.",
+  "verdict": 1
+}
+```

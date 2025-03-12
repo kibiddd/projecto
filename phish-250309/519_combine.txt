@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question, http://www.www-kotexbant-com.filesusr.com/html/fbe044_dc28a3b0b6a59391e28a314e814b8045.html, appears to be a scam website based on several indicators. The URL contains a deceptive domain with a double 'w' and unusual characters, which are common phishing tactics. The domain registration is not recent and is set to expire in the future, which could be a red flag for some users. However, the registrar is reputable, and there are no other suspicious registration factors. The screenshot analysis reveals that the website is requesting sensitive information, promoting suspicious offers, and attempting to impersonate a legitimate bank, which are strong indicators of a scam. The website's design issues and the misleading URL further support the conclusion that it is not a legitimate site. The final verdict on the likelihood of this website being a scam is 10 out of 10.",
+  "verdict": 10
+}
+```

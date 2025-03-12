@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL contains a misspelled domain and an unusual TLD, which are potential indicators of a scam. The domain was registered very recently, and the contact information for the registrant is redacted, making it difficult to verify the legitimacy of the website. The screenshot could not be analyzed due to an error loading the website screenshot.",
+  "verdict": 8
+}
+```

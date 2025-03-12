@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website settings.fanpagepolicyactive.com appears to be a misspelled version of a legitimate domain, potentially aiming to deceive users. The domain was registered very recently, which is a common indicator of fraudulent sites. The WHOIS information is complete and the registrar is a legitimate one. However, the website is impersonating Facebook's Privacy Center, using their logo and interface to create a sense of urgency and potentially obtain personal information. The website lacks transparency and does not provide clear contact information. The URL does not contain any other obvious suspicious factors. The website's design and content are consistent with a legitimate website, but the context of the threat raises red flags. The website is hosted on a domain that does not appear to be affiliated with Facebook, which is a strong indicator of fraud. The threat of permanent deletion creates a sense of urgency, potentially prompting users to act without carefully scrutinizing the situation.",
+  "verdict": 9
+}
+```

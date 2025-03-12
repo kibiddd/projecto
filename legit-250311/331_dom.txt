@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 1996-12-09 and the registration information was last updated on 2024-08-14. This means the domain has been registered for over 28 years, which is not recent. Therefore, the domain is not recent.",
+  "answer2": "The contact information provided by the registrar (GoDaddy.com, LLC) is complete and not redacted or partial. Therefore, there are no suspicious contact details.",
+  "answer3": "GoDaddy.com, LLC is a well-known and reputable registrar. There is no indication that they are known for hosting malicious sites or lacking verification. Therefore, this factor does not indicate fraud.",
+  "answer4": "The domain status indicates that client actions such as deletion, renewal, transfer, and update are prohibited. This could be a red flag, but it is not necessarily indicative of fraud. It could be a legitimate restriction set by the domain owner or the registrar.",
+  "verdict": 1
+}
+```

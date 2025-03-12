@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'jiwang.org' appears to be a deceptive domain with a misspelled name, which is a common tactic used by fraudsters. The domain was registered over 26 years ago, and the registrant, admin, and tech contact information is redacted for privacy. The website displays an error message, and there is no offer or request for personal information or payment. The website has a professional design, but the error page is minimal and doesn't give much information about the quality of the site as a whole. Contact information is provided in the footer, along with copyright and the platform it uses (Invision Community), which increase the trustworthiness of the website. However, the content of the website is not clear, and more information would be needed to assess the legitimacy further. The website could potentially be a scam, but it is not possible to determine with certainty based on the available information.",
+  "verdict": 5
+}
+```

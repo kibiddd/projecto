@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website, hotelpenn.com, appears to be a legitimate hotel booking site based on the URL, domain registration, and screenshot analysis. The domain is not recent, but it is not expiring soon, and the WHOIS information is complete and not suspicious. The website seems to be professionally designed and likely provides contact information. There are no indications of phishing, suspicious offers, impersonation, or other red flags. The verdict is 1, indicating it is not likely a scam.",
+  "verdict": 1
+}
+```

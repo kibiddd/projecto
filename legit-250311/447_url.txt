@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "No misspellings or character substitutions detected. The domain 'zillow.com' is a legitimate and well-known domain.",
+  "TLD": "The TLD '.com' is a common and trusted TLD, not high-risk.",
+  "Patterns": "The URL is of a standard length and does not contain random strings or unusual characters.",
+  "Other": "The URL appears to be a legitimate Zillow listing URL, which is a recognized and trusted real estate website.",
+  "verdict": 1
+}
+```

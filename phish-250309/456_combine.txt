@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website https://www.roseflowersdelivery.org/answer/index.php appears to be a scam. The URL analysis shows no deceptive domain or suspicious patterns, but the domain was registered recently and the contact information is redacted. The screenshot analysis reveals that the website is requesting security questions and answers, which is a common phishing tactic, and it is impersonating a bank login, specifically the Arvest Bank website. These factors indicate a high risk of the website being a scam.",
+  "verdict": 9
+}
+```

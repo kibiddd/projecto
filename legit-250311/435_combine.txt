@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL provided points to a legitimate profile page on WhitePages.com, a well-known people search and background check website. The domain analysis indicates that the domain is not recent, but it is not expiring soon and is registered with a reputable registrar. The WHOIS information is complete and transparent. The screenshot analysis does not show any signs of phishing, suspicious offers, or impersonation. Based on the analysis, there are no strong indicators of fraud.",
+  "verdict": 1
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website is a legitimate sports statistics site for New Zealand soccer teams, with no signs of phishing, suspicious offers, or impersonation. The domain and URL analysis show no deceptive patterns, and the domain registration is not recent but not suspicious either. The screenshot analysis confirms the website's professional design and transparency. The website appears to be a legitimate sports statistics site with no potential risks.",
+  "verdict": 1
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain contains a misspelling of 'gold' as 'goldkixx'.",
+  "TLD": "The TLD '.com' is common and not considered high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters.",
+  "Other": "The URL contains a deceptive subdomain, which is a common tactic used in phishing and fraudulent activities.",
+  "verdict": 7
+}
+```

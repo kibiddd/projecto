@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2006-02-25 and the registration information was last updated on 2025-01-05. This means the domain has been registered for over 19 years, which is not recent. The domain is not expiring soon either, as the expiration date is 2027-02-25. Therefore, the domain is neither recent nor expiring soon.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or suspicious. The contact information for the registrar is also provided, including an abuse contact email and phone number.",
+  "answer3": "The registrar, NameCheap, Inc., is a well-known and reputable registrar. There is no indication that it hosts malicious sites or lacks verification.",
+  "answer4": "There are no other suspicious registration factors mentioned in the provided information.",
+  "verdict": 1
+}
+```

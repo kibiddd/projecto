@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question appears to be a cryptocurrency exchange platform, NDAX, hosted on a Webflow subdomain. The URL contains a hyphen instead of a dot, which is not standard practice and could be an attempt to confuse users. The domain was registered in 2013 and is not expiring soon, which does not indicate fraud. However, the domain is hosted by MarkMonitor Inc., a registrar known for hosting malicious sites, and has several prohibited flags that could indicate an attempt to prevent changes to the domain registration. The website has a modern design and does not appear to be a phishing site, but it is a test or development site, which could be a red flag. The website is transparent about its purpose and does not attempt to impersonate other legitimate sites. Overall, the potential risks include the unusual URL, the domain's association with a known malicious registrar, and the presence of prohibited flags. The website does not appear to be a scam, but there are some factors that could indicate potential fraud.",
+  "verdict": 5
+}
+```

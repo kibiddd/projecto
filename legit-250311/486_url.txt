@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'instantcast.com' does not appear to contain misspellings, character substitutions, or deceptive subdomains. It is a legitimate-looking domain name.",
+  "TLD": "The TLD '.com' is a common and trusted TLD, not considered high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It follows a standard URL structure.",
+  "Other": "The URL appears to be a legitimate website, possibly related to a casting service. No other suspicious factors are evident.",
+  "verdict": 1
+}
+```

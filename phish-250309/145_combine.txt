@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'blooprint.one' appears to be a deceptive domain with a misspelled name, an uncommon TLD, and URL parameters typical of OAuth 2.0 authentication rather than a standard website URL. The domain is relatively new, with a short registration period, and the registrar is known for hosting privacy-protected domains, which can be associated with fraudulent activities. The domain has several prohibitions that suggest it is being closely monitored or controlled. The lack of contact information and the inability to view the website screenshot further raise concerns about its legitimacy. The website may pose potential risks such as phishing, identity theft, or malware distribution.",
+  "verdict": 8
+}
+```

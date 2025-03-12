@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain'simple.wikipedia.org' is a misspelling of'simple.wikipedia.org', which is a legitimate domain. However, the URL is attempting to mimic the structure of a Wikipedia page, which could be a deceptive tactic.",
+  "TLD": "The TLD '.org' is commonly used for non-profit organizations and is not considered high-risk. It is a legitimate TLD.",
+  "Patterns": "The URL follows a standard pattern for Wikipedia pages, which is not inherently suspicious. It is not excessively long, does not contain random strings, and does not have unusual characters.",
+  "Other": "The URL redirects to a legitimate Wikipedia page, which is not suspicious. However, the deceptive domain name could be a phishing attempt to trick users into thinking they are visiting a legitimate Wikipedia page.",
+  "verdict": 3
+}
+```

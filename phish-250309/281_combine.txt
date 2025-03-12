@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL contains a misspelling of'metaklogin', which could be an attempt to deceive users into thinking it is a legitimate service. The domain registration is not recent and has a long registration expiry date. The website is asking for login credentials and impersonates the official Metamask website, which are strong indicators of a fraudulent website. The domain is hosted on Cloudflare's DNS servers, which is common and not suspicious. The website uses the Metamask branding, but the domain is suspicious, webflow.io is a website builder and is more likely to be a phishing website. The website is asking for login credentials, which is a strong indicator of a fraudulent website.",
+  "verdict": 10
+}
+```

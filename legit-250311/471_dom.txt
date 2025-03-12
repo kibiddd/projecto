@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2008-02-09 and the registration is not recent (more than 17 years old). It is not expiring soon (more than a year away).",
+  "answer2": "The contact information provided is complete and not redacted or partial.",
+  "answer3": "The registrar, INWX GmbH, is known for hosting malicious sites or lacking verification. The domain status indicates 'clientTransferProhibited', which is a common indicator of a domain being used for spam or other malicious activities.",
+  "answer4": "The domain is over 17 years old, which is unusual for a new or recently created domain. The domain status indicates 'clientTransferProhibited', which is a common indicator of a domain being used for spam or other malicious activities.",
+  "verdict": 9
+}
+```

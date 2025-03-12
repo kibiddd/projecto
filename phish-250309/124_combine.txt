@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a phishing scam. It uses a misspelled domain extension, requests personal information, and attempts to impersonate a legitimate service. The domain is not recent and has registration flags that could be suspicious. The website's design and lack of transparency further indicate it is not a legitimate service. The URL contains a date, which is a common tactic in phishing scams to create a sense of urgency.",
+  "verdict": 10
+}
+```

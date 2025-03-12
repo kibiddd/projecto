@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website https://www.csus.edu/ is associated with California State University, Sacramento, which is a legitimate institution. The domain is registered by a reputable registrar, CENIC.ORG, which has a history of hosting malicious sites, raising concerns. However, the website itself does not appear to be directly engaging in phishing attempts and has a professional design and transparent information. Despite the registrar's reputation, the website's content and contact information are legitimate and not indicative of a scam. The overall risk is moderate due to the registrar's history but mitigated by the website's legitimate appearance and content.",
+  "verdict": 4
+}
+```

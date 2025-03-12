@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'porn-star.com' is deceptive as it uses a common word 'porn' which is often associated with adult content and may be used to mislead users. The use of 'cherokee' in the subdomain could be an attempt to appear legitimate or culturally specific, but it does not necessarily indicate deception.",
+  "TLD": "The TLD '.com' is a common and trusted TLD, so it does not indicate a high risk of fraud.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It follows a standard URL structure.",
+  "Other": "The URL contains adult content, which is not inherently fraudulent, but it may raise concerns for users looking for non-adult content. The use of 'porn-star.com' could be misleading for users expecting a different type of content.",
+  "verdict": 3
+}
+```

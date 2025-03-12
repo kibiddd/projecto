@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'fighters.com/06/22/bellator-46-picks-and-predictions' appears to be a legitimate sports-related site, specifically related to Bellator MMA events. The URL, domain, and screenshot analysis do not indicate any immediate signs of a scam. The domain is registered by a reputable registrar, and the website design is professional. However, the website is currently showing an error page, which could be due to various reasons such as content being moved or temporarily unavailable. The contact information provided is complete and appears legitimate. The website does not seem to be asking for personal information or payment, and there are no obvious signs of phishing or impersonation. The error page does not include any suspicious offers or content. The website's content and contact information suggest a level of transparency. Overall, the website seems to be a legitimate sports-related site, but the error page could be a temporary issue.",
+  "verdict": 1
+}
+```

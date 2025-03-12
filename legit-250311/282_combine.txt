@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "Shortfilmcentral.com is a website that appears to be a legitimate platform for short films, with a professional and clean website format. The domain is registered by a reputable registrar, Gandi SAS, and has a long registration period. The website does not appear to be requesting personal information or payment, and it provides clear and trustworthy contact information. Based on the provided analysis, there are no apparent signs of a scam.",
+  "verdict": 1
+}
+```

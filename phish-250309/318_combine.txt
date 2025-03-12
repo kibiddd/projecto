@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL 'https://prakansh07.github.io/Netflix-Home' appears to be a GitHub user profile, which is not typically associated with fraud. The domain 'prakansh07.github.io' is a legitimate GitHub user profile, and the '.io' TLD is commonly used for hosting services and is not considered high-risk. The domain was registered more than 6 months ago and is not expiring soon. The website is a mock-up or demonstration site, impersonating Netflix, and it requests an email address, which could be used for phishing attempts. However, it does not directly ask for payment information. The website's design is generally clean, with good image quality and typography, but it is just a clone without interactivity. The website does not contain excessive length, random strings, or unusual characters, and it follows a standard URL structure.",
+  "verdict": 5
+}
+```

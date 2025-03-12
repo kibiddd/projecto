@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL contains a misspelling of 'apple' as 'aple', which is a common tactic used in phishing attempts. The domain was registered less than 6 months ago, which is a potential indicator of fraud. The WHOIS information is complete and the registrar is reputable. However, the domain name contains too many parts, which contravenes the Nominet UK naming rules. The website appears to be asking to protect your account, which may involve security steps and could be a phishing attempt. The URL is highly suspicious and tries to mimic a legitimate security-related message, but the URL does not inspire trust. The website's design appears clean but the URL suggests a phishing attempt. The website tries to impersonate a security notification to make the user believe it's a secure or official message. The URL is highly suspicious and uses the name 'aplewisandsons.co.uk,' but it's likely a spoof or compromised domain used for phishing. The 'policy-violation' phrase in the URL is a common tactic to induce a sense of urgency.",
+  "verdict": 9
+}
+```

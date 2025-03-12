@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2006-02-16 and the updated date is 2025-02-03, which means it has been registered for over 19 years. Therefore, it is not recent (less than 6 months) nor expiring soon (less than a year).",
+  "answer2": "The WHOIS information provided is complete and there is no redacted or suspicious contact information.",
+  "answer3": "GoDaddy.com, LLC is a well-known and reputable registrar. There is no indication that it hosts malicious sites or lacks verification.",
+  "answer4": "The domain status indicates that client actions such as deletion, renewal, transfer, and update are prohibited. This could be a red flag, but it is not necessarily indicative of fraud. It could be a legitimate restriction set by the domain owner.",
+  "verdict": 1
+}
+```

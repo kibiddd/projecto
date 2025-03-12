@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website Fujian Zhiyuntong (fujianzhiyuntong.com) appears to be a legitimate Chinese company based on the domain name analysis. However, the domain registration is expiring soon, and the registrar is associated with Network Solutions, which has hosted malicious sites in the past. The website prompts for a username, which could be part of a phishing attempt, and lacks transparency with missing contact information. The website's appearance has some formatting issues and possible typos, and the domain name does not match the brand name Appru, which is suspicious. The website's potential risks include phishing attempts and fraudulent activities due to the lack of transparency and suspicious domain name.",
+  "verdict": 7
+}
+```

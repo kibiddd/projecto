@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question appears to be a scam. The URL contains a deceptive domain with a hyphen instead of a dot, which is a common tactic used by fraudsters. The domain registration is not recent and is managed by a reputable registrar, which does not indicate fraud. However, the website's design and formatting are professional, and it does not contain any obvious typos. The website appears to be a legitimate Ledger Live web app, but it is important to verify the URL, as phishing attacks often use similar-looking URLs. The website lacks clear and trustworthy contact information, and the URL is very suspicious, attempting to impersonate the official Ledger website. The website is hosted on webflow.io, which allows anyone to create a website, making it easier to impersonate legitimate sites. The name 'ledgder' is also a very common typo to mislead users. The website's attempt to mimic the appearance of the Ledger site and the unusual URL indicate a high risk of fraud.",
+  "verdict": 9
+}
+```

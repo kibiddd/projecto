@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'vicc.org' appears to be a misspelling of 'victim.org', which is a common tactic used by fraudsters to deceive users into thinking they are visiting a legitimate site.",
+  "TLD": "The TLD '.org' is commonly used by legitimate organizations, but it can also be used by fraudulent sites. However, it is not considered high-risk.",
+  "Patterns": "The URL does not contain any suspicious patterns such as excessive length, random strings, or unusual characters.",
+  "Other": "The URL does not contain any other suspicious factors.",
+  "verdict": 3
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The Fashionencyclopedia website appears to be a legitimate fashion-related site with a long-standing domain registration, a common TLD, and no immediate expiration. WHOIS information is complete and provided by a reputable registrar. The website does not exhibit phishing, suspicious offers, or impersonation, and is well-designed and professional. No immediate risks are apparent from the URL, domain registration, or website screenshot.",
+  "verdict": 1
+}
+```

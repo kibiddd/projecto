@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question is Scribd, a legitimate document-sharing platform. The URL, domain registration, and screenshot analysis do not indicate any signs of a scam. The domain is registered by a reputable registrar, Gandi SAS, and the website has a professional design and layout. The website is transparent and does not appear to be impersonating any other entity. The only potential risk is that the document requires a subscription to access, which is a common practice for this platform and not necessarily a sign of fraudulent activity.",
+  "verdict": 1
+}
+```

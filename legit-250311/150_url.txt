@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "No misspellings, character substitutions, or deceptive subdomains detected.",
+  "TLD": "The TLD '.org' is common and not considered high-risk.",
+  "Patterns": "The URL contains a query string with encoded characters, which is not inherently suspicious.",
+  "Other": "The URL appears to be a legitimate query for the arXiv.org website, specifically searching for papers related to 'kormendy' in the 'astro-ph' archive.",
+  "verdict": 1
+}
+```

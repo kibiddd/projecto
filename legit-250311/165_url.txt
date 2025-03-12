@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain'mediafire.com' is a legitimate and commonly used domain. There are no misspellings, character substitutions, or deceptive subdomains present in this URL.",
+  "TLD": "The TLD '.com' is a common and trusted TLD. It is not considered high-risk or uncommon.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It follows a standard URL structure.",
+  "Other": "The URL appears to be a legitimate MediaFire link, which is a well-known file hosting service. There are no other suspicious factors present.",
+  "verdict": 1
+}
+```

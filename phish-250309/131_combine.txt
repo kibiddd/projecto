@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question appears to be a scam, attempting to impersonate Coinbase by using a misspelled domain name and a simplified design. It requests personal information and offers a suspicious incentive. The domain is registered by a reputable registrar, but the lack of transparency and the phishing-like behavior are concerning. The website's design and offer are red flags for a scam.",
+  "verdict": 9
+}
+```

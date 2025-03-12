@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL contains a misspelled domain name and uses a URL shortener, which are potential red flags. The domain was registered over a year ago and is hosted on Vercel, a platform that has been associated with hosting malicious sites. The domain status indicates that client transfers and updates are prohibited, and the domain is DNSSEC unsigned. The registrant, admin, and tech contact information is redacted for privacy. The website screenshot could not be loaded, which may indicate that the site is not functioning properly or is intentionally blocking screenshots.",
+  "verdict": 8
+}
+```

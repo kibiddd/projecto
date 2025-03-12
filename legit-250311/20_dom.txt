@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2002-01-08 and the registration information was last updated on 2025-03-11, which means the domain has been registered for over 23 years. Therefore, it is not recent.",
+  "answer2": "The contact information provided by the registrar is complete and appears to be legitimate.",
+  "answer3": "The registrar, Hosting Concepts B.V. d/b/a Registrar.eu, is a well-known and reputable registrar. There is no indication that they are known for hosting malicious sites or lacking verification.",
+  "answer4": "The domain status indicates that client transfers are prohibited, which is a common restriction for domains managed by certain registrars. There are no other suspicious registration factors mentioned.",
+  "verdict": 1
+}
+```

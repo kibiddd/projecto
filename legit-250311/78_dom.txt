@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2003-12-14 and the registration is expiring on 2025-12-14, which is more than 21 years from now. Therefore, it is not recent nor expiring soon.",
+  "answer2": "The contact information provided (Abuse Contact Email and Phone) is complete and does not appear to be redacted or suspicious.",
+  "answer3": "The registrar, CSC Corporate Domains, Inc., is a legitimate registrar and there is no indication that it hosts malicious sites or lacks verification.",
+  "answer4": "The domain status indicates 'clientTransferProhibited', which is a legitimate restriction and not inherently suspicious. The DNSSEC is unsigned, which is not uncommon for many domains and does not necessarily indicate fraud.",
+  "verdict": 1
+}
+```

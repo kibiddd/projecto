@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain registration is not recent; it was created on 2008-01-29, which is well over 6 months ago. It is also not expiring soon, as the expiration date is 2026-01-29, which is more than a year away. Therefore, this factor does not indicate fraud.",
+  "answer2": "The contact information provided is complete and does not appear to be redacted or suspicious. The registrar's abuse contact email and phone number are provided, which is a positive sign. This factor does not indicate fraud.",
+  "answer3": "The registrar, Name.com, Inc., is not widely known for hosting malicious sites, and there is no information provided that suggests it lacks verification. This factor does not indicate fraud.",
+  "answer4": "The domain status indicates that client transfers are prohibited, which is a common practice for domains with a high level of security or those that are part of a larger network. The DNSSEC is unsigned, which is not necessarily a red flag, as many domains do not use DNSSEC. The last update of the whois database was recent, which is good practice. There are no other suspicious registration factors provided. This factor does not indicate fraud.",
+  "verdict": 1
+}
+```

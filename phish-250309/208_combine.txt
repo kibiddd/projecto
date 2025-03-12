@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'fernandatozzih.github.io/Clone-Instragram' appears to be a phishing attempt, mimicking the Instagram login page to steal user credentials. The domain contains a misspelling of a common name, which could be an attempt to deceive. The '.io' TLD is not inherently high-risk but is less common. The domain was registered over six months ago and is set to expire more than a year away. The website's design is an imitation of Instagram, with potential inconsistencies and no contact information provided. The URL uses a personal GitHub page, which is another suspicious sign. The website is requesting login credentials, which is a typical phishing attempt. The website's appearance is not entirely polished, and it is designed to impersonate the legitimate Instagram login page to steal users' credentials. The website's potential risks include stealing users' login credentials and personal information.",
+  "verdict": 9
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'hackingetico.cl' appears to be a phishing scam, mimicking the Instagram login page to steal user credentials. The domain was recently registered, and the contact information is redacted. The URL and website design are suspicious and designed to deceive users. The website's purpose is to harvest user credentials, posing significant risks to users.",
+  "verdict": 10
+}
+```

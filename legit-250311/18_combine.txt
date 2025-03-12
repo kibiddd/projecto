@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a legitimate Facebook page for a youth hockey club in London, with a standard Facebook layout and footer. The domain was registered in 1997 and is not expiring soon, and the registrar is a well-known and legitimate entity. However, the screenshot analysis suggests that the login page could potentially be a phishing attempt, as it is requesting login credentials. The context of the page is important, and without more information, it is difficult to determine the authenticity of the URL provided. The final verdict is a 6, indicating a moderate risk of the website being a scam.",
+  "verdict": 6
+}
+```

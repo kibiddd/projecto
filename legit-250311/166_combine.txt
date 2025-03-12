@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL contains a misspelled word 'Gorilla' instead of 'Gorilla', which could be a deceptive attempt to mislead users. The domain 'last.fm' is legitimate and commonly used for music-related services. The TLD '.fm' is also legitimate and commonly used for music-related services. The domain was registered over 23 years ago, which is not recent. The contact information provided is legitimate and there is no redaction or suspicious information. MarkMonitor, Inc. is a reputable registrar known for hosting a variety of domains, including those of well-known companies. The website prompts users to sign up for a Last.fm account, which may involve providing personal information, but it seems legitimate as it is a common feature on the site. The website design appears to be of standard quality, with no obvious issues. There are no visible typos. The website provides a lot of information about the music, suggesting a level of transparency.",
+  "verdict": 1
+}
+```

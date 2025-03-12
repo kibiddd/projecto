@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2021-04-14 and is set to expire on 2025-04-14, which is less than a year from the current date of 2025-03-07. This indicates that the domain is relatively recent and has less than a year before it expires.",
+  "answer2": "The contact information provided for the registrant and administrative contacts is redacted and partial, with the email address being 'nve-9y4n3mna@namesproprivacy.ca'. This is suspicious as it does not provide a clear and direct way to contact the registrant.",
+  "answer3": "The registrar, Namespro Solutions Inc., is not widely known for hosting malicious sites, but it is important to note that the WHOIS data indicates that the domain is clientTransferProhibited. This could be a red flag as it may suggest that the domain is not easily transferable, which is unusual for a legitimate business domain.",
+  "answer4": "Other suspicious registration factors include the use of a privacy service to hide the registrant's contact information, the domain being set to expire soon, and the domain being clientTransferProhibited. These factors could indicate potential fraud or an attempt to obscure the identity of the domain owner.",
+  "verdict": 7
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL provided appears to be a legitimate funeral home website with a common TLD and no deceptive domain patterns. The domain has been registered for over 17 years, and the WHOIS information is complete and provided by a reputable registrar. However, the screenshot analysis indicates that the website is currently blocked, which could be due to various reasons, including potential security issues. The website does not appear to be requesting personal information or payment, and there are no signs of phishing or suspicious offers. The format of the block page is standard, but the blocked status limits the evaluation of the original website's transparency. Overall, the potential risks are low, but the blocked status warrants caution.",
+  "verdict": 2
+}
+```

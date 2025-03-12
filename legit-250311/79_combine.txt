@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website is a Wikipedia article about the Conseil supérieur de la langue française (Quebec). The URL, domain registration, and screenshot analysis do not indicate any signs of a scam. The domain is registered by the Wikimedia Foundation, Inc., a reputable organization, and the website follows a standard Wikipedia format, providing factual information and referencing sources. The domain registration is not recent, but it is not indicative of fraud. The website is transparent and does not offer any suspicious offers or impersonate other entities.",
+  "verdict": 1
+}
+```

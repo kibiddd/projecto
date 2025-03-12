@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 22-Mar-2023 and is set to expire on 22-Mar-2026, which is less than a year from the current date of 2025-03-07. This indicates that the domain registration is expiring soon, which can be a potential fraud indicator as it may be a short-term registration often used for malicious purposes.",
+  "answer2": "The contact information is not provided in the WHOIS data, which is a common practice for privacy reasons. However, the lack of contact information can be a red flag, especially if the domain is associated with a potentially fraudulent website.",
+  "answer3": "ANY-Web Limited is the registrar, and the WHOIS data indicates that Nominet was able to match the registrant's name and address against a 3rd party data source. There is no indication that ANY-Web Limited is known for hosting malicious sites or lacking verification. Therefore, this factor does not strongly indicate fraud.",
+  "answer4": "Other suspicious registration factors include the domain name 'hotels-scotland.co.uk' being used for a website that provides hotel information, which seems unrelated to the domain name. This mismatch can be a potential indicator of fraud, as it may suggest the domain was registered for purposes other than what it appears to be.",
+  "verdict": 7
+}
+```

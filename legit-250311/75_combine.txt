@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question, identified through the URL provided, appears to be a legitimate directory search page on Pipl.com, a well-known service for reverse searching and verifying identities. The domain analysis indicates that the domain is not recent and is set to expire well in the future, which is not uncommon for established domains. The registrar is reputable, and there are no immediate red flags in the domain's contact information or status. The screenshot analysis shows a 'Page Not Found' error, which is not uncommon and does not necessarily indicate a scam. The URL contains a search query, which is expected behavior for a directory search page. Overall, there are no indicators of a scam website based on the provided analysis.",
+  "verdict": 1
+}
+```

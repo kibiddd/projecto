@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'anthem.synology.me' appears to be a scam due to the deceptive domain name, the use of a high-risk TLD '.me', and the unusual practice of redacting contact information. The domain is not recent, but it is not expiring soon, which could indicate a long-term scam operation. The lack of a screenshot prevents further analysis of the website's content and design, which could provide additional clues. The use of a deceptive subdomain and the redaction of contact information are common indicators of phishing or fraudulent sites. The verdict is based on the URL and domain analysis, with a slight increase due to the redacted contact information.",
+  "verdict": 7
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL contains a misspelling of 'trezor' and uses a Webflow subdomain, which is not typical for the official Trezor brand. The domain was registered in 2013 and is not expiring soon, and the registrar is reputable. The website design appears professional, but the URL and domain are suspicious. The website mentions a 'Limited time offer!' which could be a red flag. The screenshot analysis suggests a slight chance of phishing due to the unusual domain. The website does not appear to be directly requesting personal information or payment, but the URL and domain are concerning. The website's branding closely aligns with the known Trezor brand, but the domain is not typical for the official Trezor website.",
+  "verdict": 7
+}
+```

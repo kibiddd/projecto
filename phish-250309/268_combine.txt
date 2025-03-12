@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'ladgerlivewaler.webflow.io' appears to be a phishing attempt, mimicking the legitimate Ledger website. The domain contains a misspelling of 'ledgerlive', which is a common tactic used by scammers to deceive users. The domain was registered over six months ago and is not expiring soon, which is not inherently suspicious. However, the website's request to 'Connect My Ledger' and the attempt to impersonate the Ledger website are strong indicators of a scam. The website's design is simple and hosted on Webflow, which is not typical for a well-established financial website. The URL itself is highly suspicious due to the misspelling. The domain is hosted by MarkMonitor Inc., a reputable registrar, which does not indicate fraud. The WHOIS information does not reveal any additional suspicious factors. The screenshot analysis suggests a high likelihood of the website being a scam, with a score of 9 out of 10.",
+  "verdict": 9
+}
+```

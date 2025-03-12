@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain registration is not recent; it was activated on 03-Mar-1986 and last updated on 25-Jan-2025. It is not expiring soon; it expires on 31-Jul-2025. Therefore, the domain is quite old and not a recent registration.",
+  "answer2": "The contact information provided is complete and not redacted or partial. The administrative and technical contacts are clearly listed with full names, addresses, phone numbers, and email addresses.",
+  "answer3": "The registrar, IU.EDU, is associated with Indiana University, which is a reputable institution. There is no indication that IU.EDU is known for hosting malicious sites or lacks verification. The domain is registered under the.EDU top-level domain, which is typically associated with educational institutions and is not commonly used for fraudulent activities.",
+  "answer4": "N/A",
+  "verdict": 1
+}
+```

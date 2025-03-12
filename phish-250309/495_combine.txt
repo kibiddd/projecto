@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'wap.weepoppets.com' has several indicators of a potential scam, including a deceptive domain with misspellings, a short-term domain registration, a registrar with a poor reputation for hosting malicious sites, and security concerns such as an unsigned DNSSEC. However, the inability to view the website's content due to an error prevents a full assessment of the website's appearance and functionality. The potential risks include phishing, malware distribution, and other malicious activities. The final verdict is based on the available information and the presence of multiple fraud indicators.",
+  "verdict": 7
+}
+```

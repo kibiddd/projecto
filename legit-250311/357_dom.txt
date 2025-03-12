@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 1996-02-22, which is well over 6 months old, and the expiration date is 2029-02-23, which is more than a year away. Therefore, it is not recent nor expiring soon. Explanation: The domain has been registered for a long time and has a long remaining registration period.",
+  "answer2": "The contact information provided by the registrar (abuse@godaddy.com, 480-624-2505) is complete and not redacted or suspicious. Explanation: The registrar provides full contact details for abuse reports.",
+  "answer3": "GoDaddy.com, LLC is a well-known and reputable registrar, and there is no indication that it hosts malicious sites or lacks verification. Explanation: GoDaddy is a reputable registrar with a good track record, and there is no evidence of hosting malicious sites.",
+  "answer4": "The domain status indicates that client actions such as delete, renew, transfer, and update are prohibited. This could be a red flag, but it is not necessarily indicative of fraud. Explanation: The prohibition of certain client actions could be due to various reasons, such as the domain being managed by a third party or having specific restrictions set by the owner.",
+  "verdict": 1
+}
+```

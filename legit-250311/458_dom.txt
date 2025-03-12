@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 1997-06-21, which is well over 6 months old and not expiring soon. Therefore, this factor does not indicate potential fraud.",
+  "answer2": "The contact information provided (Registrar Abuse Contact Email and Phone) is complete and not redacted or suspicious. Therefore, this factor does not indicate potential fraud.",
+  "answer3": "MarkMonitor Inc. is a reputable registrar known for hosting legitimate websites. There is no indication that this registrar is known for hosting malicious sites or lacking verification. Therefore, this factor does not indicate potential fraud.",
+  "answer4": "The domain status includes clientDeleteProhibited, clientTransferProhibited, and clientUpdateProhibited, which are common restrictions for certain types of domains (e.g., parked domains, domains with specific contractual agreements). These restrictions alone do not indicate fraud. However, the domain is registered with a reputable registrar and has a long history, which reduces the likelihood of fraud. Therefore, this factor does not indicate potential fraud.",
+  "verdict": 1
+}
+```

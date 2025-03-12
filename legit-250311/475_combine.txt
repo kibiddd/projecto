@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website increasebrainpower.com/deep-thinker.html claims to offer a product that significantly increases brainpower. The domain was registered in 2004 and is expiring in 2025, which is not recent. The WHOIS information is complete and the registrar is reputable. The website's design and contact information cannot be assessed from the given context. The claim of significantly increasing brainpower could be considered a suspicious offer. The website's transparency cannot be assessed from the given context. The website promotes a product that claims to enhance brainpower significantly, which can be potentially misleading if not supported by strong scientific evidence. The website does not appear to be a phishing site, but it may still pose potential risks due to its suspicious claims and lack of transparency.",
+  "verdict": 6
+}
+```

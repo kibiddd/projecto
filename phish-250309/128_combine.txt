@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a landing page for a cryptocurrency trading service, hosted on a subdomain of 'webflow.io', which is a legitimate website builder. The domain was registered over six months ago and is not expiring soon, which is not indicative of fraud. However, the domain is managed by MarkMonitor Inc., a registrar known for hosting malicious sites, and has several prohibited client actions, which could be a red flag. The website design is professional and does not appear to be directly requesting personal information or payments. The URL contains a deceptive subdomain, which could be a potential risk. Overall, the website does not appear to be a scam, but there are some factors that could indicate potential fraud.",
+  "verdict": 4
+}
+```

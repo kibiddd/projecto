@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'team.qhoyzs.cn' appears to be a phishing scam. The URL contains misspellings and character substitutions, the domain registration is recent and expiring soon, the contact information is incomplete, and the website is impersonating a Microsoft login page to steal user credentials. The website's design and certificate are also suspicious. The potential risks include identity theft, financial loss, and unauthorized access to personal accounts.",
+  "verdict": 10
+}
+```

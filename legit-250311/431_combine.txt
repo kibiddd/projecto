@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'wingsironore.com' has several red flags indicating it may be a scam. The domain contains a misspelling of a legitimate domain, was registered recently, lacks contact information, and has a blank white page. These factors suggest a high potential for fraud.",
+  "verdict": 9
+}
+```

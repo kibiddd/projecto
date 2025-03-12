@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain'mormonthirdeye' contains a misspelling of'mormonthirdeye', which is a deceptive subdomain intended to mislead users.",
+  "TLD": "The TLD '.com' is a common and trusted TLD, so it does not indicate a high risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters, so it does not exhibit suspicious patterns.",
+  "Other": "The URL contains a deceptive subdomain, which is a significant factor in determining its likelihood of being fraudulent.",
+  "verdict": 7
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "Jambase.com is a concert listing website with a common TLD and a well-maintained professional design. The domain is not recent and is managed by a reputable registrar. The website does not appear to be directly requesting sensitive personal information or payment, and there are no suspicious offers or indications of phishing, impersonation, or other malicious activities. The contact information is provided and the website seems transparent. Overall, there are no obvious red flags suggesting that it is a scam website.",
+  "verdict": 1
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'worthpoint.com' appears to be a misspelling of 'worthpoint.com'. The misspelling of 'point' to 'point' is a common tactic used in phishing attempts to deceive users into thinking they are visiting a legitimate site.",
+  "TLD": "The TLD '.com' is a common and trusted TLD. It is not considered high-risk or uncommon.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It follows a standard URL structure.",
+  "Other": "The URL contains a misspelled domain, which is a common indicator of phishing attempts. The rest of the URL appears to be a legitimate request for information about a specific topic.",
+  "verdict": 7
+}
+```

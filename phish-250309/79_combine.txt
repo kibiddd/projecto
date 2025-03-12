@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'pagina.pro/facebooksupport5959' appears to be a phishing scam, attempting to mimic the Facebook login page to steal user credentials. The domain 'pagina.pro' contains a misspelling of 'pagina.com', which is a common tactic used by fraudsters. The domain was registered on 2020-01-27 and is expiring on 2026-01-27, which is more than 6 months away. The domain status includes clientDeleteProhibited, clientRenewProhibited, clientTransferProhibited, and clientUpdateProhibited, which are unusual and could indicate that the domain is being managed by a third party or is under some form of restriction. The website is asking for an email/phone number and password, which is typical of a Facebook login page, but could be a phishing attempt if the URL is not the official Facebook domain. The website does not provide any contact information and is not the official Facebook domain, which indicates a lack of transparency and legitimacy. The website is clearly impersonating the Facebook login page to steal user credentials.",
+  "verdict": 10
+}
+```

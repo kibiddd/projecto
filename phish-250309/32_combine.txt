@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'chinese-induced-societies-readings.trycloudflare.com' appears to be a scam. The URL contains a misspelled domain name, mimicking a legitimate domain, and the website is impersonating a Google sign-in page. The domain is older than 6 months but less than a year, and the contact information is complete. However, the DNSSEC is unsigned, and the domain status indicates prohibited client and server transfers, updates, and deletions. The website requests an email or phone and password, which is typical for phishing. The combination of these factors makes the website highly suspicious.",
+  "verdict": 9
+}
+```

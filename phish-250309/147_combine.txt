@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL contains a misspelled domain, which could be an attempt to deceive users. The domain was registered over 17 years ago and is not expiring soon. The domain is managed by a third party, which is common for Glitch-hosted domains. The website is requesting username and password, which is a form of phishing, and appears to be impersonating Navy Federal Credit Union. The TLD '.glitch.me' is associated with a legitimate service, but the misspelled domain and phishing attempt make it suspicious.",
+  "verdict": 8
+}
+```

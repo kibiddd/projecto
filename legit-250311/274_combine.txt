@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website trails.com/tcatalog_trail.aspx?trailid=BGS111-017 appears to be a legitimate domain with a common TLD and no deceptive domain patterns. However, the domain is expiring soon, which could be a potential fraud indicator. The WHOIS information is complete and the registrar is reputable. The website does not appear to be requesting personal information or payment, but the design is poor and a 403 error page is shown. The website is not accessible, indicating a geographical restriction or server issue. Overall, the website seems to be a legitimate website, but there are some potential risks associated with the domain expiring soon and the website being inaccessible.",
+  "verdict": 5
+}
+```

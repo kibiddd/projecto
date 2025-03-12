@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website hobbyfever.com appears to be a hobby store that has recently closed due to supply issues. The domain is not recent and is not expiring soon. The registrar is known for hosting malicious sites, and the domain has several prohibited client actions and lacks DNSSEC. The website does not request personal information or payment and provides a physical address and phone numbers. However, the domain's association with a registrar known for malicious sites and the presence of prohibited client actions are significant red flags. The website's closure notice seems plausible, but the potential risks associated with the domain's registration and the registrar's reputation cannot be ignored.",
+  "verdict": 7
+}
+```

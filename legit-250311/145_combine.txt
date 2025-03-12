@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website whb3pellc.com is a potential scam due to the deceptive domain name, recent domain registration, redacted contact information, and a blank page on the website. The website does not offer any products or services and lacks transparency. The potential risks include phishing attempts, fraudulent activities, and impersonation.",
+  "verdict": 9
+}
+```

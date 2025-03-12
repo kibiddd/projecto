@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website josephbenami.com appears to be a legitimate website with a common TLD and a domain that is not recent or expiring soon. The WHOIS information is complete and the registrar is a well-known one. The website does not appear to be requesting any personal information or payment, and it has a clean design. However, the domain status indicates that the domain owner cannot delete, transfer, or update the domain without the consent of the registrar, which could be a red flag for potential fraud. The website does not offer any product or service, and there is no clear contact information. Based on the analysis, the website josephbenami.com is not likely to be a scam website.",
+  "verdict": 1
+}
+```

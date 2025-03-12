@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 1995-05-16, which is far beyond the 6-month threshold. It is not recent and is not expiring soon. Therefore, this factor does not indicate potential fraud.",
+  "answer2": "The contact information provided by the registrar (abusecomplaints@markmonitor.com and +1.2086851750) is complete and does not appear to be redacted or suspicious. This factor does not indicate potential fraud.",
+  "answer3": "MarkMonitor Inc. is a well-known registrar and is not typically associated with hosting malicious sites. There is no indication that this registrar lacks verification. This factor does not indicate potential fraud.",
+  "answer4": "The domain status includes clientDeleteProhibited, clientTransferProhibited, and clientUpdateProhibited, which are unusual for a legitimate domain. This could be a red flag for potential fraud. Additionally, the domain is unsigned for DNSSEC, which is a security concern. This factor indicates potential fraud.",
+  "verdict": 3
+}
+```

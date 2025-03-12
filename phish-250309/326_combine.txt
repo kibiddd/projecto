@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question appears to be a scam. The URL contains a misspelling of 'r2' as 'r2.dev', which could be an attempt to deceive users. The domain is relatively new and has less than a year before it expires, which is a common characteristic of scam websites. The contact information for the registrant, admin, and tech contacts is redacted, which is a red flag. CloudFlare, Inc. is a reputable registrar, but the lack of contact information is concerning. The domain status is 'clientDeleteProhibited', 'clientTransferProhibited', and 'clientUpdateProhibited', which are common tactics used by scammers. The website is asking for a security check, which could be a way to phish for credentials. The website is impersonating Microsoft's sign-in page, and the URL is suspicious. The error message suggests a problem with the session. The website is asking for a security check, which could be a way to phish for credentials. The website is impersonating Microsoft's sign-in page, and the URL is suspicious. The error message suggests a problem with the session.",
+  "verdict": 9
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a legitimate UK-based company with a standard URL structure and a common TLD.co.uk. The domain was registered recently and is set to expire soon, which could be a potential fraud indicator. The registrar is reputable, and there are no other suspicious registration factors mentioned. The website design is basic and not necessarily poor, but the presence of the text 'Country not allowed' at the top of the image could indicate a technical issue or a geographic restriction, which could be a red flag. Overall, the website seems to be legitimate, but the recent domain registration and the unusual text at the top of the image warrant caution.",
+  "verdict": 4
+}
+```

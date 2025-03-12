@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website Deadspin.com is a legitimate news source with a long-standing domain registration and reputable registrar. The URL is from a well-known source, and the WHOIS information is complete and not indicative of fraud. The website's design is professional, and it adheres to standard privacy practices. However, the presence of a promotional advertisement for a betting platform could be considered a suspicious offer. The website's cookie consent and transparency practices are standard and not indicative of phishing. Overall, the potential risks are minimal, but the suspicious offer warrants caution.",
+  "verdict": 2
+}
+```

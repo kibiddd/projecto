@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL 'http://steambonus-card.com/s/KTNQNT' appears to be a misspelled version of'steam-bonus-card.com', which could be an attempt to deceive users into thinking it is related to the legitimate Steam platform. The domain'steambonus-card.com' was created recently and is registered with a registrar known for hosting malicious sites. The domain status includes several prohibitions, which is a strong indicator of potential fraud. However, a screenshot of the website could not be analyzed due to an error loading the website screenshot.",
+  "verdict": 9
+}
+```

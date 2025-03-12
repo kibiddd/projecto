@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website, gladworks.com, appears to be a legitimate company with a professional design and a transparent team page. The domain is registered by a reputable registrar and is not expiring soon. The URL does not contain any deceptive elements, and the website does not seem to be a phishing site or offering suspicious products or services. However, the domain is over 25 years old, which is unusual for a new or recently created domain. The domain status indicates that client transfers are prohibited, which could be a red flag for some users. Overall, the website seems to be legitimate, but the age of the domain and the prohibition on client transfers could be potential risks.",
+  "verdict": 2
+}
+```

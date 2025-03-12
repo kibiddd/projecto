@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'anelectriciancom.com' appears to be a legitimate company based on the URL analysis, which shows no deceptive domain patterns and a common TLD. The domain registration is recent and the registrar is reputable. However, the domain is expiring soon, which could be a red flag. The screenshot analysis indicates that the website requests security questions and answers, which is typical for legitimate banking sites, but the URL does not match the brand name displayed on the website. The website's format appears professional, but there are concerns due to the mismatch between the URL and the displayed brand name, and the recent domain registration.",
+  "verdict": 6
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'pepetocoinsupport.pages.dev' appears to be a scam. The domain uses a free hosting service, which is often associated with malicious sites. The domain name is misspelled, which could be an attempt to deceive users. The website asks users to connect their wallets, which could be a phishing attempt. The domain is not recent, and the registrant's contact information is redacted. The website lacks transparency and may be impersonating a legitimate cryptocurrency-related site. The context in which the user encounters this website matters, as it may be associated with the Pepe coin, which is known for scams.",
+  "verdict": 9
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website showtimepettis.com appears to be a legitimate company with a common TLD and a domain name that does not contain misspellings or unusual characters. However, the domain registration is not recent and is expiring soon, which could be a red flag. The contact information provided by the registrar is valid and accessible, and GoDaddy is a reputable registrar. The screenshot analysis indicates that the website appears to be a placeholder or under construction, with only a white screen, which raises suspicion. The lack of content and basic design elements strongly suggests that this website is not fully functional or potentially abandoned. Overall, the potential risks include the possibility of the website being abandoned or not fully functional, which could lead to a lack of trust and credibility.",
+  "verdict": 6
+}
+```

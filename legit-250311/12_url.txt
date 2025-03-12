@@ -1,0 +1,7 @@
+```json
+{
+  "Deceptive Domain": "The domain 'wiki.answers.com' is a legitimate domain, but the URL provided is incorrect as it should be 'https://www.answers.com' or 'https://www.answers.com/' for the correct website. The URL provided is not a direct match to any known legitimate domain, which could be a sign of an attempt to deceive or mislead.",
+  "TLD": "The TLD '.com' is a common and trusted TLD, so there are no concerns here.",
+  "Patterns": "The URL contains an incorrect path ('Q/How_old_is_Yanic_Truesdale' instead of a valid question ID or page path). This could be an attempt to mislead users into thinking they are visiting a legitimate page when they are not.",
+  "Other": "The URL does not contain any other obvious signs of being fraudulent, such as excessive length, random strings, or unusual characters.",
+  "verdict": 

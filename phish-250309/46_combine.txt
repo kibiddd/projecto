@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL 'http://finanmaiscredwwsw.site/dados.php' contains misspellings and unusual characters, suggesting an attempt to obfuscate the domain name. The domain was registered very recently and is expiring soon, which is a common indicator of potential fraud. The registrar, HOSTINGER, is known for hosting a large number of domains, some of which may be malicious. The domain status includes several prohibitions and is unsigned for DNSSEC, which are potential fraud indicators. However, the screenshot could not be analyzed due to an error.",
+  "verdict": 7
+}
+```

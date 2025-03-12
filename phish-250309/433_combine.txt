@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL contains a hyphen instead of a dot, which is not standard practice and could be an attempt to deceive users. The domain was registered in 2013 and is not expiring soon, which does not indicate fraud. The registrar is reputable, and the domain has common restrictions that do not indicate fraud. The screenshot analysis shows no phishing, suspicious offers, or impersonation, and the website appears professional and transparent. Overall, the website seems to be a legitimate marketing page for Ledger products.",
+  "verdict": 1
+}
+```

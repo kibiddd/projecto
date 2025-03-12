@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website vexti.io appears to be a scam website. The URL contains a misspelled domain, unusual patterns, and lacks a clear path. The domain has been registered for a long period, and the contact information is redacted. The website is hosted by third-party nameservers, which could be associated with malicious activities. The website is requesting an email address, which is a common tactic in phishing attempts. The design appears professional, but the suspicious URL raises a red flag. The website is impersonating OneDrive/Microsoft to obtain user credentials. The URL `vexti.io/drive/?omn=3mail@b.c` looks suspicious. A legitimate OneDrive link would use a Microsoft domain. The website could potentially steal user information.",
+  "verdict": 9
+}
+```

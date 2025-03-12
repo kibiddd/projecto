@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website is a legitimate Facebook page for Westons Kewpee Burger, with a legitimate domain, a non-suspicious domain registration history, and a professionally designed website. There are no signs of phishing, suspicious offers, or impersonation. The website appears to be safe and not a scam.",
+  "verdict": 1
+}
+```

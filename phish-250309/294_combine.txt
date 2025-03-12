@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL contains misspellings and an uncommon TLD, which are indicators of a potential scam. The domain registration is expiring soon, which could be a tactic used by scammers to avoid detection. The WHOIS information is complete and the registrar is reputable, but the domain status indicates that client transfers are prohibited. The lack of a website screenshot prevents further analysis of the site's content and design, which could provide additional clues about its legitimacy.",
+  "verdict": 7
+}
+```

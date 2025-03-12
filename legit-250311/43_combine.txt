@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website milebymile.com appears to be a legitimate travel guide for Missouri, USA, with a common TLD and no deceptive domain patterns. The domain was created in 2002 and is not expiring soon, but the registrar Rebel Ltd has been associated with hosting fraudulent domains. The website does not appear to be a scam based on the screenshot analysis, as it does not request personal information, offer suspicious services, or have typos. However, the presence of Rebel Ltd as the registrar raises some concerns. The website has a simple design and provides contact information and legal links, but an error page indicates potential website issues or the page has been moved.",
+  "verdict": 3
+}
+```

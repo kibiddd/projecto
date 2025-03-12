@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'asia-basket.com' does not contain obvious misspellings or character substitutions. It appears to be a legitimate domain name, although it is not a common one.",
+  "TLD": "The TLD '.com' is a common and trusted TLD, so it does not indicate a high risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It follows a standard URL structure.",
+  "Other": "The URL does not contain any other suspicious factors. It appears to be a legitimate URL.",
+  "verdict": 1
+}
+```

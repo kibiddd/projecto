@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question appears to be a Webflow-hosted site with a misspelled domain name that mimics the legitimate cryptocurrency exchange 'blockfi'. The domain was registered in 2013 and is not expiring soon, which is not a typical characteristic of scam websites. However, the use of a reputable registrar known for hosting malicious sites, along with the prohibition of certain domain management actions, raises some red flags. The screenshot analysis suggests that while the website may not directly request personal information or payments, the 'Get Started' button could lead to a phishing attempt, and the professional design could be a facade for a scam. The offer of 'up to 3.5% back in crypto' is not inherently suspicious, but the non-standard domain and the potential for impersonation increase the risk. The lack of transparency and the possibility of impersonation are also concerning. Overall, the website could be a scam, but further investigation is needed to confirm.",
+  "verdict": 7
+}
+```

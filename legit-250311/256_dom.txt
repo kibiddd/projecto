@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2009-02-21 and the registration is not recent (more than 6 years old). The expiry date is in the future (2026-02-21), so it is not expiring soon (less than a year).",
+  "answer2": "The contact information provided (Abuse Contact Email: abuse@access-reg.com, Abuse Contact Phone: +81 5031451230) is not redacted, partial, or suspicious. It appears to be complete and valid.",
+  "answer3": "The registrar, Access Japan Co, Ltd. dba REGne, is not known for hosting malicious sites or lacking verification. The registrar's WHOIS server is whois.regne.net, which is a legitimate registrar.",
+  "answer4": "The domain status indicates 'clientTransferProhibited', which means the domain cannot be transferred to another registrar. This is not inherently suspicious, but it could be a red flag if the domain owner is trying to prevent transfer to a more reputable registrar. The DNSSEC is unsigned, which is not necessarily suspicious, but it is not ideal for security reasons.",
+  "verdict": 2
+}
+```

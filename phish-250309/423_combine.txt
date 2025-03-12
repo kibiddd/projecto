@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'tiktokshopstore.azureedge.net' appears to be a misspelled version of a legitimate domain, potentially aiming to deceive users. The domain has been registered for over 11 years, which is not recent, and the registrar is reputable. The website's design is clean and modern, but lacks transparency in providing contact information. The offer of 'FREE SHIPPING' is a common marketing tactic. The azureedge.net domain is uncommon and could be associated with Microsoft Azure's edge services, which might be used for malicious purposes. The website does not explicitly request personal information or payment in the provided screenshot, but the lack of contact information could be a red flag. Overall, the website could be a scam, but there is not enough evidence to be certain.",
+  "verdict": 5
+}
+```

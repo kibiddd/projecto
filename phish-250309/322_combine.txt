@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'prosystemsug.com/backup/byxugqlc/ic-access/otp.html' appears to be a phishing attempt, impersonating Idaho Central Credit Union to steal sensitive user information. The URL contains a misspelled domain name, which is a common tactic used by scammers. The website is requesting a 6-digit code, which could be used to gain unauthorized access to user accounts. The domain was created in 2013 and is not expiring soon, which could indicate that the website is not a recent scam. However, the website's design is minimal and generic, which could be an indicator of a scam. The contact information provided by the registrar appears to be complete and legitimate, and the registrar is a well-known and reputable company. The domain status indicates that it cannot be transferred to another registrar, which is a common restriction and not necessarily indicative of fraud. Overall, the website poses a significant risk to users and should be avoided.",
+  "verdict": 9
+}
+```

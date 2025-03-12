@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'themartinique.com' appears to be a scam based on the analysis of the URL, domain registration, and a screenshot of the website. The URL does not show any deceptive patterns, but the domain registration is not recent and has a long expiration date. The screenshot analysis reveals that the website is completely blank, raising concerns about its legitimacy. The lack of content, transparency, and contact information are significant red flags. The website may be a placeholder, under construction, or an attempt to defraud users. The potential risks include phishing attempts, fraudulent activities, and loss of personal information.",
+  "verdict": 9
+}
+```

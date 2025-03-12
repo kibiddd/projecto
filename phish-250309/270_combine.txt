@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'ledger-l.memmserve.com' appears to be a phishing attempt, impersonating the legitimate Ledger service by using a misspelled domain and a suspicious subdomain. The domain has been registered for over six years, and the registrar is reputable. The website requests sensitive information, which is a common phishing tactic. The URL contains a suspicious subdomain, and the website has a professional but unclear look. The domain status indicates that client transfers are prohibited, and the DNSSEC is unsigned. The website's request for a recovery phrase, which is sensitive information, is a strong indicator of a scam.",
+  "verdict": 9
+}
+```

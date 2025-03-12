@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The URL contains a misspelling of 'google' as 'knol'.",
+  "TLD": "The TLD '.com' is common and not high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters.",
+  "Other": "The URL redirects to a legitimate Google domain, which is not suspicious.",
+  "verdict": 1
+}
+```

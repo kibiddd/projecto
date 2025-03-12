@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a legitimate site for basketball camps, with a clear and descriptive domain name. However, the domain was registered less than 6 months ago, which could be a potential indicator of fraud. The contact information is not provided, and the registrar information is also missing. The URL provided does not match the domain name, which is a strong indicator of potential fraud. The website does not appear to be a phishing site, and there are no obvious suspicious offers or design flaws. The website seems to be transparent and not impersonating any other site. Overall, the potential risks are low, but there are some red flags that could indicate fraud.",
+  "verdict": 3
+}
+```

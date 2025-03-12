@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'worldfootballers.com' appears to be a legitimate domain with a common and trusted TLD '.com'. The domain registration is not recent and is expiring soon, but the WHOIS information is complete and provided by a reputable registrar, GoDaddy.com, LLC. The website displays player information without requesting personal information or payment, and does not appear to be a phishing site or offering suspicious offers. The website has a basic but functional design and does not seem to impersonate any entity. However, the lack of recent domain registration and the impending expiration date could be potential risks. Overall, the website seems to be a legitimate site, but the upcoming expiration date may raise concerns.",
+  "verdict": 2
+}
+```

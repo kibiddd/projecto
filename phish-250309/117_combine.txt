@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'app-blnance.com' appears to be a phishing attempt, impersonating the legitimate Binance website. The domain was created and registered very recently, which is a potential indicator of fraud. The website's design is similar to the legitimate Binance website, but with a minor typo in the URL. The URL contains a misspelling of 'app-banking.com', which is a common tactic used by fraudsters to deceive users. The domain status indicates 'clientTransferProhibited', which means the domain cannot be transferred to another registrar. The website appears to be a login page for Binance, and entering login credentials could lead to phishing. The use of 'app' in the subdomain suggests it is attempting to look like an official app. The website is impersonating the legitimate Binance website.",
+  "verdict": 9
+}
+```

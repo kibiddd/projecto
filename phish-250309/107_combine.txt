@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website'safety-profiles-fb-ads-3692201582.vercel.app' appears to be a scam. The URL contains a misspelling and uses a deceptive subdomain, which is unusual for a legitimate app domain. The domain was registered over six months ago, and the registrant's contact information is redacted. The website displays a phishing message and attempts to impersonate Meta's privacy center. The plain design and the use of'vercel.app' raise further suspicion. The domain status indicates that client transfers and updates are prohibited, and it is DNSSEC unsigned. The website's purpose seems to be to deceive users into providing personal information under the guise of restoring their account.",
+  "verdict": 9
+}
+```

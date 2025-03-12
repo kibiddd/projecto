@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL contains a misspelling of 'community' in the domain name, which could be an attempt to deceive users. The domain was registered recently and is set to expire in less than a year, which is not inherently suspicious but could be a tactic used by scammers to quickly set up and take down fraudulent sites. The WHOIS information is complete and the registrar is not known for hosting malicious sites. However, the website screenshot could not be analyzed due to an error loading the image. The domain status indicates that client transfers are prohibited, which is common for domains not intended for resale. The DNSSEC is unsigned, which is not necessarily a fraud indicator but could be a security concern. The name servers are provided, and there are no other suspicious registration factors. The lack of a website screenshot prevents further analysis of the site's content and design, which could provide additional clues.",
+  "verdict": 5
+}
+```

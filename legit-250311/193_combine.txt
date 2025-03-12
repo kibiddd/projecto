@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL provided redirects to a legitimate Freebase page about Walt Disney Pictures. The domain 'freebase.com' is a legitimate domain, and the TLD '.com' is a common and trusted TLD. The domain was created on 2003-10-03 and the registration is expiring on 2025-10-03, which is more than a year away. The registrar, MarkMonitor Inc., is reputable and known for hosting legitimate domains. The screenshot analysis indicates that the URL points to a legitimate Freebase page and is not designed for fraudulent activity. There are no signs of phishing, suspicious offers, or impersonation. The only potential risk is the unusual prohibition of clientDelete, clientTransfer, and clientUpdate, but this alone does not necessarily indicate fraud.",
+  "verdict": 1
+}
+```

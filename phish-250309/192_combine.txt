@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website currentlymailvailt2.weebly.com is a scam website. The URL contains a misspelling of 'currently' and'mail', and the domain registration is recent and short-term, which is a common indicator of fraudulent websites. The registrar, SafeNames Ltd., is known for hosting malicious sites or lacking verification. The website is requesting user ID and password, which is classic phishing behavior, and it is impersonating AT&T's login page. The URL is highly suspicious and not the official AT&T domain. The website uses Weebly, a free website platform commonly used by scammers. The website's design is simple and potentially low-quality. The domain status is clientDeleteProhibited, clientTransferProhibited, and clientUpdateProhibited, which means that the domain cannot be deleted, transferred, or updated by the current registrant, which is a potential fraud indicator.",
+  "verdict": 10
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'bridge-ehub-rtrzor.webflow.io' appears to be a less established or potentially less secure website, hosted on a misspelled version of 'webflow.io'. The domain was registered in 2013 and is not expiring soon, which could indicate a lack of recent activity or updates. The website's design quality is good, but it lacks transparency, with no clear contact information. The URL uses a non-standard subdomain, which could be a red flag. The screenshot analysis suggests that the website could be an attempt to impersonate the official Ledger website, and the 'Connect My Ledger' prompt could lead to a phishing attempt. The website does not appear to be directly asking for personal information or payments, but the lack of transparency and the use of a webflow.io domain are concerning. The website's primary purpose is to promote Ledger's services, but the potential risks include phishing attempts and impersonation of the official website.",
+  "verdict": 7
+}
+```

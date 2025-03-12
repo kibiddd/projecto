@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain'scribd.com' is legitimate and does not contain misspellings, character substitutions, or deceptive subdomains.",
+  "TLD": "The TLD '.com' is a common and trusted TLD, not considered high-risk.",
+  "Patterns": "The URL is of a reasonable length and does not contain excessive length, random strings, or unusual characters.",
+  "Other": "The URL appears to be a legitimate link to a document on Scribd, a well-known document hosting service.",
+  "verdict": 1
+}
+```

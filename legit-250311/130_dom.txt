@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 1999-07-16 and the WHOIS update was on 2024-03-15, which means it has been registered for over 25 years. Therefore, it is not recent nor expiring soon.",
+  "answer2": "The contact information provided by the registrar (Tucows Domains Inc.) is complete and not redacted or suspicious.",
+  "answer3": "The registrar, Tucows Domains Inc., is a well-known and reputable registrar. There is no indication that it hosts malicious sites or lacks verification.",
+  "answer4": "The domain status indicates that client transfers and updates are prohibited, which is a common practice for domains with high traffic or those managed by large organizations. The DNSSEC is unsigned, which is not necessarily a red flag, as many domains do not use DNSSEC. The domain name is METACRITIC.COM, which is a legitimate and well-known domain name. There are no other suspicious registration factors.",
+  "verdict": 1
+}
+```

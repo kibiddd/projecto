@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question appears to be a phishing attempt, impersonating Facebook's login page to steal user credentials. The URL contains a misspelled domain and a suspiciously long random string, which are common tactics used by scammers to deceive users. The domain was registered over five years ago and is not expiring soon, which could indicate that the website has been around for a while and may have been used in phishing campaigns. The website's design mimics the Facebook login page, but the URL is highly suspicious and not a legitimate Facebook domain. The website is requesting sensitive information such as a mobile number and email address, which is typical of phishing attempts. The website's potential risks include identity theft, financial loss, and unauthorized access to personal accounts.",
+  "verdict": 10
+}
+```

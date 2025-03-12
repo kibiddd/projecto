@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2025-03-11, which is less than 6 months from today (2025-03-07). This is a potential indicator of fraud as many fraudulent domains are registered recently.",
+  "answer2": "The contact information is redacted, which is a common indicator of fraudulent domain registrations. Fraudulent registrants often hide their contact details to avoid detection and accountability.",
+  "answer3": "The registrar is not specified in the provided information, so it is not possible to determine if it is known for hosting malicious sites or lacking verification. However, the lack of a match for the domain name in the WHOIS database could be a red flag.",
+  "answer4": "Other suspicious registration factors include the domain name not matching the expected format (e.g., 'GODFREYCAMBRIDGE.COM' vs. 'www.godfreycambridge.com') and the recent registration date.",
+  "verdict": 8
+}
+```

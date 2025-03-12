@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website fictionart.com has a common and safe TLD, with no deceptive domain patterns detected. The domain was created recently and is expiring soon, which could be a potential fraud indicator. The WHOIS information is complete and the registrar is reputable. However, the domain status indicates that client actions are prohibited, which could be a red flag. The screenshot analysis did not reveal any phishing, suspicious offers, or impersonation. The website appears to be a legitimate art-related site, but the potential risks associated with the domain's expiration and restricted client actions warrant caution.",
+  "verdict": 4
+}
+```

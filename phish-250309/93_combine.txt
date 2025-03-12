@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL contains a misspelling of 'google' and uses a high-risk TLD. The domain was registered over six years ago and is not expiring soon. The registrar is known for hosting domains often used for spam or malicious activities. The domain status indicates prohibited client transfers and is unsigned for DNSSEC. The website is not accessible, and an error message indicates redirects to www.eyny.com are not allowed, which could be a sign of potential issues or suspicious activity. The website lacks transparency and does not provide any visible content or contact information. The website could potentially be a scam due to these factors.",
+  "verdict": 7
+}
+```

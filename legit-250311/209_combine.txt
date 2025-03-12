@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website is a legitimate Amazon domain with a long-standing registration, complete WHOIS information, and a professional design. It is asking for payment information to purchase a book, which is normal for an e-commerce site. The price seems reasonable, and there are no obvious signs of phishing, suspicious offers, or impersonation. The website provides contact information and details about the seller and returns policy. The domain and WHOIS information do not indicate any recent registration or suspicious activity. The website appears to be legitimate and not a scam.",
+  "verdict": 1
+}
+```

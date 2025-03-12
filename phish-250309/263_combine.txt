@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website kkiocuccoin.webflow.io appears to be a scam. The domain contains a misspelling of 'coin' as 'cocoin', and the URL is highly suspicious with typos. The domain was registered over six months ago and is not expiring soon. The website lacks clear and trustworthy contact information and attempts to imitate the legitimate KuCoin platform. The website's poor design and promotion of 'Crypto Gem' further raise red flags. The screenshot analysis indicates phishing, suspicious offers, and impersonation. The website is not the official KuCoin platform.",
+  "verdict": 10
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain MMATKO.COM was created on 2006-05-11 and has an expiration date of 2027-05-11. Since today is 2025-03-07, the domain is not recent (less than 6 months) and is not expiring soon (less than a year).",
+  "answer2": "The WHOIS information provided does not indicate that the contact information is redacted, partial, or suspicious. The registrar's contact information is provided, and the domain status does not suggest any issues with the contact details.",
+  "answer3": "GoDaddy.com, LLC is a well-known and reputable registrar. There is no indication that GoDaddy hosts malicious sites or lacks verification. The domain status does not suggest any issues with the registrar.",
+  "answer4": "N/A",
+  "verdict": 1
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'binas-mail.top' appears to be a scam website. The URL contains a misspelling of 'binance' and uses a high-risk TLD '.top', which are common indicators of phishing sites. The domain was registered recently and has restricted management actions, further raising suspicion. A screenshot analysis reveals a potential phishing attempt impersonating a Binance employee, with a suspicious domain name and lack of transparency. The combination of these factors suggests a high risk of the website being fraudulent.",
+  "verdict": 9
+}
+```

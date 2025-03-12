@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website, provigo-saintefoy.foodpages.ca, appears to be a legitimate food-related business with a domain that is not deceptive and has a common TLD. The domain was created over 21 years ago and is expiring soon, but the registrar is not known for hosting malicious sites. The website does not appear to be a phishing site or offering suspicious deals, and it is well-designed and professional. However, the domain is unsigned for DNSSEC, which could be a security concern. The contact information for the registrant, admin, and tech is redacted for privacy, which could be a red flag if combined with other suspicious factors. The website is for a supermarket and does not request personal information or payment in this context.",
+  "verdict": 3
+}
+```

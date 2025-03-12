@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL provided appears to be a misspelling of a legitimate domain, potentially intended to deceive users. The domain 'vaonischile.cl' is suspicious due to its resemblance to 'vanishingile.cl'. The domain was registered recently, which is a common characteristic of fraudulent sites. Contact information is redacted, and the presence of 'wp-includes' in the URL path could be a red flag. The website screenshot could not be analyzed due to an error.",
+  "verdict": 8
+}
+```

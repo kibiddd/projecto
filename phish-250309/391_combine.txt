@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL provided appears to be a deceptive imitation of the legitimate Uphold platform, using a subdomain that mimics the official domain but is not the same. The domain registration is not recent and is hosted by a reputable registrar, but the use of 'webflow.io' as a subdomain and the attempt to impersonate the official Uphold platform are significant red flags. The URL includes 'login', which is a common phishing tactic, and the website uses a template with a 'Made in Webflow' badge, which can indicate a low barrier of entry for potentially less secure sites. The website is attempting to impersonate the legitimate Uphold platform, and the URL is not an official Uphold domain. These factors suggest that the website could be a scam.",
+  "verdict": 9
+}
+```

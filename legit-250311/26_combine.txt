@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website fanbase.com/Charles-White appears to be a legitimate site with a common TLD and no deceptive domain patterns. The domain has been registered for over 23 years, which is not recent, but the registrar GoDaddy.com, LLC is reputable and the contact information is complete. However, the domain status indicates that the owner has restricted the ability of others to delete, renew, transfer, or update the domain, which could be a sign of potential fraud. The screenshot analysis did not reveal any phishing, suspicious offers, or impersonation. The website does not seem to be a scam based on the provided information, but the restricted domain status warrants caution.",
+  "verdict": 2
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website paypalloginin-usa.blogspot.lt appears to be a scam website. The URL contains a misspelling of 'paypal' and an unusual TLD '.lt', which is not directly related to the expected domain name. The domain was registered more than 6 months ago and is hosted by a reputable registrar. However, the website is attempting to impersonate the legitimate PayPal login page, which is a classic phishing tactic. The website has a poorly designed image with the legitimate PayPal logo, which may attempt to mislead the user. The URL of the website suggests that it is not official, and the blog post has a generic name. These factors indicate that the website might be malicious.",
+  "verdict": 9
+}
+```

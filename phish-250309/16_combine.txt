@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question, http://auth-start-ttrezor-io-auth.webflow.io, appears to be a phishing attempt. The URL contains a misspelling of 'auth' and an additional '-ttrezor-io' which is not part of the official Trezor website. The domain was registered over six months ago and is not expiring soon, which could indicate that the site is not a temporary scam. However, the website is asking for login credentials, which is a common phishing tactic. The domain is hosted on Webflow, a legitimate service, but the deceptive URL structure is a red flag. The screenshot analysis confirms that the website is impersonating Trezor, a legitimate hardware wallet provider, and the URL is highly suspicious. The domain registration does not indicate fraud, but the phishing attempt and the impersonation of a legitimate company are significant risks.",
+  "verdict": 9
+}
+```

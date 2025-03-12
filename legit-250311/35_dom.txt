@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain UPTONTEA.COM was created on 1996-08-21 and has a registry expiry date of 2031-08-20. This is far beyond the 6-month and 1-year thresholds for recent or expiring soon registrations, so this factor does not indicate potential fraud.",
+  "answer2": "The contact information provided by the registrar (abuse@easydns.com and +1.4165358672) is complete and does not appear to be redacted or suspicious. Therefore, this factor does not indicate potential fraud.",
+  "answer3": "The registrar, easyDNS Technologies Inc., is a legitimate registrar with a known reputation. There is no indication that they are known for hosting malicious sites or lacking verification. Therefore, this factor does not indicate potential fraud.",
+  "answer4": "The domain status indicates that client transfers and updates are prohibited, which is a common restriction for certain types of domains. This factor alone does not indicate potential fraud.",
+  "verdict": 1
+}
+```

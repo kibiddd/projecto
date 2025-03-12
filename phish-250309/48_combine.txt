@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'fleek.ipfs.io' appears to be a misspelling of 'files.ipfs.io', which is a legitimate IPFS domain. However, the subdomain 'fleek' is not a standard or common subdomain for IPFS, which could be a red flag. The domain registration is not recent and is hosted by a registrar known for hosting malicious sites or lacking verification. The website requests email address and password, which is a common phishing tactic. The prompt about accessing a'sensitive file' is designed to create urgency and pressure the user to enter credentials. The website tries to gain access to personal information. The domain status indicates 'clientTransferProhibited', which could be a sign of a domain that is not easily transferable, possibly due to previous misuse or disputes. The website is associated with Protocol Labs, Inc., which is a legitimate organization, but the redacted contact information could be a concern if it is part of a pattern of fraudulent activity.",
+  "verdict": 9
+}
+```

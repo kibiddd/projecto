@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 2005-03-15, which is well over 20 years ago. Therefore, it is not recent.",
+  "answer2": "The WHOIS information provided is complete and does not appear to be redacted or suspicious.",
+  "answer3": "The registrar, Nameshield SAS, is not widely known for hosting malicious sites, and there is no immediate indication that it lacks verification. However, further investigation into the registrar's reputation would be prudent.",
+  "answer4": "The domain status indicates that it is clientDeleteProhibited, clientTransferProhibited, clientUpdateProhibited, serverDeleteProhibited, serverTransferProhibited, and serverUpdateProhibited. This could be a red flag, as it suggests that the domain owner has taken steps to prevent changes to the domain's registration and server settings, which could be indicative of an attempt to hide or protect fraudulent activity.",
+  "verdict": 3
+}
+```

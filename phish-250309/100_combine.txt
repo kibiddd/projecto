@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website at https://728147.cc is a scam website. The URL contains a misspelling of 'cc' as 'cc', uses a deceptive subdomain, and has a high-risk TLD '.cc'. The domain was created recently and is set to expire soon, which can be a potential fraud indicator. The WHOIS information is complete and does not appear to be redacted or partial. The domain is using NS1.DNS.COM and NS2.DNS.COM as its name servers, and the DNSSEC is unsigned. The website requests what seems to be a password, which is a phishing attempt. The design is simple and potentially suspicious, and the URL is not a well-known domain. The website is overly simple and presents as a login attempt of some kind.",
+  "verdict": 9
+}
+```

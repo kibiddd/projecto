@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'tha-github.github.io' appears to be a phishing attempt, mimicking the Instagram login page. The URL contains a misspelling of 'github', and the domain was registered over six months ago with a long expiration date. The website design is basic and not professionally done, and it requests personal information, which is typical for a fake website. The domain is hosted by MarkMonitor Inc., a registrar known for hosting malicious sites, but it is also used by many legitimate organizations. The domain has several restrictions, which are common for domains managed by GitHub, Inc. The website's attempt to impersonate the official Instagram login page is concerning. The potential risks include phishing attempts and identity theft.",
+  "verdict": 9
+}
+```

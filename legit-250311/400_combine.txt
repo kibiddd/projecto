@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website https://www.cuny.edu/ appears to be a legitimate university website, The City University of New York (CUNY). The URL, domain registration, and screenshot analysis do not indicate any signs of a scam. The domain is registered with a common and safe TLD (.edu), the domain is not recent and is not expiring soon, and the website has a professional design, transparency, and uses the official branding of CUNY. The website does not appear to be directly asking for personal information or payments on the homepage, and there are no obviously suspicious offers. The website provides the contact information for the university, and there are no signs of impersonation. The overall verdict is 1, indicating that it is very unlikely to be a scam website.",
+  "verdict": 1
+}
+```

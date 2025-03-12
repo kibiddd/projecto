@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website qm50card.ru offers a $50 gift card, which is a suspicious offer. The domain was registered recently and is expiring soon, which could indicate a short-term scam. The registrar is not widely recognized, and the website appears to be a low-quality copy of the Steam website, attempting to impersonate it. The website lacks transparency and provides no information about the company or its contact details. The URL itself is not associated with Steam and is from Russia, adding to the suspicion. The website is offering a classic phishing attempt to steal credentials.",
+  "verdict": 10
+}
+```

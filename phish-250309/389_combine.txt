@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question appears to be a scam. The URL contains a deceptive domain with a hyphen (-) instead of a dot (.), which is a common tactic used by fraudsters to create a domain that looks similar to a legitimate one. The domain registration is not recent and is managed by MarkMonitor Inc., a registrar known for hosting malicious sites. The domain status includes clientDeleteProhibited, clientTransferProhibited, and clientUpdateProhibited, which are unusual and could indicate that the domain is being managed in a way that prevents changes to its registration details. The website is for a cryptocurrency exchange and likely asks for personal information and potentially payment information to buy/sell crypto, making it susceptible to phishing attempts. The URL strongly suggests an attempt to impersonate the legitimate NDAX website, and the combination of the suspicious URL and the lack of immediate and visible security indicators (like an SSL certificate) is a significant concern.",
+  "verdict": 9
+}
+```

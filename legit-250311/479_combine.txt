@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website theorganicfoodguide.com appears to be a legitimate directory of organic food businesses, associated with NOFA/Mass. The domain is not recent, but it is not expiring soon, and the registrar is reputable. The website has a clean design, a transparent 'About Us' section, and does not appear to be a phishing site or offering suspicious services. However, the long domain registration period could be a potential risk if the website's intentions change in the future.",
+  "verdict": 1
+}
+```

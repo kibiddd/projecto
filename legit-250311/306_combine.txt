@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'oceansoffun.net' appears to be a fan site rather than a scam, as it does not request personal information or payments, and has a plain, functional design. However, the domain name is similar to Worlds of Fun's, which could be considered as impersonation. The domain is registered by a well-known registrar and is not expiring soon, which reduces the risk of it being a scam. The website does not seem to offer any products or services, which is unusual for a scam website. The website appears to provide a general informational resource, but it's difficult to assess trustworthiness without additional context. The website is not the official website, which is suspicious and suggests it may be a fan site.",
+  "verdict": 3
+}
+```

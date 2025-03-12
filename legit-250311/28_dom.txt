@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was registered on 2007-01-31, which is over 18 years ago. Therefore, it is not recent.",
+  "answer2": "The registrant, admin, and tech contact information is redacted for privacy. This is common practice, but it can also be a red flag if combined with other suspicious factors.",
+  "answer3": "The registrar, cdmon.com, is not widely known for hosting malicious sites, but it is not a top-tier registrar either. The domain is registered with 10dencehispahard, S.L., which is a Spanish company. There is no immediate indication that this registrar is known for hosting malicious sites or lacking verification.",
+  "answer4": "The domain status is 'ok' according to ICANN, and the domain is not expired. The domain is registered with a Spanish company and the contact information is redacted, which could be a potential red flag. However, there are no other suspicious factors present.",
+  "verdict": 3
+}
+```

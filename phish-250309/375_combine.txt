@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website http://sso-auth-ndaxlogi-webflow.webflow.io appears to be a phishing site that impersonates the real NDAX website. The URL contains a misspelling of'sso-auth' and an unusual subdomain 'ndaxlogi-webflow.io', which raises concerns. The domain was registered in 2013 and is not expiring soon, but the domain name and the use of a webflow.io subdomain are suspicious. The screenshot analysis indicates that the website is a scam login page for NDAX, clearly intended for phishing purposes. The domain is hosted by MarkMonitor Inc., a reputable registrar, and has standard protections against unauthorized changes. However, the overall intent of the website is to steal login credentials, making it a high-risk scam website.",
+  "verdict": 10
+}
+```

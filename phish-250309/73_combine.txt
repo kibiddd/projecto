@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL contains a misspelled domain, unusual characters, and a suspicious query parameter. The domain is registered with GoDaddy, a reputable registrar, and has been active for over 13 years. The website uses Wix, a common platform for creating websites. The screenshot analysis suggests potential phishing due to the prompt to 'Anmelden' after a session has expired and missing contact information. The unusual URL structure and the use of Wix could indicate a non-trusted site. The website's design appears simple, but the error message seems standard. The website may not be fully developed and could be fraudulent.",
+  "verdict": 6
+}
+```

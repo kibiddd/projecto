@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'texvt.cn' appears to be a legitimate domain with a recent registration and a reputable registrar. However, the domain name is a generic top-level domain (gTLD) that could be used for various purposes, including fraudulent activities. The contact information provided is partial, and the domain status is 'ok' with an unsigned DNSSEC. The URL contains a parameter 'idtoken=s8gkz' which could be legitimate, but without further context, it is not possible to determine if it is suspicious. The website screenshot could not be analyzed due to an error.",
+  "verdict": 5
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question, portal-led-ger---live-cdn.webflow.io, appears to be a legitimate service provided by a reputable registrar, MarkMonitor Inc., and uses a common hosting platform, webflow.io. However, the URL contains a deceptive domain with a hyphen in the subdomain, which is not standard practice and could be an attempt to mislead users. The domain was registered in 2013 and is not expiring soon, which does not indicate fraud. The website appears to be a Ledger Live Web platform, which could be a target for phishing if it attempts to obtain login credentials or other sensitive information. The website seems to present normal features and has a modern and professional design. However, the unusual domain and the website's focus on crypto are red flags. The website does not directly request information, but it appears to be attempting to impersonate the Ledger website or provide services related to Ledger. The URL uses 'webflow.io,' which is a common platform for hosting websites, but the unusual domain is a concern.",
+  "verdict": 7
+}
+```

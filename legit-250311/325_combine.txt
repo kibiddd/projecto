@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'wj2d.tripod.com/bako.html' appears to be a scam due to the misspelled domain 'wj2d' instead of the correct 'wj2d'. The domain was registered in 1994 and is not expiring soon, which could indicate a lack of recent activity. The registrar is legitimate, but the website itself is not requesting personal information or making suspicious offers. The website is encountering a 404 error, which does not necessarily indicate malicious activity. However, the misspelled domain and the outdated registration date raise concerns about the website's legitimacy. The website's error page is professional and functional, but the lack of clear contact information is a potential risk. Overall, the website presents some red flags that could potentially lead to a scam.",
+  "verdict": 7
+}
+```

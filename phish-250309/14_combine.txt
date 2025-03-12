@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'auth-m--start-ledger.webflow.io' appears to be a scam website. The URL contains a misspelled domain name, which is a common tactic used by fraudsters to create deceptive URLs. The domain was registered in 2013 and is not expiring soon, which does not indicate fraud. However, the website is hosted on a suspicious Webflow subdomain and lacks proper contact information, making it a malicious impersonation of Ledger.com. The website does not appear to be asking for personal information or payment, and it does not offer anything suspicious or too good to be true. The website is professionally designed, but the use of a suspicious subdomain is a significant red flag. The website's URL uses a suspicious format, and it lacks transparency. The website attempts to create a false sense of legitimacy by mimicking Ledger's branding and design. The website's contact information is redacted for privacy, and the domain is hosted by MarkMonitor Inc., a reputable registrar known for hosting a variety of domains, including those of well-known companies. The domain status includes clientDeleteProhibited, clientTransferProhibited, and clientUpdateProhibited, which are common restrictions placed by registrars to prevent unauthorized changes to the domain. These restrictions do not indicate fraud.",
+  "verdict": 9
+}
+```

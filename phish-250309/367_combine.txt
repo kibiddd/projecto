@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a scam, impersonating Nordea, a well-known bank, to gain users' trust. It requests personal information, which is a typical phishing attempt. The domain contains a misspelling of 'wpenginepowered', which could be an attempt to deceive users. The domain is registered by MarkMonitor Inc., a reputable registrar, and is not recent. The website uses Cloudflare's name servers, which is common and not suspicious in itself. The domain name is not official Nordea, and the website's design is not poor, but the use of Nordea's branding is a tactic to make the website look legitimate. The domain is using Cloudflare's name servers, which is a common practice and not suspicious in itself. The domain name appears suspicious, not being a Nordea official website.",
+  "verdict": 9
+}
+```

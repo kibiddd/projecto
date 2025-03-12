@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a legitimate source, providing access to Radio+Television Business Report content. The domain is not deceptive, the domain registration is not recent, and the WHOIS information is complete and from a reputable registrar. The screenshot indicates a professional design and transparency, but an error 404 page suggests a potential technical issue or discontinued content. No phishing, suspicious offers, or impersonation indicators are present. The URL analysis does not reveal any deceptive patterns or high-risk factors. The website's content and purpose seem legitimate, but the error page could indicate a temporary problem or a discontinued page.",
+  "verdict": 1
+}
+```

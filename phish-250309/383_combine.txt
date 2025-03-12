@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question appears to be a scam. The URL contains a misspelling of 'weebly.com', which is a common sign of phishing attempts. The domain was registered over 19 years ago and is not expiring soon, which could indicate that it is not a recent scam. However, the domain's status shows prohibitions on certain client actions and an unsigned DNSSEC, which are unusual for a legitimate domain. The screenshot analysis reveals that the website is requesting email and password, which is a classic sign of phishing, and it is attempting to impersonate Spectrum's webmail login. The website has a very basic design and the URL uses 'weebly.com', which is unusual for a major service provider like Spectrum. These factors combined make the website highly suspicious.",
+  "verdict": 9
+}
+```

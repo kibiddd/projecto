@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'colistrack-info.com' appears to be a scam based on the analysis of the URL, domain registration, and the lack of a screenshot. The domain was registered very recently, which is a common red flag for fraudulent websites. Additionally, the domain status indicates that client actions are prohibited, and the domain is not using DNSSEC, which are both unusual and potentially suspicious. The lack of a screenshot prevents further analysis of the website's content, but the other factors already suggest a high likelihood of it being a scam.",
+  "verdict": 8
+}
+```

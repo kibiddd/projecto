@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'rtrcc01.pages.dev' appears to be a country/region selection page, potentially impersonating Apple. The URL is not an official Apple domain, which is a strong indicator of a fraudulent website. The domain is registered for a long time, and the registrar is known for hosting malicious sites. The website does not request personal information or payments, but it lacks transparency and contact information. The clean and simple design does not necessarily indicate legitimacy. The combination of these factors suggests a high risk of the website being a scam.",
+  "verdict": 9
+}
+```

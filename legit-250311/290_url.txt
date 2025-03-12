@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "No misspellings or character substitutions detected.",
+  "TLD": "The TLD.fm is a common and trusted domain used by Last.fm, a legitimate music streaming service.",
+  "Patterns": "The URL contains a '+' character, which is unusual in standard URLs but can be used for encoding purposes. The URL is not excessively long and does not contain random strings or unusual characters.",
+  "Other": "The URL appears to be a legitimate link to Last.fm's music page for JF Robitaille.",
+  "verdict": 1
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL combines 'Sports Illustrated' and 'CNN' domains, which is unusual and may indicate an attempt to mislead users. The domain was last updated recently, and the registrar is not widely recognized, which could be a red flag. The URL structure is odd and tries to impersonate two different brands, which is a common phishing tactic. The domain has several prohibitions that prevent changes, which can be a sign of fraudulent activity. The screenshot analysis suggests the website aims to mislead users. The website could potentially be a scam.",
+  "verdict": 8
+}
+```

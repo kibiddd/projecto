@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a legitimate educational institution, hosted on a Bradley University domain, with a domain that expires in less than a year, which could be a potential indicator of fraud. The contact information provided is complete and appears legitimate, and the registrar is a reputable company. The website does not appear to be requesting personal information or payment directly, does not offer suspicious products or services, and has a clean design. It provides information about the faculty, suggesting a degree of transparency and no obvious impersonation. However, the short domain expiration date could be a potential risk.",
+  "verdict": 5
+}
+```

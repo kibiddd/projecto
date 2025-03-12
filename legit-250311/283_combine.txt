@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website welovemarines.com appears to be a legitimate site with a common TLD, a long-standing domain registration, and a reputable registrar. The URL analysis does not indicate any deceptive practices, and the screenshot analysis shows no signs of phishing, suspicious offers, or impersonation. The website has a simple, clean design and a contact form, which suggests transparency and a genuine purpose. There are no apparent risks associated with this website based on the provided analysis.",
+  "verdict": 1
+}
+```

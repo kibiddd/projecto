@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website URL contains a misspelling of 'plhhovyj.com' and uses a non-standard TLD '.pl', which could be an attempt to deceive users. The domain was registered recently and has a short registration period, which is a potential red flag for fraud. The WHOIS information is complete and the registrar is reputable, but the domain status indicates 'clientTransferProhibited', which could be suspicious. The website screenshot could not be analyzed due to an error.",
+  "verdict": 7
+}
+```

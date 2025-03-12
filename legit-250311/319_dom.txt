@@ -1,0 +1,9 @@
+```json
+{
+  "answer1": "The domain was created on 1994-12-06 and updated on 2024-03-15, which means it is not recent (less than 6 months) and not expiring soon (less than a year).",
+  "answer2": "The contact information provided by the registrar (Tucows Domains Inc.) is complete and not redacted or partial.",
+  "answer3": "The registrar, Tucows Domains Inc., is a well-known and reputable registrar, and there is no indication that it hosts malicious sites or lacks verification.",
+  "answer4": "The domain status indicates that client transfers and updates are prohibited, which is a common practice for domains managed by Google. The DNSSEC is unsigned, which is also a common practice for many domains. No other suspicious registration factors are present.",
+  "verdict": 1
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website blurbwire.com/topics/NASA_Distinguished_Service_Medal appears to be a legitimate-looking website with a common TLD and no deceptive domain patterns. However, the domain was created in 2004 and is not expiring soon, which is unusual for a scam website. The registrar, DNC Holdings, Inc., is known for hosting malicious sites, and the domain status includes several prohibited actions, which are suspicious. The website's design is clean but lacks transparency and seems incomplete or abandoned. The content is unclear and does not offer any products or services. Overall, the website may not be a scam, but there are several red flags that raise concerns.",
+  "verdict": 5
+}
+```

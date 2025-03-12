@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question, identified by the URL https://quassevugazei-4647-git-main-dunghfts-projects.vercel.app/mixcc.html/index.html, appears to be a scam. The URL contains misspellings and unusual characters, and the domain name is suspicious. The domain has been registered for over 5 years, and the registrar is reputable. However, the website's design and the use of a Vercel project URL, along with the impersonation of Meta's Privacy Center, are concerning. The website does not directly request personal information or payment, but it may lead users to provide personal information if they proceed with an appeal to restore their account. The website's transparency about its operations and contact information is also questionable. Overall, the website exhibits several red flags that suggest it is a phishing attempt.",
+  "verdict": 8
+}
+```

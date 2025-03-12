@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'last.fm' is legitimate and commonly used for music-related services. No misspellings or deceptive subdomains are present.",
+  "TLD": "The TLD '.fm' is a legitimate and commonly used domain for music-related services. It is not uncommon or high-risk.",
+  "Patterns": "The URL contains a '+' character, which is unusual in standard URLs. However, this is a common practice for encoding spaces in URLs and does not necessarily indicate fraud.",
+  "Other": "The URL appears to be a legitimate link to a music-related service on the Last.fm website. No other suspicious factors are present.",
+  "verdict": 1
+}
+```

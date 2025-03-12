@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website pavelvouk.shop appears to be an e-commerce site with a legitimate-looking domain and TLD. However, the domain was registered only 6 months ago, which is a potential indicator of fraud. The website's server status message and low-quality screenshot raise concerns about its legitimacy. The domain name does not align with the brand Lovers & Friends, suggesting possible impersonation. The website requests payment information, which could be a phishing attempt. Overall, the website presents several red flags that could indicate it is a scam.",
+  "verdict": 8
+}
+```

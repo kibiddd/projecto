@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a phishing scam, impersonating the Intesa Sanpaolo bank. It uses a deceptive domain with misspellings and character substitutions, and the URL structure is suspicious. The domain is registered for a long time and has a non-expiring date, which could indicate a lack of recent activity. The contact information is redacted, and the domain status prohibits client transfers and updates. The website requests personal information used to access bank accounts, which is a classic phishing attempt. The design imitates the Intesa Sanpaolo website but is of low quality and contains no typos. The URL is clearly not the official Intesa Sanpaolo website. The website uses the Intesa Sanpaolo logo and branding to create a sense of legitimacy. The overall verdict is 10, indicating a high likelihood of the website being a scam.",
+  "verdict": 10
+}
+```

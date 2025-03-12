@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'atomicsoda.com/manutd' appears to be a legitimate aggregation site for Manchester United news and quotes. The domain and TLD are standard and not deceptive. The domain is not recent and has a reputable registrar, but some restrictions are in place. The website's design is dated but functional, and it does not appear to be a phishing site or offering suspicious products. However, the lack of clear contact information and the website's unclear origin and affiliation raise some questions about its professionalism. Overall, there are no immediate red flags indicating a scam, but the website's dated design and unclear origin warrant caution.",
+  "verdict": 3
+}
+```

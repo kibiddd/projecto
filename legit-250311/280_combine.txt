@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website jt-sw.com appears to be a legitimate historical sports record site, specifically for the Rams football team. The domain has been registered for over 25 years, is managed by a reputable registrar, and does not exhibit any signs of phishing, suspicious offers, or impersonation. The website's design is dated but clear, and it provides historical team records without requesting personal information or payment. The URL, domain registration, and screenshot analysis all suggest that the website is not a scam.",
+  "verdict": 1
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'btbroadband667877.weebly.com' appears to be a scam. The URL analysis indicates that the subdomain 'broadband667877' is unusual and could be an attempt to mimic a legitimate domain. The domain was created recently and has prohibitions on client transfers and updates, which are unusual and could indicate malicious intent. The screenshot analysis reveals that the website is requesting email/username and password, which is a classic phishing tactic, and attempts to impersonate BT's login page. The website's basic and suspicious design further adds to the likelihood of it being fraudulent.",
+  "verdict": 9
+}
+```

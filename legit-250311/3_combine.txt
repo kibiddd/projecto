@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website https://www.comptroller.nyc.gov/ appears to be the official website of the New York City Comptroller. The URL, domain registration, and screenshot analysis all indicate that it is a legitimate government website. There are no signs of phishing, suspicious offers, or impersonation. The website is professionally designed and provides clear contact information. The domain is registered with a reputable registrar and uses a common and high-trust TLD. The verdict is 1, indicating that it is not a scam website.",
+  "verdict": 1
+}
+```

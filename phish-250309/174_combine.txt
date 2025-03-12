@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'changcarlos.github.io/netflix-site-clone' appears to be a clone of Netflix, created by an individual named Chang Carlos. The domain contains a misspelling and uses a '.io' TLD, which is common among both legitimate tech companies and fraudulent sites. The domain was registered over six months ago and is set to expire more than a year from now. The website requests an email address, which could be used for phishing, and it is impersonating Netflix. The URL indicates it is a personal project, raising questions about its legitimacy. The website has a basic design and no apparent typos, but the deceptive domain and impersonation are significant concerns.",
+  "verdict": 7
+}
+```

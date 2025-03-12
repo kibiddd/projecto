@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'cashing911.com' appears to be a gambling-related platform that offers bonuses and incentives for registration and deposits. The domain is relatively new, with less than a year before expiration, which could indicate a potential for short-term fraudulent activities. The WHOIS information is complete and the registrar is known for hosting various domains, but further investigation into the domain's history and reputation is necessary. The website promotes gambling, which is associated with phishing risks, suspicious offers, and potential impersonation of official events. The website may also redirect to different gambling websites. The overall risk level is moderate, with a score of 7.",
+  "verdict": 7
+}
+```

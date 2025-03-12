@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'netflix.winnatech.site' appears to be a scam due to the deceptive domain name, which is a misspelling of 'winnatech.com'. The domain was registered very recently, which is a common indicator of fraudulent activity. The domain's status includes'serverTransferProhibited' and 'clientTransferProhibited', which could be a red flag. However, the registrar is reputable, and the domain does not contain any other obvious suspicious factors. The inability to load the website screenshot prevents further analysis of the website's content.",
+  "verdict": 7
+}
+```

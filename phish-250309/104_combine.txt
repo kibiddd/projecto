@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The URL contains misspellings and deceptive subdomains, such as 'vpndns.net' instead of 'vpndns.net', and multiple hyphens and underscores which are not typical in legitimate URLs. The domain was created on 2017-10-14 and the registration is expiring on 2025-10-14, which is more than a year away. The WHOIS information provided is complete and does not appear to be redacted or suspicious. The registrar, NameCheap, Inc., is a well-known and reputable registrar. However, the website screenshot could not be loaded, which prevents further analysis of the website's content and functionality.",
+  "verdict": 7
+}
+```

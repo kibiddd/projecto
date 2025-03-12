@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website, pagingdrthornton.com, appears to be a personal blog authored by Yvonne S. Thornton, M. D., M. P. H. The domain has been registered for over six years and is managed by a reputable registrar, GoDaddy. The website does not request personal information or payment, offers no suspicious products or services, and has a clear and professional design. The domain owner has restricted the ability of others to delete, renew, transfer, or update the domain, which could be a red flag for potential fraud. However, the website does not appear to be a scam based on the provided analysis.",
+  "verdict": 2
+}
+```

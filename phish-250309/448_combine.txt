@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question, welcome-io--coinpro-doc-teachable.webflow.io, appears to be a landing page for Coinbase Pro, but it is hosted on a Webflow.io subdomain, which is not the official domain for Coinbase. The URL contains a deceptive domain with a double hyphen, which could be an attempt to mislead. The domain was registered over six months ago and is not expiring soon. The WHOIS information does not indicate any suspicious registration factors. The screenshot analysis suggests that the website is designed to mimic Coinbase Pro, which is a common phishing tactic. The lack of transparency in contact information and the use of a Webflow.io subdomain are significant red flags. The website does not explicitly offer suspicious deals, but the impersonation and potential for phishing are concerning.",
+  "verdict": 8
+}
+```

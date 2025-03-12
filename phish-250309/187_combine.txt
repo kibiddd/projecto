@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'creatify2.com' appears to be a misspelling of 'creativify.com', which could be an attempt to deceive users. The domain is relatively new, registered by a registrar known for hosting malicious sites, and lacks DNSSEC. The screenshot shows a session expiry message, which could be a phishing tactic. The website does not appear to be actively requesting personal information or payment, but the potential risks include phishing and impersonation.",
+  "verdict": 6
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "No misspellings, character substitutions, or deceptive subdomains detected.",
+  "TLD": "Common TLD (.com) - Not high-risk.",
+  "Patterns": "URL is of reasonable length and contains expected characters for a sports memorabilia website.",
+  "Other": "The URL appears to be a legitimate sports memorabilia website with a clear and expected structure.",
+  "verdict": 1
+}
+```

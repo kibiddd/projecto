@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'rootsweb.ancestry.com' is legitimate and commonly used for genealogy research. No misspellings or deceptive subdomains are present.",
+  "TLD": "The TLD '.com' is a common and trusted TLD, not considered high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "The URL appears to be a legitimate link to a genealogy website. No other suspicious factors are present.",
+  "verdict": 1
+}
+```

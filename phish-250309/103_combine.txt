@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'ad-help-notification.vercel.app' appears to be a phishing attempt, impersonating the official Meta Business Help Centre. It uses a misspelled domain name similar to a legitimate one, has a domain registration that is not recent, and the registrant's contact information is redacted. The website's design mimics the official Meta site, and it asks for sensitive information under the guise of investigating a potential violation of terms of service. The URL itself is not an official Meta domain, which raises a significant red flag. The combination of these factors suggests a high risk of the website being a scam.",
+  "verdict": 9
+}
+```

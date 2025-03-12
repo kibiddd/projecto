@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "No misspellings or character substitutions detected.",
+  "TLD": "azlyrics.com is a common and trusted TLD.",
+  "Patterns": "URL is of normal length and contains expected characters for a website URL.",
+  "Other": "No other suspicious URL factors detected.",
+  "verdict": 1
+}
+```

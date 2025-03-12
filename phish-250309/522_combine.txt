@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'http://yhgvg.juewa.cn' has a deceptive domain with misspellings and character substitutions, which are common indicators of a scam. The domain registration is recent, and the contact information provided is incomplete. The registrar is reputable, but the partial contact information and recent registration could be potential red flags. Without the ability to view the website's content, it is difficult to assess the legitimacy of the website fully. The website may pose potential risks such as phishing, malware, or other fraudulent activities.",
+  "verdict": 6
+}
+```

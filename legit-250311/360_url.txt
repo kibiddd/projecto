@@ -1,0 +1,9 @@
+```json
+{
+  "Deceptive Domain": "The domain 'local.yahoo.com' is legitimate and not deceptive. No misspellings or character substitutions are present.",
+  "TLD": "The TLD '.com' is a common and trusted TLD, not high-risk.",
+  "Patterns": "The URL does not contain excessive length, random strings, or unusual characters. It appears to be a standard URL structure.",
+  "Other": "The URL seems to be a legitimate Yahoo page, likely related to a local business. No other suspicious factors are present.",
+  "verdict": 1
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website appears to be a legitimate Scribd document link, which is a well-known platform for sharing documents. The domain is not recent and is not expiring soon, which is unusual but not necessarily indicative of a scam. The domain is registered with a reputable registrar, although the 'clientTransferProhibited' status could be a red flag. The website does not appear to be requesting personal information or payment, but it does encourage downloading a document, which could be a suspicious offer. The website has a clean and professional design, and it seems transparent with a privacy policy. However, the offer of 'Download free for days' could be considered a suspicious offer, although this is common for document-sharing services. Overall, the website seems legitimate, but there are some potential risks.",
+  "verdict": 4
+}
+```

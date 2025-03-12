@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website is a legitimate YouTube video page, with no signs of phishing, suspicious offers, or impersonation. The domain is registered for a long time, but the registrar is reputable. The website design is clean and follows the standard layout of a video platform. No other suspicious factors were detected.",
+  "verdict": 1
+}
+```

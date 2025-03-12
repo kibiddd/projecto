@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website http://www.e-dvltaidatt.xyz has a misspelled domain name and uses a high-risk TLD '.xyz'. The domain is less than a year old and has several suspicious registration flags. Contact information is redacted, and the website screenshot could not be loaded. These factors suggest potential risks of being a scam website.",
+  "verdict": 8
+}
+```

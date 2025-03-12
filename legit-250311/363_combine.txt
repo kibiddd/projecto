@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website 'full-albums.net' offers full music albums, which could involve copyright infringement. The domain is expiring soon, hosted by a registrar known for hosting malicious sites, and has a suspicious URL structure. The WHOIS information is complete but the domain status indicates prohibited client transfers and an unsigned DNSSEC. The website's purpose and the registrar's reputation raise concerns about its legitimacy. The provided screenshot is a blank blue screen, offering no further insights into the website's content or design.",
+  "verdict": 8
+}
+```

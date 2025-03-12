@@ -1,0 +1,6 @@
+```json
+{
+  "Summary": "The website in question appears to be a legitimate Q&A platform, wiki.answers.com, which is not a scam website. The URL contains a deceptive domain, but this is a common tactic used by legitimate websites to appear more trustworthy. The domain was registered in 1996 and is not expiring soon, which is a positive indicator. The WHOIS information is complete and the registrar is a well-known and reputable company. The website does not contain any phishing, suspicious offers, or impersonation, and it provides transparency as a Q&A platform. The only potential risk is the unsigned DNSSEC, which could be a security concern, but it does not indicate fraud. The final verdict is 1, as there are no significant risks or indicators of a scam website.",
+  "verdict": 1
+}
+```
