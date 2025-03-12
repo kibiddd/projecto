@@ -5,7 +5,7 @@ import whois
 
 # function that checks if registration info is invalid
 def check_info(domain_info):
-	if domain_info.startswith("No match") or domain_info.startswith("Streamline cancelled"):
+	if domain_info.startswith("No match") or domain_info.startswith("Stream was cancelled"):
 		return True
 	return False
 

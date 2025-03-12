@@ -66,7 +66,7 @@ def all_anal_cont(dataset_path, img_path, folder_path):
 
 # function to load n_cont.txt
 def load(path):
-    with open(path, 'r') as f:
+    with open(path, 'r', encoding='utf-8') as f:  # Specifying utf-8 encoding
         return f.read()
 
 # function to load all
