@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD",
+    "Suspicious query string with encoded parameters (c3Y, rand, uid) and seemingly random characters and numbers.",
+    "The structure and parameters strongly suggest this is a phishing attempt, even without brand impersonation."
+  ]
+}
+```

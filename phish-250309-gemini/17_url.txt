@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No direct brand impersonation, but structure is intended to build confidence",
+    "webflow.io is a legitimate service, but often abused.",
+    "Excessive subdomains and hyphens are suspicious and suggest attempts to evade detection.",
+    "Uses http."
+  ]
+}
+```

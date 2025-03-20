@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 4,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    ".au is a generally safe TLD for Australian businesses.",
+    "Standard path structure.",
+    "Use of 'asp' can sometimes be a sign of an older, potentially less secure site, but not inherently malicious."
+  ]
+}
+```

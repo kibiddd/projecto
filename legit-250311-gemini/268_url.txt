@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 1,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".com is a low-risk TLD.",
+    "URL uses a known, legitimate service (YouTube).",
+    "URL path structure is typical for video content."
+  ]
+}
+```

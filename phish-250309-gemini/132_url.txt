@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "Uses 'auth--crypto-sso' which is a suspicious subdomain pattern attempting to mimic a legitimate service.",
+    "webflow.io is often used for temporary or free websites, increasing risk.",
+    "Excessive use of subdomains ('auth', 'crypto-sso', 'x-cdn') is highly suspicious.",
+    "URL uses https, lowering the score slightly, but not enough to mitigate the other red flags."
+  ]
+}
+```

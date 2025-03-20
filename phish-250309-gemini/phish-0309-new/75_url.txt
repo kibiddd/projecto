@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    "webflow.io is a medium-risk TLD, often used for free websites, increasing the likelihood of scams or temporary setups",
+    "Suspicious subdomain: 'muetsmasklogpon' is a random-looking string that doesn't relate to any known brand or service",
+    "Lack of recognizable brand presence suggests a potential phishing or scam attempt"
+  ]
+}
+```

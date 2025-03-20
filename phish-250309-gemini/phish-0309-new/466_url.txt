@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".my.id is a high-risk TLD",
+    "Suspicious subdomain structure: 'xdnaxid.points1'",
+    "Potentially a credential phishing site or malware distribution platform"
+  ]
+}
+```

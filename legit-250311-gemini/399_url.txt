@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 1,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".com is a low-risk TLD.",
+    "URL uses a legitimate subdomain (www) and a typical path structure for document access on Scribd.",
+    "HTTPS is used, indicating a secure connection."
+  ]
+}
+```

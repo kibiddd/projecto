@@ -1,0 +1,9 @@
+```json
+{"verdict": 8,
+  "Explanation" : ["No direct brand impersonation.",
+   "tripod.com is a free web hosting service, often associated with low trust and potential for hosting malicious content.",
+   "Excessive subdomain (kadoee3) may be used to obfuscate the actual site.",
+   "Unusual domain name (kadoee3.tripod.com) and path name (laplantetreeindex.html) combo that makes it seem like a random landing page."
+  ]
+}
+```

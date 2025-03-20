@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 3,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".com is a low-risk TLD.",
+    "The path '/torrents/nenas-cogiendo-por-el-culo.html' is unusual, potentially related to illicit content, but not directly phishing.",
+    "Uses https"
+  ]
+}
+```

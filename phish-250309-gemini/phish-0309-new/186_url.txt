@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    ".es (Spain) is a country-code TLD, generally medium risk, depends on context.",
+    "The path '/register/preregister' may indicate an attempt to collect user credentials, especially with 'register' in the URL.",
+    "The subdomain 'correosprepago' may be an attempt to impersonate 'Correos' a Spanish postal service, or some financial service. Requires further investigation, but is suspicious."
+  ]
+}
+```

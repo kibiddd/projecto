@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "Uses multiple repetitions of 'pay' which is highly suspicious and may mimic a legitimate financial brand like PayPal.",
+    "replit.app is a free hosting service, often used by scammers.",
+    "The URL contains a long and random string of characters and numbers ('ne-jp18js'), a common pattern in phishing URLs.",
+    "URL uses http"
+  ]
+}
+```

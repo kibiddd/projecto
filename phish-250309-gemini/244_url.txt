@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "Uses 'trezor--sso', potentially impersonating 'Trezor' with added 'sso' to suggest secure login.",
+    "webflow.io is a medium-risk TLD, often used for legitimate sites but also abused.",
+    "Excessive use of subdomains ('help-trezor--sso') is suspicious.",
+    "URL uses https"
+  ]
+}
+```

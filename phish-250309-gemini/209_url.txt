@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 5,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    ".za.com (South Africa) is a country-code TLD, which can be low to medium risk depending on context. This is medium risk.",
+    "\"findcare\" may be legitimate, but the short random string 'kTL' after the base domain is suspicious and may indicate a phishing attempt or hidden path.",
+    "URL uses https"
+  ]
+}
+```

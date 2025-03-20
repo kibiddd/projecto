@@ -1,0 +1,10 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".dev is a medium-risk TLD (often used for development and may be used for temporary phishing sites)",
+    "Suspicious pattern: random-looking number at the end of the path (/65597420)",
+    "Domain may be mimicking the Carrefour brand using a temporary subdomain setup, could be a clone project"]
+}
+```

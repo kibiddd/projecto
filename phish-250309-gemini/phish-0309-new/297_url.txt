@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD",
+    "Excessive subdomains: onedrive.service-office365.com is suspicious.",
+    "Suspicious pattern: random string 'nsR0OdJ3GN-75g' and a large query string with personal information.",
+    "Brand Impersonation: Trying to use onedrive to impersonate Microsoft"
+  ]
+}
+```

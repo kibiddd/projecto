@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 6,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    ".net is a moderately risky TLD.",
+    "The structure and path look potentially legitimate, could be a real venue page.",
+    "Use of 'Trustmark-Park' as part of the path increases legitimacy somewhat"
+  ]
+}
+```

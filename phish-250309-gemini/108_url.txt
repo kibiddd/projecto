@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No direct brand impersonation, but pattern suggests a phishing attempt related to Facebook ads.",
+    "'.vercel.app' can be associated with legitimate services but is sometimes used for malicious purposes, thus carrying a medium risk.",
+    "Suspicious pattern: Long subdomain 'safety-profiles-fb-ads-3692201588' combined with 'fb-ads' hints at targeting Facebook users, potential for phishing.",
+    "URL uses http."
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    "weebly.com is a free website host, often used for scams",
+    "Suspicious subdomain 'cx-ex'",
+    "Lack of a clear brand identity, suggesting a potential attempt to remain anonymous or impersonate a generic entity."
+  ]
+}
+```

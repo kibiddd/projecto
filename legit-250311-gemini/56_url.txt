@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 5,
+  "Explanation": [
+    "No obvious brand impersonation in the domain.",
+    ".com is a low-risk TLD.",
+    "Path contains numbers and seemingly legitimate terms ('n-g-j-league-patch-2009-v1-by-kira.html') which could be used to build a false sense of legitimacy, and may also indicate the website is for a game patch, which could be a target for malware distribution.",
+    "The 'www' subdomain is common."
+  ]
+}
+```

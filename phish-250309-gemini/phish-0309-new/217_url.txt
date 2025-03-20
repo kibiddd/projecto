@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    "webflow.io is a medium risk TLD (often used for legitimate sites, but also abused)",
+    "Suspicious subdomain structure: 'gemini-login-cdn'. While 'cdn' can be legitimate, the combination with 'gemini-login' is highly suggestive of credential phishing, especially targeting a cryptocurrency exchange.",
+    "Likely brand impersonation (Gemini). The subdomain attempts to look like a legitimate Gemini login portal."
+  ]
+}
+```

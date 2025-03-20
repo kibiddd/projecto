@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "webflow.io is a medium-risk TLD (often used for legitimate websites but can also host phishing sites)",
+    "Suspicious subdomain: my-bt-c17730 (random-looking string, potential for brand impersonation of BT)",
+    "Overall structure and subdomain suggest a possible phishing attempt targeting BT users."
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No direct brand impersonation, but uses hyphens in a way that could be misleading.",
+    "webflow.io is a medium risk TLD as it is often used for free websites, and could be used to build a phishing or scam front end.",
+    "Suspiciously long subdomain 'bridge-trrizor-iobr' with random-looking string.",
+    "URL uses http"
+  ]
+}
+```

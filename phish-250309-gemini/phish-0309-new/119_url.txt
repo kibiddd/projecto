@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    "webflow.io is a medium-risk TLD as it's a website builder often used for legitimate purposes but also exploited for phishing",
+    "Excessive subdomains (app-help-ndax-s) are suspicious, attempting to build a sense of legitimacy by incorporating a financial institution.",
+    "The subdomain structure appears designed to mimic a legitimate application or help center related to a financial institution (NDAX)",
+    "Overall the name attempts to impersonate NDax app"
+  ]
+}
+```

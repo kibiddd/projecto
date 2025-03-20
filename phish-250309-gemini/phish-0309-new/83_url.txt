@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    ".dev is a medium-risk TLD, often used for temporary or development sites",
+    "Domain name 'pepetocoinsupport' coupled with path '/connect' is a common tactic for cryptocurrency scams and could be used to steal credentials",
+    "Uses 'pepetocoinsupport' which may be attempting to pose as support for Pepe Coin"
+  ]
+}
+```

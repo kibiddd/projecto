@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "vercel.app is a legitimate platform, but often used for temporary or malicious sites.",
+    "Extremely long and random subdomain 'afegsrhdtjfthryetayrweywtwrteyrey' suggests a throwaway or potentially malicious domain.",
+    "The path '/id/100081295801294.html' with a long numeric ID is a common pattern for credential phishing or data harvesting."
+  ]
+}
+```

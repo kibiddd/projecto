@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".cl (Chile) is a moderately risky TLD, potential for targeting a specific region increases the risk.",
+    "Suspicious path: '/wp-includes/IXR/gqocfipm/ic-access/index2.html'.  'wp-includes' suggests a WordPress site which are often targeted. The random string 'gqocfipm' and path structure with 'ic-access' suggest a potential for malicious content or a compromised site.",
+    "Filename 'index2.html' is somewhat common for disguising phishing pages."
+  ]
+}
+```

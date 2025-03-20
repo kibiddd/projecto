@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "No brand impersonation detected.",
+    "myddns.me is a high-risk TLD, often used for dynamic DNS and evasion.",
+    "Suspicious subdomain pattern (commerzbank).",
+    "URL uses http"
+  ]
+}
+```

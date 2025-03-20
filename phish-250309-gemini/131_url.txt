@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "Uses 'auth-coinbase-pro' to mimic 'coinbase-pro'",
+    "webflow.io is a generally lower-risk TLD, but the use of a subdomain is suspicious",
+    "Subdomain structure (auth-coinbase-pro-ca-login) is excessive and suggests an attempt to appear legitimate through complexity, and also potentially impersonates Coinbase",
+    "HTTPS used, but overall pattern is still highly suspicious"
+  ]
+}
+```

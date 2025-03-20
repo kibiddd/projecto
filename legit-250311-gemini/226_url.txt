@@ -1,0 +1,7 @@
+```json
+{"verdict": 3,
+  "Explanation" : ["no impersonation in URL",
+   ".com is a low-risk TLD",
+   "path uses a common CMS (Joomla) and a file extension .php, which is common, however the path appears legitimate and is likely a benign site"]
+}
+```

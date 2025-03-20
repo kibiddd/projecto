@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 6,
+  "Explanation": [
+    "No brand impersonation detected.",
+    "github.io is a generally low-risk subdomain.",
+    "The path '/instagram' could be used to impersonate Instagram, but the subdomain suggests a personal or project page mitigating some risk.",
+    "URL uses https"
+  ]
+}
+```

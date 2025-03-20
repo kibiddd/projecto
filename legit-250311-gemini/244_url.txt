@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 1,
+  "Explanation": [
+    "No brand impersonation in URL.",
+    ".com is a low-risk TLD.",
+    "Standard YouTube URL pattern.",
+    "Uses https."
+  ]
+}
+```

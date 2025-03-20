@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD",
+    "Suspicious pattern: random string 'sngzamfl' and file named 'index2.html' which suggests a hidden access point",
+    "Path uses 'backup' and 'ic-access', which may be used to build a false sense of legitimacy",
+    "Likely designed to collect credentials or install malware"
+  ]
+}
+```

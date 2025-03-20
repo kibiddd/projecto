@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "No apparent brand impersonation.",
+    ".site is a medium-risk TLD.",
+    "Suspicious pattern: 'finanmaiscredwwsw' and the path 'dados.php' are both highly unusual and suggestive of a financial scam.",
+    "URL uses http"
+  ]
+}
+```

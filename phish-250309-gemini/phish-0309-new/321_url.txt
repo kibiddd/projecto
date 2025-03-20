@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD",
+    "Suspicious path structure: '/backup/byxugqlc/ic-access/' - random string and multiple subdirectories often indicate hidden content or malicious intent.",
+    "File name 'otp2.html' is often used for credential phishing, as it suggests a one-time password request.",
+    "Other anomalies: the combination of a seemingly legitimate domain with a deeply nested, nonsensical directory structure raises significant suspicion."
+  ]
+}
+```

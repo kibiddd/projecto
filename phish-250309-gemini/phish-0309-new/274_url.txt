@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 6,
+  "Explanation": [
+    "URL uses https",
+    ".nz is a low-risk TLD",
+    "The URL structure with 'facebook/marketplace' suggests potential brand impersonation.",
+    "The use of 'logco' as the root domain is unusual and may be an attempt to mask the true origin of the link."
+  ]
+}
+```

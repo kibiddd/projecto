@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD",
+    "The subdomain 'support' is common and used to gain trust but is not a direct impersonation.",
+    "The domain name 'account-privacy' is vague and could be used to target multiple brands or services to impersonate them and steal user data.",
+    "Overall the structure of the domain name is set up to impersonate a legitimate entity"
+  ]
+}
+```

@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    "webflow.io is a medium-risk TLD, often used for free or temporary websites",
+    "Suspicious subdomain structure: 'help-portal-legderr-us-cdn'. Excessive use of subdomains is a red flag, especially with random-looking strings like 'legderr'",
+    "The subdomain structure attempts to create a false sense of legitimacy. The use of words like 'help' and 'portal' are frequently used to phish victims",
+    "While the domain itself may be legitimate, the context may be phishing"
+  ]
+}
+```

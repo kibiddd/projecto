@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    ".pro is a medium-high risk TLD",
+    "Uses 'facebooksupport' which is common in brand impersonation scams",
+    "Uses a number at the end ('5959') which is suspicious pattern. May be used to bypass basic filters"
+  ]
+}
+```

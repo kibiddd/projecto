@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    "github.io is a free subdomain, which can be used for hosting phishing content, medium risk.",
+    "The path 'Netflix-clone' attempts to impersonate a legitimate service.",
+    "URL uses https."
+  ]
+}
+```

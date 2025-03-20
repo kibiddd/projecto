@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "Uses 'binas' which is similar to 'binance' as a brand impersonation",
+    ".top is a high-risk TLD",
+    "Path 'info' is generic and could be used for credential harvesting",
+    "URL uses https"
+  ]
+}
+```

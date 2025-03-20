@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    "mybluehost.me is a potentially high-risk subdomain/host",
+    "Path includes 'intesa.sanpaolo', attempting brand impersonation",
+    "Path includes 'login.php', a common credential phishing target"
+  ]
+}
+```

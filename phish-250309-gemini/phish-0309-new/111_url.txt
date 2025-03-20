@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".app is a potentially medium-risk TLD, especially if not associated with a legitimate service.",
+    "Suspicious subdomain: 'alert-user-breach-six'. The use of 'alert', 'user', and 'breach' is a common phishing tactic, combined with a seemingly random number.",
+    "Uses 'vercel.app', a legitimate platform, but often abused for hosting phishing sites; requires further scrutiny of the content."
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses http",
+    "webflow.io is a medium-risk TLD, often used for temporary or free websites which can be abused for scams",
+    "The use of 'console-ndax-connect' as a subdomain may try to mimic a legitimate connection to NDAX exchange",
+    "The combination of 'console', a common web application area, and 'NDAX', a crypto exchange, suggests an attempt at impersonation."
+  ]
+}
+```

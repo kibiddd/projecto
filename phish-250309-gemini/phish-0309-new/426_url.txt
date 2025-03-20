@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 6,
+  "Explanation": [
+    "URL uses https",
+    "webflow.io is a platform, potential for varied use",
+    "The domain name 'treizioriwellet' is unusual and could be a random string, raising suspicion.",
+    "Lack of brand or service association.",
+    "Requires further investigation of content on site."
+  ]
+}
+```

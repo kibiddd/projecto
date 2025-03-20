@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".pl is a medium-risk TLD (Poland)",
+    "Suspicious subdomain 'sizrpushqw' - random string of characters",
+    "Path contains potentially sensitive keywords: 'ubsMoula', 'ubs', 'home', 'Select', 'login.php' - highly suggestive of a financial login page.",
+    "Excessive subdirectories (ubs/home/Select) can be used to disguise the true target."
+  ]
+}
+```

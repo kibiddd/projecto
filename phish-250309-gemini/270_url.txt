@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "Uses 'ledger-l' which has a subtle character substitution to mimic 'ledger'",
+    "memmserve.com has a domain that appears unrelated to ledger.com, raising suspicion",
+    "Subdomain usage raises suspicion",
+    ".com is a low-risk TLD"
+  ]
+}
+```

@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    "webflow.io is a medium-risk TLD (often used for legitimate sites but also for rapid deployment of phishing pages)",
+    "Suspicious subdomain structure: 'authu-app-ledegr' is an unusual and likely randomly generated subdomain.",
+    "The subdomain does not appear to correspond to any known legitimate service or brand",
+    "The combination of the unusual subdomain and the webflow.io domain raises suspicion"
+  ]
+}
+```

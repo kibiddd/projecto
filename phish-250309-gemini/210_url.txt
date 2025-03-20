@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 5,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    ".support is a moderately risky TLD. While not as bad as .xyz, it can be associated with tech support scams.",
+    "The path 'JCW' is short and doesn't immediately raise red flags, but its meaning is unclear and could be a redirection.",
+    "URL uses https."
+  ]
+}
+```

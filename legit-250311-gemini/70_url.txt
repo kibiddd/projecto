@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 3,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".com is a low-risk TLD.",
+    "The URL structure is standard for a website, with a subdomain (www), a root domain (gatasi.com), and a path that appears to be related to tags and content (juanma lopes fights).",
+    "No immediately apparent anomalies."
+  ]
+}
+```

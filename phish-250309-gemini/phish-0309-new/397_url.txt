@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD",
+    "Uses 'staemconmmuntiy' with an extra 'm' and a missing 'u' to mimic 'steamcommunity'",
+    "The '/gift/' path is a common lure for fake promotions and scams.",
+    "The numerical ID parameter is often used in phishing to track users or customize the scam."
+  ]
+}
+```

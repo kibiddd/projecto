@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    "webflow.io is a high-risk TLD, often used for temporary or quickly-spun-up websites",
+    "Suspicious subdomain 'page-docs-trezr', potentially impersonating a document portal for Trezor (cryptocurrency hardware wallet)",
+    "The combination suggests a potential phishing attempt targeting Trezor users."
+  ]
+}
+```

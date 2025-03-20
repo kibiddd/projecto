@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    "`.dev` is a moderate-risk TLD (often used for development/testing and can be less trustworthy in a production context)",
+    "The use of 'pages.dev' is associated with Google Cloud's hosting service, and while legitimate, it's often exploited by phishers due to its ease of setup and lack of strict verification.",
+    "No obvious brand impersonation, but the context of `dethex` is unknown and could be used for malicious activity"
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "Uses 'commerz' to impersonate 'commerzbank' through character substitution.",
+    ".com is a generally safe TLD, but the overall pattern still raises suspicion.",
+    "'briefupdate' is a suspicious pattern, often used to convey urgency and lure the victim to click. The combined pattern of 'commerz-briefupdate' looks like it's trying to impersonate a communication from the bank.",
+    "URL uses https"
+  ]
+}
+```

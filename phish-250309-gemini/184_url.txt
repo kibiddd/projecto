@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "No direct brand impersonation.",
+    "webflow.io is a free website provider, often used for temporary or malicious sites, medium risk.",
+    "Coinebsprilogin potentially impersonates a cryptocurrency platform login.",
+    "The use of a free website provider increases the risk."
+  ]
+}
+```

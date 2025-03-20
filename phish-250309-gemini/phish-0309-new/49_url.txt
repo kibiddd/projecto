@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "URL uses http",
+    ".id is a low-risk TLD, but the subdomain structure is suspicious.",
+    "Multiple subdomains ('formulir', 'update', 'tarif', 'transaksi', 'bank', 'bsi') preceding '.helps.my.id' are highly unusual and suggest a phishing attempt.",
+    "The path structure 'helps.my.id' is also commonly associated with phishing attempts"
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 6,
+  "Explanation": [
+    "URL uses https",
+    "vercel.app is a legitimate subdomain, but could be abused for phishing",
+    "The path 'get_help' could be a social engineering attempt to appear helpful and gather information",
+    "Other anomalies include a slightly suspicious subdomain, and could be used in malicious activities"
+  ]
+}
+```

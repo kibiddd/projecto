@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "No direct brand impersonation.",
+    " '.com' is a low-risk TLD.",
+    "Excessive subdomains: 'dev.tapym.com' could indicate a testing or staging environment, which can sometimes be associated with phishing, or it could just be a legitimate subdomain.",
+    "Uses https"
+  ]
+}
+```

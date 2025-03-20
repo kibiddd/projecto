@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "Uses 'iiim-tooken' which could be an impersonation attempt, likely targeting 'token' or a similar term using character substitution.",
+    ".com is a low-risk TLD",
+    "The subdomain 'iiim' is highly suspicious and could indicate an attempt to create a false sense of legitimacy or to bypass security measures.",
+    "URL uses https"
+  ]
+}
+```

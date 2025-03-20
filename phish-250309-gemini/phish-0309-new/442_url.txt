@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD",
+    "Uses subdomain 'wap' which is often a red flag, associated with mobile-focused or potentially less secure sites",
+    "apkmaniapro.com may try to install applications on a user's device, which may contain malware, or collect data, which poses a risk."
+  ]
+}
+```

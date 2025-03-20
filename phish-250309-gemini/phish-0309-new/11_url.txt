@@ -1,0 +1,10 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    ".com is a low-risk TLD",
+    "Random string of numbers and letters 'aqdk42' before the TLD is suspicious."
+  ]
+}
+```

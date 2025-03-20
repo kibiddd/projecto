@@ -1,0 +1,10 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    "tempisite.com is a high-risk TLD (often used for temporary or disposable websites)",
+    "Numeric string '/323254' is suspicious and likely used for tracking or potentially masking the site's true purpose."
+  ]
+}
+```

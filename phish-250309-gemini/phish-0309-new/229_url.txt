@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD",
+    "Suspicious subdomain: gzh (likely unrelated to apple)",
+    "Suspicious path '/apple' potentially brand impersonation attempt"
+  ]
+}
+```

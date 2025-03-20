@@ -1,0 +1,10 @@
+```json
+{
+  "verdict": 3,
+  "Explanation": [
+    "URL uses http",
+    ".org is a low-risk TLD, but http is a red flag.",
+    "No obvious suspicious patterns or brand impersonation."
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD",
+    "Suspicious subdomain 'au-io' which doesn't align with a legitimate trezor domain or typical regional naming conventions.",
+    "Uses 'trezor' which is a known brand and may be impersonating the legitimate brand."
+  ]
+}
+```

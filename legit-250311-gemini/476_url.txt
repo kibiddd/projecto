@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 1,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".fm is a country code top-level domain (ccTLD) for Micronesia, but commonly used by websites, indicating a low risk.",
+    "URL uses a legitimate domain and path structure.",
+    "URL uses https."
+  ]
+}
+```

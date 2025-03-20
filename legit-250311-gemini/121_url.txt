@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 3,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".ca is a generally safe TLD.",
+    "The path 'cineforum' doesn't immediately raise red flags, although context is important.",
+    "Uses https"
+  ]
+}
+```

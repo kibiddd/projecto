@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    "`.dev` TLD is generally considered low-risk, but in the context of a suspicious subdomain and http usage, risk is increased.",
+    "Suspicious subdomain: `gbghcjnyuffjr2` appears to be a random string of characters.",
+    "This could indicate a temporary or disposable website, common in phishing scams."
+  ]
+}
+```

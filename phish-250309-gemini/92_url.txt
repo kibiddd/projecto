@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No direct brand impersonation, but use of numbers in the subdomain is slightly suspicious.",
+    "weebly.com is a generally low-risk TLD, but the subdomain structure (2aslkdi9) looks highly suspicious.",
+    "Suspicious subdomain: random string of characters and numbers.",
+    "URL uses https"
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    "webflow.io is a moderate-risk TLD/domain (often used for temporary sites/clones)",
+    "Suspicious pattern: '--' in the domain name (blockfilogi--official)",
+    "Potentially brand impersonating or associated: 'official' is often used to create the illusion of an authentic site."
+  ]
+}
+```

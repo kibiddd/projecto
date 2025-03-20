@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 3,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".gc.ca is a low-risk TLD (government domain).",
+    "The URL uses a standard path structure with query parameters, which, while long, doesn't immediately appear suspicious.",
+    "Uses https"
+  ]
+}
+```

@@ -1,0 +1,10 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "Suspicious random string subdomain: 'gbghcjnyuffjr2'",
+    ".dev is a moderate risk TLD used for development and testing which can be a good way to host a scam",
+    "URL uses http"
+  ]
+}
+```

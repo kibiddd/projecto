@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No obvious brand impersonation in URL.",
+    ".icu is a high-risk TLD.",
+    "The combination of bioelectricity and .icu is unusual and potentially suspicious.",
+    "URL uses http, indicating lack of encryption."
+  ]
+}
+```

@@ -1,0 +1,10 @@
+```json
+{
+  "verdict": 6,
+  "Explanation": [
+    "URL uses https",
+    "webflow.io is a medium-risk TLD as it is often used for temporary or throwaway websites",
+    "logongeiminn appears to be a random or unusual string which can indicate a compromised or untrustworthy site."
+  ]
+}
+```

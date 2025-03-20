@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "No direct brand impersonation.",
+    "`.dev` is generally considered a moderately-risky TLD, often used for development but can be used for phishing.",
+    "The 'beevi' subdomain appears unusual and could be part of a larger attack infrastructure.",
+    "The use of 'pages' subdomain within the URL is also common in the development process but increases the risk profile."
+  ]
+}
+```

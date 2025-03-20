@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD",
+    "Suspicious path: '/backup/byxugqlc/ic-access/email.html' contains a seemingly random string 'byxugqlc', and an unusual 'email.html' file in a likely nested directory structure",
+    "Website may be designed to get user information, email in this case"
+  ]
+}
+```

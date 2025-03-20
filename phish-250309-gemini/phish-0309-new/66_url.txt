@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "URL uses http",
+    ".xyz is a high-risk TLD",
+    "The phrase 'barato nacional' (cheap national) often used in promotions to lure in consumers.",
+    "Lack of brand association suggests malicious intent."
+  ]
+}
+```

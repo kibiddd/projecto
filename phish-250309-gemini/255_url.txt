@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No direct brand impersonation, but the subdomain 'archive.com' could be attempting to mimic a legitimate archiving service.",
+    ".im (Isle of Man) is a country code TLD. While not inherently high-risk, the combination with 'archive.com' raises suspicion, especially given the context of Instagram.",
+    "Excessive subdomains (instagram.archive.com) are suspicious and could be used to obfuscate the true origin of the link.",
+    "The path '/video/657475766' is generic but could be used to lead to a phishing page.",
+    "URL uses https"
+  ]
+}
+```

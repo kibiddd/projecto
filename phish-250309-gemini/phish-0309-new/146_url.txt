@@ -1,0 +1,10 @@
+```json
+{
+  "verdict": 4,
+  "Explanation": [
+    "URL uses https",
+    ".life is a medium-risk TLD",
+    "No obvious brand impersonation or suspicious patterns detected."
+  ]
+}
+```

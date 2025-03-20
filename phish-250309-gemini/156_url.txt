@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    ".dev is a moderately risky TLD, often used for development and can be exploited.",
+    "The URL structure 'carrefouriramadan2.pages.dev' followed by a seemingly random number '17952401' in the path is slightly suspicious, potentially indicating a campaign.",
+    "URL uses https"
+  ]
+}
+```

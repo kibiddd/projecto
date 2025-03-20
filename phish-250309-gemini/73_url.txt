@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "URL uses the free wixsite domain, often used for scams and phishing.",
+    "The URL path contains random strings and encoded data, suggesting malicious intent.",
+    "URL uses http, which is a major red flag.",
+    "The excessive subdomains (maryannarw62111111) are highly suspicious."
+  ]
+}
+```

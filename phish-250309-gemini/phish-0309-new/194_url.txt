@@ -1,0 +1,10 @@
+```json
+{
+  "verdict": 6,
+  "Explanation": [
+    "URL uses https",
+    "cloudfront.net is a legitimate CDN, but can be used for hosting malicious content.",
+    "Random string subdomain (d12tgvynb5e7un) is suspicious."
+  ]
+}
+```

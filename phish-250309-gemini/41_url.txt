@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "no brand impersonation in URL",
+    ".co.uk is a generally trustworthy TLD, but the combination with other factors is concerning",
+    "The 'jss/a' path is highly suspicious and likely indicates a phishing attempt.",
+    "URL uses http"
+  ]
+}
+```

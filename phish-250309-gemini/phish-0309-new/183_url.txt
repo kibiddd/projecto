@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    "cn TLD for China could be targeted at chinese speakers",
+    "'.com' is a low-risk TLD",
+    "plhhovyj.com appears to be a random string of characters, a common tactic in phishing",
+    "No brand impersonation detected"
+  ]
+}
+```

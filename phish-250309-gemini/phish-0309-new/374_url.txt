@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    "webflow.io is a medium-risk TLD, often used for temporary or less reputable sites.",
+    "The subdomain 'sso-auth-ndax-index' might be attempting to impersonate a legitimate Single Sign-On (SSO) system related to an index or exchange (NDAX). This pattern is common in phishing attempts.",
+    "Website may be attempting to impersonate a legitimate SSO login page to steal credentials"
+  ]
+}
+```

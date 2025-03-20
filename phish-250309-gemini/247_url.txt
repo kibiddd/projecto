@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    "'.loans' is a moderately risky TLD.",
+    "The URL 'hj88' appears suspicious; it's a random string, which may be a signal of a low-quality site or attempt to hide the site's purpose.",
+    "URL uses https."
+  ]
+}
+```

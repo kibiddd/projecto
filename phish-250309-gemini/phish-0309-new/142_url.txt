@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".top is a high-risk TLD",
+    "Suspicious subdomain/domain name: bitfarmsmining-platform.top may be impersonating a legitimate mining platform using the format <brand>-<service>",
+    "Likely targeting users of a cryptocurrency mining platform with a credential phishing scam."
+  ]
+}
+```

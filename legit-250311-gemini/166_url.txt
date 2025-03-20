@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 1,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".fm is a legitimate TLD for radio/music sites.",
+    "URL structure and path appear normal for a music website.",
+    "Uses https, which is good."
+  ]
+}
+```

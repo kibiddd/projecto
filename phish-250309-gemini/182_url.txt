@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 4,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".com is a low-risk TLD.",
+    "The subdomain 'cn' suggests a connection to China, which isn't inherently malicious but warrants caution depending on the context. '150manx' could be an unusual pattern if the target isn't related to manx culture. It's not immediately suspicious in isolation.",
+    "URL uses https"
+  ]
+}
+```

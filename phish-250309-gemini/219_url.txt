@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "No direct brand impersonation.",
+    "webflow.io is a free website hosting service, which can be used for malicious purposes, raising the risk.",
+    "Suspicious subdomain: 'gemqminilogginuss' appears to be an attempt to look legitimate or could be a random string indicating a potential phishing attempt. 'loggin' could be a typo for 'login'.",
+    "URL uses https"
+  ]
+}
+```

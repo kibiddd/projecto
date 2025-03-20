@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No obvious brand impersonation in URL.",
+    ".com is a low-risk TLD.",
+    "Suspicious pattern: random string 'ams7pcpbn589' suggests potential phishing or malware distribution.",
+    "URL uses https, but the other factors increase risk."
+  ]
+}
+```

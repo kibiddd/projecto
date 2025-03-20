@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No direct brand impersonation in the domain itself, but 'attserver122' could be an attempt to mimic an official AT&T server.",
+    "weebly.com is a free hosting service, often used for phishing, raising suspicion.",
+    "The subdomain 'attserver122' followed by a free hosting service is a suspicious pattern.",
+    "URL uses https"
+  ]
+}
+```

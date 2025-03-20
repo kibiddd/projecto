@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    "Uses a country-specific TLD (.in) which is a low risk if it's related to the content, but combined with the short domain name, a high risk if not",
+    "The path '/9hW' is highly suspicious. It's a short, random string, a common pattern in malicious URLs for obfuscation and redirection.",
+    "URL uses https"
+  ]
+}
+```

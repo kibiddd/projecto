@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 4,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    ".com.br is a country-code TLD, generally lower risk than generic TLDs.",
+    "The path '/accedi/profilo' is unusual, but may be a legitimate internal path, or a mispelled path in portugese. Additional context would be needed.",
+    "URL uses https."
+  ]
+}
+```

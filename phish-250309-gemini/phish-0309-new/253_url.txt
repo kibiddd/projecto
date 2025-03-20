@@ -1,0 +1,10 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    "in.mt is a country code top-level domain (ccTLD), Maltese, which may be considered higher risk depending on the context.",
+    "The path '/9hW' is a short, seemingly random string of characters, which could indicate a shortened URL or a potential redirect to a malicious site."
+  ]
+}
+```

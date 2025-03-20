@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "github.io is a moderate-risk TLD (often used for legitimate projects, but also for phishing)",
+    "Suspicious subdomain structure: github.io is legitimate, but 'netflix' may indicate brand impersonation or a cloned website hosted on a legitimate platform to bypass filters",
+    "Potential brand impersonation of Netflix (due to 'netflix' in the path). This is a common technique to lure users into providing credentials."
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 5,
+  "Explanation": [
+    "No apparent brand impersonation.",
+    ".com is a low-risk TLD.",
+    "The URL uses multiple subdomains (www, en-gb), which can be used for complex setups but are not inherently suspicious in this context.",
+    "The path structure (/family/Wightman/1) is unusual and might be a red flag depending on context. More analysis needed to verify."
+  ]
+}
+```

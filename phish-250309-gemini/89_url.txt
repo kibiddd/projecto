@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "Uses 'amazoon' substitution to mimic 'amazon'",
+    "sytes.net is a free dynamic DNS provider, often used for malicious purposes",
+    "Contains the path '/signin' which is a common phishing attempt to steal credentials.",
+    "URL uses http"
+  ]
+}
+```

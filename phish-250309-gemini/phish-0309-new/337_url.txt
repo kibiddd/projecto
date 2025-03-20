@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".me is a medium-risk TLD as it is often used for personal domains or dynamic DNS",
+    "Suspicious pattern: Excessive use of subdirectories/cgi-bin, which is a common tactic for hiding malicious content.",
+    "Domain uses a Synology DDNS (Dynamic DNS) which can be used for temporary sites or for hiding the real IP address of the server."
+  ]
+}
+```

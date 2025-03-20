@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    "trycloudflare.com is a high-risk subdomain, often used for temporary or malicious sites.",
+    "Suspicious subdomain structure: 'than-rr-connector-nato'.",
+    "Path '/login.html' is common in phishing attempts."
+  ]
+}
+```

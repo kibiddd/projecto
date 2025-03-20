@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 4,
+  "Explanation": [
+    "No brand impersonation in URL.",
+    ".org is a generally trusted TLD.",
+    "The URL appears to be related to Indian clothing, which doesn't inherently raise red flags.",
+    "Uses https."
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 6,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    ".com is a low-risk TLD.",
+    "The path 'thrsdir/actors/actorProfiles.mv' seems unusual and may be an attempt to obfuscate content.",
+    "The query parameter 'billpaxton' could be benign or part of a crafted attack, requires more context."
+  ]
+}
+```

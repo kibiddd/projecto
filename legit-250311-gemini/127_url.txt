@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "No direct brand impersonation, but long domain name could be used to mislead.",
+    ".com is a low-risk TLD.",
+    "Excessively long and convoluted subdomain/path structure is highly suspicious, suggestive of keyword stuffing and potentially hiding malicious intent. Use of 'embassyhomepage' is also unusual and could be attempting to exploit familiarity with embassy sites. ",
+    "Use of several keywords such as 'russian_language' is likely for search engine optimization, which could also indicate the site is not legitimate. "
+  ]
+}
+```

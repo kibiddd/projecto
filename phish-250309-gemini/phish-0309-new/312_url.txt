@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "webflow.io is a medium-risk TLD, often used for temporary or quickly-spun-up websites, increasing risk.",
+    "Excessive subdomains and hyphens ('portal-led-ger----live-cdn') are a red flag, likely an attempt to obscure the true destination and mimic a legitimate service (Ledger).",
+    "The use of 'live' and 'cdn' along with the brand name 'Ledger' suggests a likely attempt at brand impersonation of Ledger, a cryptocurrency hardware wallet provider."
+  ]
+}
+```

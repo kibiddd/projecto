@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".top is a high-risk TLD",
+    "Suspicious pattern: random string of numbers '06' appended to the domain, suggesting a potential attempt to evade blacklists or create multiple variations.",
+    "The generic domain name 'restkstore' has little to no brand association. This is a strong indicator of a scam."
+  ]
+}
+```

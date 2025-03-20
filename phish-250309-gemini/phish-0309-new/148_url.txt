@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".io is a medium-risk TLD, often used for hosting pages",
+    "GitHub.io domain often used for hosting phishing pages",
+    "Uses 'Facebook' in the path, which may be an attempt to impersonate the brand",
+    "Includes a suspicious subdomain 'bryt237', and the specific path 'Facebook-bt', possibly indicating a phishing attempt"
+  ]
+}
+```

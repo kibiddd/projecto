@@ -1,0 +1,9 @@
+```json
+{"verdict": 10,
+  "Explanation" : ["URL uses http",
+   "'.click' is a high-risk TLD",
+   "'recompensas' (Spanish for rewards) is suspicious and suggests a potential giveaway scam",
+   "The URL attempts to impersonate Spotify through the use of 'spotify'",
+   "The combination of these factors suggests a high likelihood of phishing or a scam."]
+}
+```

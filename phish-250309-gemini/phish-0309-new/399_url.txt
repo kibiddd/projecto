@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD",
+    "Suspicious pattern: random string of characters in the domain name (stcamccommnumnlty.com)",
+    "Suspicious path: random string of characters in the path (/nuloler/benr/tynsk)",
+    "Domain name looks designed to evade detection or typosquat"
+  ]
+}
+```

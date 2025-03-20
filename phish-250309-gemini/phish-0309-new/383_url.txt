@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "weebly.com is a low-risk TLD",
+    "Suspicious subdomain structure: multiple subdomains (spct1-webx-xoi3hhy-vbn) with random-looking characters suggests potential malicious intent.",
+    "Potentially used to host phishing or malware, since weebly is a free hosting and could be used to host malicious content."
+  ]
+}
+```

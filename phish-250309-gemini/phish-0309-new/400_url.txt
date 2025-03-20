@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD",
+    "Uses the brand 'Steam' in domain to attract users",
+    "Suspicious pattern: Uses 'steambonus' and a 'gift=' parameter with a seemingly random number, often associated with phishing or scams offering fake rewards."
+  ]
+}
+```

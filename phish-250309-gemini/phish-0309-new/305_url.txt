@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD",
+    "Uses 'midasbuy' and '-page' to mimic legitimate site",
+    "URL includes suspicious fbclid parameter which may be a redirect used for tracking and potentially malicious purposes."
+  ]
+}
+```

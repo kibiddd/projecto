@@ -1,0 +1,10 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    ".co.uk is a moderate-risk TLD, but the use of http outweighs this",
+    "Suspiciously short path '/jss/a' lacks context and indicates a generic, likely malicious purpose."
+  ]
+}
+```

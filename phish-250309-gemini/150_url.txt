@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    ".cc is a medium-high risk TLD (Country Code for Cocos Islands, often abused).",
+    "Suspicious domain name: 'bubyed' is not easily recognizable and may be a random string or typo-squatting.",
+    "URL uses https"
+  ]
+}
+```

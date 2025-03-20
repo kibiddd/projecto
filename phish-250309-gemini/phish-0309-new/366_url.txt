@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "`.com` is a low-risk TLD, but the use of a subdomain adds risk",
+    "Suspicious subdomain: `wpenginepowered.com` suggests a potentially compromised or illegitimate WordPress site.",
+    "The path `/nord/nordea` attempts to impersonate a legitimate brand (Nordea) using a suspicious subdomain"
+  ]
+}
+```

@@ -1,0 +1,10 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    "github.io is generally low risk, but can be abused",
+    "Suspicious subdomain and path: 'omar10245' and 'eireurher' lack meaning and suggest a randomly generated or nonsensical structure, common in phishing attempts."
+  ]
+}
+```

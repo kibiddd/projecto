@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD",
+    "Uses 'staemcommumnittly' with a double 'n' character substitution to mimic 'steamcommunity'",
+    "Contains suspicious parameters, including 'gift' and random string 'Dor5Fhnm12w' commonly used in phishing scams."
+  ]
+}
+```

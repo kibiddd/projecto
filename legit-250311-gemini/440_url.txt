@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 4,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".blogspot.com is a moderate-risk TLD (associated with blogspot, but can host legitimate content).",
+    "The URL structure and path appear relatively normal (path includes a year and title suggestive of a blog post).",
+    "Uses https."
+  ]
+}
+```

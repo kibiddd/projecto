@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "URL uses http",
+    ".site is a medium-risk TLD",
+    "Suspicious pattern: random string 'wwsw' in the domain",
+    "Brand impersonation: likely attempting to impersonate a financial or credit service by using a domain that appears to be related to finance and credit."
+  ]
+}
+```

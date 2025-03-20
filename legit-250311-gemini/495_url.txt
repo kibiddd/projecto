@@ -1,0 +1,7 @@
+```json
+{"verdict": 7,
+  "Explanation" : ["no impersonation in URL",
+   ".ca is a low-to-medium-risk TLD (depending on context).",
+  "The URL structure uses a subdomain that may be used to lend legitimacy to the provigo domain."]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    "webflow.io is a medium-risk TLD (often used for legitimate purposes, but also for quick deployments and potentially malicious content)",
+    "The URL contains a brand name (Trezor) followed by hyphens and seemingly product-related terms ('model-t-it'). This pattern could be used to impersonate a legitimate Trezor domain or subdomains.",
+    "While not an immediate red flag, the use of 'webflow.io' could be a means to quickly spin up a phishing site."
+  ]
+}
+```

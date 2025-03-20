@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "weeblysite.com is a medium-risk TLD due to free site hosting, which is often abused.",
+    "Suspicious pattern: Multiple numbers and hyphens in the subdomain (att-107152-108007) strongly suggests an attempt to obfuscate or mimic a legitimate site.",
+    "Likely brand impersonation or phishing attempt, trying to look official."
+  ]
+}
+```

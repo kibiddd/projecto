@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    "webflow.io is a moderately risky TLD, often used for temporary or less-established sites",
+    "Suspicious pattern: Excessive subdomains (logon--ledgar-sso--help)",
+    "Attempts to impersonate a ledger.com login page"
+  ]
+}
+```

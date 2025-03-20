@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No direct brand impersonation, but 'att' prefixing a date is suspicious.",
+    "weeblysite.com is a generally low-risk TLD, but often used for temporary sites that may host scams.",
+    "Suspicious subdomain structure: 'att-currently-03-07-2025' likely attempts to create urgency or mislead by appearing time-sensitive.",
+    "URL uses https"
+  ]
+}
+```

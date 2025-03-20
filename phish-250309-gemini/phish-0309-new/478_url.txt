@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    "webflow.io is a potentially high-risk TLD, often used for temporary or free websites, and is sometimes used for phishing",
+    "Uses 'trezor-io' to impersonate Trezor, a well-known brand in cryptocurrency",
+    "Presence of 'start-ss' is highly suspicious and possibly indicates an attempt to start a session or steal information"
+  ]
+}
+```

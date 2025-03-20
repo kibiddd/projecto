@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "web.app is a medium-risk TLD, often used for temporary or quickly deployed applications which could indicate risk",
+    "The use of 'binaceaps' is suspicious. It is likely an attempt to impersonate Binance by either adding a character to the genuine word",
+    "The domain name may be using app to be misconstrued as an official app"
+  ]
+}
+```

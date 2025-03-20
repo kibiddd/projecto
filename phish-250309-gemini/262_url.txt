@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No direct brand impersonation.",
+    "URL uses weebly.com, which is a free website service that can be used for malicious activity so it's high risk.",
+    "Suspicious subdomain 'kemsnzxsewoeir' contains a random string.",
+    "URL uses https"
+  ]
+}
+```

@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".top is a high-risk TLD",
+    "Suspicious pattern: long URL with seemingly random parameters and encoded data after 'newtransfer'",
+    "The use of cb-new-notif as a subdomain could be brand impersonation attempt to mimic a legitimate notification service.",
+    "Parameter strings like 'usr' and 'nopd' along with seemingly encoded data after 'newtransfer' present anomalies."
+  ]
+}
+```

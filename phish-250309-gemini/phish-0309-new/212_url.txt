@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 6,
+  "Explanation": [
+    "URL uses https",
+    ".com.mx is a medium-risk TLD (country code TLDs can vary in risk depending on the country's reputation for online security)",
+    "Excessive subdomains (ocotzotl.com.mx) raise suspicion",
+    "The domain name 'flavoarantle' has no clear meaning, this is an anomaly"
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "vercel.app is a potentially risky platform for hosting",
+    "Suspicious pattern: long, random-looking subdomain 'hjgf678iuyshdfd7f8ydhgfhisdfjio-t26'",
+    "Numeric ID '100081295808699' in the path is a common phishing tactic to appear legitimate"
+  ]
+}
+```

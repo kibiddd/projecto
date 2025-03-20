@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "URL uses https",
+    ".blogspot.lt is a medium-risk TLD (blog hosted on a platform)",
+    "Uses 'paypalloginin' which is a clear attempt at brand impersonation of PayPal, combined with \"usa\" to increase believability, also adds a subdomain of \"usa\"",
+    "The domain leverages a well-known blogging platform, which is frequently used for phishing campaigns."
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    ".co.uk is a moderate-risk TLD (country-specific but can be abused)",
+    "Suspicious subdomain: 'case-id-100077515' uses a seemingly random ID number, common in phishing to personalize attacks or track users.",
+    "Query parameter '?ts=1' with 'ts' (timestamp or tracking) can be used to track user activity and is often used to create unique links for phishing attempts."
+  ]
+}
+```

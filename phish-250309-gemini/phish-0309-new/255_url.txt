@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".im is a moderate-risk TLD",
+    "Excessive subdomains (instagram.archive.com) are suspicious.",
+    "Path '/video/...' suggests potential content hosting, which could be used to embed malicious content or redirect to phishing sites.",
+    "The subdomain 'archive' is not directly associated with Instagram, raising suspicion."
+  ]
+}
+```

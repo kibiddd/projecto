@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    "weebly.com is a free web hosting service, often used for scams.",
+    "Suspicious subdomain 'dfdhkkgj' is a random string, indicating potential malicious intent.",
+    "URL uses https."
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    "weebly.com is a medium-risk TLD (often used for free, easily created sites)",
+    "Suspicious subdomain: 'btbroadband667877' - uses numbers and appears to be a random string.  This suggests it's not legitimate broadband, BT often uses numbers to refer to specific accounts",
+    "Lack of a clear brand presence can be suspicious and increases the likelihood of it being a scam"
+  ]
+}
+```

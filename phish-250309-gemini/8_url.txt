@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No apparent brand impersonation.",
+    ".com is generally a low-risk TLD, but the domain is unusual.",
+    "Numeric domain (6619m.com) is highly suspicious, often used for short-lived phishing campaigns.",
+    "Lack of context or recognizable brand name raises red flags."
+  ]
+}
+```

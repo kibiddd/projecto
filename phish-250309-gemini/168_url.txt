@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "No direct brand impersonation detected.",
+    ".com is a low-risk TLD.",
+    "The URL contains a long, Base64-encoded string ('YWE9MzkzMzkwNTg0JnNlaT0zMDcxMjEzMiZ0az1XQ2dQUEE1RkZ5dzBPcU9XVDdCdyZ0PTUmYz05MGFzODc2ZmQ4OWFzNWZnOGEwOXM='), which is often used for tracking or obfuscating malicious payloads. This pattern is highly suspicious.",
+    "URL uses https"
+  ]
+}
+```

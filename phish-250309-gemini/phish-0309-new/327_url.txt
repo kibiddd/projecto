@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "Uses Cloudflare's R2 storage service, often used by malicious actors",
+    "Suspicious subdomain pattern with seemingly random alphanumeric string: 'pub-5d83f6276a7e4a26a7b61ce5b5707056'",
+    "Query parameter contains an email address 'email=3mail@b.c' which could indicate phishing attempt or data harvesting"
+  ]
+}
+```

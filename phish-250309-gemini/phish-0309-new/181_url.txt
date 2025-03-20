@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    ".cl (Chile) is a medium-risk TLD depending on context.",
+    "The presence of 'tunnel' in the path is suspicious, often used to mask malicious activity.",
+    "The path '/tunnel/index.html' doesn't immediately align with a typical website structure of clubpalestino.cl, raising a potential red flag."
+  ]
+}
+```

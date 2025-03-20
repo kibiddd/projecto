@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD",
+    "Suspicious pattern: Random string 'sngzamfl' and nested subdirectories like 'backup/ic-access' are uncommon for legitimate sites.",
+    "The path 'personal.html' is often used in phishing attempts to request sensitive information."
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "Uses a long, random subdomain string (2t-kjeehsdfyiwoeujsf98esygufdijkenskfdl). This is a strong indicator of a phishing attempt.",
+    "Uses a .vercel.app domain, which is a legitimate platform but can be easily abused for hosting phishing sites.",
+    "The path 'lhqm.html' is short and does not provide any context. This is suspicious."
+  ]
+}
+```

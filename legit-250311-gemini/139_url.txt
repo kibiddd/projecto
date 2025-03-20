@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 4,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    ".com is a low-risk TLD.",
+    "The path '/zh-tw/' indicates a language/region setting, which is not inherently suspicious.",
+    "Uses https."
+  ]
+}
+```

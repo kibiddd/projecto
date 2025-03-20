@@ -1,0 +1,10 @@
+```json
+{
+  "verdict": 1,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".com is a low-risk TLD.",
+    "The URL points to a valid and legitimate Myspace profile identified by a numerical user ID."
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "vercel.app is a platform often used for temporary or quickly deployed websites, which can be associated with phishing activity",
+    "Repeated subdomain 'ussoa-1313.vercel.app' is suspicious and may be an attempt to appear legitimate through repetition or trickery.",
+    "The URL includes a port number ':443' within the path, which is highly unusual and suggests an attempt to mislead or obfuscate the true destination."
+  ]
+}
+```

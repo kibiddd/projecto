@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD",
+    "Uses 'mygovaus' attempting to mimic 'mygov.au' the Australian government website",
+    "The use of '-inbox' is highly suspicious as a path to access sensitive information, potentially for credential phishing.",
+    "The domain name is designed to resemble a legitimate government service, increasing the likelihood of user trust and subsequent phishing."
+  ]
+}
+```

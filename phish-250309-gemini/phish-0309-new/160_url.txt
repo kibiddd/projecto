@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".co.uk is a generally low-risk TLD but the excessive subdomain use raises suspicion",
+    "Suspicious pattern: Excessive subdomains (case-center-support-id100015686583019) and long ID string",
+    "May be brand impersonation. The use of the brand name is not immediately apparent, however excessive subdomains often indicate a scam"
+  ]
+}
+```

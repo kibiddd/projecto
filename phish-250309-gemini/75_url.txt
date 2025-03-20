@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "No obvious brand impersonation through character substitutions.",
+    "webflow.io is a somewhat low-risk TLD (can be used for legitimate websites, but also for quickly spinning up sites).",
+    "Suspiciously random subdomain: 'muetsmasklogpon'. This could be a randomly generated string.",
+    "URL uses http"
+  ]
+}
+```

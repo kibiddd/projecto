@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 6,
+  "Explanation": [
+    "URL uses https",
+    "github.io is a generally low-risk TLD but associated with free hosting which can be abused",
+    "Path 'netflixclone' could indicate a clone project, but may be innocuous",
+    "Domain name itself does not appear suspicious"
+  ]
+}
+```

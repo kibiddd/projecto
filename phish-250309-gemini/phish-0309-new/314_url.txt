@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    ".io is a medium-risk TLD, often used for legitimate tech sites but can be abused",
+    "Excessive use of subdomains (portal-ndax-io-cdn-m-auth) raises suspicion. While some legitimate services use multiple subdomains, this pattern is often seen in phishing attempts to mimic legitimate services. The inclusion of 'cdn' and 'auth' could be an attempt to further feign legitimacy.",
+    "The structure and subdomain use could be a clone attempting to impersonate a financial portal. The use of 'ndax' is suspicious."
+  ]
+}
+```

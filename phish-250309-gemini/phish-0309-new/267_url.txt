@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "webflow.io is a moderately risky TLD (often used for temporary or free sites)",
+    "Suspicious subdomain: 'kukoinlogzn'. The legitimate domain is 'kucoin.com' (with no 'l' or 'zn')",
+    "Likely brand impersonation of 'KuCoin' through a misspelled subdomain attempting to mimic a login page"
+  ]
+}
+```

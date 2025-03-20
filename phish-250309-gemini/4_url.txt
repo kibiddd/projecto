@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No apparent brand impersonation.",
+    ".net is a moderately risky TLD, but not as bad as .xyz or .top",
+    "Numeric domain with no context is highly suspicious.",
+    "URL uses HTTP"
+  ]
+}
+```

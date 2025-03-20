@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".cc is a medium-risk TLD",
+    "The URL consists solely of numbers, which is highly suspicious and often associated with malicious activities",
+    "No clear brand or purpose apparent, increasing the likelihood of malicious intent"
+  ]
+}
+```

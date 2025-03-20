@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    "webflow.io is a generally low-risk TLD, however, it is a platform often used to host temporary or illegitimate websites",
+    "The use of subdomains such as support-docs- is commonly used in phishing attacks as a way to create a false sense of legitimacy.",
+    "Uses 'ledgrs' with 'e' substitution to mimic 'ledgers' which could indicate brand impersonation."
+  ]
+}
+```

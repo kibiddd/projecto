@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 6,
+  "Explanation": [
+    "URL uses https",
+    "github.io is a medium-risk TLD, often used for legitimate projects but also for hosting phishing sites",
+    "Numeric string '333' in the subdomain is slightly suspicious",
+    "Path suggests a potential clone project which is common for phishing/scam activity"
+  ]
+}
+```

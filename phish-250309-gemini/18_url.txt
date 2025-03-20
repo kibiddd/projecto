@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    ".shop is a moderately risky TLD, often associated with temporary or untrustworthy sites.",
+    "The domain suggests a cheap flight offer, which could be used as bait in a phishing scheme.",
+    "Use of http is not secure"
+  ]
+}
+```

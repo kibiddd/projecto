@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    "weeblysite.com is a free hosting service, often abused for scams, raising the risk.",
+    "Excessive subdomain pattern (my-site-107934-102452) is highly suspicious and suggests a disposable or automated site.",
+    "URL uses https"
+  ]
+}
+```

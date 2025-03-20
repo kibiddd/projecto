@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    "cloudns.org is a medium-risk TLD due to potential for free subdomain abuse",
+    "Excessive subdomain (2.fanga) suggests potential for malicious hosting or obfuscation",
+    "No obvious brand impersonation, but the unusual subdomain structure warrants caution"
+  ]
+}
+```

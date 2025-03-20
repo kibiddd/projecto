@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No direct brand impersonation, but the term 'cioinbas' may be an attempt to mimic a legitimate brand through a similar sounding name, though this is not certain.",
+    "webflow.io is a medium-risk TLD because while legitimate websites exist, it's often used for temporary or throwaway sites.",
+    "The extension 'webflow.io' used in the URL is suspicious, often associated with sites created for testing or temporary use, which may indicate malicious intent.",
+    "URL uses https"
+  ]
+}
+```

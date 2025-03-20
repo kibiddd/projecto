@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "No direct character substitution for brand impersonation (Netflix is present)",
+    "'.site' is a medium-high risk TLD, often associated with less reputable sites.",
+    "The subdomain 'winnatech' is suspicious, not directly related to Netflix.",
+    "URL uses http"
+  ]
+}
+```

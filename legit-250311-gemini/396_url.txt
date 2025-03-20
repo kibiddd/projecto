@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 1,
+  "Explanation": [
+    "No brand impersonation.",
+    ".org is a generally safe TLD.",
+    "URL structure appears normal for a forum.",
+    "Uses https."
+  ]
+}
+```

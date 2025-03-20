@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    ".portfoliobox.net is a medium risk TLD, often used for free hosting and can be abused.",
+    "Suspicious subdomain 'hbbh', could indicate a randomly generated or compromised site.",
+    "URL uses http."
+  ]
+}
+```

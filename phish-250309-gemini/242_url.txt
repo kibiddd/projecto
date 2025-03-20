@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "No direct brand impersonation.",
+    "webflow.io is a potentially risky TLD as it allows easy site creation, increasing the chance of misuse.",
+    "Suspicious subdomain pattern: help-portal-legderr-us-cdn. This could be an attempt to appear legitimate.",
+    "URL uses https"
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    "'.dev' is a medium-risk TLD (often used for development/testing)",
+    "Suspicious subdomain: 'fdryu5' is a random string, indicating potential phishing or temporary hosting",
+    "Uses a Google Page, indicating a free hosting service. Scammers like to use these because they are free to use and allow them to easily move their operations"
+  ]
+}
+```

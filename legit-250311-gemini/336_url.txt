@@ -1,0 +1,9 @@
+```json
+{"verdict": 3,
+  "Explanation" : ["No brand impersonation detected.",
+   ".com is a low-risk TLD.",
+  "The path 'manutd' appears to be legitimate, representing Manchester United.",
+  "No other anomalies detected."
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 3,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    ".com is a low-risk TLD.",
+    "Uses a legitimate subdomain 'medical-dictionary' of 'thefreedictionary.com'.",
+    "Path is a normal search term."
+  ]
+}
+```

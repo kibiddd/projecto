@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No direct brand impersonation, but the use of seemingly random numbers and subdomains is suspicious.",
+    "workers.dev is a potentially high-risk subdomain due to its use for various purposes.",
+    "Suspicious pattern: Excessive subdomains and random numbers.",
+    "URL uses http"
+  ]
+}
+```

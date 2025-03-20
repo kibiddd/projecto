@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    ".biz is a medium-high risk TLD",
+    "'token-im' may be impersonating a legitimate token service",
+    "Website may be attempting to steal user information relating to tokens or digital assets"
+  ]
+}
+```

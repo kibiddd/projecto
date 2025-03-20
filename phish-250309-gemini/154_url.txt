@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No brand impersonation detected.",
+    "github.io is a free hosting service often abused for phishing, scoring high risk.",
+    "Path contains 'netflix', a common target for phishing attempts.",
+    "URL uses https."
+  ]
+}
+```

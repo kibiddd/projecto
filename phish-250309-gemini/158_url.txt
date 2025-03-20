@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "No direct brand impersonation detected.",
+    ".dev is a moderately risky TLD, often used for development and testing, but can be used for phishing.",
+    "The path '/47894447' is a suspicious pattern; a random string is often used for unique phishing page generation.",
+    "URL uses https, which slightly reduces the risk but does not negate other red flags."
+  ]
+}
+```

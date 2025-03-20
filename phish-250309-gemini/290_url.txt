@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    "weeblysite.com is a free subdomain service, which is sometimes used for scams but less severe than other TLDs.",
+    "The URL uses a long string of numbers in the subdomain, which is a common tactic to obscure the true destination and evade detection.",
+    "URL uses https"
+  ]
+}
+```

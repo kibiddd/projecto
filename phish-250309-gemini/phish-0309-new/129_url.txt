@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    "webflow.io is a medium-risk TLD as it's often used for temporary or project sites.",
+    "Excessive subdomains (auth-app-crypto-sso-wgeb) raise suspicion, indicating a potentially complex and possibly obfuscated structure.",
+    "May be impersonating a legitimate authentication application."
+  ]
+}
+```

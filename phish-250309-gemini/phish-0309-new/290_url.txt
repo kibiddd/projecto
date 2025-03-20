@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    "weeblysite.com indicates a free website service, which can be used for both legitimate and malicious purposes",
+    "Suspicious subdomain: the long string of numbers 'my-site-100108-107046' followed by a hypen is highly unusual and often used to evade detection and host phishing sites or spam",
+    "Lack of any identifying information"
+  ]
+}
+```

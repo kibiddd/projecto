@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "Uses a suspicious subdomain pattern (random hexadecimal string)",
+    "R2.dev is a Cloudflare service and could host legitimate content, but is often abused.",
+    "The lack of a clear domain name raises suspicion."
+  ]
+}
+```

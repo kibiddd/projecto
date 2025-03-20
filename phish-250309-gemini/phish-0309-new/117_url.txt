@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD",
+    "Uses 'app-' prefix, which is sometimes used in phishing to appear legitimate.",
+    "Uses a character substitution 'blnance' to mimic 'binance', brand impersonation"
+  ]
+}
+```

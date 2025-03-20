@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 4,
+  "Explanation": [
+    "No obvious brand impersonation or character substitutions.",
+    ".com is a low-risk TLD.",
+    "The domain 'goldenmap.com' seems legitimate.",
+    "The URL contains a country code prefix 'fr' but it also is followed by a legitimate looking domain name, there are no other immediately suspicious patterns."
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No brand impersonation detected.",
+    "vercel.app is often used for temporary sites which can be used for malicious purposes, score increased due to the presence of a subdomain with seemingly random characters.",
+    "Suspicious pattern: Excessive random subdomain 'afegsrhdtjfthryetayrweywtwrteyrey'.",
+    "Path contains what may be a user ID ('id/100081295801294.html') which could be part of a phishing attempt to target specific users."
+  ]
+}
+```

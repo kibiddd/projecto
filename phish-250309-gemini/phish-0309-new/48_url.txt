@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    "ipfs.io is a medium-risk TLD, commonly used to host decentralized content, which may be abused to host phishing content.",
+    "Long, seemingly random path: /ipfs/bafybeickpegpv5zzqf2ikm5poz7zi7s4ncy72y5vvsf4xgihkx7jsi5n6u/ethics_state.html suggests hidden or obfuscated content.",
+    "The path 'ethics_state.html' doesn't provide any context or legitimacy on a platform like fleek.ipfs.io, which would be a target for phishing attempts."
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 4,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    ".net is a moderately risky TLD.",
+    "Path includes 'kansasjayhawks', which aligns with the domain and suggests a legitimate connection to a Big 12 football team.",
+    "Uses HTTPS."
+  ]
+}
+```

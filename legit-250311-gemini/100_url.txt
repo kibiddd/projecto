@@ -1,0 +1,8 @@
+```json
+{"verdict": 3,
+  "Explanation": ["No obvious brand impersonation.",
+   ".com is a low-risk TLD.",
+   "Path structure 'articles/kansasstate/11836' is typical of a legitimate news or blog site.",
+   "URL uses https"]
+}
+```

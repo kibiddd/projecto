@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".top is a high-risk TLD.",
+    "The URL contains a long, random-looking string in the query parameters, a suspicious pattern.",
+    "URL uses http"
+  ]
+}
+```

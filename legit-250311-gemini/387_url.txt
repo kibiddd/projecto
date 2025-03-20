@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 3,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".de (Germany) is a moderately trusted TLD.",
+    "URL uses a standard subdomain ('www').",
+    "The domain name 'mydealz' suggests a legitimate purpose."
+  ]
+}
+```

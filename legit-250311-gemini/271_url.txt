@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 3,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".com is a low-risk TLD.",
+    "Suspicious parameter '?w1downmnttj' - could be an obfuscated file ID or a redirection attempt. Requires further investigation with content inspection but is not immediately alarming.",
+    "URL uses https."
+  ]
+}
+```

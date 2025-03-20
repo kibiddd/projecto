@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    "webflow.io is a low-risk TLD, but used for free website hosting and prone to phishing attacks",
+    "Suspicious subdomain structure: 'auth-m--start-ledger'. Excessive use of hyphens and multiple subdomains.",
+    "The term 'auth' may be used for account authentication, common in phishing attempts"
+  ]
+}
+```

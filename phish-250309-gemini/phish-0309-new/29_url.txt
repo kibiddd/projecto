@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    "weebly.com is a low-risk TLD, but the use of a free subdomain increases risk",
+    "btinformationserver is a generic-sounding name and could be used for phishing",
+    "Use of a free website builder (weebly.com) is common in phishing campaigns",
+     "No direct brand impersonation, but the generic nature and free hosting are red flags"
+  ]
+}
+```

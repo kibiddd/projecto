@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD",
+    "Suspicious pattern: URL contains a long, seemingly random string of characters and numbers after '/rdr/'. This is often used for tracking and redirection, but can also hide malicious content or obscure the destination.",
+    "The subdomain 'cdn' suggests this may be a content delivery network, but the long, complex path after '/rdr/' raises serious concerns."
+  ]
+}
+```

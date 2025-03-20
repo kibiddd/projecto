@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 4,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".com is a low-risk TLD.",
+    "The path 'VisionX_Images.html' doesn't immediately suggest phishing.",
+    "The use of 'www' subdomain is common and not inherently suspicious."
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".cc is a high-risk TLD",
+    "URL consists of only numbers, which is highly suspicious",
+    "No clear domain name or branding present, indicating potential malicious intent"
+  ]
+}
+```

@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "weeblysite.com is a medium-risk TLD/hosting platform - often used for temporary or less secure sites, or by scammers",
+    "Suspicious pattern: Contains a date (03-07-2025) that implies time-sensitivity or urgency, common in phishing attempts.",
+    "Subdomain 'att-currently' attempts to impersonate AT&T, which is a well known brand.",
+    "The combination of a brand impersonation and time-based urgency suggests a phishing attempt."
+  ]
+}
+```

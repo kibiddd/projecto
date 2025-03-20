@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 4,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".com is a low-risk TLD (via weebly.com).",
+    "Suspicious subdomain 'jklm12' - could indicate a temporary or throwaway site, but also could be part of the legitimate service.",
+    "URL uses https."
+  ]
+}
+```

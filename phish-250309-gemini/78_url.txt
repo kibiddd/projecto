@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No obvious brand impersonation (but 'trezr' could be a mis-spelling of a brand)",
+    "webflow.io is a medium-risk TLD as it can be used for legitimate purposes but also for quick, temporary sites.",
+    "Suspicious pattern:  'page-docs-' prefix is generic and suggests content that might not be official. Combining this with the use of a content management platform such as webflow suggests that the content might be fake.",
+    "URL uses http"
+  ]
+}
+```

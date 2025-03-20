@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".com is a low-risk TLD.",
+    "URL contains a seemingly random and lengthy string of characters and numbers ('rdr/YWE9MzkzMjc5OTA0JnNlaT0yMTc2MDgyNyZ0az1NRlg1c250Sm5BbkcwVFJ2MmZRTiZ0PTUmYz05MGFzODc2ZmQ4OWFzNWZnOGEwOXM='). This is a suspicious pattern, often used for tracking, redirection, or obfuscation.",
+    "URL uses https"
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    "webflow.io is a medium-risk TLD as it allows users to create free websites, often exploited for phishing.",
+    "Excessive subdomains (secure-blockfi-sso--cdn--b) create a complex and suspicious structure, likely attempting to mimic a legitimate service.",
+    "The URL attempts to impersonate BlockFi by incorporating its name in the subdomain."
+  ]
+}
+```

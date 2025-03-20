@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No obvious brand impersonation, but 'pepetocoin' lacks a clear brand association, which could be used to exploit unfamiliarity.",
+    ".dev is a medium-risk TLD, often associated with development/testing sites which could be used to mask malicious activity.",
+    "The use of 'pages.dev' suggests a free hosting service which could be a red flag. 'connect' path common for phishing attempts.",
+    "URL uses http"
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No direct brand impersonation via character substitution",
+    "Uses a free subdomain on weeblysite.com, which can be used for phishing and is a moderate risk",
+    "Suspicious pattern: excessive numbers and hyphens in the subdomain (att-107152-108007), common in phishing attempts to obfuscate the true destination and evade filtering.",
+    "URL uses https"
+  ]
+}
+```

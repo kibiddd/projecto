@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 4,
+  "Explanation": [
+    "No brand impersonation detected.",
+    "github.io is a medium-risk TLD, often used for legitimate projects but also for hosting phishing pages.",
+    "The path suggests a project, but is not inherently suspicious.",
+    "URL uses https"
+  ]
+}
+```

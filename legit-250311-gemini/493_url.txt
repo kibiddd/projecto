@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 4,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".ca is a relatively low-risk TLD.",
+    "The URL structure, including 'biz' and a business name, is consistent with Yelp's legitimate structure.",
+    "No obvious anomalies."
+  ]
+}
+```

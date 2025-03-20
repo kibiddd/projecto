@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "Uses a Cloudflare subdomain: r2.dev (indicates a possible hosting platform or service which is sometimes associated with scams)",
+    "Suspicious subdomain: pub-9856c858686049fabc72ec8489720c7b - a long, seemingly random string of characters is highly suspect",
+    "Indexxxx.htm is a suspicious URL, likely obfuscating the intent of the page"
+  ]
+}
+```

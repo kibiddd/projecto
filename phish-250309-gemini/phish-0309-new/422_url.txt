@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    ".io is a medium-risk TLD, often used for hosting projects but can be abused",
+    "Suspicious subdomain 'tha-github' might be attempting to impersonate GitHub or a related project with slight variation.",
+    "The path '/responsividade' is in portuguese and means responsiveness. This seems off for a potential phishing website."
+  ]
+}
+```

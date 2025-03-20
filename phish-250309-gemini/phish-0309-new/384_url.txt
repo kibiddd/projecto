@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".com.co has a moderate risk due to the .co country code",
+    "Uses 'spotifypremium' which may be used to create a false sense of legitimacy.",
+    "Uses .com.co which may be intended to confuse the user, possibly leading to brand impersonation of spotify"
+  ]
+}
+```

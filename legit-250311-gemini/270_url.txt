@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 2,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".com is a low-risk TLD.",
+    "The URL structure is typical for a search query on Spokeo, indicating legitimate use.",
+    "HTTPS is used, indicating a secure connection."
+  ]
+}
+```

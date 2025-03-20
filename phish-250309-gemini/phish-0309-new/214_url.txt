@@ -1,0 +1,10 @@
+```json
+{
+  "verdict": 6,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD",
+    "Domain name 'fujianzhiyuntong' appears to be related to Fujian, China and may be an attempt at localized phishing or a compromised site. Further investigation needed to determine legitimacy."
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "No direct brand impersonation in the domain.",
+    ".blogspot.com is a free blogging service, often used for temporary or low-trust websites, increasing risk.",
+    "The URL contains a specific topic ('southindianactresshotphoto', 'actress-biography') coupled with the year, which could be used to trick users interested in this content, increasing likelihood of malicious content.",
+    "The URL uses https"
+  ]
+}
+```

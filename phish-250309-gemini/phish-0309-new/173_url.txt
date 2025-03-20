@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD",
+    "Suspicious pattern: Long, seemingly random string after 'rdr/' likely used for tracking or redirection to a malicious site",
+    "Excessive use of seemingly random characters",
+    "CDN is often used to host malicious sites"
+  ]
+}
+```

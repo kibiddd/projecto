@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No obvious brand impersonation in the domain.",
+    "vercel.app is a free hosting service often abused for phishing, score 6 if subdomain has a legitimate brand name, otherwise score 9.",
+    "The structure 'dbanks.vercel.app' doesn't immediately trigger suspicion, assuming 'dbanks' is intended to imply a financial institution.",
+    "Uses http"
+  ]
+}
+```

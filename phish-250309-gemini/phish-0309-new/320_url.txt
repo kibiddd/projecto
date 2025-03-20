@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD",
+    "Suspicious path: '/backup/byxugqlc/ic-access/index2.html'. The presence of 'backup' followed by a seemingly random string ('byxugqlc') and then a directory named 'ic-access' could indicate an attempt to hide malicious content or phishing activity.",
+    "The use of 'index2.html' is common for fake websites since the original index.html might already be taken."
+  ]
+}
+```

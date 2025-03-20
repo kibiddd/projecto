@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".eu is a medium-risk TLD (depending on context, can be legitimate)",
+    "Suspicious subdomain: 'recoverpagecase' - likely related to data recovery or account recovery which is a common phishing target. Subdomain usage without apparent reason can indicate phishing.",
+    "Brand impersonation attempt: 'meta' is used to mimic Meta (Facebook/Instagram)",
+    "Anomalies: Combination of brand impersonation with recovery context and subdomain increases risk."
+  ]
+}
+```

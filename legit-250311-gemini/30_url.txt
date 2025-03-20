@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 5,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".ua is a country code TLD, moderately risky depending on context. The .edu TLD is generally considered low risk, but this is a subdomain.",
+    "The query parameter 'miwnf_uk' is a suspicious, potentially random string.",
+    "The subdomain 'www' is typical. Overall URL structure is a little atypical for a university, raising some concern."
+  ]
+}
+```

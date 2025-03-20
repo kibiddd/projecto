@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 6,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD (wixsite.com)",
+    "Suspicious use of Wixsite, a free website builder, often used for temporary or illegitimate sites.",
+    "Use of a name followed by numbers (sharpethomas36) is suspicious."
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    "cloudns.org is a moderately risky TLD.",
+    "Use of a subdomain (2) is slightly suspicious, suggesting potential for hosting multiple sites or obfuscation. The domain 'fanga' is not indicative of a well known brand or service making this URL more suspicious.",
+    "URL uses https"
+  ]
+}
+```

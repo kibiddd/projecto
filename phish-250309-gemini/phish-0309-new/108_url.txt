@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    "vercel.app is a medium-risk TLD (often used for legitimate projects, but also for quick scam setups)",
+    "Suspicious subdomain: Includes 'fb-ads' (potential brand impersonation of Facebook) and a long string of numbers, suggesting a temporary or automatically generated URL.",
+    "The structure of the URL is designed to attract Facebook users who might click the link believing they are interacting with Facebook regarding their ads."
+  ]
+}
+```

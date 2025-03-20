@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "No direct brand impersonation, but 'formulir' and 'bank-bsi' may imply affiliation.",
+    ".my.id is a high-risk TLD",
+    "Suspicious subdomain structure: 'helps.my.id' is unusual and suggests an attempt to appear legitimate while masking the true domain.",
+    "'formulir-update-tarif-transaksi' path common in credential phishing",
+    "URL uses http"
+  ]
+}
+```

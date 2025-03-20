@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    "wixsite.com is a medium-risk TLD (often used for free/easily created sites, increasing potential for scams)",
+    "Suspicious subdomain 'rmzunigaa24' suggests a potentially random or user-generated site.",
+    "Pattern 'my-site-2' further hints at a template or generic site, which can be used for phishing or low-effort scams."
+  ]
+}
+```

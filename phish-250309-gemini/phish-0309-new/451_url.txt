@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    "workers.dev is a high-risk TLD as it is often used for free hosting and temporary websites",
+    "Suspicious subdomain structure: worker-old-art",
+    "Domain name is nonsensical and may be designed to hide purpose"
+  ]
+}
+```

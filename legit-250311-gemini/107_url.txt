@@ -1,0 +1,7 @@
+```json
+{"verdict": 3,
+  "Explanation" : ["no impersonation in URL",
+   ".com is a low-risk TLD",
+  "URL uses a common website type (song lyrics) and artist and song path pattern"]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 3,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".net is a moderately risky TLD.",
+    "www subdomain is common and doesn't raise suspicion. The path is a common name. ",
+    "URL uses https."
+  ]
+}
+```

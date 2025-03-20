@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    "vercel.app is a free hosting service, often used for malicious purposes.",
+    "Suspicious pattern: random string after the path '/xkjg.cno'",
+    "The URL is a subdomain, and uses a free hosting service which combined create risk."
+  ]
+}
+```

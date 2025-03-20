@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD",
+    "The domain name 'anelectriciancom.com' is highly suspicious due to the lack of spaces and potential for typosquatting; the inclusion of 'www' is also common in phishing attempts.",
+    "The use of the path '/password/index.php' is a strong indicator of credential harvesting."
+  ]
+}
+```

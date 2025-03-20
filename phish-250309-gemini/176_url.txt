@@ -1,0 +1,11 @@
+```json
+{"verdict": 6,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".com is a low-risk TLD.",
+    "Path 'login.php' is a common phishing pattern.",
+    "URL uses https.",
+    "The use of '.pt' suggests this site targets portuguese speakers or is based in Portugal, which in isolation is not suspicious but is something to note."
+  ]
+}
+```

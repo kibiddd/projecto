@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    "'.support' is a moderate-risk TLD, often used for less reputable sites.",
+    "Suspicious pattern: 'r33' at the end of the URL is a random-looking string, often used for tracking or redirection, potentially to a malicious site.",
+    "URL uses http"
+  ]
+}
+```

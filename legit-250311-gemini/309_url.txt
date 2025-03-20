@@ -1,0 +1,8 @@
+```json
+{"verdict": 4,
+  "Explanation" : ["no impersonation in URL",
+   ".org is a low-risk TLD",
+  "relatively simple path (page6.html) does not indicate obvious malicious activity",
+  "Uses https"]
+}
+```

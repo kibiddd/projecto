@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "io is a moderate-risk TLD",
+    "Excessive use of hyphens and subdomains (secure----blokfi---sso---cdn) is highly suspicious, likely attempting to bypass security checks and mimic a legitimate subdomain structure",
+    "The use of 'blokfi' with extra hyphens could be an attempt at brand impersonation"
+  ]
+}
+```

@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    "github.io is a generally low-risk TLD, but used for free hosting, making it easier for scammers to set up sites",
+    "Suspicious subdomain structure: random string of characters",
+    "Suspicious path: random string of characters",
+    "The combination of a github.io URL with meaningless subdomains and paths raises red flags."
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    ".my.id is a high-risk TLD",
+    "The path 'program-gebyar-ramadhan' is suspicious, likely designed to lure users with a 'Ramadan promotion'",
+    "Subdomain use ('program') adds complexity and can be a sign of malicious intent."
+  ]
+}
+```

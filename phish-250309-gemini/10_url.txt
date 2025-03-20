@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No brand impersonation detected.",
+    "webflow.io is a free and commonly abused platform for hosting phishing sites.",
+    "Excessive use of hyphens and subdomains ('app', 'secure-blockfi', 'apps', 'cdn') is highly suspicious and a common tactic to evade detection and mimic legitimate structures.",
+    "URL uses http"
+  ]
+}
+```

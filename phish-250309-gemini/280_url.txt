@@ -1,0 +1,10 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "Uses 'm-com-start-ledger-cdn' which is a chain of subdomains that could be used to obfuscate the domain, potentially impersonating a legitimate site",
+    "webflow.io is a high-risk TLD as it is often used for temporary and/or free websites.",
+    "The structure of multiple subdomains before the webflow.io domain raises suspicion."
+  ]
+}
+```

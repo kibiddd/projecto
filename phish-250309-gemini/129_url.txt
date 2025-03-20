@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 6,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    "webflow.io is a medium-risk TLD as it can be used for legitimate purposes but also for rapid deployment of phishing sites.",
+    "Suspicious subdomain structure: excessive use of subdomains (auth-app-crypto-sso-wgeb-cdn) may indicate an attempt to appear legitimate by mimicking a complex infrastructure or to obfuscate the true destination. However, this structure can also be used by legitimate platforms.",
+    "URL uses https"
+  ]
+}
+```

@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "Uses 'facebook' as part of a subdomain string, a potential brand impersonation attempt, though not direct substitution.",
+    ".com.br is a medium-risk TLD (country-specific, can be targeted).",
+    "Excessive subdomains (facebook.login) are suspicious.",
+    "Contains path 'mobile.php' and a likely tracking parameter 'uuid=', common in phishing.",
+    "URL uses http."
+  ]
+}
+```

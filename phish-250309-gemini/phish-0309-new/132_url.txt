@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    ".io is a moderately risky TLD, often used for legitimate projects but also sometimes for less reputable ones.",
+    "The excessive use of subdomains ('auth', 'crypto-sso', 'x-cdn') is suspicious, especially when combined with the potential for brand impersonation.",
+    "The URL structure suggests a possible attempt to mimic a legitimate authentication or CDN service related to cryptocurrency, which are frequent targets for phishing."
+  ]
+}
+```

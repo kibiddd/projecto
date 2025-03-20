@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "Uses 'blockchain--dapp' with double hyphens which may be used to build a false sense of legitimacy and is not a standard pattern.",
+    "'.app' is a relatively low-risk TLD, but the use of Vercel as a service is common for malicious sites.",
+    "Excessive use of subdomains.",
+    "HTTPS is used, but other factors raise the score."
+  ]
+}
+```

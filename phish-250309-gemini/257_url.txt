@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No direct brand impersonation in the domain.",
+    ".ru is a medium-risk TLD, although the presence of a legitimate subdomain (steampowered.com) lowers the risk slightly.",
+    "The URL utilizes a subdomain, which may be used to build a false sense of legitimacy",
+    "Presence of potentially random strings and excessive subdomains (jd2).",
+    "While the domain itself doesn't appear to be a phishing attempt, the use of a subdomain alongside a legitimate domain requires scrutiny."
+  ]
+}
+```

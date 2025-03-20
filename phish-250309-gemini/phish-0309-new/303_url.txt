@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "URL uses https",
+    ".blogspot.com.cy is a high-risk TLD and subdomain.",
+    "Suspicious subdomain 'paypalloginin-usa' attempts to impersonate PayPal.",
+    "Uses 'paypalloginin' to mimic 'paypal login' and 'usa' to give a false sense of legitimacy."
+  ]
+}
+```

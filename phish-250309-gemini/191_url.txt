@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "No direct brand impersonation detected.",
+    "Weebly is a free website builder, often used for phishing (medium risk).",
+    "The subdomain 'currentlyatt9854' looks like a random string, suggesting it might be a temporary or throwaway site.",
+    "URL uses https."
+  ]
+}
+```

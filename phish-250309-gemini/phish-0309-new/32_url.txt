@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    "trycloudflare.com is a high-risk TLD as it is often used for free hosting and can be abused.",
+    "The domain name is nonsensical and contains multiple hyphens, indicating it's likely a randomly generated or suspicious domain.",
+    "The domain name uses 'chinese-induced-societies-readings', this suggests it could be used to target people with a certain interest, so it seems malicious."
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    "io is a medium-risk TLD (can be used for legitimate services but also for scams)",
+    "Excessive use of subdomains (app--secure-blockfi--apps--cdn) is highly suspicious and likely designed to mimic a legitimate BlockFi service or other well-known brand. The multiple hyphens further add to the risk.",
+    "The structure strongly suggests an attempt to impersonate a secure application associated with BlockFi, while likely being a clone project."
+  ]
+}
+```

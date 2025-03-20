@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "Uses 'anthem' with no immediate impersonation",
+    "synology.me is a suspicious subdomain and TLD combination. '.me' TLDs are sometimes used for legitimate purposes, but the use of a free subdomain like 'synology.me' raises suspicion in conjunction with an established brand like 'Anthem'",
+    "No immediately obvious suspicious path patterns.",
+    "URL uses https, which lowers the score slightly"
+  ]
+}
+```

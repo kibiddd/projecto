@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses http",
+    ".com is a low-risk TLD",
+    "The domain name uses 'caixadirectadigitalsec' which appears to be an attempt to impersonate a legitimate financial institution.",
+    "The combination of 'caixa', 'digital', and 'sec' is suspicious and potentially attempts brand impersonation."
+  ]
+}
+```

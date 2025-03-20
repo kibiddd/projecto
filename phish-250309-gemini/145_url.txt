@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    ".one is a moderately risky TLD, but less so than .xyz or .top.",
+    "The URL contains a complex and suspicious query string with numerous parameters and seemingly random alphanumeric values. This pattern is often used to obfuscate malicious activity or track user interactions for phishing or malware distribution.",
+    "URL uses https"
+  ]
+}
+```

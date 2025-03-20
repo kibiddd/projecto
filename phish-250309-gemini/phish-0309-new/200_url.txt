@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".me is a medium-risk TLD",
+    "Uses subdomain 'among2' to mimic 'ebay', which is a suspicious pattern",
+    "Potential brand impersonation; highly likely to be a phishing attempt."
+  ]
+}
+```

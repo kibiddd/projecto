@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "No brand impersonation detected.",
+    "webflow.io is a medium-risk TLD as it's commonly used for free or inexpensive websites, making it easier for scammers to set up and take down sites.",
+    "The use of a random subdomain 'logongeiminn' is suspicious and may be used to hide the true purpose of the site.",
+    "URL uses https"
+  ]
+}
+```

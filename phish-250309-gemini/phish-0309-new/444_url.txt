@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".co.uk is a low-risk TLD",
+    "Excessive subdomains (web86.secure-secure)",
+    "Suspicious path: arelkatombb.co.uk - potentially a random string.",
+    "Suspicious path: template/images/tit - highly unusual and likely malicious"
+  ]
+}
+```

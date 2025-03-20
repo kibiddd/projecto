@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No direct brand impersonation.",
+    "'.vercel.app' is a platform often used for hosting, but can be exploited for phishing, raising the risk, especially when combined with suspicious subdomain/path.",
+    "Suspicious subdomain 'koutroprautraza-4169' combined with a random looking path 'mixcc.html'.",
+    "URL uses http"
+  ]
+}
+```

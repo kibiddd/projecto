@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    "closte.com is a low-risk TLD but the subdomain structure is suspicious.",
+    "Suspicious pattern: long subdomain with random characters and numbers (app-676e6d82c1ac180c503a7fd7)",
+    "Suspicious path: '/ous/generale/home/nkl-log.php' is not a standard or expected path for a legitimate application and may indicate data exfiltration or malicious activity."
+  ]
+}
+```

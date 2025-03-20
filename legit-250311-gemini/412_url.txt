@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 2,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".com is a low-risk TLD associated with apple.com (trusted brand).",
+    "The URL structure with 'itunes.apple.com' and a path related to an album is legitimate.",
+    "Uses https"
+  ]
+}
+```

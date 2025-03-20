@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 4,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    ".com is a low-risk TLD.",
+    "The domain name 'welovemarines' is not inherently suspicious.",
+    "HTTPS is used."
+  ]
+}
+```

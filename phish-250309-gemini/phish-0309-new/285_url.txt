@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "The long and complex subdomain structure (musclebbcoerlparmotiondetectiontwofiveemp1.nyc3.cdn.digitaloceanspaces.com/13033l/developweb1194.z33.web.core.windows.net) is highly suspicious and designed to evade detection.",
+    "Uses .com which is a low-risk TLD",
+    "Random-looking strings and numbers in subdomains and path (e.g., '13033l', 'developweb1194', 'z33') are characteristic of phishing attempts.",
+    "Uses a 'cdn.digitaloceanspaces.com' domain, that can be used to host malicious content."
+  ]
+}
+```

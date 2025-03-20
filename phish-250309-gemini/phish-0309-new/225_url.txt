@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "myds.me is a high-risk TLD or subdomain provider often used for malicious purposes.",
+    "Suspicious pattern: random string of characters ('tqdqfuimw', 'ernjbkuq') used in the path.",
+    "Path includes 'otp.html', a common tactic in phishing for credential harvesting."
+  ]
+}
+```

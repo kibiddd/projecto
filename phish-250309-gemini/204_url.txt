@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "No direct brand impersonation detected.",
+    "'.vercel.app' is a free hosting service often used for quick deployments, which can be used for legitimate projects but also by phishers. Therefore, it carries a moderate risk.",
+    "The path '/get_help' is generic and could be associated with various types of support or information, raising some suspicion.",
+    "URL uses https, which reduces risk but does not eliminate it."
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "webflow.io is a high-risk TLD for phishing given its ease of use in creating websites and its popularity for legitimate and illegitimate use.",
+    "The use of multiple subdomains including 'welcome-io', '--coinpro-doc', and 'teachable' is highly suspicious, suggesting an attempt to appear legitimate or to obscure the true nature of the site.",
+    "The presence of 'coinpro' alongside 'teachable' is a possible attempt to lure users looking for crypto advice with something that has been flagged as a potential scam."
+  ]
+}
+```

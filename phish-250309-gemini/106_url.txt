@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    "`.luxe` is a less common and potentially higher-risk TLD.",
+    "The subdomain 'safety' could be used to create a false sense of security, indicating a potential attempt to mislead users.",
+    "URL uses http"
+  ]
+}
+```

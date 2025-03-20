@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    "io is a medium-risk TLD (can be used legitimately but also often for temporary projects)",
+    "Excessive subdomains (auth-z-start-ledger--cdn) are a red flag, suggesting a potentially complex and suspicious structure, designed to evade detection or mimic a legitimate service's infrastructure",
+    "The subdomain structure is a likely attempt to mimic a legitimate project, the 'ledger' part is concerning as there may be an attempt to steal credentials"
+  ]
+}
+```

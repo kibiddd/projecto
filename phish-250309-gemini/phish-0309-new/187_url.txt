@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD",
+    "The URL contains a repeated domain, which is a common tactic in phishing attempts to trick users into thinking they are on a legitimate site. This is a clear anomaly.",
+    "The repetition 'https://creatify2.com' may be used for social engineering"
+  ]
+}
+```

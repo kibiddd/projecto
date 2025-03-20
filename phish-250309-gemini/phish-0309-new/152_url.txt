@@ -1,0 +1,10 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".xyz is a high-risk TLD",
+    "Suspicious subdomain '371012' and use of a hyphen in the subdomain 'bwg-d' suggests a high likelihood of being a suspicious pattern"
+  ]
+}
+```

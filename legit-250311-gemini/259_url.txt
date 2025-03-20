@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 3,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".com is a low-risk TLD.",
+    "The subdomain 'www' is expected. The path 'allbobs_TESTING.html' contains a seemingly arbitrary string, which warrants some minor suspicion, but is not inherently malicious.",
+    "The use of HTTPS is a positive indicator."
+  ]
+}
+```

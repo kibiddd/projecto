@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 4,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    ".ca is a low-to-medium risk TLD (country-specific).",
+    "The URL structure, including 'store_selector.jsp', while not inherently malicious, could be part of a phishing attempt if the context is misleading.",
+    "HTTPS is used."
+  ]
+}
+```

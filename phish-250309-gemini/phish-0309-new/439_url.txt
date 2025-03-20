@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    "wixsite.com is a medium-risk TLD as it is a free website builder, often used for scams and low-quality sites",
+    "Suspicious subdomain 'vdftrvd15' - random string of characters and numbers is highly suspicious",
+    "The path 'liji' is unusual and lacks context, raising further suspicion."
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    ".com is a low-risk TLD, but the overall pattern is more concerning.",
+    "The path '/p/ocp-qp/anwu' contains a seemingly random string and subdomain structure, often used to evade detection.",
+    "The combination of a short domain with a suspicious path suggests potential malicious activity."
+  ]
+}
+```

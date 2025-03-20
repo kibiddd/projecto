@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "No direct brand impersonation detected, but 'midasbuysami' might be attempting to capitalize on user interest, potentially related to a brand or service. Further context would be needed to determine.",
+    ".top is a high-risk TLD.",
+    "The URL structure 'midasbuysami.ntdll.top/index.php' has a suspicious pattern. Excessive subdomains 'midasbuysami' and 'ntdll' can be a tactic to evade detection or add to legitimacy. 'index.php' is a common file used for malicious pages.",
+    "URL uses https"
+  ]
+}
+```

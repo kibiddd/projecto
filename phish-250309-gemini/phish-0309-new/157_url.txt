@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".dev is a medium-risk TLD (Google Pages is often used for short-lived projects)",
+    "Uses random-looking numbers in path, which may be for tracking or obfuscation: /18394693",
+    "Combination of Ramadan and carrefour, may try to take advantage of current events to entice users"
+  ]
+}
+```

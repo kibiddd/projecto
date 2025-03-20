@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    "'.page' is a moderate risk TLD.",
+    "Numeric strings and excessive subdomains ('mmm') are suspicious patterns.",
+    "The domain is likely designed to look like a legitimate service.",
+    "Website may be a scam designed to collect personal information."
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 3,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".com is a low-risk TLD.",
+    "URL includes legitimate subdomain 'www'.",
+    "Path appears legitimate, though the purpose of 'm_s_aequitas' is unclear without further context."
+  ]
+}
+```

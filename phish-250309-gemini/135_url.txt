@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "Uses 'authu' to mimic 'auth' which is a common shortened form of 'authentication'",
+    "webflow.io is a high-risk TLD as it is a free website builder, often abused for phishing",
+    "The combination of the suspicious subdomain 'authu-app-ledegr' and the generic path raises suspicion",
+    "URL uses https"
+  ]
+}
+```

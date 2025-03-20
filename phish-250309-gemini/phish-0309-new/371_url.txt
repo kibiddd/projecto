@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 6,
+  "Explanation": [
+    "URL uses https",
+    "'.site' is a medium-risk TLD",
+    "Suspicious subdomain: 'smart.' may indicate an attempt to appear legitimate or a related service.",
+    "The path '/images' is not inherently suspicious but could be used to host malicious content."
+  ]
+}
+```

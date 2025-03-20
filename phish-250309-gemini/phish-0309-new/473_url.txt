@@ -1,0 +1,8 @@
+```json
+{"verdict": 8,
+  "Explanation" : ["URL uses http",
+   ".dev is a medium-risk TLD",
+   "The subdomain 'thesan' seems nonsensical and may be a random string or a deceptive attempt to appear legitimate.",
+   "Uses Pages, which allows free hosting, and is commonly abused by scammers."]
+}
+```

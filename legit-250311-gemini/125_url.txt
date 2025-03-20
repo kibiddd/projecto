@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No direct brand impersonation, but 'bpsa' could be confusing to some users.",
+    "bravehost.com is a free hosting provider, which is often used by scammers, indicating higher risk.",
+    "Excessive subdomain use (www.bpsa) could be an attempt to appear legitimate while hiding the true domain.",
+    "The combination of free hosting and potentially misleading subdomain raises suspicion."
+  ]
+}
+```

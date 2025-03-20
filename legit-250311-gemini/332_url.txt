@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 2,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    ".org is a generally safe TLD.",
+    "URL uses a clear and expected pattern for a college search website. The path includes the name of a specific university, which is not suspicious in this context.",
+    "URL uses https."
+  ]
+}
+```

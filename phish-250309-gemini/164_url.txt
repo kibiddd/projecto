@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    ".co.uk is generally a low-risk TLD, but the preceding subdomain adds risk.",
+    "The subdomain 'case-id-100077515' suggests potential tracking or a specific case ID, but the random-looking number before the subdomain ('dafea') raises suspicion. The query parameter '?ts=1' also contributes to suspicion, as 'ts' is commonly used for timestamps or tracking.",
+    "URL uses https, lowering the score slightly."
+  ]
+}
+```

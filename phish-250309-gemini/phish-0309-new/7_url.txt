@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "URL uses http",
+    ".cc is a high-risk TLD (often associated with malicious activity)",
+    "Suspicious pattern: a random string of numbers and a single letter before the TLD.",
+    "The structure of the domain name does not suggest any legitimate business or service."
+  ]
+}
+```

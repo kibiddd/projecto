@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 6,
+  "Explanation": [
+    "No obvious brand impersonation in URL.",
+    ".co is a moderate-risk TLD (country code for Colombia, often used by others).",
+    "The term 'blocxchain' may be a misspelling or variant of a legitimate term (e.g., blockchain).",
+    "URL uses https, lowering risk."
+  ]
+}
+```

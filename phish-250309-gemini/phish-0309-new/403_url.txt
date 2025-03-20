@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD",
+    "Suspicious subdomain/path: 'gift-card' and a seemingly random number string indicate a potential giveaway or phishing attempt.",
+    "Brand impersonation risk: Likely attempting to leverage Steam's reputation to trick users into providing information or clicking malicious links."
+  ]
+}
+```

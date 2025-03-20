@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "No direct brand impersonation in the main domain.",
+    "`.vercel.app` is a legitimate but often used for free hosting, making it a medium risk. Easy to spin up phishing pages.",
+    "The path `ad-help-notification` could be a generic attempt to appear helpful, which could be used in social engineering.",
+    "URL uses https"
+  ]
+}
+```

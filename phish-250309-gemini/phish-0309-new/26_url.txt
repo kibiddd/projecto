@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    "webflow.io is a moderate-risk TLD, often used for temporary or free websites.",
+    "Suspicious subdomain 'bridge-ehub-rtrzor': random-looking string with numbers and letters, potential for hosting phishing content or serving as a redirect.",
+    "This could be an attempt to mimic a legitimate platform, potentially related to a bridge or e-hub service. The use of 'bridge' and 'hub' could be to trick users familiar with those terms."
+  ]
+}
+```

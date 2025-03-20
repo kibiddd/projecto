@@ -1,0 +1,10 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    "workers.dev is a high-risk TLD, often used for temporary or quickly deployed sites",
+    "Suspicious pattern: random-looking numbers (172892111) and subdomain 'ps' may indicate a proxy or a temporary site often used in phishing attempts."
+  ]
+}
+```

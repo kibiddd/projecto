@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No direct brand impersonation.",
+    ".dev is a moderate risk TLD as it's associated with Google's Cloud Platform but often used for testing/development.",
+    "fdryu5 appears to be a random string, indicating potential suspicious activity.",
+    "URL uses http"
+  ]
+}
+```

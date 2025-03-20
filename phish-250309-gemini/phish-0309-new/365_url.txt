@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    "shorten.so is a URL shortener, which obscures the true destination and is often used to hide malicious links (high risk)",
+    "@handle_inquiries_789789 may be a legitimate handle for inquiries however, it can be used to trick users into thinking they are communicating with a person or entity",
+    "URL shorteners inherently make it difficult to assess other anomalies, increasing the risk"
+  ]
+}
+```

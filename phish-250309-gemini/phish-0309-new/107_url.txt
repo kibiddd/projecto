@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    "vercel.app is a legitimate service but often used for hosting phishing sites and has high risk",
+    "Suspicious subdomain:  'safety-profiles-fb-ads-3692201582' contains Facebook related terms combined with a long string of numbers, highly indicative of a phishing attempt targeting Facebook users.  This likely points to a compromised account attempt or ad scam.",
+    "The pattern of 'fb' (Facebook) and numbers suggests an attempt to impersonate or trick users associated with Facebook."
+  ]
+}
+```

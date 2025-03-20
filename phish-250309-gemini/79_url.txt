@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "Uses 'pagina' which is Spanish for 'page' potentially impersonating a well-known brand and obfuscating the target.",
+    ".pro is a medium-high risk TLD.",
+    "Uses 'facebooksupport' which may be used to build a false sense of legitimacy, and is followed by a random string.",
+    "URL uses http"
+  ]
+}
+```

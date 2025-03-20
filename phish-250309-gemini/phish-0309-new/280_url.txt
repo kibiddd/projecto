@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "webflow.io is a moderate-risk TLD, often used for temporary or quickly-spun-up websites.",
+    "Excessive subdomains (m-com-start-ledger-cdn) could be used to obscure the true purpose of the site and make it harder to identify",
+    "Subdomain structure attempts to look like a legitimate domain (e.g. m.com) while actually using a webflow.io domain.",
+    "The combined subdomain 'start-ledger' can be a reference to a reputable website and create a false sense of legitimacy."
+  ]
+}
+```

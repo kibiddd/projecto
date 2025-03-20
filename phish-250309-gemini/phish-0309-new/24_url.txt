@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "URL uses http",
+    ".icu is a high-risk TLD",
+    "Potentially suspicious topic for a website name.",
+    "No clear brand to impersonate, but the subject matter could be used for scams."
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    ".net is a moderately risky TLD",
+    "Uses a numeric IP address which is highly suspicious",
+    "The numeric IP address is used to avoid domain name scrutiny which is a common tactic"
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "no brand impersonation detected",
+    "weebly.com is a legitimate service, but can be misused. Risk is moderate.",
+    "Suspicious subdomain 'jjfgfy'. Random strings often indicate malicious intent.",
+    "URL uses https"
+  ]
+}
+```

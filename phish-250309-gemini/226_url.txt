@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No brand impersonation detected.",
+    "myds.me is a dynamic DNS provider, often used for malicious purposes.",
+    "The URL contains a long, random-looking path (tqdqfuimw/ernjbkuq/ic-access/), which is a strong indicator of phishing or malware distribution.",
+    "URL uses https",
+    "The path 'personal.html' is a common lure for collecting personal information."
+  ]
+}
+```

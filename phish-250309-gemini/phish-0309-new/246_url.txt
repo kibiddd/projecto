@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 5,
+  "Explanation": [
+    "URL uses https",
+    ".deals is a medium-risk TLD",
+    "Domain name suggests commercial activity, which may be used for scams like fake deals or subscription services",
+    "Website is likely attempting to generate leads by pretending to offer deals"
+  ]
+}
+```

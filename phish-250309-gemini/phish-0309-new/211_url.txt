@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 6,
+  "Explanation": [
+    "URL uses https",
+    ".dev is a moderately risky TLD (often used for development and testing)",
+    "Suspicious subdomain: 'firstapp1' is generic and lacks context, potentially indicating a testing or temporary site, or a cloned project",
+    "Generic subdomain may be designed to trick the less technical user"
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 5,
+  "Explanation": [
+    "no impersonation in URL",
+    ".com is a low-risk TLD",
+    "The domain name suggests a health-related topic which can be used to exploit vulnerabilities.",
+    "The 'www' subdomain is common and not inherently suspicious."
+  ]
+}
+```

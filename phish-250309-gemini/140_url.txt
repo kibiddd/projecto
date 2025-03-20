@@ -1,0 +1,10 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "Uses 'binaceaps' attempting to mimic 'Binance' with an implied typo",
+    "web.app is a medium-risk TLD used by Google Firebase projects often abused by phishers",
+    "Suspicious subdomain pattern likely indicating a hosted service, often used for short lived campaigns"
+  ]
+}
+```

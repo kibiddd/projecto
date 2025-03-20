@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    "Multiple subdomains (settings.fanpagepolicyactive) raise suspicion, even if fanpagepolicyactive.com is a registered domain.",
+    "The path 'community-standard-71814710714' looks like a random string or a pattern used for evasion.",
+    "URL uses http."
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".dev is a medium-risk TLD (often used for development and testing, can be less established)",
+    "Suspicious pattern: 'bc5.pages.dev' (potentially a randomly generated subdomain)",
+    "URL contains obfuscated URL: '/t.myvisualiq.net/impression_pixel%22' this looks like a redirect and a potential attempt to hide the actual destination, with the inclusion of a tracking pixel"
+  ]
+}
+```

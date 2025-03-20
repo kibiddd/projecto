@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD",
+    "Suspicious path: 'pdfokenny'. May be a method to load malware",
+    "May be a compromised site or hosting malicious content"
+  ]
+}
+```

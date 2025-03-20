@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No direct brand impersonation via character substitution.",
+    "webflow.io is a free website hosting service, often used for phishing.",
+    "The use of 'login' and the brand name 'blockfi' in a subdomain and a likely-legitimate name indicate a strong attempt at impersonation. Blockfi is a common target for credential phishing.",
+    "URL uses https"
+  ]
+}
+```

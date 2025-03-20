@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "URL uses http",
+    "web.app is a high-risk TLD (associated with free hosting and often abuse)",
+    "Uses 'binances' with an 's' to mimic 'binance'",
+    "Suspicious subdomain 'aps' - likely random and not part of official Binance structure"
+  ]
+}
+```

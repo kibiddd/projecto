@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "no impersonation in URL",
+    "myds.me is a high-risk TLD, likely a dynamic DNS provider often used for malicious purposes",
+    "Excessive and seemingly random path components (tqdqfuimw/ernjbkuq/ic-access) are highly suspicious",
+    "ss.html path could be an attempt to mimic a secure session or credential prompt",
+    "URL uses https"
+  ]
+}
+```

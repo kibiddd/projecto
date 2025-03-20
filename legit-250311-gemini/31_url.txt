@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 3,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".net is a generally safe TLD.",
+    "The URL contains a standard domain structure.",
+    "FOSTER-CRAWFORD.htm is a relatively benign file name."
+  ]
+}
+```

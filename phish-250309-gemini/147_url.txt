@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No brand impersonation detected.",
+    "glitch.me is a medium-risk TLD as it is often used for temporary sites and can host malicious content.",
+    "The URL includes a random-looking subdomain pattern ('boundless-voltaic-scourge') which raises suspicion. Also includes path 'public' and a random string 'Navafede0.html' which is often used for phishing and malware distribution.",
+    "URL uses https"
+  ]
+}
+```

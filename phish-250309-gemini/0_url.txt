@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".com is a low-risk TLD but the use of an IP address instead of a domain name is highly suspicious.",
+    "The URL uses a numerical IP address which is often used to bypass domain-based security checks and hide the true destination.",
+    "URL uses http"
+  ]
+}
+```

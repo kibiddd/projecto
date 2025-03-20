@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    ".net is a medium-risk TLD",
+    "Suspicious pattern: URL consists only of numbers, often used for scams to avoid domain reputation",
+    "No brand impersonation detected."
+  ]
+}
+```

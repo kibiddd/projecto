@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "Uses 'meta' which could impersonate 'meta.com' a known brand, though the substitution is direct.",
+    ".eu is a moderate-risk TLD, not as dangerous as .xyz but still less trustworthy than .com.",
+    "The subdomain 'recoverpagecase' raises suspicion as it's an odd string, and not a common structure for a legitimate meta subdomain, though it is a single word suggesting a possible but unlikely brand use of the EU country's case to give legitimacy",
+    "URL uses https"
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 2,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".deals is a relatively low-risk TLD, often used for legitimate promotional websites.",
+    "The URL uses a descriptive and potentially legitimate structure.",
+    "URL uses https."
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No obvious brand impersonation, but uses the legitimate brand 'BlockFi'",
+    "Uses 'webflow.io', which can be used by legitimate services, but is often abused for phishing.",
+    "Excessive subdomains ('secure-blockfi-sso--cdn--b') are highly suspicious and may be used to obfuscate the true destination.",
+    "URL uses http"
+  ]
+}
+```

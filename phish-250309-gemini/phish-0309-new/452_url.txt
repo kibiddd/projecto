@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD, but repeated for suspicion",
+    "Subdomain 'www' is common and not inherently suspicious",
+    "The domain is 'anelectriciancom.com' which is suspicious due to not using spaces (an electrician.com)",
+    "The path '/answer/index.php' could be a generic path used for deceptive purposes"
+  ]
+}
+```

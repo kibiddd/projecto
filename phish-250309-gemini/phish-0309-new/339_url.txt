@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "github.io is a medium-risk TLD (free hosting)",
+    "Uses a user's GitHub username and the name 'Netflix', strongly suggesting brand impersonation.",
+    "Likely a phishing attempt to harvest Netflix credentials hosted on a free platform."
+  ]
+}
+```

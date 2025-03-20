@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    "surge.sh is a high-risk TLD for phishing.",
+    "Suspicious pattern: Random string 'new677g8jgfd' likely for obfuscation.",
+    "URL uses http."
+  ]
+}
+```

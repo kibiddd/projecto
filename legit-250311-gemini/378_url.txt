@@ -1,0 +1,7 @@
+```json
+{"verdict": 2,
+  "Explanation" : ["no impersonation in URL",
+   ".com is a low-risk TLD",
+  "URL is for a soccer statistics website, and the path indicates a valid navigation pattern"]
+}
+```

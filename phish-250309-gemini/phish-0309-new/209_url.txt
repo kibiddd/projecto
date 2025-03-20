@@ -1,0 +1,10 @@
+```json
+{
+  "verdict": 6,
+  "Explanation": [
+    "URL uses https",
+    ".za.com is a country code TLD, which carries a moderate risk depending on the user's location and target",
+    "The path 'kTL' is unusual and could be part of a tracking mechanism or potentially a shortened link, which can be suspicious if not associated with a known and trusted service."
+  ]
+}
+```

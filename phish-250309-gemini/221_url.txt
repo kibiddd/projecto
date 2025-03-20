@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 5,
+  "Explanation": [
+    "No brand impersonation detected.",
+    "pages.dev is a subdomain of a legitimate domain (Google), but requires further scrutiny for context.",
+    "The URL structure is simple, but 'globalauthresolution' does not immediately trigger suspicion without further context on the service it is providing.",
+    "URL uses https"
+  ]
+}
+```

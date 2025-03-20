@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    "webflow.io is a medium-risk TLD/platform (can be used for legitimate sites, but also easily for phishing)",
+    "The domain name combines 'starth' (suspicious misspelling) with 'iotrezor' (likely related to Trezor, a hardware wallet brand), suggesting potential brand impersonation or phishing attempt. 'iotrezor' is used with a typo to evade detection.",
+    "The use of a free/easily-obtained platform (.webflow.io) further increases the risk."
+  ]
+}
+```

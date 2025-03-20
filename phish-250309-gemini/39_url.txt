@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No direct brand impersonation, but unusual double hyphens ('--') in the subdomain could be a red flag.",
+    ".webflow.io is a medium-risk TLD, often used for legitimate sites, but can also host phishing attempts.",
+    "The structure 'desktpp--live--ledgre' with multiple subdomains and hyphens is suspicious and suggests a possible attempt to obscure the true destination or mislead users. 'ledgre' doesn't seem to have any relevance",
+    "URL uses http"
+  ]
+}
+```

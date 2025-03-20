@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "weeblysite.com is a medium-risk TLD as it is a free website platform often used for scams",
+    "Suspicious pattern: the date 03-08-2025 suggests urgency or a time-sensitive scam.",
+    "att-currently suggests brand impersonation of AT&T"
+  ]
+}
+```

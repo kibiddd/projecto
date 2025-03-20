@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    "webflow.io is a moderate-risk TLD, often used for temporary or personal sites, which are sometimes used for malicious purposes",
+    "Suspicious subdomain: 'auth-s-started-traizor' is a long and unusual string, potentially designed to appear legitimate at a glance but ultimately random",
+    "The subdomain contains keywords related to authentication, making it likely to be used in credential phishing."
+  ]
+}
+```

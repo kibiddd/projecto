@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "No direct brand impersonation detected.",
+    "`.app` is a relatively newer TLD and might be used for malicious purposes, but less suspicious than .xyz or .top.",
+    "Suspicious pattern: 'alert-user-breach-six' - suggests an urgent/threatening message to entice interaction, and 'six' indicates a sense of urgency or limited time. Vercel is a legitimate hosting platform, but is commonly used for malicious purposes.",
+    "URL uses https."
+  ]
+}
+```

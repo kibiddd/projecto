@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "Uses 'ladgerlivewaler' with a potential typo of 'ledgerlivewallet' to mimic a legitimate service",
+    "webflow.io is a medium risk TLD that can be used for free websites making it popular for phishing",
+    "Unusual combination of words suggestive of phishing, typos",
+    "URL uses https"
+  ]
+}
+```

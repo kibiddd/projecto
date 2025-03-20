@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "r2.dev is a medium-risk TLD (Cloudflare R2 subdomain)",
+    "Suspicious subdomain: pub-be72959801ce4a2abd2a1c0f02eacb07 suggests random string, potentially hosting malicious content.",
+    "Attachments.html is a common name for phishing attachments, which can be used to build a false sense of legitimacy"
+  ]
+}
+```

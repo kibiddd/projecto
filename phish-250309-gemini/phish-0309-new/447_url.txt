@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    ".com.ar is a medium-risk TLD (country code TLDs can vary in risk depending on the country and reputation)",
+    "The URL path contains a mix of seemingly unrelated terms and brand-like terms ('telestore', 'kuzi-wetrans', 'telegram', 'wTrans'), which might indicate an attempt to create a deceptive path to lure users.",
+    "The combination of seemingly unrelated terms with brand-like terms (telegram/wTrans) are suspicious"
+  ]
+}
+```

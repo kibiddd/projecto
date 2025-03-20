@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "No direct brand impersonation, but 'cb-new-notif' could be misconstrued as a legitimate notification service with brand association.",
+    ".top is a high-risk TLD",
+    "The URL contains a complex, potentially obfuscated query string with a Base64-encoded string. This is highly suspicious and often used to hide malicious payloads or credential harvesting attempts.",
+    "URL uses https"
+  ]
+}
+```

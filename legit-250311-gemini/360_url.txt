@@ -1,0 +1,8 @@
+```json
+{"verdict": 3,
+  "Explanation" : ["no impersonation in URL",
+   ".com is a low-risk TLD",
+  "URL uses valid subdomain 'www.local'.  The rest of the path ('info-10783860-super-supermarket-2-paterson') seems legitimate for a local listing.",
+  "URL uses https"]
+}
+```

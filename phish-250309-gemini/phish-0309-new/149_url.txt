@@ -1,0 +1,10 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "weebly.com is a generally low-risk TLD, but the excessive subdomain is highly suspicious",
+    "Subdomain 'b-temailsjnsissjsjsnsb3dx' is a random, nonsensical string, a clear red flag."
+  ]
+}
+```

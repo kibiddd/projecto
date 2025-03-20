@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    "webflow.io is a platform often used for legitimate websites, but also for hosting temporary or potentially malicious sites, so medium risk",
+    "Subdomain structure 'my-ndax-connect-aauth' is suspicious and may be designed to mimic or impersonate a financial institution.",
+    "Uses hyphens in the subdomain to mimic the legitimate website."
+  ]
+}
+```

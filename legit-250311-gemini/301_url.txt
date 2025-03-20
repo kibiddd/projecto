@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 3,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".com is a low-risk TLD.",
+    "Domain name 'cookfiletmignon' does not contain suspicious patterns. It appears to be a creative domain.",
+    "Uses https"
+  ]
+}
+```

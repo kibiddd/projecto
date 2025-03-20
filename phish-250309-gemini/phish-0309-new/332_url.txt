@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "vercel.app is a platform often used for temporary or quickly deployed sites, which can be associated with phishing campaigns.",
+    "Suspicious pattern: Random string 'quassevugazei-4647-git-main-dunghfts' suggests a non-professional and possibly automatically generated domain.",
+    "The path '/mixcc.html/index.html' appears nonsensical and potentially designed to look like a legitimate webpage"
+  ]
+}
+```

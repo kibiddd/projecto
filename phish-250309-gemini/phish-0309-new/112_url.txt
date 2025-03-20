@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".icu is a high-risk TLD",
+    "Suspicious subdomain structure and URL path",
+    "The URL contains a long, seemingly random string of characters, numbers, and a query parameter ('?id=...') indicating potential tracking or malicious activity",
+    "Use of the Polish ccTLD .pl alongside a suspicious subdomain indicates an attempt at regional targeting which is often a warning sign."
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 4,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    ".com is a low-risk TLD.",
+    "The path '/quebec6/' is unusual, but not inherently malicious. The subdomain 'en' is typical for language selection.",
+    "URL uses https"
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    "vercel.app is a free hosting service, often used for temporary or malicious sites. High risk.",
+    "Suspicious pattern: random string 'groussuttoigatra-4516' before domain.",
+    "Possible brand impersonation or social engineering. The combination of random characters before the domain name and an uncommon page name such as mixcc.html suggests a phishing attempt."
+  ]
+}
+```

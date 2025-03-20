@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No direct brand impersonation in the domain.",
+    ".com is a low-risk TLD.",
+    "The URL contains a random-looking string of characters in the path, which is often used for tracking or obfuscation, but can also be used to hide malicious content.",
+    "Excessive subdomain use, potentially for cloaking or redirection. The cdn subdomain is often used for legitimate purposes, but the length and complexity of the rdr path suggest unusual behavior.",
+    "No HTTP usage, so no added risk there. Other anomalies: excessive subdomain use coupled with a long seemingly random path."
+  ]
+}
+```

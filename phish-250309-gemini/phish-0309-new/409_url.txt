@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".click is a high-risk TLD",
+    "Suspicious pattern: excessive subdomains or random components ('super-powered-marke.click')",
+    "Numeric value as part of path ('/6') is unusual and potentially malicious"
+  ]
+}
+```

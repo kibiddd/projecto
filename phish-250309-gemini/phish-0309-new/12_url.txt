@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    "webflow.io is a moderate-risk TLD",
+    "Excessive use of hyphens and subdomains (auth, app, cryptocom, c, cdn) is highly suspicious.",
+    "The structure tries to imitate a legitimate crypto platform. The use of 'cryptocom' is an attempt at brand impersonation."
+  ]
+}
+```

@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "URL uses http",
+    "wixsite.com is a medium-risk TLD as it's often used for free websites and can host malicious content.",
+    "The subdomain 'maryannarw62111111' is a suspicious random string of characters and numbers.",
+    "The URL path contains a complex and obfuscated string, potentially encoding a malicious redirect.",
+    "The use of a free website provider like Wix increases the likelihood of malicious activity."
+  ]
+}
+```

@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No direct brand impersonation in the main domain.",
+    "TLD '.com' is generally low risk.",
+    "The subdomain 'myjobdhl' attempts to impersonate DHL, which could be a brand impersonation attempt. The long subdomain and path suggest an attempt to hide the malicious intent.",
+    "The path '/jobs/vacancy/33957/applicationlogin' is suspicious, potentially designed to harvest login credentials under the guise of a job application.",
+    "The URL uses HTTPS but the other indicators are very suspicious"
+  ]
+}
+```

@@ -1,0 +1,10 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "Uses 'macdonaldfamily' to mimic 'McDonald's'",
+    ".org is generally a low-risk TLD, but the domain name is clearly attempting to trick users into thinking it is affiliated with 'McDonald's'",
+    "Suspicious subdomain or path (CJ-mcdonald) may indicate an attempt to target users or direct to malicious content."
+  ]
+}
+```

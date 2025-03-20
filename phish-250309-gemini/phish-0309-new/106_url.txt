@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses http",
+    ".luxe is a high-risk TLD",
+    "Suspicious subdomain 'safety'",
+    "Combination of subdomain and TLD does not provide a sense of legitimacy"
+  ]
+}
+```

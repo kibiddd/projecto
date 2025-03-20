@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    ".loans is a medium-risk TLD, often associated with less reputable entities.",
+    "Uses a random string/number combination 'hj88' which can be a sign of a generic or possibly compromised domain.",
+    "The domain name itself could be a generic keyword, potentially used for SEO manipulation or a quick-setup for a scam targeting loan seekers."
+  ]
+}
+```

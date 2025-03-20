@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "URL uses a completely non-descript domain, very suspicious.",
+    ".cc is a moderately risky TLD, often associated with scams.",
+    "Numeric and character combination suggests a likely scam.",
+    "No apparent brand impersonation, but the domain is highly suspicious."
+  ]
+}
+```

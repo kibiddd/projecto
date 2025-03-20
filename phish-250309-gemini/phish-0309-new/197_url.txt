@@ -1,0 +1,8 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "URL uses https",
+    "pantheonsite.io is a medium-risk TLD (often used for staging sites, can be abused)",
+    "Excessive use of random strings and subdomains is highly suspicious: 'dev-ksdyurjshfnmjrhmfnmdsgewelaklfbsdfghfgys' is a long, random subdomain.",
+    "The path '/YZKJTrGWCJFpXNZYMLGTqWBKtVJXNYLpZKMTQrGWCJFBXNZYKpMLJGTqWBJTrQXNZYKMCFVBtMGTQWKrVBtXCNYZKJpMLTqGWBJTrQXNZYKMCFVBtJXNYpQLZK.html' is a random string, not a legitimate URL path, highly suggesting phishing

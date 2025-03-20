@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 4,
+  "Explanation": [
+    "URL uses https",
+    ".com.br is a low-risk TLD (country code TLD)",
+    "The path '/accedi/profilo' appears to be a login/profile-related path, which is not inherently suspicious, but requires further investigation for actual website content.",
+    "The domain name is not obviously impersonating a known brand."
+  ]
+}
+```

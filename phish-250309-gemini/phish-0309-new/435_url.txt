@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "vercel.app is a medium-risk TLD, often used for temporary or untrusted sites",
+    "Contains a random string of characters and numbers: '3a36efff&cf6=5a&1eG=K9dHF3da4b=D400e.html', which is a strong indicator of phishing",
+    "The domain appears to be impersonating a trusted entity by using the phrase 'userprotectionadmasters' to build legitimacy"
+  ]
+}
+```

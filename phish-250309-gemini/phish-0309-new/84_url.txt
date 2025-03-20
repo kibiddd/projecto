@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "URL uses http",
+    ".co.uk is a low-risk TLD, but the subdomain is concerning",
+    "Suspicious subdomain: policy-violation-100029395937 suggests a mass-email phishing attempt, using a number string to seem legitimate.",
+    "Domain attempts to impersonate a brand related to apple or apple's service"
+  ]
+}
+```

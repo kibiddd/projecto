@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "No brand impersonation detected.",
+    "'.page' is a moderately risky TLD.",
+    "Suspicious subdomain 'servicecharge091' potentially indicates a generic or untrustworthy service, possibly a throwaway domain.",
+    "URL uses http"
+  ]
+}
+```

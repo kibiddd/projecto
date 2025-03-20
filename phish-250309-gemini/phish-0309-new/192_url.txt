@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "weebly.com is a high-risk TLD due to its use for free websites and potential for abuse",
+    "Suspicious subdomain: 'currentlymailvailt2'",
+    "Combination of random-looking subdomain and potential brand impersonation through misspellings."
+  ]
+}
+```

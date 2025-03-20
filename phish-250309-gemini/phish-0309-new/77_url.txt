@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "URL uses http",
+    "'.site' is a medium-risk TLD",
+    "Subdomain 'winnatech' is suspicious and unrelated to Netflix",
+    "Attempts to impersonate Netflix through subdomain and domain name association"
+  ]
+}
+```

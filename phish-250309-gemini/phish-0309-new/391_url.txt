@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "webflow.io is a moderate-risk TLD as it's often used for temporary or free websites.",
+    "Excessive subdomains (sso-uphold-login-en-us-auth) are highly suspicious and a common phishing tactic to appear legitimate.",
+    "Brand impersonation: Uses 'uphold' in the subdomain to mimic the legitimate brand.",
+    "Path is designed to lure user to think that the website is the official login page"
+  ]
+}
+```

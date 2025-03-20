@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No direct brand impersonation in the domain.",
+    "weebly.com is a free hosting service, often abused for scams (medium risk).",
+    "The use of 'attserverts' appears to be an attempt to add a layer of legitimacy, but the domain is short and could be an attempt at AT&T impersonation.",
+    "URL uses https"
+  ]
+}
+```

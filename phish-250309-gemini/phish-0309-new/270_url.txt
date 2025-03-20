@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "memmserve.com is a high-risk TLD/domain often associated with temporary or untrusted services.",
+    "The subdomain 'ledger-l' is highly suspicious, especially in combination with a potentially untrustworthy domain.",
+    "The domain attempts to imitate the well known hardware wallet company Ledger"
+  ]
+}
+```

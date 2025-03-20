@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No direct brand impersonation, but the structure mimics a legitimate service portal.",
+    "webflow.io is a medium-risk TLD/domain; often used for legitimate sites, but also for hosting phishing pages due to ease of setup and potential lack of rigorous screening.",
+    "The subdomain pattern 'home-login-blockfi' is highly suspicious. It attempts to create the impression of a BlockFi login page, hinting at credential theft.",
+    "While https is used, the other factors are highly indicative of a scam."
+  ]
+}
+```

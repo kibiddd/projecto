@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD",
+    "URL consists solely of a numerical domain, which is highly unusual and suspicious.",
+    "Without further context, a domain composed of a number alone is often associated with spam or malicious activity."
+  ]
+}
+```

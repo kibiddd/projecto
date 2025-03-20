@@ -1,0 +1,10 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "Uses 'binances-aps' to impersonate Binance, a popular cryptocurrency exchange.",
+    "'.web.app' is a free hosting platform, often used for malicious purposes.",
+    "URL uses HTTP, lacking encryption which is a significant red flag."
+  ]
+}
+```

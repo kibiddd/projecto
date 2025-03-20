@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".id (Indonesia) TLD can be associated with higher risk depending on context (especially when combined with other factors)",
+    "Suspicious subdomain: a long, random-looking subdomain 'xushdudvdvdnaid'",
+    "The combination of a complex, seemingly random subdomain with a country-specific TLD raises a strong red flag."
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 3,
+  "Explanation": [
+    "No obvious brand impersonation or character substitutions.",
+    ".org is a generally low-risk TLD.",
+    "URL path and structure appear legitimate for a program listing on an organization website.",
+    "HTTPS is used, indicating secure communication."
+  ]
+}
+```

@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD",
+    "Suspicious pattern: 'sngzamfl' is a random string, potential red flag for phishing.",
+    "Suspicious pattern: 'ic-access' may imply a legitimate-looking path, but combined with other anomalies raises suspicion.",
+    "Suspicious pattern: '/ss.html' could be used to lure users into providing credentials."
+  ]
+}
+```

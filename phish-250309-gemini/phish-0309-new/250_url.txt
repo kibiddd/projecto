@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD",
+    "Uses 'iiim' instead of 'iii' or the correct brand's text to perform character substitution to mimic a brand, suggesting brand impersonation",
+    "The domain name 'tooken' instead of 'token' is suspicious and suggests potential phishing."
+  ]
+}
+```

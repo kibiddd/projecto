@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    ".ru is a high-risk TLD (Russian Federation)",
+    "Presence of 'store.steampowered.com' suggests brand impersonation attempt.",
+    "Subdomain 'jd2.ru' is suspicious and possibly used for malicious redirection.",
+    "The combination of a legitimate Steam URL with a Russian TLD raises significant red flags."
+  ]
+}
+```

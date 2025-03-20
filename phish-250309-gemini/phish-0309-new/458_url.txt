@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "webflow.io is a medium-risk TLD, often used for free or temporary sites, increasing the risk of scams or testing grounds",
+    "Suspicious use of excessive hyphens ('www-secure--trezrs') to obfuscate the real domain and appear legitimate",
+    "Likely a brand impersonation attempt of Trezor, adding extra hyphens to confuse the user"
+  ]
+}
+```

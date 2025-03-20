@@ -1,0 +1,10 @@
+```json
+{
+  "verdict": 3,
+  "Explanation": [
+    "URL uses https",
+    ".au is a low-risk TLD",
+    "The domain name is legitimate and the path 'mswiss' doesn't raise immediate red flags. While the website's content would need to be further examined, there are no immediately observable suspicious patterns."
+  ]
+}
+```

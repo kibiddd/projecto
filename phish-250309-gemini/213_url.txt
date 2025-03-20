@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 3,
+  "Explanation": [
+    "No brand impersonation detected.",
+    "TLD '.page' is moderately trustworthy.",
+    "Suspicious pattern: short, seemingly random string 'ijhu7gyhj' in the path, but could be a valid shortlink service.",
+    "URL uses https"
+  ]
+}
+```

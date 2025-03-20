@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "cprapid.com is a suspicious TLD/domain, often associated with temporary or potentially malicious hosting.",
+    "The use of an IP address (176-65-141-34) within the subdomain is highly unusual and a strong indicator of potential malicious activity.",
+    "Subdomain 'vedi' offers no clarity and may be part of a phishing scheme."
+  ]
+}
+```

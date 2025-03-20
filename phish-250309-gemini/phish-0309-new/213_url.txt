@@ -1,0 +1,10 @@
+```json
+{
+  "verdict": 3,
+  "Explanation": [
+    "URL uses https",
+    ".page is a low-risk TLD (often used for personal or small business pages)",
+    "The path '/ijhu7gyhj' is a random string, which can be suspicious, but not always a red flag."
+  ]
+}
+```

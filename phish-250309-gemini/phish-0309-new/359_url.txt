@@ -1,0 +1,10 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".cloud is a medium-risk TLD",
+    "Suspicious pattern: random string of characters and numbers in the path (g3c9e2fbd2e2fb45ddb85817cee0bb9e46aa.html) is highly unusual for a legitimate secure page and suggests a potential phishing attempt."
+  ]
+}
+```

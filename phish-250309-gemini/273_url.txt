@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No direct brand impersonation, but URL uses unrelated subdomains 'lno' and 'rtj'.",
+    "mybluehost.me is a legitimate hosting service, but often used by scammers, raising suspicion.",
+    "Path contains brand name 'intesa.sanpaolo' potentially for credential phishing.",
+    "URL uses https, but multiple subdomain patterns raise a red flag."
+  ]
+}
+```

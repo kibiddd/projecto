@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "Uses excessive hyphens and seemingly random subdomain structure to mimic a legitimate service.",
+    "webflow.io is a high-risk TLD, frequently used for short-lived scam sites.",
+    "URL uses http.",
+    "The overall pattern is highly suspicious."
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "Uses 'ttrezor' to mimic 'trezor' with an additional 't'",
+    "Uses a free webflow.io subdomain, which can be used for phishing",
+    "Excessive subdomains ('auth-start-ttrezor-io-auth')",
+    "URL uses http"
+  ]
+}
+```

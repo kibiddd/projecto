@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "URL uses http",
+    ".com is a low-risk TLD, but the domain is intentionally misspelled",
+    "The use of 'commnunty' with an extra 'n' is a clear attempt to impersonate a legitimate brand (Steamcommunity).",
+    "The path '/app/23490/rust' may be attempting to lead the user to an unofficial game server to steal credentials or install malware"
+  ]
+}
+```

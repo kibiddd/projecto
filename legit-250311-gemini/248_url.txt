@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 1,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".com is a low-risk TLD.",
+    "The path includes 'Obituary.aspx', which is a legitimate pattern for a memorial site and 'pid' usually means a unique identifier.",
+    "Uses https, indicating a secure connection."
+  ]
+}
+```

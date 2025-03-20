@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 6,
+  "Explanation": [
+    "No brand impersonation detected.",
+    "github.io is a generally low-risk TLD, but the subdomain usage can vary in risk.",
+    "The URL structure suggests a personal project or a clone, which could be a sign of phishing, depending on the content of the site. However, GitHub is a legitimate platform.",
+    "URL uses https"
+  ]
+}
+```

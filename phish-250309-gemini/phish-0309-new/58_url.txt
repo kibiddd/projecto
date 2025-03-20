@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    "surge.sh is a high-risk TLD (often used for temporary and potentially malicious sites)",
+    "The random string 'new677g8jgfd' is a suspicious pattern indicative of a disposable page.",
+    "The domain 'gigantic-holiday' could be attempting to capitalize on a seasonal event, increasing the likelihood of a scam attempt."
+  ]
+}
+```

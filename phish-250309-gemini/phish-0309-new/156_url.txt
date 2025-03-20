@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    ".dev is a medium-risk TLD (associated with Google's Pages platform, often used for temporary/testing sites, and can be prone to abuse).",
+    "The URL uses a seemingly random string of numbers (17952401) appended to the path, which is suspicious.",
+    "The use of 'carrefouriramadan2' may be a social engineering tactic, capitalizing on the Ramadan holiday to target users. Combining the brand (Carrefour) with a timely event is a common phishing strategy.",
+    "Uses Google Pages, which can host illegitimate sites."
+  ]
+}
+```

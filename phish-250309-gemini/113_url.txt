@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".com is a low-risk TLD, however, the path is unusual, which raises suspicion.",
+    "Suspicious path: random string 'dewa' and presence of cache/folders/re/00076, which is not typical for legitimate banking sites. ",
+    "URL uses http"
+  ]
+}
+```

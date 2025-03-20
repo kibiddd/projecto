@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No direct brand impersonation detected.",
+    ".myds.me is a high-risk TLD or subdomain of a high-risk TLD (dynamic DNS provider).",
+    "Suspicious pattern: Long path with random-looking strings ('tqdqfuimw', 'ernjbkuq') and a path ('ic-access/email.html') that could be used for phishing or credential harvesting.",
+    "URL uses https"
+  ]
+}
+```

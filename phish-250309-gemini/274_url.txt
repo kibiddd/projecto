@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 6,
+  "Explanation": [
+    "No direct brand impersonation detected.",
+    ".nz is a generally low-risk TLD (New Zealand).",
+    "The path contains 'facebook' and 'marketplace', which, if the site is unrelated to Facebook, could be an attempt to lure users.  The long string of numbers suggests a potential attempt to obfuscate the link's destination.",
+    "URL uses https"
+  ]
+}
+```

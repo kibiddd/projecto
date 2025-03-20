@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 3,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".edu is a low-risk TLD, indicating an educational institution.",
+    "The URL structure, while complex, appears to be related to a content management system or search functionality within the indiana.edu domain, not necessarily suspicious.",
+    "Uses https for secure connection"
+  ]
+}
+```

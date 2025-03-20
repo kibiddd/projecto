@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No obvious brand impersonation in the domain, however, the excessive use of hyphens and subdomains is suspicious.",
+    "webflow.io is a potentially high-risk TLD for phishing, as it can be used for free hosting and is often exploited.",
+    "The URL includes multiple subdomains (ca, webflow, web-ndax), which is unusual and can be a tactic to bypass security checks.",
+    "While using HTTPS, the overall pattern raises strong suspicion."
+  ]
+}
+```

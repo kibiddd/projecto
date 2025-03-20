@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No direct brand impersonation, though 'help-center' is a common phishing tactic.",
+    ".co.uk is a generally safe TLD.",
+    "Excessive subdomain use and long, random-looking strings after the domain (case-id-1000198714222, fbclid, helpbusiness-100032093158) are highly suspicious and likely used to bypass detection.",
+    "URL uses https, but the other factors significantly outweigh this."
+  ]
+}
+```

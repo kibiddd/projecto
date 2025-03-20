@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "Uses 'att' which could be a brand impersonation for 'AT&T'",
+    "weeblysite.com subdomain, while not inherently malicious, raises suspicion due to free hosting",
+    "Suspicious use of numbers in subdomain (106948-107040) may imply the attempt to avoid detection or create an impression of legitimate sequence",
+    "URL uses https"
+  ]
+}
+```

@@ -1,0 +1,10 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    ".net is a moderate-risk TLD",
+    "Uses a numeric subdomain '5510005' which is highly suspicious and often used to obfuscate the true domain and is associated with malicious activity."
+  ]
+}
+```

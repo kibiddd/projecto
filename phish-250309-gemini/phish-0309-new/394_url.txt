@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD",
+    "The domain 'staemcommunutly.com' uses a character substitution ('u' for 'e') indicating brand impersonation of 'Steam Community'.",
+    "The path '/gift/activation=Dor5Fhnm10w' is suspicious, common in phishing attempts to steal account credentials or install malware. The random string following activation is also a red flag."
+  ]
+}
+```

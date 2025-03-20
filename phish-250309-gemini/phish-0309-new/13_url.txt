@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    "webflow.io is a medium-risk TLD (often used for temporary or free websites, increasing risk of abuse)",
+    "Multiple subdomains (auth-ca-ndax-console) suggest an attempt to impersonate a legitimate service (NDAX) and create a console.",
+    "The use of 'auth' and 'console' strongly indicates an attempt to phish login credentials."
+  ]
+}
+```

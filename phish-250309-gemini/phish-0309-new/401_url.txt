@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD",
+    "Uses 'steamcommmutiny.com' to impersonate 'steamcommunity.com' (brand impersonation)",
+    "Contains a path commonly associated with phishing: '/tradeoffer/new/'",
+    "Includes query parameters ('?partner=' and '&token=') which can be used for tracking or malicious purposes"
+  ]
+}
+```

@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    "webflow.io is a medium risk TLD (often used for temporary or free sites, can indicate a scam)",
+    "Excessive subdomains: auth-start-ttrezor-io-auth. This structure is highly suspicious and designed to mimic a legitimate service.",
+    "Uses 'ttrezor' as a subdomain, which is a common tactic to impersonate the legitimate hardware wallet Trezor and steal user credentials.",
+    "The combination of multiple suspicious elements (http, subdomain structure, brand impersonation) increases the risk."
+  ]
+}
+```

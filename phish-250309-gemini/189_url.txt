@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".com is a low-risk TLD, weebly.com is a free domain service that is often used for scams, increasing the risk",
+    "Suspicious subdomain: currently742190. Random string subdomain suggests potential misuse for phishing or spam.",
+    "URL uses https"
+  ]
+}
+```

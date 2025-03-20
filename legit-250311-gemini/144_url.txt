@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 3,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    ".us is a generally low-risk TLD (although specific usage should still be assessed).",
+    "URL path structure seems legitimate for a library website (likely related to events and exhibits).",
+    "HTTPS is used."
+  ]
+}
+```

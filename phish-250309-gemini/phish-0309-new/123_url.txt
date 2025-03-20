@@ -1,0 +1,10 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "weeblysite.com is a medium-risk TLD (free website hosting)",
+    "Suspicious subdomain: 'attcurently03-7-2025' uses numbers and potentially dates, which could be a phishing attempt impersonating AT&T or creating a false sense of urgency."
+  ]
+}
+```

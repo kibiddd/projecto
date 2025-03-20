@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "weeblysite.com is a medium-risk TLD, often used for free sites which can be abused for phishing",
+    "Suspicious subdomain structure: reason103-onboarded946-att.  Random numbers and multiple subdomains are highly indicative of phishing.",
+    "Potentially impersonating AT&T (att in the subdomain) although further analysis would be needed to confirm this."
+  ]
+}
+```

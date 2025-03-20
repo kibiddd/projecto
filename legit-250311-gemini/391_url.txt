@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 3,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".ca is a generally safe TLD.",
+    "The URL uses a common search pattern ('/s/'), but the domain seems legitimate.",
+    "No other anomalies detected."
+  ]
+}
+```

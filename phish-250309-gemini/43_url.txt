@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "No brand impersonation detected.",
+    "serv00.net is a free subdomain service, often associated with malicious activity.",
+    "The path contains a random string of characters, which is a strong indicator of phishing.",
+    "URL uses http."
+  ]
+}
+```

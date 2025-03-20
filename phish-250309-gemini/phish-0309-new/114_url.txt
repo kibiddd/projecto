@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".me is a moderate-risk TLD",
+    "Uses a subdomain (synology.me) which could be used to impersonate a brand and host phishing content.",
+    "The domain 'anthem' is suspicious; it has no apparent connection to Synology, indicating possible brand impersonation or a malicious link to something not relating to the domain."
+  ]
+}
+```

@@ -1,0 +1,10 @@
+```json
+{
+  "verdict": 6,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD",
+    "The URL 'sow-verifica' is a potential impersonation of a legitimate company or service, given the common use of 'verifica' which translates to 'verify' in several languages. It might attempt to impersonate a company or service which verifies something."
+  ]
+}
+```

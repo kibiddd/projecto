@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    ".dev is a medium-risk TLD, often used for development and staging sites, which can sometimes indicate a less established or potentially less secure site. Pages.dev is a subdomain for google pages.",
+    "The numeric string '65597420' at the end of the path is suspicious, as it lacks context and may indicate a session ID or unique identifier used for tracking or phishing purposes.",
+    "URL uses https"
+  ]
+}
+```

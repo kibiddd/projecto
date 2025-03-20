@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "weebly.com is a legitimate website builder, but often abused for phishing",
+    "Suspicious subdomain: Random string 'ujguijbjkg' suggests potential phishing or temporary site",
+    "Absence of a clear brand or purpose raises suspicion"
+  ]
+}
+```

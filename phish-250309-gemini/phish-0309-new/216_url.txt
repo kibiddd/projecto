@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 6,
+  "Explanation": [
+    "URL uses https",
+    "github.io is generally a low-risk TLD but often used for hosting less reputable content. The risk is moderate.",
+    "The path 'amazonproject' hints at potential brand impersonation, possibly a project mimicking Amazon.",
+    "The combination of GitHub and 'amazonproject' raises a moderate suspicion of phishing or a clone project."
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    "webflow.io is a potentially risky subdomain due to its ease of use for creating quick websites, sometimes used for phishing.",
+    "Suspicious pattern:  The string 'rtrzor' is a random-looking string that could indicate a hastily constructed or compromised site.",
+    "Uses http"
+  ]
+}
+```

@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".co.uk is a low-risk TLD",
+    "Suspicious use of numbers in subdomain and query parameters: 'case-id-100016326' and '?helpbusiness-10003203537' suggest a potential attempt to create a sense of urgency or legitimacy through personalized identifiers. The seemingly random number sequences are a red flag.",
+    "Subdomain is highly suspicious. 'dafea' is not immediately recognizable and lacks any clear connection to the rest of the domain.",
+    "Presence of both a subdomain and a query parameter with seemingly random IDs indicates a high probability of a scam."
+  ]
+}
+```

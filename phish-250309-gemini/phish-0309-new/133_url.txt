@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "webflow.io is a medium-risk TLD, often used for temporary or quickly spun-up sites, increasing risk",
+    "Excessive use of hyphens ('----') in subdomain is highly suspicious and likely a technique to bypass basic filtering",
+    "Subdomain 'auth-logon' suggests an attempt to impersonate a login page"
+  ]
+}
+```

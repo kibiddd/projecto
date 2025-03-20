@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 1,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".edu is a very low-risk TLD (indicates a legitimate educational institution).",
+    "Path 'utpress/excerpts/exmeakio.html' appears to be a legitimate path within the University of Texas system.",
+    "Uses HTTPS."
+  ]
+}
+```

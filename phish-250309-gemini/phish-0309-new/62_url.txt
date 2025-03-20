@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    ".com is a low-risk TLD",
+    "The domain name 'imwallel' is unusual and doesn't immediately suggest a legitimate purpose, raising suspicion.",
+    "Lack of HTTPS is a major red flag indicating a lack of security and potential phishing activity."
+  ]
+}
+```

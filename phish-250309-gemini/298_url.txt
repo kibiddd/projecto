@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No brand impersonation in URL.",
+    ".website is a medium-risk TLD.",
+    "Suspicious pattern: long, seemingly random string in the path '/landingpages/cf1a9771-107e-471b-986d-361ea44c2f10/nnbuhbjrh1vic_pomt_ohjfttwejckzdnugcoz0_lny'. This indicates possible obfuscation or a dynamically generated phishing URL.",
+    "URL uses https."
+  ]
+}
+```

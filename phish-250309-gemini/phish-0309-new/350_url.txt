@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "vercel.app is a legitimate platform for hosting, but can be abused for phishing.",
+    "Presence of 'supp&ort' with a character substitution (ampersand for 'o') is highly suspicious, designed to evade simple filters.",
+    "The combination of a generic-sounding domain name and the attempt to appear legitimate ('supp&ort') strongly suggests a phishing attempt."
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "No direct brand impersonation.",
+    "webflow.io is a medium risk TLD (can be used for legitimate purposes, but also for hosting malicious content).",
+    "Suspicious subdomain 'my-bt-c17730' - potentially related to British Telecom (BT) but the combination of a random string is unusual and raises suspicion. This might be a parked domain or a temporary setup.",
+    "URL uses https"
+  ]
+}
+```

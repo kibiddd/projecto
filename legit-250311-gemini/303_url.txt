@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 1,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".com is a low-risk TLD.",
+    "The URL structure appears legitimate and consistent with a website providing news or information related to Bulgaria.",
+    "HTTPS is used."
+  ]
+}
+```

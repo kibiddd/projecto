@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    "webflow.io is a medium-risk TLD, often used for temporary or free websites.",
+    "Suspicious use of multiple hyphens and subdomains: 'secure--blockfie-sso--ccdn'. This pattern is often used to evade security checks and mimic legitimate brands.",
+    "Likely attempting to impersonate 'Blockfi' or a similar financial institution.",
+    "Use of 'secure' prefix may be intended to create a false sense of legitimacy."
+  ]
+}
+```

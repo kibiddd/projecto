@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    ".wordpress.com is a moderate risk TLD as it allows free subdomains, often used for phishing.",
+    "Excessive subdomains (www.ourcampusourcommunity) suggest potential for deceptive content hosting, a potential indicator of bad intent.",
+    "Path suggests general community or informational site, but Wordpress platforms are often used for spam and scams."
+  ]
+}
+```

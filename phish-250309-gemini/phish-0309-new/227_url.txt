@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "myds.me is a high-risk TLD (likely a dynamic DNS service, often used for malicious purposes).",
+    "Suspicious pattern: random strings and numbers in the path (tqdqfuimw, ernjbkuq) often indicate hidden malicious content.",
+    "Path includes 'ss.html', common in phishing to suggest secure or sensitive areas."
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".top is a high-risk TLD",
+    "Suspicious subdomain: 'pushtan-spk3'",
+    "Potentially suspicious combination of domain and subdomain, raising impersonation concerns."
+  ]
+}
+```

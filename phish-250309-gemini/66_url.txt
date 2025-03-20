@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".xyz is a high-risk TLD.",
+    "The domain name 'latambaratonacional' suggests an attempt to mimic a legitimate service or event, 'Barato Nacional' in spanish, which might be part of a phishing attempt",
+    "URL uses http"
+  ]
+}
+```

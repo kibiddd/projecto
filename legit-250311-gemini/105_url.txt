@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 3,
+  "Explanation": [
+    "No brand impersonation.",
+    ".com is a low-risk TLD.",
+    "The path '/new/golfstats.php' and query parameters ('year', 'tour', 'name') are typical of legitimate website structures, although the year 1999 could be a sign of an outdated site.",
+    "Uses https"
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "No direct brand impersonation.",
+    "webflow.io is a medium risk TLD, often used for legitimate purposes but also for quick website creation, including for phishing.",
+    "Random string 'kueconluioogin' preceding the TLD is highly suspicious and likely indicates a temporary or disposable domain used for malicious purposes.",
+    "URL uses https, but the other factors significantly raise the risk."
+  ]
+}
+```

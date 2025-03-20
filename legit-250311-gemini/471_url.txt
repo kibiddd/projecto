@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 1,
+  "Explanation": [
+    "No brand impersonation.",
+    ".net is a generally safe TLD.",
+    "URL structure is typical for a gallery or image hosting site.",
+    "Uses HTTPS."
+  ]
+}
+```

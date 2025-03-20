@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    ".me is a moderate-risk TLD.",
+    "Presence of 'anthem' alongside a Synology subdomain is suspicious, potentially impersonating Anthem through a compromised Synology instance.",
+    "The cgi-bin path is often associated with outdated or vulnerable web applications that can be exploited. The '.ha' file extension is also atypical.",
+    "Other anomalies: Use of subdomain potentially to obscure destination."
+  ]
+}
+```

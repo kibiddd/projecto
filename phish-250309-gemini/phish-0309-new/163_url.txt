@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".co.uk is a low-medium risk TLD",
+    "Suspicious subdomain: case-id-100052510 - highly indicative of a phishing attempt, using a numerical identifier to create urgency or mimic a legitimate communication.",
+    "dafea is suspicious. It could be an attempt to impersonate a brand or create a sense of urgency. "
+  ]
+}
+```

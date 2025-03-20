@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 6,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    ".com is a low-risk TLD.",
+    "The domain name 'chavemoveldigitalpt' translates to 'digital mobile key' in Portuguese, which may or may not be a legitimate service, further investigation needed. Might be impersonating a bank or government service.",
+    "URL uses https, but the domain is not commonly used."
+  ]
+}
+```

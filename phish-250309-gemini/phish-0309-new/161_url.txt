@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".co.uk is a medium-risk TLD",
+    "Suspicious subdomain: 'case-id-100012425'",
+    "Suspicious query parameters: '?helpbusiness-10003203537'.",
+    "The combination of a numeric case ID and unrelated business help query string raises suspicion."
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    "weebly.com is a moderate risk TLD, often used for quick site setups, potentially for scams.",
+    "Suspicious subdomain: 'currently65473' looks like a random string, indicating a possibly temporary or disposable site.",
+    "URL uses http"
+  ]
+}
+```

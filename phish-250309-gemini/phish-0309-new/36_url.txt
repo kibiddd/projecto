@@ -1,0 +1,10 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses http",
+    ".com is a low-risk TLD",
+    "The domain name 'cymcloud' is vague and could be used for various malicious purposes, making it difficult to assess its legitimacy without further context."
+  ]
+}
+```

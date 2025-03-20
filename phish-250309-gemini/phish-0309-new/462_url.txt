@@ -1,0 +1,10 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".cl is a low-risk TLD",
+    "Suspicious path: '/wp-includes/IXR/gqocfipm/ic-access/otp.html' contains random-looking strings ('gqocfipm') and suggests an attempt to hide the phishing page within a legitimate WordPress structure and 'otp.html' indicates it may be trying to get a one-time password"
+  ]
+}
+```

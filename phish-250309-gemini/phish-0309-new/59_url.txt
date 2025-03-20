@@ -1,0 +1,10 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses http",
+    "portfoliobox.net is a low-risk TLD, but the subdomain 'hbbh' is a suspicious pattern (random string)",
+    "The combination of a random subdomain with a portfolio hosting service raises suspicion. It could be a method to quickly set up a phishing site."
+  ]
+}
+```

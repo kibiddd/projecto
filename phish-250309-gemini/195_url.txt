@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".com is a low-risk TLD.",
+    "The long, random-looking string in the path ('aa7c54626j1ca8417b28ac340e07de7ed61d.html') is highly suspicious and often used to obscure phishing content.",
+    "No HTTP usage, but the suspicious path raises the risk significantly."
+  ]
+}
+```

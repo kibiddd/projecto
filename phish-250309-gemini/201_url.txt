@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "Uses multiple hyphens and a likely misspelling 'blockfie' to impersonate a legitimate brand or service.",
+    "webflow.io is a medium risk TLD, often used for temporary or less secure sites, also includes ccdn as a subdomain which is unusual.",
+    "Excessive use of subdomains is a suspicious pattern.",
+    "URL uses http"
+  ]
+}
+```

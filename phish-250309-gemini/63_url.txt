@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No obvious brand impersonation in the domain.",
+    "TLD '.help' is of moderate risk, often used for short-lived sites and can be associated with scams.",
+    "The domain uses an excessive number of subdomains (info.loginhelp). This is a suspicious pattern.",
+    "The URL uses http, raising the risk significantly."
+  ]
+}
+```

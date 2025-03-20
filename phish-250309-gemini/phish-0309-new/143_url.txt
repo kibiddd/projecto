@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    "'.app' is a moderate-risk TLD (depending on context, can be legitimate)",
+    "Suspicious use of hyphens ('--') in subdomain, a common tactic to obfuscate domain name and potentially impersonate a brand.",
+    "The term 'dapp' in the subdomain, while legitimate in the blockchain context, can also be used in phishing scams targeting cryptocurrency users."
+  ]
+}
+```

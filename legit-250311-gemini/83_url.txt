@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 4,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".com is a low-risk TLD.",
+    "The path includes a long seemingly random string but is coupled with 'justin_shaughnessy.xhtml' which gives a potential sense of legitimacy.",
+    "The use of a subdomain 'www' is normal for many legitimate websites."
+  ]
+}
+```

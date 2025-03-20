@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 5,
+  "Explanation": [
+    "URL uses https",
+    ".support is a moderately risky TLD",
+    "Suspicious subdomain 'findhelp' that could be an attempt at impersonation",
+    "JCW could be random string"
+  ]
+}
+```

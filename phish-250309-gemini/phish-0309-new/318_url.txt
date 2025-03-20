@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    "github.io is a generally low-risk TLD but associated with free hosting, making it easier for malicious actors to set up temporary sites.",
+    "Path 'Netflix-Home' is likely a clone project attempting to impersonate the Netflix login page.",
+    "The username 'prakansh07' does not have any relation with Netflix",
+    "The combination of a Netflix related path hosted on a free hosting service like GitHub is highly suspicious."
+  ]
+}
+```

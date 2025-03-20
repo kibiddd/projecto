@@ -1,7 +1,7 @@
 from dataset import load_dataset
 from domain import domain_analysis
 from cont import content_analysis
-from url import url_analysis
+from url_anal import url_analysis
 from transformers import pipeline
 from combine import combine
 import json
@@ -11,12 +11,13 @@ def load_txt(path):
         return f.read()
 
 def all_anal_url(dataset_path, save_path, start=0, end=-1):
-    pipe = pipeline("text-generation", model="microsoft/Phi-4-mini-instruct", trust_remote_code=True)
+    #pipe = pipeline("text-generation", model="microsoft/Phi-4-mini-instruct", trust_remote_code=True)
     dataset = load_dataset(dataset_path)
     dataset = dataset[start:end]
     for idx, u in enumerate(dataset):
-        print(f'Analysing {idx+1}/{len(dataset)}, url={u}')
-        result_url = url_analysis(u, pipe)
+        idx += start
+        print(f'Analysing {idx+1}/{end}, url={u}')
+        result_url = url_analysis(u)
         new_path = save_path + str(idx) + '_url.txt'
         with open(new_path, 'w') as f:
             f.write(result_url)
@@ -94,7 +95,7 @@ def get_verdict(dataset_path, folder_path, start=0, end=-1):
     dataset = load_dataset(dataset_path)
     dataset = dataset[start:end]
     for idx, u in enumerate(dataset):
-        path = folder_path + str(idx) + '_combine.txt'
+        path = folder_path + str(idx) + '_url.txt'
         print(f'Analysing {idx+1}/{len(dataset)}, url={u}')
         # try loading the txt file in path
         try:
@@ -137,11 +138,19 @@ def get_false_positive(scores):
     nones = []
     for idx, s in enumerate(scores):
         if s:
-            if int(s) >= 7:
+            if int(s) >= 6:
                 false_positive.append(idx)
         else:
             nones.append(idx)
     return false_positive, nones
+
+def get_false_negative(scores):
+    false_negative = []
+    for idx, s in enumerate(scores):
+        if s:
+            if int(s) < 6:
+                false_negative.append(idx)
+    return false_negative
 
 def get_classification(scores):
     classifications = []
@@ -155,11 +164,20 @@ def get_classification(scores):
     return classifications
 
 if __name__ == '__main__':
-    verdicts = get_verdict('phishing-links-250309.txt', 'phish-250309/', 0, 500)
+    #all_anal_url('random_legit.txt', 'legit-250311-gemini/', 480, 500)
+    all_anal_url('phishing-links-250309.txt', 'phish-250309-gemini/phish-0309-new/', 480, 510)
+    #verdicts = get_verdict('random_legit.txt', 'legit-250311-gemini/', 0, 500)
+    verdicts = get_verdict('phishing-links-250309.txt', 'phish-250309-gemini/phish-0309-new/', 0, 510)
+    print(verdicts)
+    #print(get_classification(verdicts))
     print(len(verdicts))
     print(count_verdict(verdicts))
-    # fps, nones = get_false_positive(verdicts)
-    # print(fps)
+    fns = get_false_negative(verdicts)
+    print(fns)
+    print(len(fns))
+    #fps, nones = get_false_positive(verdicts)
+    #print(fps)
+    #print(len(fps))
     # print(nones)
     # all_anal_url('random_legit.txt', 'legit-250311/', 0, 500)
     # all_anal_cont('random_legit.txt', 'ss-legit.txt', 'legit-250311/')

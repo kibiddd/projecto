@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD",
+    "Suspicious pattern: Long, encoded string in the path (YWE9MzkzMjc5OTA0JnNlaT0yMTc2MDgyNyZ0az1NRlg1c250Sm5BbkcwVFJ2MmZRTiZ0PTUmYz05MGFzODc2ZmQ4OWFzNWZnOGEwOXM=) suggests tracking, redirect, or potentially malicious code execution.",
+    "Subdomain 'cdn' often used for content delivery networks, but combined with the encoded path raises suspicion of cloaking or malicious activity."
+  ]
+}
+```

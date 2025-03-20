@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    "webflow.io is a free website hosting service, often used for temporary or less-secure sites, raising suspicion.",
+    "The subdomain 'help-ledger-livedesktop' is a bit unusual and could be a attempt to appear legitimate by mentioning a well-known brand and service.",
+    "URL uses https."
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".cn is a country code TLD, but paired with a random subdomain, which warrants further investigation",
+    "Suspicious subdomain: 'qhoyzs' is a random string",
+    "Unusual pattern: The combination of a random subdomain and a country-code TLD raises a red flag, possibly indicating an attempt to bypass security filters or target a specific region."
+  ]
+}
+```

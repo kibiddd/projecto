@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 4,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".com is a low-risk TLD.",
+    "Subdomain 'people.famouswhy.com' could be a sign of unusual structure, but requires more context. The rest of the URL seems legitimate (celebrity profile).",
+    "HTTPS is used"
+  ]
+}
+```

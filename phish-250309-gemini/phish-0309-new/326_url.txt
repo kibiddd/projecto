@@ -1,0 +1,9 @@
+```json
+{"verdict": 9,
+  "Explanation" : ["URL uses https",
+   ".dev is a medium-risk TLD",
+   "URL contains a long, seemingly random string of characters and numbers within the subdomain (pub-5c4cef75b08546e281f71e80755c72f1)",
+   "Query parameters use another long seemingly random string, often used to track or collect data (d1bedd73f447832edcd29fd93125ae)",
+   "Use of 'r2.dev' subdomain might indicate a Cloudflare R2 storage bucket and not a legitimate site"]
+}
+```

@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".cl is a low-risk TLD",
+    "Excessive subdirectories (wp-includes/IXR/gqocfipm/ic-access) are suspicious and not typical for legitimate websites.",
+    "Random string (gqocfipm) suggests potential malicious intent.",
+    "The path including 'otp2.html' is commonly used for phishing attempts and OTP (One-Time Password) theft."
+  ]
+}
+```

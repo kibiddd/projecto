@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    "webflow.io is a medium-risk TLD (often used for temporary or free sites)",
+    "Suspicious subdomain structure (sso-auth-ndaxlogi). The presence of multiple potentially unrelated components suggests an attempt to look legitimate and target different brands such as ndaxlogi.",
+    "The presence of 'sso-auth' is typical of attempts to collect credentials."
+  ]
+}
+```

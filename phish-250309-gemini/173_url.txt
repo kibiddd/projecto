@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No direct brand impersonation.",
+    ".com is a low-risk TLD.",
+    "Suspicious pattern: Long, encoded string in the path (rdr/...), likely used for tracking and potentially malicious redirection. The string itself appears to be base64 encoded and contains seemingly random characters which increase the risk.",
+    "URL uses https"
+  ]
+}
+```

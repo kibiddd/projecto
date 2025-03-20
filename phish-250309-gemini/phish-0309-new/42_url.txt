@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    ".com.br is a moderate-risk TLD (country-specific, but subdomain usage raises concern)",
+    "Excessive subdomains: facebook.login.octgencia.com.br - suggests an attempt to impersonate Facebook via subdomain trickery.",
+    "Path 'mobile.php?uuid=' is often used for capturing user credentials or redirecting to malicious sites"
+  ]
+}
+```

@@ -1,0 +1,10 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    "vercel.app is a platform for web deployments, often used for short-lived or potentially malicious sites, indicating a moderate risk",
+    "Random string 'xkjg.cno' in the path is highly suspicious"
+  ]
+}
+```

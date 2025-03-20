@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "URL uses http",
+    ".top is a high-risk TLD",
+    "The path contains a random string of characters, numbers, and special characters that is highly suspicious: 'newtransfer?b=yto0ontzoju6imxhymvsijtzoja6iii7czozoij1c3iio2k6mjuwo3m6ndoibm9wzci7czoxmtoiz2ftzxbyb3guy2mio3m6mtoibyi7atozndt9'",
+    "Uses 'cb-new-notifs' which mimics a real company/service. Further investigation is needed, but the use of hyphens and unusual subdomain structure suggests brand impersonation."
+  ]
+}
+```

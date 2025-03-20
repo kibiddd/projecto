@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 2,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".net is a generally safe TLD.",
+    "Path appears to be a directory structure related to construction and location, which is not suspicious.",
+    "URL uses https."
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "Domain 'mybluehost.me' is a subdomain of a hosting provider, often used for temporary or untrusted sites, posing a medium risk",
+    "Path includes 'intesa.sanpaolo', which likely attempts brand impersonation of Intesa Sanpaolo",
+    "Path includes '/web/login.php', a common pattern used in phishing for credential harvesting"
+  ]
+}
+```

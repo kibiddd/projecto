@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "No obvious brand impersonation in URL.",
+    ".com is a low-risk TLD.",
+    "URL contains a long, seemingly random string in the path (YWE9MzkzMjc5ODk4JnNlaT0yMTc2MDgzOCZ0az0yQXM3cG9YUkNrVDRhdU9aZ1VwYSZ0PTUmYz05MGFzODc2ZmQ4OWFzNWZnOGEwOXM=). This is a red flag suggesting obfuscation or tracking.",
+    "URL uses https. However, the suspicious path outweighs the security of https."
+  ]
+}
+```

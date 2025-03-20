@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "'.shop' is a moderately risky TLD, often associated with e-commerce but can be abused",
+    "Subdomain 'steamncommunity' uses a character substitution to mimic 'steamcommunity', attempting brand impersonation",
+    "'giftcard' path is a common lure for phishing and scam activity, often used to steal credentials or solicit payments."
+  ]
+}
+```

@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "webflow.io is a medium-risk TLD, often used for temporary or less-secure sites.",
+    "The use of 'secure' prefix and 'cdn' suffix is an attempt to feign legitimacy and security.",
+    "Suspicious subdomain structure (secure-blockfi-s-cdn). The extra '-s-' is atypical and could be an attempt to appear more legitimate while subtly obfuscating the true domain.",
+    "The domain name 'blockfi' is associated with a well-known cryptocurrency platform. The URL is highly likely impersonating BlockFi."
+  ]
+}
+```

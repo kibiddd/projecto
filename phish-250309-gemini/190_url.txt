@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    "weebly.com is a legitimate platform, but its use by itself can be easily abused, scoring it as medium risk",
+    "Suspicious subdomain 'currently7635491' suggests a randomly generated or potentially compromised account.",
+    "URL uses https"
+  ]
+}
+```

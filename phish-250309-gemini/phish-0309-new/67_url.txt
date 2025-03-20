@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    "webflow.io is a medium risk TLD, typically used for quick websites, can also be used by scammers",
+    "Excessive hyphens ('--') are a suspicious pattern, often used to obscure the true domain.",
+    "Domain attempts to impersonate 'trezorhardware' (likely the legitimate brand) but the prefix 'learn' is highly suspicious in conjunction with the brand name. Potential impersonation."
+  ]
+}
+```

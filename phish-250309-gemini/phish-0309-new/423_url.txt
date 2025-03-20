@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    "azureedge.net is a legitimate CDN, but can be misused to host malicious content.",
+    "The subdomain implies affiliation with TikTok Shop, but is not a recognized official URL. Risk of brand impersonation.",
+    "Could be a phishing attempt to capture shop credentials"
+  ]
+}
+```

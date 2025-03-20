@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 5,
+  "Explanation": [
+    "No brand impersonation detected.",
+    "'.dev' is a moderate-risk TLD, often used for development and testing but can be legitimate.",
+    "The path structure suggests a potentially legitimate service, though further context is needed.",
+    "URL uses https."
+  ]
+}
+```

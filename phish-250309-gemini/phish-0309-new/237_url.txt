@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".co.uk is a low-risk TLD",
+    "Excessive use of subdomains: 'help-center-case-id-1000198714222.chrisstanton.co.uk'",
+    "Includes a seemingly random case ID number followed by a potentially unrelated domain name, which is suspicious.",
+    "The long URL with multiple query parameters and fbclid parameter is suspicious."
+  ]
+}
+```

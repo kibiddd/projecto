@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "No obvious brand impersonation detected.",
+    ".com is a low-risk TLD.",
+    "Suspicious pattern: Presence of random string 'sngzamfl' combined with a path potentially related to personal information access ('ic-access/personal.html').",
+    "URL uses https."
+  ]
+}
+```

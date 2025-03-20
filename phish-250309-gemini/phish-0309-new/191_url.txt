@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    "weebly.com is a generally low-risk TLD, but free hosting platforms can be used for scams.",
+    "Suspicious pattern: 'currentlyatt9854' - random string of characters and numbers likely used to avoid detection.",
+    "No obvious brand impersonation."
+  ]
+}
+```

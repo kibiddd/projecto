@@ -1,0 +1,10 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    ".com is a low-risk TLD",
+    "The URL consists only of numbers, which is highly suspicious and often used for obfuscation and to bypass basic filters"
+  ]
+}
+```

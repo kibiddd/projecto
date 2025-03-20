@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 5,
+  "Explanation": [
+    "no brand impersonation",
+    ".cl (Chile) is a moderately low-risk TLD",
+    "The path 'bases/index.html' is not inherently suspicious",
+    "URL uses https"
+  ]
+}
+```

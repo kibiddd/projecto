@@ -1,0 +1,10 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    "vercel.app is a legitimate service, but often abused for hosting phishing sites",
+    "The domain 'dbanks' alone is highly suspicious, may be brand impersonation, or a generic term used for bank or similar services to lure victims."
+  ]
+}
+```

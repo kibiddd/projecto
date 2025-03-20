@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 3,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".edu is a very low-risk TLD, associated with educational institutions.",
+    "URL structure appears legitimate and follows a typical content path.",
+    "No obvious anomalies."
+  ]
+}
+```

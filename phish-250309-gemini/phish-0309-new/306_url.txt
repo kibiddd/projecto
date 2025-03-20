@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD",
+    "Excessive subdomains: 'policy-violation-10002323537.page-suspension.com' indicates an attempt to create urgency or impersonate a legitimate service with numbers.",
+    "Suspicious query parameters: '?helpbusiness-10003203537' with a series of numbers is highly unusual and likely part of a phishing attempt."
+  ]
+}
+```

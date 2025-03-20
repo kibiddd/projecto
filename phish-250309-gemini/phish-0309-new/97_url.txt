@@ -1,0 +1,10 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".cc is a medium-risk TLD",
+    "Suspicious pattern: random string of numbers and letters in subdomain, indicates potential for malicious activity"
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 6,
+  "Explanation": [
+    "URL uses https",
+    ".me is a medium-risk TLD, often used for personal sites and potentially free hosting (raising suspicion)",
+    "Uses a random pattern (succinct-grizzly-climb) which can indicate a temporary or throwaway website",
+    "Hosted on glitch.me, a free hosting platform, which is often used for malicious purposes"
+  ]
+}
+```

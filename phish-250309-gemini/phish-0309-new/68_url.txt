@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    "webflow.io is a medium-risk TLD, commonly used for free websites and thus, higher risk.",
+    "Suspicious subdomain 'learn-trezorhelpe', attempting to impersonate Trezor help or learning resources.",
+    "Likely a phishing attempt, potentially targeting Trezor users."
+  ]
+}
+```

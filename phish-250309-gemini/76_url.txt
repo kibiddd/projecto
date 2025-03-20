@@ -1,0 +1,8 @@
+```json
+{"verdict": 9,
+  "Explanation": ["No brand impersonation detected.",
+   ".pl is a country code TLD, not inherently high risk, but Polish sites are often targeted by scammers.",
+   "Long, seemingly random path after the domain is suspicious.",
+   "URL uses http"]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "No direct brand impersonation.",
+    "weebly.com is a legitimate platform, but is often used for scams and phishing due to ease of setup.",
+    "Suspicious subdomain: 'currentlymailvailt2'. The use of numbers and unusual phrasing is a red flag, suggesting potential obfuscation or an attempt to bypass filters.",
+    "URL uses https"
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "Uses 'cb' as a potential impersonation tactic. Implies a bank name.",
+    ".top is a high-risk TLD.",
+    "The path 'newtransfer' is common in phishing attempts related to financial transfers",
+    "Uses https but other factors are concerning."
+  ]
+}
+```

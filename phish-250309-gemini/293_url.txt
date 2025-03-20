@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No direct brand impersonation, but excessive use of hyphens could be an attempt at obfuscation or to bypass filters.",
+    "webflow.io is generally a low-risk TLD, but the excessive use of subdomains raises concerns.",
+    "Suspicious pattern:  'nav---sso--coinbasepro--cdn--w----auth' contains multiple hyphens and keywords that are likely trying to simulate a real coinbase authentication flow. ",
+    "URL uses https."
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    "vpndns.net is a suspicious subdomain, often associated with proxy/VPN services used to mask the true origin of the site and potentially malicious activity.",
+    "Excessive and highly irregular subdomain/path structure: This pattern of deep nesting with seemingly random names is a strong indicator of phishing or malicious activity.  The URL is designed to be difficult to parse and understand, and the structure is not typical of legitimate websites.",
+    "URL uses https, but the other factors are highly suspicious."
+  ]
+}
+```

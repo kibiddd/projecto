@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No direct brand impersonation, but uses 'att' with a seemingly random string of numbers and hyphens, which could be an attempt at impersonation.",
+    "weeblysite.com is a somewhat high-risk TLD because it's often used for free sites, and the subdomain structure is unusual and suspicious.",
+    "Suspicious pattern: excessive numbers and hyphens in the subdomain (attcurently03-7-2025).",
+    "URL uses https."
+  ]
+}
+```

@@ -1,0 +1,10 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "Uses 'auth-ca-ndax-console' potentially impersonating a legitimate financial service.",
+    "webflow.io is a high-risk TLD/hosting provider often used for free or quickly spun-up sites.",
+    "URL uses http"
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 4,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    ".gov is a very low-risk TLD, indicating a government website.",
+    "The path '/output/c.php' might warrant further investigation, but .gov mitigates risk significantly. Possible vulnerability, but unlikely phishing.",
+    "Uses https"
+  ]
+}
+```

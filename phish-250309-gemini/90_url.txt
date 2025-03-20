@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "Uses 'reviewsec' which might be intended to mimic a security review or an official review",
+    ".com is a low-risk TLD",
+    "The combination of 'reviewsec' and a generic TLD is slightly suspicious. The lack of context around 'nab' makes it odd.",
+    "URL uses http"
+  ]
+}
+```

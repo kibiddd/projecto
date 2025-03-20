@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 3,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    ".com is a low-risk TLD.",
+    "URL structure suggests a legitimate company profile page.  The use of the full corporation name, state, city, and numeric ID are standard and expected in business directory URLs.",
+    "HTTPS is used."
+  ]
+}
+```

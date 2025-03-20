@@ -1,0 +1,8 @@
+```json
+{"verdict": 9,
+  "Explanation" : ["URL uses https",
+   ".top is a high-risk TLD",
+   "Suspicious subdomain structure 'midasbuysami'",
+   "Filename 'index.php' is a default php file commonly used for malicious purposes"]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 4,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD",
+    "Standard domain and path structure",
+    "No immediate red flags observed"
+  ]
+}
+```

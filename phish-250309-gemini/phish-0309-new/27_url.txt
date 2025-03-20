@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    "webflow.io is a medium risk TLD (often used for free or temporary sites)",
+    "Suspicious subdomain: 'bridge-trrizor-iobr' - contains random-looking strings and may be an attempt to mimic a legitimate service.",
+    "Other anomaly: Webflow is a website builder often used for quick setup, which can be misused for scams."
+  ]
+}
+```

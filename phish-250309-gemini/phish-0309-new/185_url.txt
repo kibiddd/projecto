@@ -1,0 +1,8 @@
+```json
+{"verdict": 9,
+  "Explanation" : ["URL uses https",
+   ".com is a low-risk TLD",
+  "Uses 'commerz' with a hyphenation to mimic 'commerzbank' brand",
+  "'briefupdate' path may be used to build a false sense of legitimacy"]
+}
+```

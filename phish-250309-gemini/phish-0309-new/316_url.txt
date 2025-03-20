@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "vercel.app is a platform that can be used for hosting phishing sites, raising suspicion",
+    "Suspicious pattern: random string of characters, numbers, and symbols in the path (e.g., '3a36efff&cf6=5a&1eG=K9dHF3da4b=D400e')",
+    "The combination of a seemingly legitimate platform with a highly unusual and likely generated path is a strong indicator of a phishing attempt."
+  ]
+}
+```

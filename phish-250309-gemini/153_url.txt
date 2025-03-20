@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    "vercel.app is a free hosting platform, often used by scammers (medium risk).",
+    "Suspicious pattern: random-looking subdomain 'cahaulleteise-4177' and path '/xuf.hgmok'.",
+    "URL uses https, but the other factors raise concern."
+  ]
+}
+```

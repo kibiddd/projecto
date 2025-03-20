@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "No brand impersonation detected.",
+    "webflow.io is a free hosting service, often used for quick setup of scam sites, raising suspicion.",
+    "Suspicious subdomain pattern: 'auth-s-started-traizor'.",
+    "Uses https."
+  ]
+}
+```

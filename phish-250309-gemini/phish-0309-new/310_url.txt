@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "webflow.io is a medium-risk TLD (can be used for legitimate purposes but also for hosting phishing sites)",
+    "Excessive subdomains: 'portal-coinbasepro--cdn-e--auth-cdn'. This is a common tactic to make the URL appear legitimate at first glance (coinbasepro), while the actual content resides on the subdomain.",
+    "The subdomain structure strongly suggests an attempt to impersonate Coinbase Pro. The inclusion of 'portal' and 'auth-cdn' are designed to look like legitimate Coinbase components."
+  ]
+}
+```

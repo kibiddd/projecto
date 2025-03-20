@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    ".es (Spain) is a moderately low-risk TLD, but the bnext subdomain could be an attempt at impersonation.",
+    "The path '/register/preregister?from' is somewhat suspicious, as it could be used to collect personal information through a fake registration process.",
+    "URL uses https."
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 4,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".com is a low-risk TLD.",
+    "Path suggests a legitimate site structure. '-bikeshop.htm' might indicate an attempt at search engine optimization or a specific page.",
+    "Use of https is a positive indicator."
+  ]
+}
+```

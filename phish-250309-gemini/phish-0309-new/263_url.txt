@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "webflow.io is a medium-risk TLD, often used for temporary or free websites which can be used for phishing or scams",
+    "Suspicious subdomain 'kkiocuccoin', likely related to crypto/investment scam, uses nonsensical characters",
+    "The subdomain potentially impersonates the legitimate cryptocurrency exchange/platform 'Kucoin' or related services"
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No direct brand impersonation, but 'bryt237' could be an attempt to mimic a legitimate user or service through a similar name.",
+    "Github.io is a generally low-risk domain, but can be used to host phishing content.",
+    "The path '/Facebook-bt' is highly suspicious, as it attempts to lure users by using the Facebook brand name to trick them into believing it is related to Facebook",
+    "URL uses https"
+  ]
+}
+```

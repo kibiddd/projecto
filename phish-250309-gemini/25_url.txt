@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "Uses 'blockfilogi--official' attempting to mimic a legitimate brand through subdomain manipulation.",
+    "webflow.io is a relatively high-risk TLD, often used for free or temporary websites.",
+    "The double hyphen '--' in the subdomain is a suspicious pattern.",
+    "URL uses http"
+  ]
+}
+```

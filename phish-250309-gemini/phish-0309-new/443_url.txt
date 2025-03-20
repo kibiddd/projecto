@@ -1,0 +1,10 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "weebly.com is a low-risk TLD, but used for free websites and can be easily abused",
+    "Suspicious subdomain: 'web3-spectrum-xoiv6bh-vbn' contains random strings and numbers, indicating potential phishing or scam activity"
+  ]
+}
+```

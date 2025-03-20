@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    ".io is a moderately risky TLD.",
+    "Excessive use of subdomains ('candas-sso-ndax--io--r---cdn') is highly suspicious and likely an attempt to obfuscate the true destination and potentially mimic a legitimate service.",
+    "URL uses https"
+  ]
+}
+```

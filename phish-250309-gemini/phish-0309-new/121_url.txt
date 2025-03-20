@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "weeblysite.com is a medium-risk TLD/hosting platform; often used for quick phishing setups",
+    "Suspicious use of numbers '106948-107040' which is a common phishing tactic to create a sense of urgency and impersonate a service like ATT",
+    "The domain attempts to impersonate ATT by prefixing the real brand with numbers, which is a phishing tactic"
+  ]
+}
+```

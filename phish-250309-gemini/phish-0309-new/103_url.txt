@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    "`.app` is a moderately risky TLD, often used for development or temporary sites, increasing the likelihood of a scam",
+    "Suspicious subdomain structure: 'ad-help-notification' may be an attempt to appear legitimate by referencing 'help' or 'notification', while the full subdomain is not a common or expected structure",
+    "The domain could be a temporary domain, making it an ideal tool for short-term phishing campaigns"
+  ]
+}
+```

@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    ".ca is a low-risk TLD",
+    "Netlify is a common platform for hosting phishing sites, though not inherently malicious",
+    "Subdomain structure: mail-cfenet-ubc-ca. Suspicious, multiple subdomains could be used to obfuscate the true destination or to appear more legitimate by association with a university.",
+    "May be pretending to be email related to cfenet and ubc, which is a social engineering attack"
+  ]
+}
+```

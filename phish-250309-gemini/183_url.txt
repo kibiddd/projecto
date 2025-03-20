@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    "cn is a country code TLD which on its own does not increase risk, the subdomain may indicate targeting a region",
+    "plhhovyj.com is suspicious, unlikely to be legitimate brand name and appears to use random characters which suggests this may be a malicious site",
+    "URL uses https"
+  ]
+}
+```

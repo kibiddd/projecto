@@ -1,0 +1,8 @@
+```json
+{"verdict": 3,
+      "Explanation" : ["no impersonation in URL",
+       ".fm is a valid TLD for radio stations",
+      "URL structure is consistent with a legitimate website",
+      "Uses https"]
+    }
+```

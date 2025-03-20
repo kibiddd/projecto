@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "'.me' is a moderate-risk TLD, often associated with personal websites but can be used maliciously",
+    "Excessive use of subdomains and path repetition: '/cgi-bin/index.ha/' repeated, indicating potential manipulation or obfuscation",
+    "Domain name might be trying to impersonate a legitimate brand through the use of 'anthem' and 'synology'"
+  ]
+}
+```

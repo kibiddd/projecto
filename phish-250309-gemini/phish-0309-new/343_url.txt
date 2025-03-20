@@ -1,0 +1,8 @@
+```json
+{"verdict": 9,
+  "Explanation" : ["URL uses https",
+   ".ru is a high-risk TLD (Russian Federation)",
+  "Path contains 'wp-admin', 'css' and what looks like an access page, which are frequently targeted in phishing attacks or credential harvesting.",
+  "Domain name may appear unrelated to the path, indicating potential malicious intent."]
+}
+```

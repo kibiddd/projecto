@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 6,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    ".dev is a generally safe TLD, though pages.dev could be used for malicious purposes.",
+    "The use of 'ledger-live-webapp' could be seen as legitimate as it could be a legitimate webapp domain, though 'pages.dev' is often used for quickly spinning up websites, which makes it slightly suspicious.",
+    "URL uses https"
+  ]
+}
+```

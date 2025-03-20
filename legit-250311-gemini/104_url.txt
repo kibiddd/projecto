@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 6,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    ".com is a low-risk TLD.",
+    "The URL uses a name (martinbrodeur30) followed by .com. This could be a fan site or a personal website, raising slight suspicion depending on context, as it might exploit a famous name.",
+    "No apparent anomalies."
+  ]
+}
+```

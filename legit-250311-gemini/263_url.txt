@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".com is a low-risk TLD.",
+    "The URL contains repetitive and lengthy keywords ('watch-wwe-no-way-out-2009-live-streaming-online-watch-wwe-no-way-out-2009-live') which is often used for SEO manipulation and could indicate a site trying to attract users to potentially malicious content like pirated streams or redirects.",
+    "The repeated keywords raise suspicion and suggest potential for deceptive practices."
+  ]
+}
+```

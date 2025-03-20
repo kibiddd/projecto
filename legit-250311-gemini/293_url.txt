@@ -1,0 +1,8 @@
+```json
+{"verdict": 2,
+  "Explanation" : ["No impersonation in URL",
+   ".com is a low-risk TLD",
+  "Standard URL structure for a legitimate website. CIBC is a known bank",
+  "Uses HTTPS"]
+}
+```

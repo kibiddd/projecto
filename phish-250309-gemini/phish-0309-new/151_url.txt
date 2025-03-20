@@ -1,0 +1,10 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD",
+    "Suspicious pattern: Random alphanumeric string 'ams7pcpbn589' after the domain, highly suggestive of malicious intent."
+  ]
+}
+```

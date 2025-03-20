@@ -1,0 +1,8 @@
+```json
+{"verdict": 3,
+  "Explanation": ["no impersonation in URL",
+   ".com is a low-risk TLD",
+  "URL pertains to a known entity, McGill Tribune, and the path is consistent with legitimate news articles",
+  "Uses https"]
+}
+```

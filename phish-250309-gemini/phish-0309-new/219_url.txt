@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "webflow.io is a platform often used for free or temporary websites, which can be used for scams. This indicates a higher risk.",
+    "The subdomain 'gemqminilogginuss' is a random string, which is highly suspicious.",
+    "The URL structure strongly suggests an attempt at brand impersonation or credential harvesting, possibly targeting users of a legitimate service like Gmail."
+  ]
+}
+```

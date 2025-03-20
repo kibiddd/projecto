@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "No direct brand impersonation.",
+    "`.weebly.com` is a legitimate service but often used for hosting less reputable sites, raising suspicion.",
+    "Unusual use of subdomain `carlsbadrotaryfoundation` on a free hosting platform.  Legitimate organizations often use their own domain.",
+    "The combination of a subdomain and a free hosting service increases risk. While Carlsbad Rotary Foundation may be legitimate, this structure is commonly exploited for phishing."
+  ]
+}
+```

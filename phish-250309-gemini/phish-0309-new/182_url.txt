@@ -1,0 +1,8 @@
+```json
+{"verdict": 8,
+  "Explanation": ["URL uses https",
+   ".com is a low-risk TLD",
+   "Suspicious use of numbers and subdomains (150manx).",
+   "CN suggests Chinese domain, possible targeting of Chinese users with potentially suspicious content."]
+}
+```

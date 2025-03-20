@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    ".com is a low-risk TLD, but the domain itself may be suspect.",
+    "The URL contains a long, seemingly random string of characters and numbers, typical of redirection URLs often used in phishing campaigns. The use of base64 encoding (evident by 'JnNlaT0' etc.) further obscures the destination and purpose.",
+    "URL uses https"
+  ]
+}
+```

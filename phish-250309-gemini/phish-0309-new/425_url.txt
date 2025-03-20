@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".top is a high-risk TLD",
+    "Suspicious pattern: random string 'tkmaxll'",
+    "Likely brand impersonation (potentially TJ Maxx or similar)"
+  ]
+}
+```

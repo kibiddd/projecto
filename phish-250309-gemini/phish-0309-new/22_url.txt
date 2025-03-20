@@ -1,0 +1,10 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    ".dev is a medium-risk TLD, often used for development and can be less trustworthy",
+    "The combination of 'beevi' and '.pages.dev' is unusual and could be a sign of a temporary or potentially suspicious setup."
+  ]
+}
+```

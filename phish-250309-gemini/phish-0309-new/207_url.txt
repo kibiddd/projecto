@@ -1,0 +1,10 @@
+```json
+{
+  "verdict": 4,
+  "Explanation": [
+    "URL uses https",
+    ".dev is a medium-risk TLD (often used for development)",
+    "Subdomain 'example-d' could be legitimate, but needs further investigation depending on content"
+  ]
+}
+```

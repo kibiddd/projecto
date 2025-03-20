@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "wpenginepowered.com is a legitimate domain, but used as a subdomain, which can be used to host phishing sites to appear legitimate",
+    "Suspicious subdomain structure: Likely attempts to impersonate 'sikkerkontono' and then 'nordea' (likely a bank).",
+    "Path contains 'nord' and 'nordea' and 'cd.html', suggesting an attempt to impersonate Nordea bank.",
+    "Multiple directories (nord/nordea) are highly suspicious."
+  ]
+}
+```

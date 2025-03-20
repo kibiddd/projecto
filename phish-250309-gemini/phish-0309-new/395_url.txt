@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD",
+    "Character substitution 'staemcommunutly' mimicking 'steamcommunity' indicates brand impersonation.",
+    "The path '/gift/activation=...' is a common phishing lure.",
+    "The random string 'Dor5Fhnm2w' often suggests a phishing attempt to personalize the scam."
+  ]
+}
+```

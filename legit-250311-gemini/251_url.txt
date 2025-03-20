@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 1,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".com is a low-risk TLD.",
+    "The URL uses a clear structure (www.asia-basket.com) with parameters that indicate a database query, which is typical for legitimate websites.",
+    "Secure HTTPS connection is used."
+  ]
+}
+```

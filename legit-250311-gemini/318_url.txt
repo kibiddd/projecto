@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 4,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    ".com is a low-risk TLD (part of loto-quebec.com).",
+    "Multiple subdomains and query parameters are present.  While not inherently malicious, such patterns warrant closer inspection.",
+    "The URL leverages a legitimate organization (loto-quebec.com), reducing risk. The length and query parameters slightly increase suspicion."
+  ]
+}
+```

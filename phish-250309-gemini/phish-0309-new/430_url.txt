@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    "webflow.io is a medium-risk TLD as it is a free hosting platform often used for quick website setups and potential phishing campaigns",
+    "Suspicious subdomain pattern: 'trezor-us-t-moddel'. The use of hyphens and the potential misspelling or unusual structure raises suspicion, possibly attempting to mimic the legitimate Trezor brand or create a related but deceptive entity.",
+    "Brand impersonation is possible. The use of 'trezor' in the subdomain strongly suggests an attempt to impersonate the legitimate Trezor hardware wallet brand."
+  ]
+}
+```

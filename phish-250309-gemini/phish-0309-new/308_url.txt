@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".io is a moderately risky TLD, often used for tech startups but can be abused.",
+    "Excessive subdomains ('portal-app-ndax-io----cdn-x-cdn') are highly suspicious and likely attempt to obscure the true origin.",
+    "Pattern suggests impersonation of a legitimate service by using multiple subdomains to make the URL appear complex and trustworthy."
+  ]
+}
+```

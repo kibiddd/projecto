@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    ".support is a moderate-risk TLD",
+    "Suspicious pattern: '/r33' likely indicates a redirect or shortened URL with a random string.",
+    "The domain name 'findhelp.support' is generic and could be used for various scams, increasing the risk."
+  ]
+}
+```

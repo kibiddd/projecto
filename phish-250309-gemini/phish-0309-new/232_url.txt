@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD",
+    "Suspicious pattern: Excessive subdirectories ('backup', 'sngzamfl', 'ic-access')",
+    "Suspicious file name: 'otp2.html' suggests an attempt to collect one-time passwords"
+  ]
+}
+```

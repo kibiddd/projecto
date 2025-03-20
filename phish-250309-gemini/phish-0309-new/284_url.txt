@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 6,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD",
+    "Presence of a personal name in the subdomain (mr.ahmed-elgamal.com) can sometimes indicate a legitimate personal or small business website, but also warrants caution if associated with unexpected content or requests for sensitive information.",
+    "The numeric path '/01' could be an arbitrary resource or a potential indicator of an incomplete or automated site, raising slight suspicion."
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 6,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".cl (Chile) is a moderately trusted TLD, but the presence of a country-code TLD generally lowers risk compared to generic TLDs like .xyz.",
+    "The use of 'tunnel' as a directory is slightly suspicious, as it could potentially be used to obfuscate malicious content or redirect to a malicious destination.",
+    "URL uses https"
+  ]
+}
+```

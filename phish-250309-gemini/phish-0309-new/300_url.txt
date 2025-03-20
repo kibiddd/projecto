@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD",
+    "URL uses the 'tempisite.com' which can be a free hosting service that often hosts malicious content and phishing",
+    "Suspicious pattern: Random string of characters and numbers in the path '/0S15sbGSvDd234545sd6FS62345s46SF74' suggests a dynamically generated and potentially malicious page."
+  ]
+}
+```

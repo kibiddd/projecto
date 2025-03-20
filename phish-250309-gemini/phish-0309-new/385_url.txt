@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    "io is a medium-risk TLD (can be legitimate but often used for staging or less established projects)",
+    "Excessive subdomains (sso-app--uphold--nav-cdn--m) are highly suspicious and potentially indicative of subdomain manipulation to impersonate a legitimate service (Uphold).",
+    "The subdomain structure attempts to mimic the structure of a legitimate 'Uphold' domain and may be part of a phishing attempt or credential harvesting."
+  ]
+}
+```

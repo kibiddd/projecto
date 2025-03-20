@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 4,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".com is a low-risk TLD.",
+    "Standard URL structure with query parameters, but the overall URL is not inherently suspicious.",
+    "The use of an 'index.php' file is not inherently malicious."
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    ".mt is a country code TLD, but the short and cryptic nature of the URL is suspicious.",
+    "The URL contains a very short path ('9jL'), which is highly unusual and suggests a URL shortener or a malicious redirection.",
+    "The URL uses https."
+  ]
+}
+```

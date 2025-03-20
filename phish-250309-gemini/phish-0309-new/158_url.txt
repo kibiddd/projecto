@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".dev is a medium-risk TLD (often used by developers, but can be used for phishing)",
+    "Contains a random-looking numerical string in the path '/47894447'",
+    "Uses 'carrefouriramadan2' which may be a fake promo to bait users, the addition of a number is a suspicious pattern"
+  ]
+}
+```

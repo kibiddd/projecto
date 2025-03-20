@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 3,
+  "Explanation": [
+    "No brand impersonation.",
+    ".com is a low-risk TLD (implicitly present through the linkedin.com domain).",
+    "URL structure suggests a profile or page within LinkedIn.",
+    "au subdomain indicates the Australian region."
+  ]
+}
+```

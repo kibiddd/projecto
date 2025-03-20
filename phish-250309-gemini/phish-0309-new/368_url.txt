@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".de is a country-code TLD, which can be low-risk but depends on the context. In this case, it's impersonating a German company but isn't a legitimate domain.",
+    "Suspicious path: '/dhl_de/' suggests impersonation of DHL (German postal service)",
+    "Random string '.43a921f123665069a20da31f330d9707/' is a red flag for phishing.",
+    "'start' at the end of the URL is suspicious and is often used for phishing campaigns."
+  ]
+}
+```

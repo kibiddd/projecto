@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".cc is a medium-risk TLD, often used for malicious purposes.",
+    "The URL uses a random-looking string of numbers and a short path, which could indicate a phishing attempt.",
+    "URL uses https"
+  ]
+}
+```

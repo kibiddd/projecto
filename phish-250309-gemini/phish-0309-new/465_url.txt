@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "URL uses https",
+    ".click is a high-risk TLD",
+    "Suspicious subdomain/path 'verification-accountt' trying to mimic a legitimate domain and 'checkpoint' path is common for credential phishing.",
+    "Brand impersonation attempt, likely targeting accounts or verification procedures."
+  ]
+}
+```

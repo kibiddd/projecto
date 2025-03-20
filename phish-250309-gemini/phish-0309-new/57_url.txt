@@ -1,0 +1,10 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    ".cc is a medium-risk TLD",
+    "Suspicious pattern: random alphanumeric string 'z2f413' and '03a4' in the path, indicating potential redirection or tracking for malicious purposes."
+  ]
+}
+```

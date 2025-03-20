@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 4,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".net is a moderate-risk TLD.",
+    "The URL structure with specific keywords like 'pictures' and a celebrity name might be used for legitimate content, but could also host deceptive content or clickbait.",
+    "No obvious red flags."
+  ]
+}
+```

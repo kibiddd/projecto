@@ -1,0 +1,10 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    ".co is a medium-risk TLD (can be legitimate but often used for short-lived or less established sites)",
+    "The substitution 'blocxchain' for 'blockchain' is a likely attempt at brand impersonation through a character substitution, which is a common phishing tactic."
+  ]
+}
+```

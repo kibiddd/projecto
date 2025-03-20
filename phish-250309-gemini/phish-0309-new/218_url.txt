@@ -1,0 +1,10 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "godaddysites.com subdomain indicates a free or low-cost hosting service often abused by scammers.",
+    "Brand impersonation of 'gemini' with common credential harvesting techniques via the '/login' path."
+  ]
+}
+```

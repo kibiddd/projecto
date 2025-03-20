@@ -1,0 +1,10 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "weebly.com is a medium-risk TLD, often used for quick website setups, but can also host legitimate content.",
+    "Suspicious subdomain 'uxcurrentjhfduxux' appears to be a random string of characters, which is highly unusual for legitimate websites and suggestive of malicious intent."
+  ]
+}
+```

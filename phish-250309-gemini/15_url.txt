@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "Uses 'm---stert' with dashes in the middle to mimic 'master' and likely impersonates a financial institution",
+    "webflow.io is a medium-risk TLD as it's often used for temporary or free sites.",
+    "Excessive use of subdomains (auth-m---stert) raises suspicion.",
+    "URL uses http"
+  ]
+}
+```

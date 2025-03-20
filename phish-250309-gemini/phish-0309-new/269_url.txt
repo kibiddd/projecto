@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    ".dev is a medium-risk TLD (often used by developers but can be abused)",
+    "Uses 'ledger-live-webapp', which mimics the legitimate Ledger Live app.",
+    "`.pages.dev` is a subdomain structure that could host a cloned or phishing site.",
+    "The combination of the brand impersonation and unusual subdomain structure raises suspicion."
+  ]
+}
+```

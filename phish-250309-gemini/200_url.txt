@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "Uses 'ebay' as the primary brand name, but is followed by a suspicious domain (among2.me) to host the page.",
+    ".me is a moderately risky TLD.",
+    "The subdomain 'among2' is suspicious and unrelated to eBay's branding.",
+    "URL uses https."
+  ]
+}
+```

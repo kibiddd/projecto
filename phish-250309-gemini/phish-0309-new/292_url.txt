@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    "glitch.me is a medium-risk TLD/domain - often used for temporary or free hosting, which can be exploited",
+    "Suspicious pattern: random string 'BGghfLKP' likely indicates a dynamically generated or obfuscated resource",
+    "The use of a random string in the path like 'BGghfLKP.htm' is a strong indicator of a potential phishing attempt, possibly to bypass detection or hide malicious content."
+  ]
+}
+```

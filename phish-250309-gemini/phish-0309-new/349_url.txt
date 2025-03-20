@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "vercel.app is a generally low-risk TLD, but often abused for phishing due to free hosting",
+    "Suspicious pattern: Contains a random string of characters and numbers in the path, and uses multiple parameters in the URL path.",
+    "The URL structure appears designed to obfuscate its true purpose."
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 6,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    ".com is a low-risk TLD.",
+    "The URL uses a legitimate subdomain structure (rootsweb.ancestry.com), which reduces risk, but the path b72.htm is suspicious because it is a random string.",
+    "URL uses https."
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 6,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD",
+    "The domain name 'chavemoveldigitalpt' suggests a Portuguese mobile digital key, which is very specific and the user may be trying to masquerade a real service.",
+    "The '/login.php' path is a common target for phishing attempts"
+  ]
+}
+```

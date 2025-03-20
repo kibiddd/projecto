@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 3,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".com is a low-risk TLD, and ca.finance.yahoo.com suggests a legitimate Canadian Yahoo Finance subdomain.",
+    "The URL structure, including 'q?s=snc.to', is typical for financial data queries on Yahoo Finance.",
+    "Uses https."
+  ]
+}
+```

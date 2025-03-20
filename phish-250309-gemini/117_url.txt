@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "Uses 'blnance' to impersonate 'binance' with a substitution (b for i)",
+    ".com is a low-risk TLD, but the substitution overrides this significantly",
+    "The 'app-' subdomain is common for legitimate services, but combined with the substitution, it becomes suspicious.",
+    "Other anomalies: combination of subdomain and substitution"
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 1,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".org is a reputable TLD.",
+    "URL uses a standard and expected structure for Wikipedia.",
+    "HTTPS is used."
+  ]
+}
+```

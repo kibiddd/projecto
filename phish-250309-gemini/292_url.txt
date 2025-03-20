@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "No direct brand impersonation.",
+    "`.me` is a moderately risky TLD, often used for free hosting, and less established than .com or .org, potentially indicating higher risk.",
+    "The URL uses a subdomain of 'glitch.me', a platform that allows anyone to quickly deploy a website, indicating a possible phishing risk",
+    "The presence of a long, random-looking string 'BGghfLKP' in the path is a suspicious pattern.",
+    "URL uses https."
+  ]
+}
+```

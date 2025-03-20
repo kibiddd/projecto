@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "URL uses http",
+    "serv00.net is a high-risk domain (free hosting)",
+    "Suspicious pattern: Random string of characters and numbers in the path (DH25SPW2/RDGDESDZRFSYJNOI)",
+    "Likely designed to host phishing content."
+  ]
+}
+```

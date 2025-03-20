@@ -1,0 +1,10 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    "webflow.io is a moderate-risk TLD as it's often used for quick site deployments and can host malicious content.",
+    "Subdomain 'portals-secure-trzr' looks suspicious. It may be an attempt to mimic a secure portal with a random string."
+  ]
+}
+```

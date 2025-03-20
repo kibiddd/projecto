@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "glitch.me is a medium-risk TLD, often used for temporary or experimental websites, which can also host scam projects.",
+    "Suspicious subdomain structure with a random-sounding name ('boundless-voltaic-scourge')",
+    "The path '/public/Navafede0.html' is very generic and potentially points to a phishing page or file."
+  ]
+}
+```

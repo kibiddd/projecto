@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "Uses subdomain structure - suspicious pattern",
+    "'.net' is a moderate risk TLD",
+    "Domain name itself is a random string of characters, indicating potential for malicious activity",
+    "Likely brand impersonation is attempted and fails as the domain is clearly malicious"
+  ]
+}
+```

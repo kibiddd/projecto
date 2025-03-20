@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 1,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".com is a low-risk TLD.",
+    "The URL uses a standard subdomain (www).",
+    "The path appears to be a user profile, which is common for a legitimate social media site."
+  ]
+}
+```

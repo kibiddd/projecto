@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    "webflow.io is a medium-risk TLD (often used for free/temporary sites, but not inherently malicious)",
+    "Excessive subdomains (sso-uphold-com-cdnn-auth-en-usa) are highly suspicious and a common phishing tactic to appear legitimate",
+    "The URL attempts to impersonate 'uphold.com' through subdomain manipulation, likely for credential theft."
+  ]
+}
+```

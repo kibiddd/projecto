@@ -1,0 +1,9 @@
+```json
+{"verdict": 9,
+  "Explanation": ["URL uses https",
+   ".website is a medium-risk TLD",
+   "Suspicious pattern: Long, random string of characters in the path (nnbuhbjrh1vic_pomt_ohjfttwejckzdnugcoz0_lny)",
+   "Use of 'landingpages' is a common tactic to hide or disguise phishing content",
+   "UUID-like structure in path (cf1a9771-107e-471b-986d-361ea44c2f10) often associated with dynamic content and can be a red flag if combined with other suspicious elements"]
+}
+```

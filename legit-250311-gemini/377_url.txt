@@ -1,0 +1,8 @@
+```json
+{"verdict": 5,
+  "Explanation" : ["no impersonation in URL",
+   ".blogspot.com is a medium-risk TLD (blog platforms are sometimes used for phishing, but not always)",
+  "URL uses a legitimate blog structure; the path is not inherently suspicious",
+  "blog post from 2009 suggests the site may not be active/updated frequently; this can be a potential red flag"]
+}
+```

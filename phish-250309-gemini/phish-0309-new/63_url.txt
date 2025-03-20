@@ -1,0 +1,10 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    "Multiple subdomains (info.loginhelp.help) are suspicious and may be used to obscure the true destination.",
+    "The combination of 'loginhelp' is a common tactic in phishing, suggesting the site attempts to impersonate a legitimate login portal."
+  ]
+}
+```

@@ -1,0 +1,10 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    "netlify.app is a medium-risk TLD as it can be used for temporary sites",
+    "Suspicious subdomain: 'stirring-pixie-498c83' is a random string of words and numbers, highly suggestive of a temporary or malicious site."
+  ]
+}
+```

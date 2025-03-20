@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No direct brand impersonation, but use of Polish domain could be used to target Polish users.",
+    ".icu is a high-risk TLD",
+    "Suspicious pattern: long string of seemingly random characters and numbers as part of the path and query parameters suggesting possible tracking or redirection attempts. Unusual use of numbers.",
+    "Path 'pll-oferta-firmowa821574' is an attempt at seeming legitimate, but is suspect with the numbers at the end.",
+    "URL uses https"
+  ]
+}
+```

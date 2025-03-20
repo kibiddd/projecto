@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "Uses 'gemiani-logain' which may impersonate a legitimate brand with a typo or character substitution.",
+    "godaddysites.com indicates a free or low-cost website hosting service, which can be used for malicious purposes.",
+    "The subdomain 'gemiani-logain' could be an attempt to mimic a legitimate login or account access.",
+    "URL uses http"
+  ]
+}
+```

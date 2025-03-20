@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".cl is a low-to-medium risk TLD",
+    "Excessive subdirectories (wp-includes/IXR/gqocfipm/ic-access/) suggests potentially malicious file placement or exploitation of a vulnerable CMS.",
+    "The path 'personal.html' is often used in phishing attempts to harvest personal information."
+  ]
+}
+```

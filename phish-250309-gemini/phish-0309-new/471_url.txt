@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    ".cn is a medium-risk TLD (China)",
+    "Suspicious pattern: Random alphanumeric string 's8gkz' after 'idtoken=' suggesting possible credential phishing or tracking",
+    "The URL could be part of a phishing scam attempting to obtain user credentials or track user activity."
+  ]
+}
+```

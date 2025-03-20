@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    ".github.io is a medium-risk TLD as it's often used for hosting free websites, increasing the chance of scams or phishing",
+    "The path 'instagram' suggests an attempt to impersonate Instagram, which can be a phishing tactic.",
+    "The combination of a GitHub Pages subdomain with the Instagram path raises suspicion."
+  ]
+}
+```

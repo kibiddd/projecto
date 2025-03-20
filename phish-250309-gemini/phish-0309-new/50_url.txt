@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    "blogspot.com is a low-risk TLD, but the subdomain is a common pattern for hosting phishing sites",
+    "The URL's structure could be designed to host content or a service designed to mimic a legitimate financial institution",
+    "The URL uses 'fr-nickel', which may be a reference to a legitimate financial institution, used to impersonate or mimic a legitimate website"
+  ]
+}
+```

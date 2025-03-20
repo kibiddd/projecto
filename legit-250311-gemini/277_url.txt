@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 6,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    ".com is a low-risk TLD.",
+    "Excessive subdomains: www.awtc.ancestry.com, may be used to create confusion.",
+    "Path contains 'cgi-bin' which is an older technology and could be associated with legacy systems and potential vulnerabilities. The URL contains several parameters which could be used for malicious activity."
+  ]
+}
+```

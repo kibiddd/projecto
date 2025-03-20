@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    ".cc is a medium-to-high risk TLD (country code TLD, often used by scammers)",
+    "Suspicious pattern: random numbers 'g551000'",
+    "No brand impersonation detected (directly)",
+    "Anomalies: Short, unusual domain name often used for spam/scam."
+  ]
+}
+```

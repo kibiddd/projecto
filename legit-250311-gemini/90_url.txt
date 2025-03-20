@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 3,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    ".org is a low-risk TLD.",
+    "Path contains 'surveys' which can be used to lure users, but also is a common legitimate pattern.",
+    "Filename contains date, which could be a sign of a past campaign or legitimate record."
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 4,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    ".com is a low-risk TLD.",
+    "Path structure and domain name suggest a legitimate informational website related to the Makarska Riviera.",
+    "Uses https."
+  ]
+}
+```

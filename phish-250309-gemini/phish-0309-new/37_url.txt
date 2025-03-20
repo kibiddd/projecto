@@ -1,0 +1,13 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "URL uses http",
+    "'.my.id' is a high-risk TLD",
+    "Suspicious subdomain structure: 'ddkwk.my.id'",
+    "Random string in the path: 's6j7sxzeazg'",
+    "Query parameter 'r' with seemingly random value: 'iVlQUs'",
+    "The combination of these factors strongly suggests phishing or malware distribution."
+  ]
+}
+```

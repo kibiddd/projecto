@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "webflow.io is a medium-risk TLD (can be used for legitimate sites but also for quick phishing setups)",
+    "Suspicious domain: 'ladgerlivewaler' - potential brand impersonation of Ledger Live wallet with a typo or character substitution",
+    "Subdomain/platform usage: .webflow.io often hosts temporary or untrusted content. Possible clone project or phishing attempt."
+  ]
+}
+```

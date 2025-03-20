@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD",
+    "Suspicious pattern: Random string 'byxugqlc' within the path",
+    "'ic-access' path might be trying to impersonate an IT service",
+    "The presence of 'backup' may indicate a phishing attempt to collect backup data"
+  ]
+}
+```

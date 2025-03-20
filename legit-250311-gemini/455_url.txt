@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 4,
+  "Explanation": [
+    "No brand impersonation in URL.",
+    ".com is a low-risk TLD.",
+    "Path '/global/tag/ctv/' is somewhat unusual, but not inherently suspicious in itself. Could be content categorization.",
+    "URL uses https."
+  ]
+}
+```

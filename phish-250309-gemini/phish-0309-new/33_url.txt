@@ -1,0 +1,10 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "URL uses http",
+    "myddns.me is a high-risk TLD (Dynamic DNS service)",
+    "Subdomain 'commerzbank' is attempting brand impersonation, likely a credential phishing attempt"
+  ]
+}
+```

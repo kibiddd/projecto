@@ -1,0 +1,10 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "URL uses http",
+    "'.com' is a low-risk TLD, however, the domain is misspelled 'cuommunity' instead of 'community'",
+    "Numeric string in the path might indicate a profile ID, which is normal for Steam, but the misspelling of the domain name is a large red flag."
+  ]
+}
+```

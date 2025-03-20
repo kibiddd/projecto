@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "Impersonation attempt: 'aplewisandsons' is likely trying to impersonate a brand like 'Apple'.",
+    "'.co.uk' is a country-code TLD, but the subdomain contains a random string of numbers suggesting a phishing attempt.",
+    "The subdomain 'policy-violation-100029395937' uses a common phishing tactic to create urgency.",
+    "URL uses http."
+  ]
+}
+```

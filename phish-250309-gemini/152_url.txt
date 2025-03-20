@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".xyz is a high-risk TLD.",
+    "Suspicious pattern: Excessive use of subdomains ('bwg-d.371012').",
+    "URL uses https"
+  ]
+}
+```

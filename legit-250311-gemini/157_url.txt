@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 3,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".org is a low-risk TLD.",
+    "URL structure appears legitimate for Craigslist (subdomain for city and category).",
+    "Uses https."
+  ]
+}
+```

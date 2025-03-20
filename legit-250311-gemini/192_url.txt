@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 4,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".com is a low-risk TLD.",
+    "The domain name is suggestive, but not inherently suspicious.",
+    "Standard domain structure."
+  ]
+}
+```

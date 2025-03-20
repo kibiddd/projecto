@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 6,
+  "Explanation": [
+    "URL uses https",
+    ".dev is a moderate-risk TLD, often used for development or testing and can sometimes be used for short-lived scams.",
+    "'pages.dev' indicates a site hosted on Google Cloud Pages, which is a legitimate service but can be used for hosting malicious content. Requires further scrutiny.",
+    "The domain name 'decentraprotocol' does not raise immediate red flags but needs additional context to assess its legitimacy."
+  ]
+}
+```

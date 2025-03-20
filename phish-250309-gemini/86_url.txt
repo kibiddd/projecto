@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No direct brand impersonation, but 'gebyar-ramadhan' might be attempting to capitalize on a seasonal event.",
+    ".my.id is a medium-high risk TLD (Indonesia country code).",
+    "The structure 'program-...' followed by a vaguely related term is a suspicious pattern often used in phishing campaigns.",
+    "URL uses http"
+  ]
+}
+```

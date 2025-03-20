@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".mt (Malta) is a moderate-risk TLD, often used for short URLs.",
+    "Suspicious pattern: The URL consists of a domain and a short, seemingly random string ('9jL'), which is typical of URL shorteners and can be used to hide the true destination.",
+    "No immediate brand impersonation detected.",
+    "Overall short URL is a major red flag as it hides the real url."
+  ]
+}
+```

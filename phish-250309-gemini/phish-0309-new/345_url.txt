@@ -1,0 +1,10 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".ru is a high-risk TLD (Russia)",
+    "The path '/wp-admin/css/ic-access/otp.html' is highly suspicious. '/wp-admin' suggests an attempt to access a WordPress admin panel, '/otp.html' suggests a one-time password or authentication page. This pattern is often used for credential harvesting or account takeover attempts."
+  ]
+}
+```

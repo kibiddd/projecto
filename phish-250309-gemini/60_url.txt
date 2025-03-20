@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "Uses 'coinbase-cdn-doc-io' which could be attempting to mimic Coinbase through subdomain manipulation.",
+    ".io is a medium risk TLD (but webflow.io is a legitimate platform used for hosting websites, so lower than other high risk TLDs).",
+    "The combination of multiple subdomains and the inclusion of terms like 'cdn' and 'doc' can be an attempt to feign legitimacy.",
+    "URL uses http"
+  ]
+}
+```

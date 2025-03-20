@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".cc is a moderate-risk TLD.",
+    "Suspicious pattern: Random string 'z2f413/03a4' likely for obfuscation or tracking.",
+    "URL uses http."
+  ]
+}
+```

@@ -1,0 +1,10 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    "github.io is a generally low-risk TLD, but often used for hosting phishing content.",
+    "Presence of 'Netflix-Clone' strongly suggests brand impersonation, even if the clone is a personal project."
+  ]
+}
+```

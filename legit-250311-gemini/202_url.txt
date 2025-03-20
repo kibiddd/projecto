@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 4,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".com is a low-risk TLD.",
+    "URL uses a legitimate domain (clarksvilleonline.com) with a path related to news/articles.",
+    "No other anomalies detected."
+  ]
+}
+```

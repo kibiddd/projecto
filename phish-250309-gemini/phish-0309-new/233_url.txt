@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD",
+    "Excessive subdomains and random strings in the path ('backup/sngzamfl/ic-access')",
+    "'otp.html' is a common indicator of phishing attempts to steal one-time passwords."
+  ]
+}
+```

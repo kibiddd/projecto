@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    ".com is a low-risk TLD, but the subdomain m. is concerning with an IP based URL.",
+    "The subdomain 'm' could be an attempt to mimic a mobile version of a legitimate site. The combination of the subdomain and IP address adds risk.",
+    "The numerical subdomain '060d' is highly suspicious and indicates a potential attempt to obfuscate the true destination or impersonate a brand."
+  ]
+}
+```

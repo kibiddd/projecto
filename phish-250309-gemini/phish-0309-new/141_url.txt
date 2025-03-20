@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "URL uses https",
+    ".top is a high-risk TLD",
+    "'binas-mail' likely attempts to impersonate a legitimate service",
+    "'info' path is vague and potentially used for gathering data"
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 3,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".co.uk is a generally low-risk TLD.",
+    "The URL structure appears legitimate, referencing a specific geographic location and potentially a hotel directory.",
+    "Uses https"
+  ]
+}
+```

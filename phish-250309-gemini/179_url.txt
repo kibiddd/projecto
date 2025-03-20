@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No brand impersonation detected.",
+    "'.clickme.web.id' is a high-risk TLD/Subdomain combination. The use of multiple levels in this manner can be used to obscure the true domain and increase phishing risk.",
+    "The use of the word 'claim' can be used to build a false sense of urgency or to indicate that the site may be a scam or phishing attempt. ",
+    "URL uses https"
+  ]
+}
+```

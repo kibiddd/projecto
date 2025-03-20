@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 2,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".com is a low-risk TLD.",
+    "URL appears to be a direct link to content on xvideos.com, which, while potentially containing mature content, doesn't inherently indicate a phishing risk.",
+    "The URL uses HTTPS"
+  ]
+}
+```

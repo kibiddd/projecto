@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".io is a medium-risk TLD (often used for legitimate projects, but also by scammers for hosting)",
+    "Suspicious path: '/netflix/html/home.html' strongly suggests brand impersonation of Netflix",
+    "Hosted on GitHub Pages, which can be easily and freely used for malicious purposes."
+  ]
+}
+```

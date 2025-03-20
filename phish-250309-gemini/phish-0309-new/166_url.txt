@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "URL uses https",
+    ".top is a high-risk TLD",
+    "Uses excessive subdomains: 'cb-new-notifier'",
+    "'newtransfer' path common in credential phishing",
+    "Subdomain attempts brand impersonation: likely trying to impersonate a bank or financial institution (cb-new-notifier). The hyphen usage is a common technique for phishing."
+  ]
+}
+```

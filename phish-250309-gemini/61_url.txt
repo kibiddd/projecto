@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".com is a low-risk TLD, but the domain name appears nonsensical and may be suspicious.",
+    "The path 'appcapp' is short and lacks context, raising suspicion.",
+    "URL uses http."
+  ]
+}
+```

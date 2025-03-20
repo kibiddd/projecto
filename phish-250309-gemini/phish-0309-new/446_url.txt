@@ -1,0 +1,8 @@
+```json
+{"verdict": 9,
+  "Explanation" : ["URL uses https",
+   ".website is a medium-risk TLD",
+   "URL contains a long, random-looking string in the path: 'cf1a9771-107e-471b-986d-361ea44c2f10/usbgd-rkpfiqgnxtvy5h3xisjv3rhjpcrhewak1bnj8'",
+   "The combination of a seemingly valid root domain with a highly suspicious, random path is a red flag and may be a credential phishing attempt to mimic legitimate sites"]
+}
+```

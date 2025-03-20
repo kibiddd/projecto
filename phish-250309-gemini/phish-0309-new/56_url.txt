@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "URL uses http",
+    ".cc is a high-risk TLD",
+    "URL contains a seemingly random string of characters and numbers (e.g., '3394z2', '03a4')",
+    "Repeated use of the same random strings in the path is suspicious"
+  ]
+}
+```

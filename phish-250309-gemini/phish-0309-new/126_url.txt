@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "weebly.com is a medium-risk TLD, often used for free websites and can host malicious content.",
+    "Suspicious subdomain: 'attserver122' contains a seemingly random combination of letters and numbers.",
+    "Overall domain structure raises suspicion of potential phishing or malware distribution."
+  ]
+}
+```

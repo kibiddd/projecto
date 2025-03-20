@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    "godaddysites.com is a platform often used for quick, temporary websites, which can be used for scams",
+    "Subdomain 'servievocela12' appears to be random and non-descriptive, potentially indicating a lack of brand or purpose",
+    "The combination of a seemingly random subdomain and a platform known for quick site creation raises suspicion."
+  ]
+}
+```

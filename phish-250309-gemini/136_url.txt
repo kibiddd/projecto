@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    "`.cmyportal.com` appears to be a free subdomain which can indicate phishing risk.",
+    "Path `/pza/Sites/index.html` is suspicious and the use of 'index.html' is often seen in phishing attempts.",
+    "URL uses http."
+  ]
+}
+```

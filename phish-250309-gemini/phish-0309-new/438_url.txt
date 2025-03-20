@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".ru is a country-code TLD (Russia), which can be high-risk depending on the context and user location, but on its own is not enough to flag it",
+    "The path '/50' is suspicious with no clear context, it is short and may be used to redirect to a phishing page.",
+    "The URL uses a domain name 'v50card', which does not provide information about the website purpose. This can be used to bait users."
+  ]
+}
+```

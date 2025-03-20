@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "vpndns.net is a high-risk TLD (often associated with temporary or malicious sites)",
+    "Extremely suspicious pattern: excessive subdomains and seemingly random strings in the path (e.g., michelle.galichon, marie-line.laplagne). This suggests an attempt to obfuscate the true destination or create a false directory structure to mimic legitimate content or evade detection.",
+    "The path structure is highly unusual and unlikely for any legitimate website. The repetition and structure point towards automated URL generation for phishing or malware distribution."
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "webflow.io is a medium-risk TLD as it's often used for temporary or easily-spun-up sites.",
+    "Excessive subdomains (secure-sso--ndaxx-sso) are a red flag, especially if they are attempting to impersonate a legitimate service.",
+    "Likely attempting to impersonate a 'sso' (single sign on) service for ndaxx, a specific financial or tech brand. The double hyphen in the subdomain is highly suspicious and is frequently used to bypass security protocols."
+  ]
+}
+```

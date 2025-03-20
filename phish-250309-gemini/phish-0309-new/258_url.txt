@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    "weebly.com is a moderate risk subdomain as it's a free website platform and often used for scams",
+    "Suspicious subdomain: random string 'jjfgfy' is a red flag",
+    "Website likely created for malicious purposes using a free hosting platform."
+  ]
+}
+```

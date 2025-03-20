@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 6,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    ".org is a low-risk TLD.",
+    "The URL uses a potentially suspicious pattern: query parameters (?person=...) can be used to redirect users to malicious content.",
+    "Path uses a common pattern for potentially exposing sensitive user information."
+  ]
+}
+```

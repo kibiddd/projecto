@@ -1,0 +1,9 @@
+```json
+{"verdict": 10,
+  "Explanation" : ["URL uses http",
+   ".io is a medium-risk TLD",
+  "Excessive subdomains: sso-ndax---view-cdn--authdh is highly suspicious",
+  "The subdomain structure doesn't align with legitimate services",
+  "Likely attempting to impersonate a legitimate SSO (Single Sign-On) service or a crypto platform like NDAX"]
+}
+```

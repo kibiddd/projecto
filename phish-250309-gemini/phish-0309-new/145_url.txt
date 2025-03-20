@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".one is a moderate-risk TLD",
+    "URL contains a complex query string with many seemingly random parameters, often a sign of malicious activity (e.g., phishing, malware distribution, or tracking)",
+    "The long and obfuscated query parameters are highly suspicious and suggest an attempt to hide the true purpose of the URL."
+  ]
+}
+```

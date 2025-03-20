@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 3,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".ca is a generally trustworthy TLD.",
+    "The path 'mch/dashboard' is plausible within a legitimate organization.",
+    "Uses https."
+  ]
+}
+```

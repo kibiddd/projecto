@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No brand impersonation.",
+    "webflow.io is a generally low-risk TLD.",
+    "Suspicious pattern: Excessive hyphens and seemingly random string 'ttrzor' in the subdomain. This suggests obfuscation and potential phishing activity.",
+    "Uses https"
+  ]
+}
+```

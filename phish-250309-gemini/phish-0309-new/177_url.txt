@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "workers.dev is a medium-risk TLD (associated with Cloudflare Workers, often used for temporary or suspicious sites)",
+    "Excessive subdomain 'checkwhat.m1croshort'",
+    "Suspiciously long query string with a mix of seemingly random characters, numbers, and encoded data; common in phishing attempts to hide malicious payloads or bypass filtering.",
+    "The combination of subdomain and query string strongly suggests an attempt to conceal malicious activity."
+  ]
+}
+```

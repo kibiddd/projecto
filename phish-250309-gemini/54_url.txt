@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "no brand impersonation",
+    ".cc is a medium-high risk TLD, often used for malicious purposes",
+    "Suspicious pattern: random string '237423' and hexadecimal '03a4' in the path. 'go' subdirectory is often used for redirecting to other malicious content.",
+    "URL uses http"
+  ]
+}
+```

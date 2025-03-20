@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".cc is a medium-risk TLD",
+    "The domain name 'bubyed' is short and unusual, raising suspicion.",
+    "The domain does not contain any information to suggest its purpose. This increases risk."
+  ]
+}
+```

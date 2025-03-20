@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    ".com is a low-risk TLD",
+    "Uses 'steambonus' and 'card' attempting to impersonate legitimate steam bonus services.",
+    "Suspicious use of random string 'KTNQNT', common in phishing to obscure the real destination."
+  ]
+}
+```

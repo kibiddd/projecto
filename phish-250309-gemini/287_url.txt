@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "Uses 'mygovaus' to mimic 'my.gov.au' (Australian government portal), character substitution",
+    ".com is a low-risk TLD",
+    "The subdomain structure uses 'mygovaus' which is similar to a legitimate domain, creating a false sense of legitimacy and trying to bypass initial suspicion",
+    "URL uses https"
+  ]
+}
+```

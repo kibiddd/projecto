@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    "webflow.io is a medium-risk TLD/hosting platform, often used for temporary or less secure sites.",
+    "Suspicious subdomain 'start-en-treziorr'. The random string 'treziorr' suggests potential phishing or a temporary setup.",
+    "May be attempting to impersonate a more established service, the use of 'start-en' could be a tactic to create a deceptive initial impression"
+  ]
+}
+```

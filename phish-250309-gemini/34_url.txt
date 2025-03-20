@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    "webflow.io is a potentially risky subdomain, often used for free or easily created websites.",
+    "The presence of 'console-ndax-connect' could be legitimate, but the combination with the webflow.io domain raises suspicion.",
+    "URL uses http"
+  ]
+}
+```

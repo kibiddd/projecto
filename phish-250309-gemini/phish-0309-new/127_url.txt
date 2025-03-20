@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    "weebly.com is a free hosting service, often used for phishing",
+    "Suspicious subdomain 'attserverts'",
+    "Att is similar to AT&T. This could be brand impersonation."
+  ]
+}
+```

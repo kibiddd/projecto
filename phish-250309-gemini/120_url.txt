@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "no impersonation in URL",
+    ".com is a low-risk TLD",
+    "Suspicious path '/xmola/byub.html' - random seeming directory and file name",
+    "URL uses https"
+  ]
+}
+```

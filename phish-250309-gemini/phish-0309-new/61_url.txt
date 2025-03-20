@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    ".com is a low-risk TLD but the domain name itself is suspicious",
+    "The domain name 'hzwdjc.com' appears to be a random string of characters, a common tactic in phishing attempts.",
+    "The path 'appcapp' is not indicative of legitimate content."
+  ]
+}
+```

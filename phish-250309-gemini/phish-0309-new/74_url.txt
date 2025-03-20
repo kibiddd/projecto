@@ -1,0 +1,10 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "URL uses http",
+    "abaytravel.com is an established domain but subdomain 'metasupport-potarl-checkpoint1531716410482018' is highly suspicious, containing a random string and numbers, indicating potential phishing attempt or compromised subdomain",
+    "'meta-community-standard' path may be used to bait users"
+  ]
+}
+```

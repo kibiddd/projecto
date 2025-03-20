@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "No brand impersonation",
+    ".cc is a high-risk TLD, often used for malicious purposes.",
+    "Suspicious pattern: numeric subdomain and short domain name.",
+    "URL uses http"
+  ]
+}
+```

@@ -1,0 +1,10 @@
+```json
+{"verdict": 10,
+  "Explanation": [
+    "No brand impersonation, but the domain itself is highly suspicious. The URL uses a number-letter string.",
+    ".cc is a high-risk TLD in this context.",
+    "Random seeming string of numbers and letters is very suspicious.",
+    "URL uses http."
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "'.me' is a medium-risk TLD as it's often used for personal or less-established sites and can be associated with free domain services",
+    "Suspicious pattern: Long, random-looking path components ('tqdqfuimw', 'ernjbkuq')",
+    "The URL attempts to trick the user to input OTP (One Time Password) which is a common credential phishing method."
+  ]
+}
+```

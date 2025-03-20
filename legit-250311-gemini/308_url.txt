@@ -1,0 +1,8 @@
+```json
+{"verdict": 8,
+  "Explanation" : ["no impersonation in URL",
+   ".com is a low-risk TLD",
+  "URL contains potentially offensive terms, often used in deceptive practices.",
+  "path structure is unusual and potentially unrelated to domain name"]
+}
+```

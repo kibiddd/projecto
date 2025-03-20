@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "Uses 'metak' to mimic 'meta' a common brand impersonation technique.",
+    "webflow.io is a medium-risk TLD as it is used for website builders and can host malicious content.",
+    "The URL includes 'login' which is a common phishing target",
+    "The use of a long, generic subdomain (metakloginmsk) is suspicious."
+  ]
+}
+```

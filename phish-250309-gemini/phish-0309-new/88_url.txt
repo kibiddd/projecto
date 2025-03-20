@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    "The subdomain 'pub-861d014fac87455fb5abf7195983f363' is a random string of characters and numbers, indicating a high likelihood of being a suspicious pattern.",
+    "'.dev' is a TLD often used for development and may pose a slightly higher risk compared to established TLDs.",
+    "The use of 'index.html' is a common pattern for basic phishing pages."
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "No direct brand impersonation detected.",
+    "`.app` is generally a low-risk TLD, but `vercel.app` suggests use of a free hosting service, sometimes used for scams.",
+    "Suspicious pattern: a random-looking subdomain ('groussuttoigatra-4516') combined with a potentially generic path ('mixcc.html') raises suspicion. The subdomain looks like a randomly generated identifier.",
+    "URL uses https"
+  ]
+}
+```

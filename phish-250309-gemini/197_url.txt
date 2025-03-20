@@ -1,0 +1,10 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "Excessive subdomain usage (dev-ksdyurjshfnmjrhmfnmdsgewelaklfbsdfghfgys) suggests a high degree of suspicion.",
+    "The path contains a long, seemingly random string (YZKJTrGWCJFpXNZYMLGTqWBKtVJXNYLpZKMTQrGWCJFBXNZYKpMLJGTqWBJTrQXNZYKMCFVBtMGTQWKrVBtXCNYZKJpMLTqGWBJTrQXNZYKMCFVBtJXNYpQLZK.html), a common characteristic of phishing URLs.",
+    "pantheonsite.io is often used for temporary sites, making the URL potentially less trustworthy."
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 7,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    ".io is a generally low-risk TLD, but webflow.io is a website builder that can be used for phishing (medium risk).",
+    "The use of 'gemini-login' followed by 'cdn' and then webflow suggests a potential attempt to spoof Gemini's login using a legitimate service, raising suspicion.",
+    "URL uses https"
+  ]
+}
+```

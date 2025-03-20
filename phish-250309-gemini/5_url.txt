@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".net is a moderate risk TLD.",
+    "Numeric domain name (5510008) is highly suspicious and often used in phishing campaigns.",
+    "URL uses http, increasing risk."
+  ]
+}
+```

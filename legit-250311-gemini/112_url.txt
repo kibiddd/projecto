@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 3,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".org is a low-risk TLD.",
+    "URL path appears legitimate and related to content (heritage/cooking/soup-stew.htm).",
+    "Uses https for secure connection."
+  ]
+}
+```

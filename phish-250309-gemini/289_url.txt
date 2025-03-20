@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "Impersonation through use of 'my-ndax' and 'connect-aauth' attempting to mimic a legitimate service.",
+    "webflow.io is a medium-risk TLD, often used for legitimate websites but also for phishing due to ease of setup and potential lack of strict verification.",
+    "Suspicious subdomain and path structure, 'connect-aauth' could be a credential phishing attempt.",
+    "URL uses https"
+  ]
+}
+```

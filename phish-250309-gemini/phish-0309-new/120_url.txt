@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD",
+    "Suspicious path '/xmola/byub.html' with seemingly random characters, suggesting potential for malicious content or hidden redirection",
+    "Website may be pretending to be related to some army organization to bait users"
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    "github.io is a medium-risk TLD (often used for legitimate projects but also for phishing/malware)",
+    "The path '/Netflix-Clone' strongly suggests a phishing attempt or a clone project designed to steal credentials. Github is not a normal place for Netflix's official website.",
+    "Excessive subdomain present, shaikawez59, indicating a user-created page"
+  ]
+}
+```

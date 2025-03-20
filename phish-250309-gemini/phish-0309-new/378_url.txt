@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "on-fleek.app is a medium-risk TLD",
+    "Suspicious subdomain pattern: 'some-afternoon-crooked'",
+    "Suspicious path: 'sghuqputdti11.html' - random string of characters likely for obfuscation"
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".my.id is a high-risk TLD.",
+    "Suspicious pattern: random string 'ddkwk' as a subdomain, path contains '=s6j7sxzeazg&r=iVlQUs' which may be used to pass variables to a phishing page.",
+    "URL uses http."
+  ]
+}
+```

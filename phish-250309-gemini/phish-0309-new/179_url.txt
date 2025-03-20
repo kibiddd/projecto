@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "web.id is a country code TLD (Indonesia), raising moderate suspicion depending on context",
+    "Excessive subdomains: claim-point-danapoly.clickme",
+    "The combination of 'claim-point' and a potentially random subdomain structure is suspicious.",
+    "The domain may be attempting to impersonate a legitimate claim or point system."
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".luxury is a high-risk TLD",
+    "Suspicious pattern: random string '0945er787i6785' and '2FA.html' which is commonly used in phishing attempts.",
+    "Excessive subdomain 'www' which is a common attempt to look legitimate"
+  ]
+}
+```

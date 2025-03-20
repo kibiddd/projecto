@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "Uses 'triezorhardwre' with a character substitution to mimic 'trezorhardware'",
+    "webflow.io is a medium-risk TLD (often used for legitimate purposes, but also for temporary/impersonation sites)",
+    "Excessive subdomain usage: 'help-triezorhardwre-sso' is suspicious and suggests an attempt to appear legitimate through a subdomain.",
+    "Other anomalies: This domain structure is often used by phishing sites to leverage free hosting."
+  ]
+}
+```

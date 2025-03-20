@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 6,
+  "Explanation": [
+    "No apparent brand impersonation.",
+    ".net is a moderate-risk TLD.",
+    "The URL includes a torrent directory which can be associated with illegal activities.",
+    "The presence of potentially explicit content in the path may suggest a redirection to a different content."
+  ]
+}
+```

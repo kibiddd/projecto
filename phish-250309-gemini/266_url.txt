@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "Uses 'kukoinllogim' to mimic 'kucoin' with character substitutions ('ll' for 'c').",
+    "webflow.io is a free hosting platform often used for phishing.",
+    "The 'll' substitution is a common phishing tactic.",
+    "URL uses https"
+  ]
+}
+```

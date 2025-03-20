@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "webflow.io is a medium-risk TLD (can be used for legitimate sites, but often for temporary or free sites which are abused)",
+    "Suspicious subdomain: 'help-triezorhardwre-sso' likely attempts to impersonate legitimate Trezor Hardware help or SSO (Single Sign-On) service and uses misspelling",
+    "The combination of 'help', 'Trezor', 'hardware', and 'sso' is highly suggestive of a phishing attempt targeting Trezor users."
+  ]
+}
+```

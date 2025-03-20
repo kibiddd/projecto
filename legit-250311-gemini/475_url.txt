@@ -1,0 +1,7 @@
+```json
+{"verdict": 4,
+  "Explanation" : ["no impersonation in URL",
+   ".com is a low-risk TLD",
+  "URL path is not immediately suspicious, 'deep-thinker.html' could be part of legitimate content"]
+}
+```

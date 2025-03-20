@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No brand impersonation detected.",
+    "weebly.com is a free hosting service, often used for scams, considered medium risk",
+    "Numeric string '667877' is a suspicious pattern and likely used to obfuscate the site's purpose.",
+    "URL uses http"
+  ]
+}
+```

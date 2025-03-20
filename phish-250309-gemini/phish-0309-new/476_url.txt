@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    "webflow.io is a medium risk TLD as it is used for free websites",
+    "Suspicious subdomain 'trezoiiistart' with a random string of characters and numbers",
+    "Likely a phishing attempt given the combination of a free web hosting platform and a strange subdomain."
+  ]
+}
+```

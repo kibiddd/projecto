@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 4,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    ".co.uk is a generally safe TLD.",
+    "The path suggests legitimate content related to house prices in a specific location.",
+    "Uses HTTPS, which is positive."
+  ]
+}
+```

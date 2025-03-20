@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    ".com is a low-risk TLD.",
+    "Suspicious path: 'backup/sngzamfl/ic-access/otp2.html' uses a random string and a path that could be used in credential phishing. The presence of 'otp2.html' strongly suggests an attempt to steal one-time passwords.",
+    "URL uses https."
+  ]
+}
+```

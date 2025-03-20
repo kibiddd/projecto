@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "URL uses http",
+    "replit.app is a high-risk TLD (often used for temporary/malicious sites)",
+    "Suspicious subdomain: 'pay-pay-pay-ne-jp18js' - excessive repetition and random characters",
+    "Likely brand impersonation attempt (generic 'pay' may imply PayPal/similar)"
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 1,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".us is a generally trusted TLD for government or educational institutions. .k12.ct.us further indicates a legitimate entity.",
+    "URL structure appears normal and within expected patterns for an educational institution's website.",
+    "Uses https"
+  ]
+}
+```

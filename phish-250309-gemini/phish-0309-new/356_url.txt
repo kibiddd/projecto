@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    ".io is a medium-risk TLD (can be used legitimately but also for less reputable projects)",
+    "Excessive subdomains (secure-blockfi--sso--cdn-b) are a suspicious pattern, suggesting an attempt to mimic a legitimate subdomain structure while masking the true origin.",
+    "Uses 'blockfi' which is a brand, which could be an attempt at brand impersonation, particularly given the unusual subdomain structure."
+  ]
+}
+```

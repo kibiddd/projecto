@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    "vercel.app is a medium-risk TLD, often used for temporary or rapidly deployed sites, increasing the likelihood of malicious use",
+    "Suspicious subdomain/path: 'koutroprautraza-4169' and 'mixcc.html' suggest potentially random or unusual content and a possible disposable nature.",
+    "The combination of a numeric string in subdomain adds to the suspicious pattern"
+  ]
+}
+```

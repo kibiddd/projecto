@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 1,
+  "Explanation": [
+    "No brand impersonation or suspicious character substitutions.",
+    ".com is a low-risk TLD.",
+    "URL structure and path appear legitimate.",
+    "Uses https"
+  ]
+}
+```

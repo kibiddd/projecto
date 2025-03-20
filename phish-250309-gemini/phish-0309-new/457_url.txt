@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    ".org is a medium-risk TLD",
+    "The path '/password/index.php' is highly suspicious and commonly used in phishing attempts to steal credentials.",
+    "The URL may be attempting to impersonate a legitimate flower delivery service to steal credentials."
+  ]
+}
+```

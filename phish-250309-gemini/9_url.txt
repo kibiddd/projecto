@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No obvious brand impersonation",
+    "Uses a legitimate TLD, but the presence of multiple subdomains, 'app-676e6d82c1ac180c503a7fd7' and 'closte.com' raises suspicion. Random strings in the subdomain suggests potential malicious use",
+    "The path '/ous/generale/home/nkl-log.php' is non-sensical and highly suspicious",
+    "Uses http, indicating no encryption"
+  ]
+}
+```

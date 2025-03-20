@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 5,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".com is a low-risk TLD.",
+    "Suspicious subdomain structure (gzhyyygs).",
+    "Simple path '/apple' does not raise immediate red flags."
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "Uses 'kukoinlogzn' which likely impersonates 'kucoin', using character substitutions or misspellings.",
+    "webflow.io is a free hosting service, often used by scammers.",
+    "The subdomain 'kukoinlogzn' is likely an attempt to mimic a legitimate login page.",
+    "Uses https."
+  ]
+}
+```

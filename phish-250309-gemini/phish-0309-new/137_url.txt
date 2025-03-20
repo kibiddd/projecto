@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 6,
+  "Explanation": [
+    "URL uses https",
+    ".org is a low-risk TLD",
+    "Suspicious use of a hyphen in the domain name 'ayi-skz', which may be an attempt to appear legitimate by leveraging unrelated names",
+    "'pc' path is vague and could lead to phishing"
+  ]
+}
+```

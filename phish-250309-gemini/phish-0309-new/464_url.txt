@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".cl is a low-to-medium risk TLD (country-specific)",
+    "Suspicious path: '/wp-includes/IXR/gqocfipm/ic-access/ss.html'.  This looks like a compromised WordPress site or a sophisticated phishing attempt leveraging a legitimate domain.",
+    "Random string 'gqocfipm' and the path structure suggest malicious intent.",
+    "The use of 'ss.html' is very common for credential phishing attempts targeting login or personal data."
+  ]
+}
+```

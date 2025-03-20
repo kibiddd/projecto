@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "github.io is a medium-risk TLD as it's often used for hosting malicious content.",
+    "The path 'Clone-Instagram' is a direct indication of brand impersonation.",
+    "The URL is hosted on github, which is often used for distributing phishing attacks or malicious payloads."
+  ]
+}
+```

@@ -1,0 +1,10 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".info is a medium-risk TLD",
+    "Suspicious subdomain: securaccount. A common phishing pattern using a subdomain to add a false sense of security/legitimacy to an account-related action",
+    "Potentially impersonating a security/account verification service with character substitution ('secur' instead of 'secure')"]
+}
+```

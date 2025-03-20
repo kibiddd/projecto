@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 1,
+  "Explanation": [
+    "No brand impersonation.",
+    ".org is a trusted TLD.",
+    "URL uses a legitimate and commonly used subdomain (www).",
+    "The path 'hurt.cfm' may be legitimate. No clear anomalies."
+  ]
+}
+```

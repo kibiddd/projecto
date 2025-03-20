@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 2,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".co.uk is a generally safe TLD (country-specific, legitimate banking presence).",
+    "Standard subdomain (www) used.",
+    "HTTPS is used, which is a good sign."
+  ]
+}
+```

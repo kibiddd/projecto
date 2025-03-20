@@ -1,0 +1,8 @@
+```json
+{"verdict": 3,
+  "Explanation": ["no impersonation in URL",
+   ".com is a low-risk TLD",
+   "URL uses a legitimate subdomain pattern (www.rivals.com)",
+   "URL path includes parameters like CID, PT, and PR, typical of content management systems"]
+}
+```

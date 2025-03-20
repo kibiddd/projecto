@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "No direct brand impersonation.",
+    ".us is a generally trustworthy TLD, associated with the US government.",
+    "The URL includes a long path with multiple directories ('reference/gendata/deaths.php'), which could be used to hide malicious intent.",
+    "The query parameters ('sortfield=deaths.%60MAIDEN%60&sortby=DESC') are unusual for a typical website and potentially malicious, though it may be a legitimate function of the site",
+    "The use of 'little-dixie' suggests this may be a sub-domain of a legitimate site that has been compromised."
+  ]
+}
+```

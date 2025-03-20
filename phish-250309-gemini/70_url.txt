@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    "webflow.io is a free hosting service, often used for temporary phishing sites. High risk.",
+    "Suspicious subdomain and generic path 'loginekucoeine'.",
+    "URL uses http"
+  ]
+}
+```

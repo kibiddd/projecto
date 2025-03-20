@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".pl is a country-code TLD (Poland), raising some suspicion if the content doesn't align with Polish users.",
+    "Suspicious pattern: random string 'sizrpushqw' as subdomain",
+    "Excessive subdirectories ('ubsMoula/ubs/home') can be used to make the URL look more legitimate but hide the real destination."
+  ]
+}
+```

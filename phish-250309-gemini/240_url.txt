@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "Uses character substitution/insertion ('--' in place of '.' to attempt to mimic a legitimate URL structure).",
+    "webflow.io is a relatively low-trust TLD/domain, frequently used by both legitimate businesses and for phishing/scam websites.",
+    "Excessive use of subdomains ('help--index') is highly suspicious.",
+    "The overall structure attempts to appear as though it is part of a legitimate site, but the subdomain structure suggests it is a scam."
+  ]
+}
+```

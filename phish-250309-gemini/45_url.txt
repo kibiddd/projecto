@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".site is a moderate-risk TLD.",
+    "Suspicious pattern: random string 'wwsw' in the domain.",
+    "URL uses http"
+  ]
+}
+```

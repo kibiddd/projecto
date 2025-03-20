@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    ".io is a medium-risk TLD, often used for legitimate tech projects but also susceptible to abuse.",
+    "Suspicious path:  'ipfs' often used in decentralized storage which is sometimes associated with scams. 'bafybeickpegpv5zzqf2ikm5poz7zi7s4ncy72y5vvsf4xgihkx7jsi5n6u' looks like a random hash, which is common when files are stored with IPFS and also for phishing pages to make it difficult for users to analyze the content.",
+    "URL uses http, raising the risk score."
+  ]
+}
+```

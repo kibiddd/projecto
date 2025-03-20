@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD",
+    "Suspicious path structure with random-looking string 'byxugqlc'",
+    "Path contains 'backup' and 'ic-access' which could be used to trick user."
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 6,
+  "Explanation": [
+    "No brand impersonation.",
+    "'.com' is a low-risk TLD.",
+    "Excessive subdomain structure: 'www.tdjournal.csunacctis'. This raises a moderate suspicion. The use of seemingly legitimate domain names ('tdjournal', potentially related to 'CSUNacctis') attempts to build legitimacy, making this a less obvious phishing attempt.",
+    "Path includes 'index.php', which may be used to build a false sense of legitimacy"
+  ]
+}
+```

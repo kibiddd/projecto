@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 6,
+  "Explanation": [
+    "URL uses https",
+    "webflow.io is a medium-risk TLD as it can be used for quick website creation",
+    "sso-desk pattern may imply impersonation of a legitimate service",
+    "Trexor is a random string which indicates a possible scam or phishing attempt."
+  ]
+}
+```

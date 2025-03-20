@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "No direct brand impersonation detected.",
+    ".com is a low-risk TLD.",
+    "Suspicious use of 'xpornz' which is indicative of sexually explicit content, the inclusion of '+' in the path after domain, along with the keywords 'video' may be used to mislead users.",
+    "Potentially malicious content."
+  ]
+}
+```

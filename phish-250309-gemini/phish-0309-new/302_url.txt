@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".pro is a medium-risk TLD, often associated with less reputable sites",
+    "Suspicious pattern: The URL attempts to impersonate Facebook support with the addition of 'mexico52', which may be an attempt at geo-targeting for a phishing campaign.",
+    "Potential brand impersonation: The URL attempts to leverage Facebook's brand, which is a common tactic in phishing."
+  ]
+}
+```

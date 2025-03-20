@@ -1,0 +1,8 @@
+```json
+{"verdict": 5,
+  "Explanation" : ["no impersonation in URL",
+   ".com is a low-risk TLD",
+  "URL contains a path including 'media.php?search=', suggesting potential for dynamic content and possible redirection, but not inherently malicious",
+  "Uses https"]
+}
+```

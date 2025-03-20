@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "Uses 'metasupport' which could be an attempt to impersonate 'Meta' or 'Facebook' (or a related service).",
+    "Uses multiple subdomains with a random-looking string (potarl-checkpoint1531716410482018) before the legitimate domain (abaytravel.com), indicating an attempt to obscure the true destination or mimic a support site. This is a common tactic.",
+    ".com is low risk, but excessive subdomain use can create a phishing risk",
+    "URL uses http"
+  ]
+}
+```

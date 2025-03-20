@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "replit.dev is a high-risk TLD often used for temporary hosting and potential malicious activity",
+    "The URL contains a long, random-looking subdomain (3b1ef599-140e-461a-b38e-95c3425f665f-00-1ur8e484kfjdh) which is highly suspicious",
+    "This pattern suggests the site is likely dynamically generated or used for testing/malicious purposes."
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 3,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    ".com is a low-risk TLD.",
+    "Suspicious pattern, the path /l/folco could be used to track user behavior or store user credentials.  Requires additional investigation.",
+    "No other anomalies detected."
+  ]
+}
+```

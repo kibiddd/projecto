@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD",
+    "Suspicious subdomain: 'reicharge' is a misspelling of 'recharge' and looks like a typo used in phishing",
+    "Random string of characters following the hyphen (etlsaiat) is highly suspicious."
+  ]
+}
+```

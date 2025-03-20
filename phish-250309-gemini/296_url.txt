@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".io is a moderately risky TLD, often used for free hosting, which can be abused.",
+    "Random string 'eireurher' suggests potential phishing activity. Github pages is commonly used for phishing.",
+    "URL uses https"
+  ]
+}
+```

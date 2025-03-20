@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    ".me is a medium-risk TLD (often associated with free hosting services which are used for phishing)",
+    "Suspicious subdomain structure (wobbly-hill-vulture)",
+    "Random string in the path (BGghfLKP)",
+    "Uses 'public' as a path which may indicate attempts to appear as if resources are publicly available"
+  ]
+}
+```

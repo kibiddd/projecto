@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".ru (Russia) TLD is a moderate risk, especially if the content is targeting a different geographical location. It can be high if targeting a region with sanctions",
+    "Suspicious pattern: 'qm50card.ru' and path '/50'. The use of numbers and the generic word 'card' together might indicate a scam.",
+    "Possible attempt to impersonate a card provider, using a generic name."
+  ]
+}
+```

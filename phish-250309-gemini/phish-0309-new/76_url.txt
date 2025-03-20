@@ -1,0 +1,10 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    ".pl (Poland) is a moderately risky TLD, but the context is unclear.",
+    "Suspicious path: random string of characters and numbers after 'tinymce' likely indicates a compromised or malicious setup."
+  ]
+}
+```

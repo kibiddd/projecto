@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".cc is a moderate-risk TLD, often used for scams.",
+    "The URL contains a suspicious pattern: a short domain name 'getprox' followed by seemingly random strings and numbers in the path, which is indicative of redirection and potential malicious activity.",
+    "URL uses http."
+  ]
+}
+```

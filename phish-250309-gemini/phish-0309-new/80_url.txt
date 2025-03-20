@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    ".shop is a medium-risk TLD",
+    "The URL uses a personal name ('pavelvouk') followed by '.shop', which is a common pattern in suspicious e-commerce sites.",
+    "Combination of personal name and generic 'shop' TLD is an anomaly."
+  ]
+}
+```

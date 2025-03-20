@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    "webflow.io is a generally lower risk TLD but can be abused",
+    "Excessive subdomains (sso-ca-ndax-sso-auth) are suspicious and could be used to mislead users into thinking it's a legitimate service (e.g., SSO for a Canadian NDax exchange)",
+    "Uses subdomains and hyphenation to attempt brand impersonation. Could be trying to impersonate a financial institution like NDax"
+  ]
+}
+```

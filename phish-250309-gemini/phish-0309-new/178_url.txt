@@ -1,0 +1,9 @@
+```json
+{"verdict": 9,
+  "Explanation" : ["URL uses https",
+   "webflow.io is a medium-risk TLD",
+  "URL contains a potential brand impersonation ('cioinbasextension' mimics Coinbase Extension)",
+  "Uses webflow.io, which is known for hosting phishing sites",
+  "Other anomalies: The subdomain structure looks suspicious."]
+}
+```

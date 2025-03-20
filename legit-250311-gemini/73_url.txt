@@ -1,0 +1,7 @@
+```json
+{"verdict": 3,
+  "Explanation": ["No brand impersonation in URL",
+   ".blogspot.com is a medium-risk TLD (user-generated content)",
+   "URL path contains a date, indicating potentially old or irrelevant content"]
+}
+```

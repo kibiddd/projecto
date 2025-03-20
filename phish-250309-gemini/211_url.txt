@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 3,
+  "Explanation": [
+    "No brand impersonation detected.",
+    "`.dev` is a generally safe TLD for legitimate development purposes, though it can be abused.",
+    "The subdomain 'firstapp1' could be part of legitimate development or testing activities.",
+    "URL uses https"
+  ]
+}
+```

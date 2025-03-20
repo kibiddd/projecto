@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "no impersonation in URL",
+    ".net is a moderate-risk TLD",
+    "The path '/p--Ontario--40.html' is unusual and lacks clear context, raising suspicion.",
+    "Path uses dashes instead of slashes, which could be an obfuscation technique"
+  ]
+}
+```

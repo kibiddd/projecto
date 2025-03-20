@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No obvious brand impersonation in the domain name.",
+    ".shop is a moderately risky TLD.",
+    "The domain name 'pavelvouk' doesn't appear to be a known brand, but the .shop TLD combined with the lack of established brand is concerning.",
+    "URL uses http."
+  ]
+}
+```

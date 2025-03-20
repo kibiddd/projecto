@@ -1,0 +1,10 @@
+```json
+{"verdict": 8,
+  "Explanation": [
+    "no impersonation in URL",
+    ".dev is a moderate-risk TLD (often used for development/testing and can be abused)",
+    "The use of 'pages.dev' suggests a free hosting service often used by scammers.",
+    "URL uses http"
+  ]
+}
+```

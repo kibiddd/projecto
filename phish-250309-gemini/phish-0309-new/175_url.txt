@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD",
+    "The domain name 'chavemoveldigitalpt' is likely trying to mimic a legitimate service related to 'chave móvel digital' (Digital Mobile Key) in Portuguese. This is a form of brand impersonation, aiming to deceive Portuguese-speaking users.",
+    "The domain may be a clone project or using similar language to phish information from Portuguese speaking users"
+  ]
+}
+```

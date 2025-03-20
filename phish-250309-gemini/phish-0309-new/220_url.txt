@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".cc is a medium-risk TLD",
+    "Suspicious pattern: Random strings and numbers ('3394z2', '03a4') with no clear meaning. The path includes a '.php' extension, common in web application vulnerabilities.",
+    "Excessive use of subdirectories/path with a repeating pattern ('3394z2/03a4.php/3394z2') likely for obfuscation or redirection."
+  ]
+}
+```

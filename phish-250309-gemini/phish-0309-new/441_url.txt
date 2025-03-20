@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    ".io is a medium-risk TLD (can be used legitimately but also for scams)",
+    "Suspicious query string: `omn=3mail@b.c`. This likely attempts to harvest email addresses",
+    "The use of 'drive' as a path could be used to trick users into believing they are accessing a legitimate cloud storage service, potentially to steal data or credentials."
+  ]
+}
+```

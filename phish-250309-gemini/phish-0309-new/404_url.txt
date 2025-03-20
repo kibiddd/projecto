@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD",
+    "Suspicious subdomain 'steamgames-bonus' combined with generic top-level path '/gift-card/' is indicative of potential phishing or scam",
+    "Random-looking string '/63846566812' is highly suspicious, often used for unique session IDs or to obfuscate the scam's purpose"
+  ]
+}
+```

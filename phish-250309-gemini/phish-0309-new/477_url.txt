@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    "webflow.io is a medium-risk TLD, often used for temporary or unverified sites.",
+    "Uses 'trezor-io-brdge', attempting to impersonate the legitimate Trezor domain with a potential typo/substitution ('brdge' instead of 'bridge')",
+    "The combination of a bridge-related subdomain with potential impersonation raises significant concern."
+  ]
+}
+```

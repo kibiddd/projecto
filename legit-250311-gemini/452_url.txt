@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 1,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".net is a generally safe TLD.",
+    "URL structure is consistent with a torrent site.",
+    "Uses https."
+  ]
+}
+```

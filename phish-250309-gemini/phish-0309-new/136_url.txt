@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    "cmyportal.com is a potentially suspicious subdomain.",
+    "Excessive subdomain use (sayeedjunied.cmyportal.com) is a red flag.",
+    "The path '/pza/Sites/index.html' is non-descriptive and could be used to hide malicious activity."
+  ]
+}
+```

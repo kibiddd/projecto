@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "no direct brand impersonation, but excessive use of hyphens and date-like strings could be used to make the site appear like an official communication",
+    "weeblysite.com is a generally low-risk TLD, but the use of a free platform is often abused by malicious actors",
+    "Suspicious pattern: Excessive subdomains and date format which could suggest temporal urgency or attempts to circumvent filtering.",
+    "URL uses https"
+  ]
+}
+```

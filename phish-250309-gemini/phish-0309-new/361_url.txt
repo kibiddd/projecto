@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 5,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD",
+    "Domain is a subdomain of Magazine Luiza, a legitimate Brazilian retailer. However the 'seguro' prefix could be used to impersonate an insurance or security service.",
+    "'cart' in the path is a common e-commerce pattern. "
+  ]
+}
+```

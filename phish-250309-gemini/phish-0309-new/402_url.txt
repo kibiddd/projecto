@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD",
+    "Uses character substitution 'communnty' to mimic 'community', which may be trying to impersonate Steam.",
+    "Path contains 'tradeoffers/new' which, while not inherently malicious, could be used in a phishing attempt related to Steam trades.",
+    "Contains parameters 'partners' and 'token' which are common targets in phishing attacks, could be legitimate but suspicious due to other factors"
+  ]
+}
+```

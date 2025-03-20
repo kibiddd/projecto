@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "URL uses https",
+    "myds.me is a high-risk TLD/domain",
+    "Suspicious pattern: random strings and numbers (tqdqfuimw, ernjbkuq) in the path, suggesting potentially malicious content delivery.",
+    "Path includes 'personal.html', a common lure in phishing attempts."
+  ]
+}
+```

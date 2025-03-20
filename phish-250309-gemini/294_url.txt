@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "no direct brand impersonation detected.",
+    ".net is a medium-risk TLD.",
+    "The subdomain 'kendolimted' followed by '.net' appears unusual and potentially attempts to add a layer of legitimacy by resembling a company name and TLD, but is nonetheless suspicious.",
+    "The combination of the subdomain and TLD are not often associated with established financial institutions.",
+    "The URL uses https."
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 1,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".gov is a very low-risk TLD.",
+    "URL uses a standard and expected structure for a government website.",
+    "URL uses https."
+  ]
+}
+```

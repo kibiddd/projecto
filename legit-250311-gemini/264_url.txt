@@ -1,0 +1,7 @@
+```json
+{"verdict": 5,
+  "Explanation" : ["no impersonation in URL",
+   ".com is a low-risk TLD",
+  "URL contains a potentially suggestive path, 'porn-star', which while not inherently malicious, could be used in deceptive contexts. The presence of such a term raises a degree of suspicion, even if the TLD and domain are not overtly fraudulent."]
+}
+```

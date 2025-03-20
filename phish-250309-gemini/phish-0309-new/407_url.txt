@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD",
+    "Suspicious subdomain 'gift'.",
+    "Suspicious path: '/activation/' followed by an ID. Common for phishing to collect account data.",
+    "Misspelling: 'communuitly' instead of 'community' potentially brand impersonation."
+  ]
+}
+```

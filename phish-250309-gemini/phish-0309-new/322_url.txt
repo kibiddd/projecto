@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD",
+    "Suspicious path: '/backup/byxugqlc/ic-access/' contains a random string and what could be an attempt to establish an 'ic-access' subdomain, possibly for credential harvesting.",
+    "The filename 'otp.html' is commonly used in phishing attempts to request one-time passwords."
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    "'.web.id' is a country-code TLD and can be of medium risk depending on the user's location and the site's context. In this case, it's combined with a suspicious subdomain and path.",
+    "Suspicious subdomain 'program' combined with generic path 'claimcupon'.",
+    "URL uses http"
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    "webflow.io is a moderately risky TLD, often used for temporary or unverified sites, especially when combined with unusual subdomain structure.",
+    "The use of multiple subdomains 'base-ndaxx-help' raises suspicion.  The subdomain structure looks odd and potentially indicative of a phishing attempt or a hastily constructed site.",
+    "The subdomain 'ndaxx' could be an attempt at brand impersonation.  The overall structure feels thrown together, indicating potentially malicious intent."
+  ]
+}
+```

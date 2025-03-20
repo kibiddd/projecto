@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    ".web.id is a high-risk TLD",
+    "Suspicious subdomain structure 'program.claimcupon'",
+    "'claimcupon' is very generic and likely used in phishing campaigns"
+  ]
+}
+```

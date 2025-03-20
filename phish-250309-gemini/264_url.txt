@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "No direct brand impersonation detected.",
+    "webflow.io is a legitimate platform but often abused for hosting phishing sites, raising the risk.",
+    "Suspicious subdomain 'kuceeriqinlgen' - random string is a common phishing tactic.",
+    "URL uses https"
+  ]
+}
+```

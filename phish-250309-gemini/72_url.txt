@@ -1,0 +1,8 @@
+```json
+{"verdict": 9,
+  "Explanation" : ["Uses '060d' which seems like a random string and possibly mimic a company that uses 'm.' as the subdomain",
+   ".com is a low-risk TLD",
+  "The 'm.' subdomain often used for mobile sites but suspicious without context",
+  "URL uses http"]
+}
+```

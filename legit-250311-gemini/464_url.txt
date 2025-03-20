@@ -1,0 +1,8 @@
+```json
+{"verdict": 5,
+  "Explanation" : ["no impersonation in URL",
+   ".com is a low-risk TLD",
+  "URL contains a path that may indicate a specific academic institution, which could be a legitimate or deceptive practice",
+  "The website may present details about a university, making it difficult to discern legitimacy without further context." ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    "webflow.io is a medium-risk TLD, often used for free or easily created websites which are sometimes used for scams.",
+    "The subdomain 'coinebsprilogin' uses a common pattern for login pages.",
+    "The name is similar to CoinBase login, which might impersonate Coinbase to bait users."
+  ]
+}
+```

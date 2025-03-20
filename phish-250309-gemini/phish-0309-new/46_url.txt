@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 10,
+  "Explanation": [
+    "URL uses http",
+    ".site is a high-risk TLD",
+    "Random-looking subdomain 'finanmaiscredwwsw' with possible intent to mimic legitimate financial institutions.",
+    "The path '/dados.php' is suspicious as it suggests data collection through a PHP script"
+  ]
+}
+```

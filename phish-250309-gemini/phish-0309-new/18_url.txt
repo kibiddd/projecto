@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses http",
+    ".shop is a medium-risk TLD, often used for illegitimate purposes",
+    "'aviancabaratohoy' seems like a random string combined, potentially designed to mimic a real brand",
+    "The combination of the domain name and path suggests a possible attempt to impersonate a real brand or provide something for a limited time to bait users."
+  ]
+}
+```

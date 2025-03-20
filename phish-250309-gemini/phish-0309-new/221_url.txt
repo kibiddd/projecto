@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    ".dev is a moderately risky TLD (often used for development/testing, but can be legitimate)",
+    "The subdomain 'globalauthresolution' followed by '.pages.dev' could indicate a potentially newly created or less established website.",
+    "The domain name itself, 'globalauthresolution', sounds like it could be related to authentication and resolution of global issues, which is a broad term that could be used in phishing attacks."
+  ]
+}
+```

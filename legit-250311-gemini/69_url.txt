@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 4,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".us is a generally low-risk TLD, although it can be associated with specific scams.",
+    "The path 'view/DUBINSKY' is not inherently suspicious, but the user should know if they were expecting to be directed to that address.",
+    "Uses https."
+  ]
+}
+```

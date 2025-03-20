@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 4,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    ".com is a low-risk TLD.",
+    "The query parameter 'q=node/46309' is somewhat unusual but not inherently malicious.  It could indicate a content management system (CMS) setup or a link to a specific article/resource.",
+    "The URL uses https"
+  ]
+}
+```

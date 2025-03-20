@@ -1,0 +1,13 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD",
+    "Uses excessive subdomains: myjobdhl.earcu.com",
+    "Subdomain 'myjobdhl' could be attempting to impersonate DHL",
+    "Random-looking characters in subdomain 'earcu.com'",
+    "Path '/jobs/vacancy/33957/applicationlogin' is common in phishing, trying to collect credentials."
+  ]
+}
+```

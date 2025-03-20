@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "Impersonation of 'Trezor' likely via misspelling or substitution. 'trezorhelpe' is highly suspicious",
+    "webflow.io is a suspicious TLD, often used for temporary or free sites, which could be phishing.",
+    "The use of 'helpe' is highly suspicious and likely intended to impersonate 'help'.",
+    "URL uses http"
+  ]
+}
+```

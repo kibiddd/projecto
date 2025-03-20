@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 3,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".com is a low-risk TLD.",
+    "The URL structure appears legitimate, with a clear path for event listings.",
+    "Path components appear to be legitimate, but the depth may indicate a specific landing page which may be a red flag."
+  ]
+}
+```

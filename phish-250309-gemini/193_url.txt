@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    "weebly.com is a free website provider, which can be used for legitimate sites, but also by scammers.",
+    "Suspicious use of cx-ex subdomain, which is a short and potentially misleading subdomain",
+    "URL uses https"
+  ]
+}
+```

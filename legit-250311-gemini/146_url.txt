@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 3,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".com is a low-risk TLD.",
+    "URL uses a legitimate subdomain structure (lexisnexis.com).",
+    "Long URL with complex query parameters, but this is common for legal and research websites and not inherently suspicious."
+  ]
+}
+```

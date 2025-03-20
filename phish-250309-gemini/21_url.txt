@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No direct brand impersonation, but use of hyphens can be a technique to add legitimate looking words before and after a suspicious domain.",
+    "webflow.io is a free hosting platform often used for malicious purposes, indicating a higher risk.",
+    "Uses multiple subdomains ('base-ndaxx') which can obscure the true destination and purpose of the site.",
+    "URL uses http"
+  ]
+}
+```

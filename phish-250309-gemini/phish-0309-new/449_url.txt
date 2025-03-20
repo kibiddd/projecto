@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 6,
+  "Explanation": [
+    "URL uses https",
+    "github.io is a low-risk TLD for personal or project pages, but can be abused.",
+    "Suspicious pattern: 'wizwaz554' and 'mmof' lack clear meaning.",
+    "Likely a personal project/game page. Further inspection needed to determine potential malicious intent."
+  ]
+}
+```

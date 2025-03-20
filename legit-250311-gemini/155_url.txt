@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 1,
+  "Explanation": [
+    "No impersonation in URL",
+    ".com is a low-risk TLD",
+    "URL structure and content align with legitimate Yelp business listings",
+    "Uses https"
+  ]
+}
+```

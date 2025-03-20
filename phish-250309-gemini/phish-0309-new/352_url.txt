@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 8,
+  "Explanation": [
+    "URL uses https",
+    "github.io is a low-risk TLD for a legitimate project, but often abused for malicious purposes",
+    "The presence of 'sakshi25' and 'ghb' followed by 'linkedInPage' is suspicious. Could be a cloned or impersonation attempt targeting LinkedIn users",
+    "Could be a phishing page or clone hosted on a free service like GitHub Pages"
+  ]
+}
+```

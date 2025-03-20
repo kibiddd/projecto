@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 6,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    "webflow.io is a legitimate platform, but used by anyone and can host malicious content.",
+    "Excessive subdomains ('auth-app-crypto-ssog-web-cdn') could be a tactic to appear complex and legitimate or hide malicious intent.",
+    "URL uses https."
+  ]
+}
+```

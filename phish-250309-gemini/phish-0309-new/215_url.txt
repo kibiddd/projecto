@@ -1,0 +1,12 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD",
+    "The domain name 'gamalellyfe3ionk.com' is a random string, suggesting a potential phishing attempt.",
+    "The path '/dis/web/login.php?wap/auth/session?/index=...' contains common patterns used in credential phishing, including 'login.php' and a long, random-looking query string.",
+    "The URL structure and query string parameters are highly suspicious."
+  ]
+}
+```

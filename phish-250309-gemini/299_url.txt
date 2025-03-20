@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 7,
+  "Explanation": [
+    "No obvious brand impersonation.",
+    "webflow.io is a legitimate domain, but can host phishing sites. Score is increased.",
+    "The structure 'page-sso-auth-ndaxlogi' may imply a login page but doesn't have strong indicators",
+    "URL uses https"
+  ]
+}
+```

@@ -1,0 +1,7 @@
+```json
+{"verdict": 9,
+  "Explanation" : ["URL uses http",
+   ".cn is a medium-risk TLD",
+   "URL consists of a random string, which is suspicious"]
+}
+```

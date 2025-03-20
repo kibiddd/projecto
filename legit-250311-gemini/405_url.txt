@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 4,
+  "Explanation": [
+    "No brand impersonation detected.",
+    ".org is a generally low-risk TLD.",
+    "The path '/register.php' isn't inherently suspicious, but could be used for account creation.",
+    "Uses https"
+  ]
+}
+```

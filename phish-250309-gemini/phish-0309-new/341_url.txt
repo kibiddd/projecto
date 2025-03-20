@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".dev is a moderate-risk TLD, often used for development but can be exploited",
+    "Suspicious subdomain 'rtrcc01' likely random or obfuscated",
+    "'choose-country-region' is a common phishing path to collect user info."
+  ]
+}
+```

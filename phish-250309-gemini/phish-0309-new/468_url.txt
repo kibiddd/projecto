@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".biz.id is a high-risk TLD (Indonesia business domain)",
+    "Suspicious subdomain structure: xxdnaidx.jethet96",
+    "Random strings and numbers in subdomain likely indicate a phishing or malware distribution attempt."
+  ]
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "URL uses https",
+    ".com is a low-risk TLD",
+    "Multiple subdomains (dev.tapym) are unusual and can be used to hide malicious activity or direct to unexpected content.",
+    "The domain 'ledger-update' suggests an attempt to impersonate the legitimate hardware wallet brand Ledger, likely for phishing or malware distribution."
+  ]
+}
+```

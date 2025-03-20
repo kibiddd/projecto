@@ -1,0 +1,11 @@
+```json
+{
+  "verdict": 9,
+  "Explanation": [
+    "No brand impersonation detected.",
+    "`.app` is a generally low-risk TLD, but the use of `vercel.app` can be used to host malicious sites and thus increases the risk.",
+    "Extremely long and random subdomain (2t-kjeehsdfyiwoeujsf98esygufdijkenskfdl) is highly suspicious and a strong indicator of phishing.",
+    "Other anomalies: The path '/lhqm.html' is very short and lacks context, potentially for credential harvesting or obfuscation."
+  ]
+}
+```
