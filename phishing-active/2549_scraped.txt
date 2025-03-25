@@ -1,0 +1,336 @@
+
+
+
+
+
+Cameras and Gimbals — Copter  documentation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Copter
+Plane
+Rover
+Blimp
+Sub
+AntennaTracker
+Mission Planner
+APM Planner 2
+MAVProxy
+Companion Computers
+Developer
+
+
+Downloads
+
+Mission Planner
+APM Planner 2
+Advanced User Tools
+Developer Tools
+Firmware
+
+
+Community
+
+Support Forums
+Facebook
+Developer Chat (Discord)
+Developer Voice (Discord)
+Contact us
+Getting involved
+Commercial Support
+Development Team
+UAS Training Centers
+
+
+Stores
+About
+
+News
+History
+License
+Trademark
+Acknowledgments
+Wiki Editing Guide
+Partners Program
+
+
+
+
+
+
+
+
+
+Copter
+
+
+
+
+
+
+
+
+
+
+
+Introduction to Copter
+Choosing an Autopilot
+Ground Control Stations
+First Time Setup
+First Flight and Tuning
+Traditional Helicopters
+Mission Planning
+If A Problem Arises
+Advanced Configuration
+Peripheral Hardware
+ADS-B Receiver
+Airspeed Sensor
+AIS (Automatic Identification System)
+Barometer (external)
+BlackBox Logger using an AutoPilot
+Button Inputs
+Buzzer
+Cameras & Gimbals
+Gimbals
+Cameras
+General Camera Control and Parameters
+Shutter Controllers
+Control of Specific Camera Models
+
+
+Common fixes for poor video quality
+ADTi Cameras and Gimbals
+Brushless PWM
+CADDXFPV GM1, GM2, GM3 gimbals
+DJI RS2 and RS3-Pro gimbals
+Gremsy Pixy U Gimbal
+Servo Gimbal
+SimpleBGC Gimbal Controller
+Siyi ZR10, ZR30 and A8
+SToRM32 Gimbal Controller
+ViewPro gimbals
+Xacti gimbals
+FLIR Vue Pro Thermal Camera
+Airpixel Entire Geotagger
+Seagull IR Camera Trigger
+Seagull MAP2 Camera Trigger
+Seagull MAP-X2 Camera Trigger and Logger
+Seagull REC Camera Trigger
+StratosnapperV2 Camera Trigger
+DIY Camera Trigger using Relay
+Camera Triggering Configuration
+RunCam Camera Control
+Gimbal / Mount Controls
+Camera Controls
+Topotek Gimbal
+
+
+
+
+Companion Computers
+Crop Sprayer
+Display (Onboard)
+DroneCAN Adapter Node
+DroneCAN Peripherals
+ESCs and Motors
+Ethernet Adapters
+External AHRS Systems
+First Person View Video
+Fuel Flow and Level Sensors
+Generators
+GPS/Compass
+Grippers
+Joystick or Gamepad
+Landing Gear/ Retractable Camera Mount
+LEDs (external)
+Non-GPS navigation
+On-Screen Display (OSD)
+Optical Flow Sensor
+Parachute
+Power Modules
+Power Tether
+PPM Encoder
+Precision Landing and Loiter using IRLock
+Radio Control Systems
+Rangefinders (Sonar, Lidar, Depth Cameras)
+Received Signal Strength Indication (RSSI)
+Relay Switch
+Remote Id (aka Drone Id)
+RPM Sensor
+Safety Switch
+Servos
+Smart Batteries
+Telemetry Radio
+Temperature Sensors
+Video (High Definition)
+Winch
+
+
+Additional Information
+User Alerts
+
+
+
+
+
+
+
+Individual
+Partners
+SWAG Shop
+
+
+
+
+
+
+
+
+Copter
+
+
+
+
+
+
+Peripheral Hardware
+Cameras and Gimbals
+
+Edit on GitHub
+
+
+
+
+
+
+
+Cameras and GimbalsÂ¶
+Copter, Plane and Rover support up to 3-axis gimbals, including advance
+features like automated aiming of the camera at a Region of Interest
+(ROI), and automatic triggering of a camera shutter.  Follow the links below
+to explanations of how to configure gimbals and shutter triggering.
+
+
+GimbalsÂ¶
+ArduPilot supports both brushless direct drive gimbals (Tarot, SimpleBGC, SToRM32)
+that have their own self-stabilization controllers and the simpler servo-driven
+gimbals in which ArduPilot controls the stabilisation. Some gimbals also integrate still or video cameras.
+
+ADTi cameras and gimbals
+Brushless PWM - brushless gimbals that accept PWM or SBUS input for angle control
+CADDX GM1, GM2, GM3 gimbals
+DJI RS2 and RS3-Pro gimbals
+Gremsy Mio, Pixy, S1, T3, T7 and ZIO - high quality 3-axis gimbals
+Servo Gimbals â older-style servo-driven gimbal where ArduPilot provides stabilisation
+SimpleBGC (aka AlexMos) Gimbal Controller - a popular 2-axis or 3-axis brushess gimbal controller which uses a custom serial interface
+Siyi ZR10, ZR30, ZT6, ZT30, and A8 - 3-axis gimbal and camera
+SToRM32 Gimbal Controller â an inexpensive 2-axis or 3-axis brushless gimbal controller which responds to MAVLink commands (a richer format than PWM) over a serial interface
+Topotek Gimbal
+ViewPro gimbals
+Xacti gimbals
+
+Gimbals may be attached to retractable mounts to prevent ground contact or to reduce air resistant in flight. Mount control is covered on the Gimbal / Mount Controls page.
+
+
+CamerasÂ¶
+Camera manufacturers use many differing mechanisms for remote control of the
+camera (including its shutter or video recording). The following topics explain how to configure camera shutter and controls, and list a number of different approaches for converting
+the output signal into the form expected by your particular camera. If the camera is integrated with the gimbal, control of the camera is detailed in that gimbals setup.
+
+General Camera Control and ParametersÂ¶
+
+Camera General Parameters and Control
+
+
+
+Shutter ControllersÂ¶
+
+Servo or Relay controlled camera shutter (servo, relay).
+Seagull IR Camera Trigger
+Seagull MAP2 Camera Trigger
+Seagull MAP-X2 Camera Trigger and Logger
+Seagull REC Camera Trigger
+StratosnapperV2 Camera Trigger
+DIY Camera Trigger using Relay
+
+
+
+Control of Specific Camera ModelsÂ¶
+
+ADTi cameras and gimbals
+Airpixel Entire Geotagger
+FLIR Vue Pro Thermal Camera
+RunCam Camera Control
+
+
+
+
+Common fixes for poor video qualityÂ¶
+Some of the more common causes and solutions for poor video are listed
+below:
+
+âJelloâ effect (or rolling shutter) is a by-product of using a camera
+with a CMOS sensor (GoPro, et al) caused by vibration from unbalanced
+props/motors and can be mitigated by mounting the camera on soft
+rubber, silicone, foam ear plugs or sometimes just on velcro.
+digital and optical stabilization systems found in many cameras often
+do not perform well because of the vibrations found on many
+multicopters.
+
+Exceptions: the Sony video camera balanced steady shot system is
+very effective even at maximum 30 power zoom.
+
+
+For better and smoother Yaw, use Expo control on your RC and lower
+the ACRO_Y_RATE gain in the autopilot.
+
+It is important to remember that even with a perfect setup, photography
+is an art as well as a science. Using the camera pointing straight to
+the ground is a good place to start, but more dramatic viewpoints can be
+achieved with angles other than vertical. Mount about 40 degrees
+deviation from vertical to obtain mainly ground photos but with an oblique
+view. About 70 degrees off vertical will give you a lot more sky thus giving
+more scenic photos. ArduPilot will stabilize the gimbal to whatever position you set.
+
+
+
+
+
+
+
+Previous
+Next
+
+
+Questions, issues, and suggestions about this page can be raised on the forums. Issues and suggestions may be posted on the forums or the Github Issue Tracker.
+
+
+© Copyright 2024, ArduPilot Dev Team.
+
+
+
+
+
+
+

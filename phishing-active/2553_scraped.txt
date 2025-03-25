@@ -1,0 +1,232 @@
+
+
+
+
+
+Mounting the Autopilot — Copter  documentation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Copter
+Plane
+Rover
+Blimp
+Sub
+AntennaTracker
+Mission Planner
+APM Planner 2
+MAVProxy
+Companion Computers
+Developer
+
+
+Downloads
+
+Mission Planner
+APM Planner 2
+Advanced User Tools
+Developer Tools
+Firmware
+
+
+Community
+
+Support Forums
+Facebook
+Developer Chat (Discord)
+Developer Voice (Discord)
+Contact us
+Getting involved
+Commercial Support
+Development Team
+UAS Training Centers
+
+
+Stores
+About
+
+News
+History
+License
+Trademark
+Acknowledgments
+Wiki Editing Guide
+Partners Program
+
+
+
+
+
+
+
+
+
+Copter
+
+
+
+
+
+
+
+
+
+
+
+Introduction to Copter
+Choosing an Autopilot
+Ground Control Stations
+First Time Setup
+Install Ground Station Software
+Autopilot System Assembly
+Mounting the Autopilot
+Standard orientation
+Alternative orientations
+
+
+Autopilot Wiring
+NAVIO2 (Linux based) Wiring QuickStart
+ESCs and Motors
+Installing GPS+Compass Module
+Vibration Damping
+Magnetic Interference
+
+
+Loading Firmware to boards with existing ArduPilot firmware
+Loading Firmware to boards without existing ArduPilot firmware
+Connect Mission Planner to AutoPilot
+Configuration
+
+
+First Flight and Tuning
+Traditional Helicopters
+Mission Planning
+If A Problem Arises
+Advanced Configuration
+Peripheral Hardware
+Additional Information
+User Alerts
+
+
+
+
+
+
+
+Individual
+Partners
+SWAG Shop
+
+
+
+
+
+
+
+
+Copter
+
+
+
+
+
+
+First Time Setup
+Autopilot System Assembly Instructions
+Mounting the Autopilot
+
+Edit on GitHub
+
+
+
+
+
+
+
+Mounting the AutopilotÂ¶
+This article explains how to mount the autopilot in standard and
+alternative orientations.
+
+Standard orientationÂ¶
+The autopilot (Pixhawk etc.) should be
+housed within a case (which includes foam over the barometer) and should
+be mounted with the white arrow pointing directly towards the front of
+the vehicle.
+It should be placed close to the center of gravity of the vehicle (both
+horizontally and vertically).  Generally this means it should be placed
+within a few centimeters of the middle of the vehicle and level with the
+motors.  It is not critical that it is placed exactly at the middle but
+closer is better (there are no recorded cases of problems caused by the
+controller being far from the centre of gravity).  If the autopilot cannot be placed at the center of the vehicle setting the IMU position offset parameters may improve performance slightly.
+The board should be attached to the frame using 4 cubes of vibration
+dampening foam approximately 3/4 inch square (3M foam can be purchased from mRobotics).
+
+
+Tip
+Vibration dampening foam is a simple and effective mechanism for
+vibration control. If Measuring Vibration shows that it is not
+sufficient, alternative mechanisms are discussed in Vibration Damping.
+
+
+
+Alternative orientationsÂ¶
+If the standard orientation of the Autopilot is not convenient, it
+can be mounted in over 30 other possible orientations.  The full list of
+possible orientations can be seen and set through the Mission Planner
+Config/Tuning | Advanced Params screen, look for the
+Board Orientation (AHRS_ORIENTATION) parameter.
+For Roll values, positive means roll right (i.e. âRoll90â means board is
+rolled right 90 degrees so the white arrow still points forward but the
+board is standing on its right edge).
+For Pitch values, positive numbers indicate pitch back (i.e. âPitch90â
+means the boardâs nose is pitched up 90 degrees so the arrow points
+directly up)
+For Yaw values, positive numbers indicate the nose of the board is
+rotated clockwise (i.e. âYaw90â means board is rotated so white arrow
+points off to the right).
+
+
+Warning
+If the board is mounted in a non-standard orientation (i.e. arrow is not pointing forward) then please ensure the AHRS_ORIENTATION  is properly set before doing the accelerometer calibration.
+
+
+
+
+
+
+Previous
+Next
+
+
+Questions, issues, and suggestions about this page can be raised on the forums. Issues and suggestions may be posted on the forums or the Github Issue Tracker.
+
+
+© Copyright 2024, ArduPilot Dev Team.
+
+
+
+
+
+
+

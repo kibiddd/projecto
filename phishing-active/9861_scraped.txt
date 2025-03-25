@@ -1,0 +1,7 @@
+Index of /.well-known/Index of /.well-known/
+NameLast ModifiedSize
+Parent Directory
+acme-challenge2025-01-25 17:41-
+pki-validation2023-07-25 22:12-
+
+Proudly Served by LiteSpeed Web Server at formatc2puntos.com Port 443

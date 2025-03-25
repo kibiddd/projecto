@@ -1,0 +1,10 @@
+
+Warning:  The magic method Vc_Manager::__wakeup() must have public visibility in /home/cieco/public_html/wp-content/plugins/js_composer/include/classes/core/class-vc-manager.php on line 202
+
+Warning:  Undefined array key "exclude_js_from_plugins" in /home/cieco/public_html/wp-content/plugins/wppu-preloader-unlimited/public/settings-frontend.php on line 3901
+
+Warning:  The magic method Automattic\WooCommerce\RestApi\Utilities\SingletonTrait::__wakeup() must have public visibility in /home/cieco/public_html/wp-content/plugins/woocommerce/packages/woocommerce-rest-api/src/Utilities/SingletonTrait.php on line 48
+
+Warning:  The magic method Automattic\WooCommerce\Admin\FeaturePlugin::__wakeup() must have public visibility in /home/cieco/public_html/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/FeaturePlugin.php on line 338
+
+Fatal error:  Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/cieco/public_html/wp-content/plugins/js_composer/include/classes/editors/class-vc-frontend-editor.php on line 673

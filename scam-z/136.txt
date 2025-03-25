@@ -1,0 +1,28 @@
+Domain Name: ZENEX.SITE
+Registry Domain ID: D427241574-CNIC
+Registrar WHOIS Server: whois.gname.com
+Registrar URL: https://www.gname.com/
+Updated Date: 2025-02-25T00:10:42.0Z
+Creation Date: 2024-01-24T04:18:35.0Z
+Registry Expiry Date: 2025-01-24T23:59:59.0Z
+Registrar: Gname.com Pte. Ltd.
+Registrar IANA ID: 1923
+Domain Status: pendingDelete https://icann.org/epp#pendingDelete
+Domain Status: serverHold https://icann.org/epp#serverHold
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: redemptionPeriod https://icann.org/epp#redemptionPeriod
+Registrant Organization:
+Registrant State/Province: Shanxi
+Registrant Country: CN
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: EXPIRE1.GNAME-DNS.COM
+Name Server: EXPIRE2.GNAME-DNS.COM
+DNSSEC: unsigned
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: complaint@gname.com
+Registrar Abuse Contact Phone: +65.65189986
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-23T21:57:58.0Z 

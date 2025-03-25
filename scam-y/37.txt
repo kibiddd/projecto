@@ -1,0 +1,18 @@
+   Domain Name: YCOINIG.COM
+   Registry Domain ID: 2848469320_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.discount-domain.com
+   Registrar URL: http://gmo.jp
+   Updated Date: 2025-02-28T01:08:36Z
+   Creation Date: 2024-01-22T15:30:11Z
+   Registry Expiry Date: 2025-01-22T15:30:11Z
+   Registrar: GMO Internet Group, Inc. d/b/a Onamae.com
+   Registrar IANA ID: 49
+   Registrar Abuse Contact Email: abuse@gmo.jp
+   Registrar Abuse Contact Phone: +81.337709199
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: redemptionPeriod https://icann.org/epp#redemptionPeriod
+   Name Server: NS1.GM111.PARKLOGIC.COM
+   Name Server: NS2.GM111.PARKLOGIC.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-23T23:55:55Z 

@@ -1,0 +1,26 @@
+
+
+
+
+
+Congratulations! You have successfully set up your website!
+
+
+
+
+
+
+
+You have successfully set up your website!
+This is the default server page. There are a few possible reasons why you see this page instead of your own:
+
+If you have just created this new host, please be patient until the server updates your configuration. It may take up to 10 minutes.
+If you have forwarded your host here via an A record redirection, your website will not be operational unless the option 'Don't manage DNS for this domain' is enabled while you are adding your domain name in the 'Hosted Domains' section of your Control Panel.
+If you think this page is an error, please contact our support team via a help desk ticket.
+If you are not the owner of the website, please access this page later.
+
+
+
+
+
+

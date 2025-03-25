@@ -1,0 +1,3 @@
+
+Your call cannot be completed - invalid Click2Call subscriber.
+Please contact the webmaster of the originating site and notify them that you have received error #302.

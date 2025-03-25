@@ -1,0 +1,71 @@
+
+( wait for your voicemail )
+
+
+
+
+Just a moment...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+office.com
+
+Checking if the site connection is secure
+
+
+
+
+
+
+
+
+
+
+
+
+Connection is secure
+
+Proceeding...
+
+
+office.com needs to review the security of your connection before proceeding.
+
+Did you know
+that Cloudflare mitigates an average of 72 billion cyber threats, including DDoS attacks, per day?
+
+
+
+
+Why am I seeing this page?
+
+
+
+
+
+Requests from malicious bots can pose as legitimate traffic. Occasionally, you may see this page while the site ensures that the connection is secure.
+
+
+
+
+
+
+
+Ray ID: 4922deb1-ffc3-4e66-8910-1a9575357a19
+
+
+Performance & security by Cloudflare
+
+
+
+

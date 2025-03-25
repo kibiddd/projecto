@@ -1,0 +1,469 @@
+
+
+
+
+
+
+ImportaciÃ³n Retail para EnvÃ­os Personales | DHL MÃ©xico
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+menu
+
+
+Programa de Lealtad
+
+
+ExportaciÃ³n de alimentos
+
+
+ImportaciÃ³n Retail
+
+
+Kioscos de Autoservicio
+
+
+Pesos Medianos
+
+
+iDOX
+
+
+Hub Digital
+
+
+Prepago
+
+
+
+
+
+
+
+
+
+
+
+
+Programa de Lealtad
+
+
+ExportaciÃ³n de alimentos
+
+
+ImportaciÃ³n Retail
+
+
+Kioscos de Autoservicio
+
+
+Pesos Medianos
+
+iDOX
+
+Hub Digital
+
+
+Prepago
+
+
+
+SÃ­guenos en
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VAMOS A LLEGARMÃS LEJOS
+
+Realiza tus importaciones desde mÃ¡sde 220 paÃ­ses y
+territorios de manera fÃ¡cil.
+
+
+
+
+
+
+
+
+
+
+Â¿QuÃ© es ImportaciÃ³n Retail?
+
+Es un nuevo producto de DHL que permite que cualquier persona
+importe de manera esporÃ¡dica o recurrente, artÃ­culos menores a
+$300 USD. Puede realizarse desde los mÃ¡s de 220 paÃ­ses y
+territorios en los que tiene presencia DHL y de acuerdo a
+cobertura.
+
+
+
+
+
+
+Â¿CuÃ¡ntos kilos puedo enviar con este servicio?
+
+
+
+
+
+{{counterPieza}}K
+
+
+
+
+
+
+
+
+
+
+
+
+Peso mÃ¡ximo por pieza
+
+
+{{counterEnvio}}K
+
+
+
+
+
+
+
+
+
+
+
+
+Peso mÃ¡ximo por envÃ­o
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{x.nombre}}
+{{x.descripcion}}
+
+{{punto.punto}}
+
+
+
+
+
+
+
+Tips
+
+
+
+
+
+chevron_left
+
+
+
+
+
+
+
+
+
+
+{{tips[$index].descripcion1}}
+
+
+
+
+
+
+
+{{tips[$index + 1].descripcion1}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{tips[$index].descripcion1}}
+
+
+
+
+
+
+
+chevron_right
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Â¿QUÃ BENEFICIOS TIENE?
+
+No se requiere experiencia.
+Pueden ser envÃ­os esporÃ¡dicos o recurrentes.
+
+EnvÃ­os livianos (mÃ¡ximo por pieza 30 kg / mÃ¡ximo por envÃ­o
+70kg).
+
+
+EnvÃ­os de bajo valor aduanero (valor delcarado mÃ¡ximo $300
+USD).
+
+
+
+
+
+
+
+
+
+
+
+
+Â¿QuÃ© no puedo importar?
+
+
+
+
+
+01 Polvos.
+
+
+02 LÃ­quidos.
+
+
+03 Medicinas.
+
+
+04 Suplementos alimenticios o alimentos.
+
+
+05 Perfumes.
+
+
+06 Maquillaje.
+
+
+07 Madera.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Este sitio web utiliza cookies y tecnologÃ­as similares, (en
+adelante "tecnologÃ­as"), que nos permiten, por ejemplo,
+determinar la frecuencia con la que se visitan nuestras
+pÃ¡ginas de Internet y el nÃºmero de visitantes, configurar
+nuestras ofertas para que sean lo mÃ¡s cÃ³modas y eficientes
+posible y reforzar nuestras acciones de marketing. Estas
+tecnologÃ­as pueden conllevar la transferencia de datos a
+terceros proveedores con sede en paÃ­ses sin un nivel
+adecuado de protecciÃ³n de datos (por ejemplo, Estados
+Unidos). Para mÃ¡s informaciÃ³n, incluyendo el tratamiento de
+datos por parte de terceros proveedores y la posibilidad de
+revocar su consentimiento en cualquier momento, consulte su
+configuraciÃ³n en "ConfiguraciÃ³n de consentimiento" y los
+siguientes enlaces
+Aviso de privacidad
+-
+Aviso legal
+
+
+
+Permitir contenido de YouTube
+
+
+
+
+
+
+
+
+
+
+
+
+Â¡Haz tus envÃ­os hoy mismo! Puedes visitar tu tienda mÃ¡s
+cercana o solicitar tu cotizaciÃ³n.
+
+
+
+Localiza tienda
+
+
+Cotizar envÃ­o
+
+
+
+
+
+*Sujeto a coberturahttps://mydhl.express.dhl/mx/es/ship/delivery-services.html#/import
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aviso legal
+Aviso de privacidad
+TÃ©rminos y Condiciones
+
+
+
+Siguenos en
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2025 Â© DHL International GmbH. All rights reserved.
+
+
+
+
+
+
+Cookie Settings
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,17 @@
+   Domain Name: ZDQCAPITALE.COM
+   Registry Domain ID: 2885928335_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2024-05-30T05:32:19Z
+   Creation Date: 2024-05-30T05:25:55Z
+   Registry Expiry Date: 2025-05-30T05:25:55Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: AMOS.NS.CLOUDFLARE.COM
+   Name Server: NADIA.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-23T21:58:31Z 

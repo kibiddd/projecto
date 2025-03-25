@@ -1,0 +1,40 @@
+Ethereal Search Engine
+Ethereal
+Web
+Images
+Map
+Random
+Links
+More Results
+Please Donate
+Search By Image
+Search Roulette
+Link Roulette
+Advanced Search
+About Ethereal
+Set As Default
+Advanced Search
+Search within only one site by using the "site:" keyword:
+site:www.example.com query words
+Click for more options:
+Advanced search options
+Advanced search keywords
+About Ethereal
+This search engine provides unique and different results without excessive search engine optimization sites and censorship.  This search engine does not give you what it thinks you want or overload you with information.  It allows you to do the thinking, add enough keywords to pinpoint results.  This is completely anonymous search engine, we do not track you or filter your results.  Please Donate.
+Contact: [email protected]
+Click here to donate with credit card.
+Bitcoin: 3Pn6pNpJZWMctowee37U75TGDsrsHWHKDw
+Ethereum: 0x3d84d251d4930A81d4915DbE121e1A591bf03eeA
+Set Default Search Engine
+Click here for all browsers.
+Chrome Desktop:
+Menu -> Settings -> Search engine -> Manage search engines and site search -> Site Search (click "add" button)
+Then fill out the popup dialog and click its "add" button:
+Search engine:Ethereal
+Shortcut:@ethereal
+URL with %s in place of query:https://etherealsearch.com/?q=%s
+Below the "Site Search" heading click the three dots at the "Ethereal" row and click "Make default".
+Chrome Android:
+First search for something with this search engine in the Android Chrome browser.  Then:
+Menu -> Settings -> Search engine -> Select: etherealsearch.com
+↑

@@ -1,0 +1,13 @@
+
+Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/bvppoorvilko/public_html/wp-includes/sodium_compat/lib/constants.php:8
+Stack trace:
+#0 /home/bvppoorvilko/public_html/wp-includes/sodium_compat/lib/sodium_compat.php(830): require_once()
+#1 /home/bvppoorvilko/public_html/wp-includes/sodium_compat/autoload.php(56): require_once('/home/bvppoorvi...')
+#2 /home/bvppoorvilko/public_html/wp-includes/compat.php(338): require('/home/bvppoorvi...')
+#3 /home/bvppoorvilko/public_html/wp-settings.php(34): require('/home/bvppoorvi...')
+#4 /home/bvppoorvilko/public_html/wp-config.php(100): require_once('/home/bvppoorvi...')
+#5 /home/bvppoorvilko/public_html/wp-load.php(50): require_once('/home/bvppoorvi...')
+#6 /home/bvppoorvilko/public_html/wp-blog-header.php(13): require_once('/home/bvppoorvi...')
+#7 /home/bvppoorvilko/public_html/index.php(5): require('/home/bvppoorvi...')
+#8 {main}
+thrown in /home/bvppoorvilko/public_html/wp-includes/sodium_compat/lib/constants.php on line 8

@@ -1,0 +1,17 @@
+   Domain Name: YUMISHOPVIP.COM
+   Registry Domain ID: 2905368615_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namebright.com
+   Registrar URL: http://www.DropCatch1157.com
+   Updated Date: 2024-08-05T08:05:16Z
+   Creation Date: 2024-08-04T18:24:11Z
+   Registry Expiry Date: 2025-08-04T18:24:11Z
+   Registrar: DropCatch.com 1157 LLC
+   Registrar IANA ID: 3366
+   Registrar Abuse Contact Email: support@namebright.com
+   Registrar Abuse Contact Phone: 17204960020
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS15.ABOVEDOMAINS.COM
+   Name Server: NS16.ABOVEDOMAINS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-24T00:00:45Z 

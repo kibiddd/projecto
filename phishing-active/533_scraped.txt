@@ -1,0 +1,106 @@
+
+
+
+Index of /
+
+
+Index of /
+
+NameLast modifiedSizeDescription
+
+ApiCitas/2024-07-23 21:10    -
+ApiCitasCds/2024-10-28 12:38    -
+ApiCitasCds25102024/2024-10-25 21:18    -
+ApiCitasCds_new/2024-12-06 16:03    -
+ApiCitas_v1/2024-07-23 21:10    -
+ApiRodalin/2024-09-12 22:11    -
+Apichat/2025-01-08 19:21    -
+CDS/2024-08-05 15:24    -
+Chatbot/2024-10-28 17:50    -
+DTE/2024-03-15 16:08    -
+Dtepro/2025-02-26 14:37    -
+Hamelin/2023-10-25 15:17    -
+Medicos/2023-10-28 01:44    -
+Optica/2024-03-18 15:34    -
+Orion2024/2024-07-20 19:06    -
+Transbank/2023-11-30 18:25    -
+add_nc_hamelin.php2023-12-14 15:58  1.5K
+agenda_medica_cds/2024-10-04 13:43    -
+agenda_medica_cds25102024/2024-10-25 21:14    -
+api/2024-04-14 23:49    -
+apiEmails/2023-11-02 19:31    -
+apiIO/2023-10-08 13:55    -
+apiIOPA/2023-09-15 16:58    -
+apiIOPA2023/2023-12-12 13:29    -
+apiLib/2023-10-25 18:19    -
+apieReport/2024-07-08 16:46    -
+apisincro/2024-03-01 13:50    -
+apitickets/2025-03-10 21:37    -
+apiw/2024-11-16 13:20    -
+asset-manifest.json2024-09-25 22:46  369
+autos/2024-09-30 22:35    -
+autosapi/2024-09-29 19:28    -
+autosapi2/2024-09-24 17:35    -
+autosr/2024-09-20 01:25    -
+autosreact/2024-09-25 22:42    -
+big/2025-02-17 16:55    -
+chatbot/2025-01-04 15:54    -
+citas/2024-03-16 12:10    -
+confi_DTE/2024-03-12 13:33    -
+confi_hamelin/2023-10-05 22:15    -
+download-2024.1.15_12.36.12-root-(dtepro2.cl).tar.gz2024-01-15 15:36   60K
+dragdrop/2023-01-30 02:37    -
+eCalendar/2024-10-05 14:49    -
+eCompras/2024-02-13 12:10    -
+eControl/2023-12-24 16:54    -
+eGastos/2024-02-09 14:27    -
+eMail/2025-01-15 19:09    -
+eMantencion/2024-03-06 10:21    -
+eMed/2024-11-22 16:04    -
+eMedicos/2023-09-27 20:56    -
+eOrion/2024-01-11 14:36    -
+ePos/2024-11-09 15:10    -
+eReport/2024-07-22 20:19    -
+eTickets/2025-03-10 21:45    -
+eTonners/2024-07-28 01:12    -
+erpexpress/2025-01-09 20:58    -
+excel/2025-01-10 14:02    -
+favicon.ico2024-09-25 22:46  3.8K
+framework/2024-03-17 14:49    -
+generador2022/2024-07-16 23:12    -
+ide/2024-12-11 19:41    -
+indice.txt2024-12-23 16:22  365
+ing/2022-11-23 19:49    -
+libs/2024-08-02 17:06    -
+manifest.json2024-09-25 22:46  492
+mantencion/2021-03-03 19:18    -
+miformulario/2024-08-28 21:47    -
+node/2023-10-15 12:34    -
+paginaweb/2023-12-04 12:45    -
+php-error-mvc.log2024-10-21 17:17   15K
+pwa/2023-09-10 02:22    -
+rebsol_info/2023-10-04 18:49    -
+recordatorioAnualWs/2022-06-09 14:00    -
+recordatorioHorasWs/2022-06-09 14:00    -
+recordatorioHorasWsUltraMSG/2022-06-09 14:00    -
+recordatorioWs/2022-06-09 14:00    -
+robots.txt2024-09-25 22:46   67
+softland_api/2024-12-18 16:45    -
+softland_api 181224/2023-12-01 14:00    -
+softland_api_hf.tar.gz2025-03-19 13:20  1.2G
+test.php2025-01-24 19:01  480
+test/2025-01-15 19:44    -
+testConexion/2024-10-28 19:24    -
+testbd2.php2025-01-22 14:41  467
+totalPack/2024-05-09 17:11    -
+twilio/2025-03-24 00:01    -
+views/2024-10-16 21:36    -
+web/2024-04-02 19:58    -
+webiopa/2023-05-10 23:27    -
+whapi/2024-08-30 16:22    -
+whatsapp_confirmacion_cena/2022-06-09 14:00    -
+whatsapp_tabla/2022-06-09 14:00    -
+wordapdf/2024-12-23 17:38    -
+
+
+Apache/2.4.41 (Ubuntu) Server at 186.64.123.171 Port 80

@@ -1,0 +1,18 @@
+   Domain Name: YAHSOM.COM
+   Registry Domain ID: 2877024097_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2024-05-15T08:56:59Z
+   Creation Date: 2024-04-30T10:26:26Z
+   Registry Expiry Date: 2025-04-30T10:26:26Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientHold https://icann.org/epp#clientHold
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: BELLA.NS.CLOUDFLARE.COM
+   Name Server: SEAN.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-23T23:59:43Z 

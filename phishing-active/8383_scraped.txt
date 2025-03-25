@@ -1,0 +1,1 @@
+Please stand by while configuration is in progress.

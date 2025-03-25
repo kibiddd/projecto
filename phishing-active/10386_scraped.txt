@@ -1,0 +1,53 @@
+
+
+
+Redirect.me | Free redirection service to hide the referrer of links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+⏩ Redirect.me
+
+About
+
+Redirect.me is a free redirection service to hide the referrer of links.
+
+Usage Example
+
+Redirect to any URL:
+https://redirect.me/?https://www.google.com/
+Random Rickroll Prank URL:
+https://redirect.me/r/w9c3v5
+
+
+
+Terms of Use
+
+Maximum length of target URIs is 256 characters.
+
+
+You must not abuse this service or link to illegal content.
+
+
+DNS Lookup
+IP Location
+Contact
+
+
+

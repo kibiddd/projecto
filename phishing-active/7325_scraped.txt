@@ -1,0 +1,410 @@
+
+
+
+
+
+
+
+
+
+Home – Digilight
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ZigaForm  version 6.0.8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+Projects
+Services
+About Us
+Contact
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+
+Home
+
+[et_pb_section fb_built=”1″ custom_padding_last_edited=”on|desktop” next_background_color=”#ffffff” admin_label=”Header” _builder_version=”4.25.1″ background_enable_image=”off” parallax=”on” background_video_mp4=”https://dxbproductions.com/wp-content/uploads/2024/03/Digi-reel-1.mp4″ background_video_pause_outside_viewport=”off” custom_margin_tablet=”” custom_margin_phone=”7vw||10vw||false|false” custom_margin_last_edited=”on|phone” custom_padding=”7vw||15vw||false|false” custom_padding_tablet=”100px||100px||true” custom_padding_phone=”||||true” bottom_divider_style=”ramp2″ bottom_divider_height=”250px” bottom_divider_flip=”horizontal” bottom_divider_height_tablet=”150px” bottom_divider_height_phone=”110px” bottom_divider_height_last_edited=”on|phone” animation_style=”fade” custom_css_before=”content:%22%22;||display: block;|| position: absolute;|| top: 0;|| left: 0;|| width: 100%;|| height: 100%;|| background-image: linear-gradient(|| 142deg,rgba(0,0,0,0.5)  0%,#fff 530%)!important;||  z-index: 1;” saved_tabs=”all” global_colors_info=”{}”][et_pb_row disabled_on=”on|on|on” _builder_version=”4.25.1″ width=”50%” max_width=”50%” custom_padding=”7px|||||” disabled=”on” global_colors_info=”{}”][et_pb_column type=”4_4″ _builder_version=”4.16″ custom_padding=”|||” global_colors_info=”{}” custom_padding__hover=”|||”][et_pb_text disabled_on=”off|off|off” _builder_version=”4.25.1″ text_font=”Roboto||||||||” text_font_size=”16px” text_line_height=”1.8em” header_font=”Roboto|700|||||||” header_text_align=”center” header_font_size=”3.5em” header_line_height=”1.2em” header_3_font=”Roboto|700||on|||||” header_3_text_align=”center” header_3_text_color=”#ffffff” header_3_font_size=”24px” header_3_letter_spacing=”10px” header_3_line_height=”2em” text_orientation=”center” background_layout=”dark” module_alignment=”center” text_font_size_last_edited=”off|desktop” header_font_size_tablet=”35px” header_font_size_phone=”25px” header_font_size_last_edited=”on|phone” header_3_font_size_tablet=”16px” header_3_font_size_phone=”14px” header_3_font_size_last_edited=”on|phone” header_3_letter_spacing_tablet=”5px” header_3_letter_spacing_phone=”” header_3_letter_spacing_last_edited=”on|tablet” header_text_shadow_style=”preset2″ header_text_shadow_color=”rgba(0,0,0,0.9)” global_colors_info=”{}”]
+Expertly delivered events
+tailored to your needs.
+[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row disabled_on=”on|off|off” _builder_version=”4.25.1″ max_width=”80vw” custom_padding=”3vw||||false|false” global_colors_info=”{}”][et_pb_column type=”4_4″ _builder_version=”4.16″ custom_padding=”|||” global_colors_info=”{}” custom_padding__hover=”|||”][et_pb_text disabled_on=”off|off|off” _builder_version=”4.25.1″ text_font=”Roboto||||||||” text_font_size=”16px” text_line_height=”1.8em” header_font=”Roboto|700|||||||” header_text_align=”center” header_font_size=”3.5em” header_line_height=”1.2em” header_3_font=”Roboto|700||on|||||” header_3_text_align=”center” header_3_text_color=”#ffffff” header_3_font_size=”24px” header_3_letter_spacing=”10px” header_3_line_height=”2em” text_orientation=”center” background_layout=”dark” module_alignment=”center” text_font_size_last_edited=”off|desktop” header_font_size_tablet=”35px” header_font_size_phone=”25px” header_font_size_last_edited=”on|phone” header_3_font_size_tablet=”16px” header_3_font_size_phone=”14px” header_3_font_size_last_edited=”on|phone” header_3_letter_spacing_tablet=”5px” header_3_letter_spacing_phone=”” header_3_letter_spacing_last_edited=”on|tablet” header_text_shadow_style=”preset2″ header_text_shadow_color=”rgba(0,0,0,0.9)” global_colors_info=”{}”]
+EXPERTLY CRAFTED
+EVENTS AND
+AV SOLUTIONS
+[/et_pb_text][et_pb_button button_url=”https://dxbproductions.com/contact” url_new_window=”on” button_text=”Get in touch” button_alignment=”left” disabled_on=”off|off|off” _builder_version=”4.25.1″ button_text_size=”14px” button_border_width=”0px” button_border_color=”rgba(0,0,0,0)” button_border_radius=”4px” button_letter_spacing=”5px” button_font=”Roboto|700||on|||||” background_layout=”dark” custom_margin=”|||” custom_padding=”11px|34px|11px|34px|true|true” box_shadow_style=”preset2″ box_shadow_color=”#0C71C3″ button_letter_spacing_hover=”5.5px” global_colors_info=”{}” button_text_size__hover_enabled=”off” button_one_text_size__hover_enabled=”off” button_two_text_size__hover_enabled=”off” button_text_color__hover_enabled=”off” button_one_text_color__hover_enabled=”off” button_two_text_color__hover_enabled=”off” button_border_width__hover_enabled=”off” button_one_border_width__hover_enabled=”off” button_two_border_width__hover_enabled=”off” button_border_color__hover_enabled=”off” button_one_border_color__hover_enabled=”off” button_two_border_color__hover_enabled=”off” button_border_radius__hover_enabled=”off” button_one_border_radius__hover_enabled=”off” button_two_border_radius__hover_enabled=”off” button_letter_spacing__hover_enabled=”on” button_letter_spacing__hover=”5.5px” button_one_letter_spacing__hover_enabled=”off” button_two_letter_spacing__hover_enabled=”off” button_bg_color__hover_enabled=”off” button_one_bg_color__hover_enabled=”off” button_two_bg_color__hover_enabled=”off”][/et_pb_button][/et_pb_column][/et_pb_row][et_pb_row disabled_on=”off|on|on” _builder_version=”4.24.2″ width=”90%” max_width=”90%” custom_padding=”7px|||||” global_colors_info=”{}”][et_pb_column type=”4_4″ _builder_version=”4.16″ custom_padding=”|||” global_colors_info=”{}” custom_padding__hover=”|||”][et_pb_text disabled_on=”off|off|off” _builder_version=”4.25.1″ text_font=”Roboto||||||||” text_font_size=”16px” text_line_height=”1.8em” header_font=”Roboto|700|||||||” header_text_align=”center” header_font_size=”60px” header_line_height=”1.2em” header_3_font=”Roboto|700||on|||||” header_3_text_align=”center” header_3_text_color=”#ffffff” header_3_font_size=”24px” header_3_letter_spacing=”10px” header_3_line_height=”2em” text_orientation=”center” background_layout=”dark” module_alignment=”center” text_font_size_last_edited=”off|desktop” header_font_size_tablet=”35px” header_font_size_phone=”28px” header_font_size_last_edited=”on|phone” header_3_font_size_tablet=”16px” header_3_font_size_phone=”24px” header_3_font_size_last_edited=”on|phone” header_3_letter_spacing_tablet=”5px” header_3_letter_spacing_phone=”” header_3_letter_spacing_last_edited=”on|tablet” header_text_shadow_style=”preset2″ header_text_shadow_color=”rgba(0,0,0,0.9)” global_colors_info=”{}”]
+Expertly delivered events, tailored to your needs.
+[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row column_structure=”1_3,1_3,1_3″ use_custom_gutter=”on” gutter_width=”2″ disabled_on=”on|on|on” admin_label=”Features” _builder_version=”4.25.1″ width=”85%” max_width=”85%” custom_margin=”0px|auto||auto||” custom_padding=”||7px|||” custom_width_px=”1280px” disabled=”on” global_colors_info=”{}”][et_pb_column type=”1_3″ _builder_version=”4.16″ custom_padding=”|||” global_colors_info=”{}” custom_padding__hover=”|||”][et_pb_blurb title=”LED Rental & Sale” use_icon=”on” font_icon=”||fa||900″ icon_color=”#FFFFFF” icon_placement=”left” image_icon_width=”50px” content_max_width=”1100px” _builder_version=”4.25.1″ header_font=”Montserrat|600|||||||” header_font_size=”1.5em” header_line_height=”1.5em” body_font=”Montserrat||||||||” body_line_height=”1.8em” image_icon_custom_margin=”-10px||||false|false” background_layout=”dark” custom_margin=”||12px|” animation_style=”fold” animation_intensity_fold=”30%” text_shadow_style=”preset2″ text_shadow_blur_strength=”0.59em” text_shadow_color=”#FFFFFF” image_max_width=”70px” global_colors_info=”{}”][/et_pb_blurb][/et_pb_column][et_pb_column type=”1_3″ _builder_version=”4.16″ custom_padding=”|||” global_colors_info=”{}” custom_padding__hover=”|||”][et_pb_blurb title=”Holographic Equipment” use_icon=”on” font_icon=”||divi||400″ icon_color=”#FFFFFF” icon_placement=”left” image_icon_width=”50px” content_max_width=”1100px” _builder_version=”4.25.1″ header_font=”Montserrat|600|||||||” header_font_size=”1.5em” header_line_height=”1.5em” body_font=”Montserrat||||||||” body_line_height=”1.8em” image_icon_custom_margin=”-10px||||false|false” background_layout=”dark” custom_margin=”||12px|” animation_style=”fold” animation_intensity_fold=”30%” text_shadow_style=”preset1″ text_shadow_blur_strength=”0.78em” text_shadow_color=”#FFFFFF” image_max_width=”70px” global_colors_info=”{}”][/et_pb_blurb][/et_pb_column][et_pb_column type=”1_3″ _builder_version=”4.16″ custom_padding=”|||” global_colors_info=”{}” custom_padding__hover=”|||”][et_pb_blurb title=”Creative Animation” use_icon=”on” font_icon=”||fa||900″ icon_color=”#FFFFFF” icon_placement=”left” image_icon_width=”50px” content_max_width=”1620px” _builder_version=”4.25.1″ header_font=”Montserrat|600|||||||” header_font_size=”1.5em” header_line_height=”1.5em” body_font=”Montserrat||||||||” body_line_height=”1.8em” image_icon_custom_margin=”-10px||||false|false” background_layout=”dark” custom_margin=”||12px|” custom_padding=”|||20%|false|false” animation_style=”fold” animation_intensity_fold=”30%” text_shadow_style=”preset1″ text_shadow_blur_strength=”0.53em” text_shadow_color=”#FFFFFF” image_max_width=”70px” global_colors_info=”{}”][/et_pb_blurb][/et_pb_column][/et_pb_row][et_pb_row disabled_on=”on|on|on” _builder_version=”4.25.1″ _module_preset=”default” disabled=”on” global_colors_info=”{}”][et_pb_column type=”4_4″ _builder_version=”4.24.0″ _module_preset=”default” global_colors_info=”{}”][et_pb_button button_url=”https://dxbproductions.com/contact” url_new_window=”on” button_text=”Get in touch” button_alignment=”center” _builder_version=”4.25.1″ button_text_size=”14px” button_bg_use_color_gradient=”on” button_bg_color_gradient_direction=”90deg” button_bg_color_gradient_stops=”#0c71c3 0%|#3cccfc 99%” button_bg_color_gradient_start=”#f92c8b” button_bg_color_gradient_end=”#b02cd6″ button_border_width=”0px” button_border_color=”rgba(0,0,0,0)” button_border_radius=”4px” button_letter_spacing=”5px” button_font=”Roboto|700||on|||||” background_layout=”dark” custom_margin=”10px||||false|false” custom_padding=”11px|34px|11px|34px|true|true” box_shadow_style=”preset3″ box_shadow_color=”#0C71C3″ button_letter_spacing_hover=”5.5px” global_colors_info=”{}” button_text_size__hover_enabled=”off” button_one_text_size__hover_enabled=”off” button_two_text_size__hover_enabled=”off” button_text_color__hover_enabled=”off” button_one_text_color__hover_enabled=”off” button_two_text_color__hover_enabled=”off” button_border_width__hover_enabled=”off” button_one_border_width__hover_enabled=”off” button_two_border_width__hover_enabled=”off” button_border_color__hover_enabled=”off” button_one_border_color__hover_enabled=”off” button_two_border_color__hover_enabled=”off” button_border_radius__hover_enabled=”off” button_one_border_radius__hover_enabled=”off” button_two_border_radius__hover_enabled=”off” button_letter_spacing__hover_enabled=”on” button_letter_spacing__hover=”5.5px” button_one_letter_spacing__hover_enabled=”off” button_two_letter_spacing__hover_enabled=”off” button_bg_color__hover_enabled=”off” button_one_bg_color__hover_enabled=”off” button_two_bg_color__hover_enabled=”off”][/et_pb_button][/et_pb_column][/et_pb_row][et_pb_row disabled_on=”off|off|on” _builder_version=”4.25.1″ _module_preset=”default” max_width=”80%” module_alignment=”center” custom_margin=”-8vw||||false|false” global_colors_info=”{}”][et_pb_column type=”4_4″ _builder_version=”4.24.2″ _module_preset=”default” global_colors_info=”{}”][et_pb_button button_url=”https://dxbproductions.com/contact” url_new_window=”on” button_text=”Get in touch” button_alignment=”center” _builder_version=”4.24.2″ button_text_size=”14px” button_bg_use_color_gradient=”on” button_bg_color_gradient_direction=”90deg” button_bg_color_gradient_stops=”#0c71c3 0%|#3cccfc 99%” button_bg_color_gradient_start=”#f92c8b” button_bg_color_gradient_end=”#b02cd6″ button_border_width=”0px” button_border_color=”rgba(0,0,0,0)” button_border_radius=”4px” button_letter_spacing=”5px” button_font=”Roboto|700||on|||||” background_layout=”dark” custom_margin=”10px||||false|false” custom_padding=”11px|34px|11px|34px|true|true” button_text_size_tablet=”11px” box_shadow_style=”preset3″ box_shadow_color=”#0C71C3″ button_letter_spacing_hover=”5.5px” global_colors_info=”{}” button_text_size__hover_enabled=”off” button_one_text_size__hover_enabled=”off” button_two_text_size__hover_enabled=”off” button_text_color__hover_enabled=”off” button_one_text_color__hover_enabled=”off” button_two_text_color__hover_enabled=”off” button_border_width__hover_enabled=”off” button_one_border_width__hover_enabled=”off” button_two_border_width__hover_enabled=”off” button_border_color__hover_enabled=”off” button_one_border_color__hover_enabled=”off” button_two_border_color__hover_enabled=”off” button_border_radius__hover_enabled=”off” button_one_border_radius__hover_enabled=”off” button_two_border_radius__hover_enabled=”off” button_letter_spacing__hover_enabled=”on” button_letter_spacing__hover=”5.5px” button_one_letter_spacing__hover_enabled=”off” button_two_letter_spacing__hover_enabled=”off” button_bg_color__hover_enabled=”off” button_one_bg_color__hover_enabled=”off” button_two_bg_color__hover_enabled=”off”][/et_pb_button][/et_pb_column][/et_pb_row][et_pb_row disabled_on=”off|on|on” _builder_version=”4.25.0″ _module_preset=”default” custom_padding=”40px||40px||true|false” global_colors_info=”{}”][et_pb_column type=”4_4″ _builder_version=”4.25.0″ _module_preset=”default” global_colors_info=”{}”][/et_pb_column][/et_pb_row][/et_pb_section][et_pb_section fb_built=”1″ admin_label=”Get Started” _builder_version=”4.24.2″ custom_padding=”||2px||false|false” animation_style=”fade” saved_tabs=”all” global_colors_info=”{}”][et_pb_row column_structure=”2_3,1_3″ use_custom_gutter=”on” gutter_width=”2″ _builder_version=”4.24.2″ max_width=”1700px” custom_margin=”|||” custom_margin_tablet=”|||” custom_margin_phone=”-4vw||||false|false” custom_margin_last_edited=”on|phone” custom_padding=”0px|||” use_custom_width=”on” custom_width_px=”1700px” global_colors_info=”{}”][et_pb_column type=”2_3″ _builder_version=”4.16″ custom_padding=”|||” global_colors_info=”{}” custom_padding__hover=”|||”][et_pb_image src=”https://dxbproductions.com/wp-content/uploads/2024/03/digilight-direct-led-supplier-dubai-1.png” alt=”digilight direct led supplier dubai” title_text=”digilight direct led supplier dubai” align=”center” align_tablet=”center” align_phone=”center” align_last_edited=”on|desktop” _builder_version=”4.24.2″ custom_margin=”-1vw||||false|false” custom_margin_tablet=”0vw|||” custom_margin_phone=”-5vw||||false|false” custom_margin_last_edited=”on|phone” animation_direction=”left” scroll_vertical_motion_enable=”on” scroll_vertical_motion=”0|39|39|100|1.5|0|-1.5″ scroll_vertical_motion_tablet=”0|39|39|100|1.5|0|-1.5″ scroll_vertical_motion_phone=”0|39|39|100|0.5|0|-0.5″ scroll_vertical_motion_last_edited=”on|phone” global_colors_info=”{}”][/et_pb_image][/et_pb_column][et_pb_column type=”1_3″ _builder_version=”4.24.2″ custom_padding=”30px|||” custom_padding_tablet=”30px|||” custom_padding_phone=”10px||||false|false” custom_padding_last_edited=”on|phone” global_colors_info=”{}” custom_padding__hover=”|||”][dsm_gradient_text gradient_text=”Find the right LED Display for your Project!” _builder_version=”4.25.1″ _module_preset=”default” header_font=”–et_global_heading_font|700|||||||” header_font_size=”45px” header_line_height=”1.15em” background_color_gradient_direction=”103deg” background_color_gradient_stops=”#35cafc 0%|#ea2ecb 98%” header_font_size_tablet=”35px” header_font_size_phone=”28px” header_font_size_last_edited=”on|phone” global_colors_info=”{}”][/dsm_gradient_text][et_pb_button button_url=”https://dxbproductions.com/price-estimate” url_new_window=”on” button_text=”Get Quote” button_alignment=”left” disabled_on=”off|off|off” _builder_version=”4.24.2″ button_text_size=”14px” button_bg_use_color_gradient=”on” button_bg_color_gradient_direction=”90deg” button_bg_color_gradient_stops=”#007fe0 0%|#3cccfc 97%” button_bg_color_gradient_start=”#f7828e” button_bg_color_gradient_end=”#fcb6ab” button_border_width=”0px” button_border_color=”rgba(0,0,0,0)” button_border_radius=”4px” button_letter_spacing=”5px” button_font=”Roboto|700||on|||||” background_layout=”dark” custom_margin=”|||” custom_padding=”11px|34px|11px|34px|true|true” box_shadow_style=”preset2″ box_shadow_color=”#0C71C3″ button_letter_spacing_hover=”5.5px” global_colors_info=”{}” button_text_size__hover_enabled=”off” button_one_text_size__hover_enabled=”off” button_two_text_size__hover_enabled=”off” button_text_color__hover_enabled=”off” button_one_text_color__hover_enabled=”off” button_two_text_color__hover_enabled=”off” button_border_width__hover_enabled=”off” button_one_border_width__hover_enabled=”off” button_two_border_width__hover_enabled=”off” button_border_color__hover_enabled=”off” button_one_border_color__hover_enabled=”off” button_two_border_color__hover_enabled=”off” button_border_radius__hover_enabled=”off” button_one_border_radius__hover_enabled=”off” button_two_border_radius__hover_enabled=”off” button_letter_spacing__hover_enabled=”on” button_letter_spacing__hover=”5.5px” button_one_letter_spacing__hover_enabled=”off” button_two_letter_spacing__hover_enabled=”off” button_bg_color__hover_enabled=”off” button_one_bg_color__hover_enabled=”off” button_two_bg_color__hover_enabled=”off”][/et_pb_button][/et_pb_column][/et_pb_row][/et_pb_section][et_pb_section fb_built=”1″ admin_label=”What we do best Row” _builder_version=”4.24.2″ custom_margin_tablet=”” custom_margin_phone=”0px||||false|false” custom_margin_last_edited=”on|tablet” custom_padding=”2px|||||” global_colors_info=”{}”][et_pb_row _builder_version=”4.16″ custom_padding=”|||” global_colors_info=”{}”][et_pb_column type=”4_4″ _builder_version=”4.16″ custom_padding=”|||” global_colors_info=”{}” custom_padding__hover=”|||”][et_pb_text _builder_version=”4.16″ text_font=”||||||||” text_font_size=”16px” text_line_height=”2em” ul_font=”||||||||” header_font=”||||||||” header_2_font=”Roboto|700|||||||” header_2_font_size=”45px” header_2_line_height=”1.2em” header_3_font=”||||||||” text_orientation=”center” max_width=”800px” max_width_last_edited=”off|desktop” module_alignment=”center” custom_margin=”|||” custom_padding=”|||” header_2_font_size_tablet=”35px” header_2_font_size_phone=”28px” header_2_font_size_last_edited=”on|phone” global_colors_info=”{}”]
+We’ve Got You Covered
+[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row column_structure=”1_3,1_3,1_3″ use_custom_gutter=”on” gutter_width=”2″ _builder_version=”4.24.0″ background_color=”#ffffff” max_width=”1440px” custom_padding=”27px|0px|0|0px|false|false” use_custom_width=”on” custom_width_px=”1440px” global_colors_info=”{}”][et_pb_column type=”1_3″ _builder_version=”4.16″ custom_padding=”|||” global_colors_info=”{}” custom_padding__hover=”|||”][et_pb_blurb title=”LED Display Install Rental/Permanent” use_icon=”on” font_icon=”_||divi||400″ icon_color=”#7a69e6″ image_icon_background_color=”rgba(122,105,230,0.3)” image_icon_width=”32px” _builder_version=”4.24.0″ header_font=”Roboto|700|||||||” header_font_size=”18px” header_line_height=”1.7em” body_font=”||||||||” body_line_height=”1.8em” background_color=”#ffffff” image_icon_custom_padding=”25px|25px|25px|25px|false|false” text_orientation=”center” module_alignment=”left” custom_margin=”||0px|” custom_padding=”30px|20px|40px|20px|false|true” custom_padding_tablet=”” custom_padding_phone=”” custom_padding_last_edited=”on|phone” animation_style=”zoom” animation_intensity_zoom=”8%” animation=”off” border_radii=”on|10px|10px|10px|10px” border_radii_image=”on|100%|100%|100%|100%” box_shadow_style=”preset1″ box_shadow_blur=”70px” box_shadow_color=”rgba(110,130,208,0.18)” icon_font_size=”32px” use_circle=”on” circle_color=”rgba(122,105,230,0.3)” global_colors_info=”{}” image_icon_background_color__sticky_enabled=”#2ea3f2″ image_icon_background_color__sticky=”#2ea3f2″]
+Digilight offers a comprehensive LED rental and direct supply service, providing  visual displays that cater to any event scale or requirement, with cutting-edge LED technology.
+[/et_pb_blurb][/et_pb_column][et_pb_column type=”1_3″ _builder_version=”4.16″ custom_padding=”|||” global_colors_info=”{}” custom_padding__hover=”|||”][et_pb_blurb title=”Flexible LED Design & Implementation” use_icon=”on” font_icon=”k||divi||400″ icon_color=”#fa5e5d” image_icon_background_color=”rgba(250,94,93,0.3)” image_icon_width=”32px” _builder_version=”4.24.0″ header_font=”Roboto|700|||||||” header_font_size=”18px” header_line_height=”1.7em” body_font=”||||||||” body_line_height=”1.8em” background_color=”#ffffff” image_icon_custom_padding=”25px|25px|25px|25px|false|false” text_orientation=”center” module_alignment=”left” custom_margin=”||0px|” custom_padding=”30px|20px|40px|20px|false|true” custom_padding_phone=”39px|||” custom_padding_last_edited=”off|desktop” animation_style=”zoom” animation_intensity_zoom=”8%” animation=”off” border_radii=”on|10px|10px|10px|10px” border_radii_image=”on|100%|100%|100%|100%” box_shadow_style=”preset1″ box_shadow_blur=”70px” box_shadow_color=”rgba(110,130,208,0.18)” icon_font_size=”32px” use_circle=”on” circle_color=”rgba(250,94,93,0.3)” global_colors_info=”{}” image_icon_background_color__sticky_enabled=”#2ea3f2″ image_icon_background_color__sticky=”#2ea3f2″]
+Digilight creates custom designs for flexible LED displays, tailored to fit any space. Our focus is on seamless implementation for a striking visual impact at your event.
+[/et_pb_blurb][/et_pb_column][et_pb_column type=”1_3″ _builder_version=”4.16″ custom_padding=”|||” global_colors_info=”{}” custom_padding__hover=”|||”][et_pb_blurb title=”Animated Video Content Production” use_icon=”on” font_icon=”||fa||400″ icon_color=”#f98d5e” image_icon_background_color=”rgba(249,141,94,0.3)” image_icon_width=”32px” disabled_on=”off|off|off” _builder_version=”4.24.2″ header_font=”Roboto|700|||||||” header_font_size=”18px” header_line_height=”1.7em” body_font=”||||||||” body_line_height=”1.8em” background_color=”#ffffff” image_icon_custom_padding=”25px|25px|25px|25px|false|false” text_orientation=”center” module_alignment=”left” custom_margin=”||0px|” custom_padding=”30px|20px|40px|20px|false|true” custom_padding_tablet=”” custom_padding_phone=”” custom_padding_last_edited=”on|phone” animation_style=”zoom” animation_intensity_zoom=”8%” animation=”off” border_radii=”on|10px|10px|10px|10px” border_radii_image=”on|100%|100%|100%|100%” box_shadow_style=”preset1″ box_shadow_blur=”70px” box_shadow_color=”rgba(110,130,208,0.18)” icon_font_size=”32px” use_circle=”on” circle_color=”rgba(249,141,94,0.3)” global_colors_info=”{}” image_icon_background_color__sticky_enabled=”#2ea3f2″ image_icon_background_color__sticky=”#2ea3f2″]
+Digilight’s expertise in animated content ensures the right fit for any display type, enhancing your event with perfectly tailored visuals.
+[/et_pb_blurb][/et_pb_column][/et_pb_row][et_pb_row column_structure=”1_3,1_3,1_3″ use_custom_gutter=”on” gutter_width=”2″ _builder_version=”4.24.0″ background_color=”#ffffff” max_width=”1440px” custom_padding=”27px|0px|0|0px|false|false” use_custom_width=”on” custom_width_px=”1440px” global_colors_info=”{}”][et_pb_column type=”1_3″ _builder_version=”4.16″ custom_padding=”|||” global_colors_info=”{}” custom_padding__hover=”|||”][et_pb_blurb title=”Video Holograms” use_icon=”on” font_icon=”||divi||400″ icon_color=”#000000″ image_icon_background_color=”rgba(0,0,0,0.29)” image_icon_width=”32px” disabled_on=”on|on|off” _builder_version=”4.24.2″ header_font=”Roboto|700|||||||” header_font_size=”18px” header_line_height=”1.7em” body_font=”||||||||” body_line_height=”1.8em” background_color=”#ffffff” image_icon_custom_padding=”25px|25px|25px|25px|false|false” text_orientation=”center” module_alignment=”left” custom_margin=”||0px|” custom_padding=”30px|20px|40px|20px|false|true” custom_padding_tablet=”” custom_padding_phone=”” custom_padding_last_edited=”on|phone” animation_style=”zoom” animation_intensity_zoom=”8%” animation=”off” border_radii=”on|10px|10px|10px|10px” border_radii_image=”on|100%|100%|100%|100%” box_shadow_style=”preset1″ box_shadow_blur=”70px” box_shadow_color=”rgba(110,130,208,0.18)” icon_font_size=”32px” use_circle=”on” circle_color=”rgba(122,105,230,0.3)” global_colors_info=”{}” image_icon_background_color__sticky_enabled=”#2ea3f2″ image_icon_background_color__sticky=”#2ea3f2″]
+Our holographic content adds a touch of the future to any setting. From straightforward projections to complex visual displays, provide a striking 3D experience, integrating with the surrounding environment to captivate your audience.
+[/et_pb_blurb][/et_pb_column][et_pb_column type=”1_3″ _builder_version=”4.16″ custom_padding=”|||” global_colors_info=”{}” custom_padding__hover=”|||”][et_pb_blurb title=”Video Mapping” use_icon=”on” font_icon=”||fa||900″ icon_color=”#7CDA24″ image_icon_background_color=”rgba(124,218,36,0.3)” image_icon_width=”32px” disabled_on=”on|on|off” _builder_version=”4.24.2″ header_font=”Roboto|700|||||||” header_font_size=”18px” header_line_height=”1.7em” body_font=”||||||||” body_line_height=”1.8em” background_color=”#ffffff” image_icon_custom_padding=”25px|25px|25px|25px|false|false” text_orientation=”center” module_alignment=”left” custom_margin=”||0px|” custom_padding=”30px|20px|40px|20px|false|true” custom_padding_phone=”39px|||” custom_padding_last_edited=”off|desktop” animation_style=”zoom” animation_intensity_zoom=”8%” animation=”off” border_radii=”on|10px|10px|10px|10px” border_radii_image=”on|100%|100%|100%|100%” box_shadow_style=”preset1″ box_shadow_blur=”70px” box_shadow_color=”rgba(110,130,208,0.18)” icon_font_size=”32px” use_circle=”on” circle_color=”rgba(250,94,93,0.3)” global_colors_info=”{}” image_icon_background_color__sticky_enabled=”#2ea3f2″ image_icon_background_color__sticky=”#2ea3f2″]
+Video mapping transforms objects into dynamic video surfaces, adding dimension and depth to events. We create captivating, custom experiences with this technology, turning any surface into a visual story.
+[/et_pb_blurb][/et_pb_column][et_pb_column type=”1_3″ _builder_version=”4.16″ custom_padding=”|||” global_colors_info=”{}” custom_padding__hover=”|||”][et_pb_blurb title=”Immersive Environments” use_icon=”on” font_icon=”||fa||900″ icon_color=”#0C71C3″ image_icon_background_color=”rgba(12,113,195,0.3)” image_icon_width=”32px” disabled_on=”on|on|off” _builder_version=”4.24.2″ header_font=”Roboto|700|||||||” header_font_size=”18px” header_line_height=”1.7em” body_font=”||||||||” body_line_height=”1.8em” background_color=”#ffffff” image_icon_custom_padding=”25px|25px|25px|25px|false|false” text_orientation=”center” module_alignment=”left” custom_margin=”||0px|” custom_padding=”30px|20px|40px|20px|false|true” custom_padding_tablet=”” custom_padding_phone=”” custom_padding_last_edited=”on|phone” animation_style=”zoom” animation_intensity_zoom=”8%” animation=”off” border_radii=”on|10px|10px|10px|10px” border_radii_image=”on|100%|100%|100%|100%” box_shadow_style=”preset1″ box_shadow_blur=”70px” box_shadow_color=”rgba(110,130,208,0.18)” icon_font_size=”32px” use_circle=”on” circle_color=”rgba(249,141,94,0.3)” global_colors_info=”{}” image_icon_background_color__sticky_enabled=”#2ea3f2″ image_icon_background_color__sticky=”#2ea3f2″]
+This is a visual effect that creates an illusion of being in a different artificial reality by altering depth perception and creating a 3d effect. Not only by LED displays but through the right way of creating the visuals.
+[/et_pb_blurb][/et_pb_column][/et_pb_row][/et_pb_section][et_pb_section fb_built=”1″ custom_padding_last_edited=”on|phone” disabled_on=”on|on|off” _builder_version=”4.24.2″ custom_padding=”54px|0px|80px|0px|false|false” custom_padding_tablet=”0px||40px||false|false” custom_padding_phone=”0px||0px||false|false” global_colors_info=”{}”][et_pb_row _builder_version=”4.16″ global_colors_info=”{}”][et_pb_column type=”4_4″ _builder_version=”4.16″ custom_padding=”|||” global_colors_info=”{}” custom_padding__hover=”|||”][et_pb_text _builder_version=”4.24.0″ text_font=”||||||||” text_font_size=”16px” text_line_height=”2em” ul_font=”||||||||” header_font=”||||||||” header_2_font=”Roboto|700|||||||” header_2_font_size=”45px” header_2_line_height=”1.2em” header_3_font=”||||||||” text_orientation=”center” max_width=”800px” max_width_last_edited=”off|desktop” module_alignment=”center” custom_margin=”|||” custom_padding=”|||” header_2_font_size_tablet=”35px” header_2_font_size_phone=”28px” header_2_font_size_last_edited=”on|phone” global_colors_info=”{}”]
+Gallery
+Digilight has been the secret ingredient in transforming events into unforgettable experiences. Our LED displays have added that extra sparkle to conferences, weddings, and more. See how we’ve lit up various occasions with brilliance and style!
+[/et_pb_text][et_pb_button button_url=”https://dxbproductions.com/gallery” url_new_window=”on” button_text=”View Gallery” button_alignment=”center” _builder_version=”4.24.2″ button_text_size=”14px” button_bg_use_color_gradient=”on” button_bg_color_gradient_direction=”90deg” button_bg_color_gradient_stops=”#0c71c3 0%|#3cccfc 100%” button_bg_color_gradient_start=”#f7828e” button_bg_color_gradient_end=”#fcb6ab” button_border_width=”0px” button_border_color=”rgba(0,0,0,0)” button_border_radius=”4px” button_letter_spacing=”5px” button_font=”Roboto|700||on|||||” background_layout=”dark” custom_margin=”|||” custom_padding=”11px|34px|11px|34px|true|true” box_shadow_style=”preset3″ box_shadow_vertical=”20px” box_shadow_blur=”30px” box_shadow_spread=”-10px” box_shadow_color=”#0C71C3″ button_letter_spacing_hover=”5.5px” locked=”off” global_colors_info=”{}” button_text_size__hover_enabled=”off” button_one_text_size__hover_enabled=”off” button_two_text_size__hover_enabled=”off” button_text_color__hover_enabled=”off” button_one_text_color__hover_enabled=”off” button_two_text_color__hover_enabled=”off” button_border_width__hover_enabled=”off” button_one_border_width__hover_enabled=”off” button_two_border_width__hover_enabled=”off” button_border_color__hover_enabled=”off” button_one_border_color__hover_enabled=”off” button_two_border_color__hover_enabled=”off” button_border_radius__hover_enabled=”off” button_one_border_radius__hover_enabled=”off” button_two_border_radius__hover_enabled=”off” button_letter_spacing__hover_enabled=”on” button_letter_spacing__hover=”5.5px” button_one_letter_spacing__hover_enabled=”off” button_two_letter_spacing__hover_enabled=”off” button_bg_color__hover_enabled=”off” button_one_bg_color__hover_enabled=”off” button_two_bg_color__hover_enabled=”off”][/et_pb_button][/et_pb_column][/et_pb_row][et_pb_row disabled_on=”on|on|on” _builder_version=”4.25.1″ _module_preset=”default” disabled=”on” global_colors_info=”{}”][et_pb_column type=”4_4″ _builder_version=”4.25.1″ _module_preset=”default” global_colors_info=”{}”][et_pb_code _builder_version=”4.25.1″ _module_preset=”default” global_colors_info=”{}”]
+
+
+
+
+You’re in Good Company
+
+
+
+
+
+
+
+
+
+
+[/et_pb_code][/et_pb_column][/et_pb_row][/et_pb_section][et_pb_section fb_built=”1″ custom_padding_last_edited=”off|desktop” next_background_color=”#ffffff” admin_label=”Connect with users” _builder_version=”4.24.2″ background_enable_color=”off” use_background_color_gradient=”on” background_color_gradient_direction=”130deg” background_color_gradient_stops=”#00a6e8 22%|#3cccfc 100%” background_color_gradient_start=”#5800d3″ background_color_gradient_start_position=”25%” background_color_gradient_end=”#490077″ background_size=”initial” max_width_tablet=”” max_width_phone=”” max_width_last_edited=”on|desktop” custom_margin=”100px||-2px|||” custom_margin_tablet=”80px||||false|false” custom_margin_phone=”30px||||false|false” custom_margin_last_edited=”on|phone” custom_padding=”0||0||false|false” custom_padding_tablet=”|||” bottom_divider_style=”ramp2″ bottom_divider_height=”480px” bottom_divider_height_tablet=”150px” bottom_divider_height_phone=”110px” bottom_divider_height_last_edited=”on|desktop” global_colors_info=”{}”][et_pb_row disabled_on=”on|on|off” _builder_version=”4.24.2″ _module_preset=”default” global_colors_info=”{}”][et_pb_column type=”4_4″ _builder_version=”4.24.2″ _module_preset=”default” global_colors_info=”{}”][et_pb_image src=”https://dxbproductions.com/wp-content/uploads/2024/04/Digilight-Direct-LED-Supplier-Dubai-1.gif” alt=”Digilight Direct LED Supplier Dubai)” title_text=”Digilight Direct LED Supplier Dubai” _builder_version=”4.24.2″ _module_preset=”default” width=”80%” max_width=”80%” module_alignment=”center” custom_margin=”-5vw||||false|false” border_radii=”on|8px|8px|8px|8px” global_colors_info=”{}”][/et_pb_image][/et_pb_column][/et_pb_row][et_pb_row column_structure=”2_3,1_3″ use_custom_gutter=”on” gutter_width=”2″ admin_label=”connect with users Row” _builder_version=”4.24.2″ max_width=”1440px” custom_margin=”4vw||||false|false” custom_padding=”|0px|0|0px|false|false” use_custom_width=”on” custom_width_px=”1440px” global_colors_info=”{}”][et_pb_column type=”2_3″ _builder_version=”4.16″ custom_padding=”|5%||” global_colors_info=”{}” custom_padding__hover=”|||”][et_pb_image src=”https://dxbproductions.com/wp-content/uploads/2024/03/Digilight-dubai-direct-led-supplier-indoor-and-outdoor-led-displays.png” title_text=”Digilight dubai direct led supplier indoor and outdoor led displays” align=”right” align_tablet=”center” align_phone=”center” align_last_edited=”on|desktop” _builder_version=”4.25.0″ width=”85%” max_width=”85%” max_width_tablet=”85%” max_width_phone=”85%” max_width_last_edited=”on|phone” module_alignment=”left” min_height=”70%” min_height_tablet=”70%” min_height_phone=”65px” min_height_last_edited=”on|phone” height=”65%” height_tablet=”65%” height_phone=”65%” height_last_edited=”on|phone” max_height=”70%” max_height_tablet=”70%” max_height_phone=”65%” max_height_last_edited=”on|phone” custom_margin=”||-10%|” animation_direction=”left” scroll_vertical_motion_enable=”on” scroll_vertical_motion=”0|50|50|100|1.5|0|-1.5″ module_alignment_tablet=”center” module_alignment_phone=”center” module_alignment_last_edited=”on|desktop” global_colors_info=”{}”][/et_pb_image][/et_pb_column][et_pb_column type=”1_3″ _builder_version=”4.16″ custom_padding=”5%||5%|” custom_padding_tablet=”30%|15%|20%|12%” custom_padding_phone=”60%|10%|30%|” custom_padding_last_edited=”off|desktop” global_colors_info=”{}” padding_phone=”60%|10%|30%|” padding_tablet=”30%|15%|20%|12%” padding_last_edited=”off|desktop” custom_padding__hover=”|||”][et_pb_text _builder_version=”4.25.1″ text_font=”||||||||” text_font_size=”16px” text_line_height=”2em” quote_font=”||||||||” header_font=”||||||||” header_text_color=”#ffffff” header_2_font=”Roboto|700|||||||” header_2_text_color=”#FFFFFF” header_2_font_size=”38px” header_2_line_height=”1.2em” header_3_font=”||||||||” background_layout=”dark” max_width_tablet=”” max_width_phone=”” max_width_last_edited=”on|desktop” module_alignment=”center” custom_margin=”|||” custom_padding=”|||” header_2_font_size_tablet=”35px” header_2_font_size_phone=”28px” header_2_font_size_last_edited=”on|phone” global_colors_info=”{}”]
+Indoor & Outdoor LED Displays.
+Experience brilliance indoors with Digilight’s Indoor LED Displays, delivering stunning clarity and captivating visuals. Step into the limelight outdoors with our Outdoor LED Displays, designed for durability and unparalleled brightness. Elevate your events with Digilight’s LED Displays, offering superior image quality and reliability for unforgettable visual experiences.
+
+[/et_pb_text][et_pb_button button_url=”https://dxbproductions.com/shop” url_new_window=”on” button_text=”View All” button_alignment=”left” _builder_version=”4.24.2″ button_text_size=”14px” button_bg_use_color_gradient=”on” button_bg_color_gradient_direction=”90deg” button_bg_color_gradient_stops=”#0c71c3 0%|#3cccfc 100%” button_bg_color_gradient_start=”#f7828e” button_bg_color_gradient_end=”#fcb6ab” button_border_width=”0px” button_border_color=”rgba(0,0,0,0)” button_border_radius=”4px” button_letter_spacing=”5px” button_font=”Roboto|700||on|||||” background_layout=”dark” custom_margin=”|||” custom_padding=”11px|34px|11px|34px|true|true” box_shadow_style=”preset3″ box_shadow_vertical=”20px” box_shadow_blur=”30px” box_shadow_spread=”-10px” box_shadow_color=”#0C71C3″ button_letter_spacing_hover=”5.5px” global_colors_info=”{}” button_text_size__hover_enabled=”off” button_one_text_size__hover_enabled=”off” button_two_text_size__hover_enabled=”off” button_text_color__hover_enabled=”off” button_one_text_color__hover_enabled=”off” button_two_text_color__hover_enabled=”off” button_border_width__hover_enabled=”off” button_one_border_width__hover_enabled=”off” button_two_border_width__hover_enabled=”off” button_border_color__hover_enabled=”off” button_one_border_color__hover_enabled=”off” button_two_border_color__hover_enabled=”off” button_border_radius__hover_enabled=”off” button_one_border_radius__hover_enabled=”off” button_two_border_radius__hover_enabled=”off” button_letter_spacing__hover_enabled=”on” button_letter_spacing__hover=”5.5px” button_one_letter_spacing__hover_enabled=”off” button_two_letter_spacing__hover_enabled=”off” button_bg_color__hover_enabled=”off” button_one_bg_color__hover_enabled=”off” button_two_bg_color__hover_enabled=”off”][/et_pb_button][/et_pb_column][/et_pb_row][/et_pb_section][et_pb_section fb_built=”1″ custom_padding_last_edited=”off|desktop” admin_label=”Case Study” _builder_version=”4.16″ use_background_color_gradient=”on” background_color_gradient_stops=”#ffffff 0%|#F2F2FA 50%” background_color_gradient_start=”#ffffff” background_color_gradient_end=”#F2F2FA” background_color_gradient_end_position=”50%” background_size=”initial” custom_padding=”5px|||||” custom_padding_tablet=”0px||0px|0px” custom_padding_phone=”|||” bottom_divider_style=”ramp” bottom_divider_color=”#ffffff” bottom_divider_height=”250px” bottom_divider_flip=”horizontal” bottom_divider_height_tablet=”150px” bottom_divider_height_phone=”110px” bottom_divider_height_last_edited=”on|phone” global_colors_info=”{}”][et_pb_row column_structure=”1_3,2_3″ use_custom_gutter=”on” _builder_version=”4.16″ width=”90%” max_width=”90%” module_alignment=”center” custom_margin=”|0%||” custom_padding=”|||” use_custom_width=”on” width_unit=”off” custom_width_percent=”90%” global_colors_info=”{}”][et_pb_column type=”1_3″ _builder_version=”4.16″ custom_padding=”60px|||5%” custom_padding_tablet=”|66px||12%” custom_padding_phone=”|50px||12%” custom_padding_last_edited=”off|desktop” global_colors_info=”{}” padding_phone=”|50px||12%” padding_tablet=”|66px||12%” padding_last_edited=”off|desktop” custom_padding__hover=”|||”][et_pb_text _builder_version=”4.25.1″ text_font=”||||||||” text_font_size=”16px” text_line_height=”2em” ul_font=”||||||||” ul_text_color=”#000000″ ul_line_height=”2em” quote_font=”||||||||” header_font=”||||||||” header_2_font=”Roboto|700|||||||” header_2_font_size=”38px” header_2_line_height=”1.2em” header_3_font=”|||on|||||” header_3_text_color=”#c1c1c1″ header_3_font_size=”20px” header_3_letter_spacing=”4px” header_3_line_height=”1.6em” max_width_tablet=”” max_width_phone=”” max_width_last_edited=”on|desktop” module_alignment=”center” custom_margin=”|||” custom_margin_tablet=”|||” custom_margin_phone=”-3vw||||false|false” custom_margin_last_edited=”on|phone” custom_padding=”|||” header_2_font_size_tablet=”35px” header_2_font_size_phone=”28px” header_2_font_size_last_edited=”on|phone” global_colors_info=”{}”]
+Transparent & Light-Weight LED Displays.
+Illuminate your space with transparency using Digilight’s lightweight LED Displays, blending seamlessly into any environment. Our transparent LED Displays offer stunning visuals with minimal impact, perfect for creating captivating displays in any setting. Experience the future of visual technology with Digilight’s transparent LED Displays, combining innovation with elegance for unmatched versatility.
+[/et_pb_text][et_pb_button button_url=”https://dxbproductions.com/shop” url_new_window=”on” button_text=”View All” button_alignment=”left” _builder_version=”4.24.2″ button_text_size=”14px” button_bg_use_color_gradient=”on” button_bg_color_gradient_direction=”90deg” button_bg_color_gradient_stops=”#0c71c3 0%|#3cccfc 100%” button_bg_color_gradient_start=”#f7828e” button_bg_color_gradient_end=”#fcb6ab” button_border_width=”0px” button_border_color=”rgba(0,0,0,0)” button_border_radius=”4px” button_letter_spacing=”5px” button_font=”Roboto|700||on|||||” background_layout=”dark” custom_margin=”|||” custom_padding=”11px|34px|11px|34px|true|true” box_shadow_style=”preset3″ box_shadow_vertical=”20px” box_shadow_blur=”30px” box_shadow_spread=”-10px” box_shadow_color=”#0C71C3″ button_letter_spacing_hover=”5.5px” global_colors_info=”{}” button_text_size__hover_enabled=”off” button_one_text_size__hover_enabled=”off” button_two_text_size__hover_enabled=”off” button_text_color__hover_enabled=”off” button_one_text_color__hover_enabled=”off” button_two_text_color__hover_enabled=”off” button_border_width__hover_enabled=”off” button_one_border_width__hover_enabled=”off” button_two_border_width__hover_enabled=”off” button_border_color__hover_enabled=”off” button_one_border_color__hover_enabled=”off” button_two_border_color__hover_enabled=”off” button_border_radius__hover_enabled=”off” button_one_border_radius__hover_enabled=”off” button_two_border_radius__hover_enabled=”off” button_letter_spacing__hover_enabled=”on” button_letter_spacing__hover=”5.5px” button_one_letter_spacing__hover_enabled=”off” button_two_letter_spacing__hover_enabled=”off” button_bg_color__hover_enabled=”off” button_one_bg_color__hover_enabled=”off” button_two_bg_color__hover_enabled=”off”][/et_pb_button][/et_pb_column][et_pb_column type=”2_3″ _builder_version=”4.16″ custom_padding=”|||” custom_padding_tablet=”0px|||” custom_padding_last_edited=”off|desktop” global_colors_info=”{}” padding_tablet=”0px|||” padding_last_edited=”off|desktop” custom_padding__hover=”|||”][et_pb_image src=”https://dxbproductions.com/wp-content/uploads/2024/03/Digilight-dubai-direct-led-supplier-transparent-led-displays.png” title_text=”Digilight dubai direct led supplier, transparent led displays” align=”right” align_tablet=”center” align_phone=”right” align_last_edited=”on|phone” _builder_version=”4.25.0″ width=”80%” max_width=”80%” module_alignment=”left” animation_direction=”right” scroll_vertical_motion_enable=”on” scroll_vertical_motion=”0|50|50|100|1.5|0|-1.5″ global_colors_info=”{}”][/et_pb_image][/et_pb_column][/et_pb_row][/et_pb_section][et_pb_section fb_built=”1″ disabled_on=”on|on|on” admin_label=”Trusted By” _builder_version=”4.25.1″ background_enable_color=”off” module_alignment=”right” custom_padding=”2px|0px|2px|0px|true|false” disabled=”on” global_colors_info=”{}”][et_pb_row column_structure=”2_5,3_5″ _builder_version=”4.24.2″ max_width=”80%” global_colors_info=”{}”][et_pb_column type=”2_5″ _builder_version=”4.16″ custom_padding=”|||” global_colors_info=”{}” custom_padding__hover=”|||”][et_pb_text _builder_version=”4.24.2″ text_font=”Roboto||||||||” text_text_color=”#3f3f3f” text_font_size=”18px” text_line_height=”1.8em” header_font=”||||||||” header_2_font=”Montserrat|700|||||||” header_2_font_size=”40px” header_2_line_height=”1.4em” header_6_font=”Montserrat|600||on|||||” header_6_font_size=”16px” header_6_letter_spacing=”2px” header_6_line_height=”1.5em” background_layout=”dark” custom_margin=”17px|||||” header_2_font_size_tablet=”” header_2_font_size_phone=”24px” header_2_font_size_last_edited=”on|phone” global_colors_info=”{}”]
+Since 1997, Digilight specializes in providing LED display solutions that transform spaces and captivate audiences. Our vast inventory and position as a direct supplier of LED screens enable us to meet the diverse needs of our clients with precision and creativity.
+[/et_pb_text][/et_pb_column][et_pb_column type=”3_5″ _builder_version=”4.16″ custom_padding=”|||” global_colors_info=”{}” custom_padding__hover=”|||”][et_pb_text content_tablet=”
+Our expertise extends to creating dynamic animated video content, ensuring that each project we undertake is not only visually striking but also uniquely engaging.
+” content_phone=”
+Our expertise extends to creating dynamic animated video content, ensuring that each project we undertake is not only visually striking but also uniquely engaging.
+” content_last_edited=”on|tablet” _builder_version=”4.24.2″ text_font=”Roboto||||||||” text_text_color=”#3f3f3f” text_font_size=”18px” text_line_height=”1.8em” header_font=”||||||||” header_2_font=”Montserrat|700|||||||” header_2_font_size=”40px” header_2_line_height=”1.4em” header_6_font=”Montserrat|600||on|||||” header_6_font_size=”16px” header_6_letter_spacing=”2px” header_6_line_height=”1.5em” background_layout=”dark” custom_margin=”17px||27px|||” header_2_font_size_tablet=”” header_2_font_size_phone=”24px” header_2_font_size_last_edited=”on|phone” global_colors_info=”{}”]
+Our expertise extends to creating dynamic animated video content, ensuring that each project we undertake is not only visually striking but also uniquely engaging.
+[/et_pb_text][et_pb_button button_url=”https://dxbproductions.com/about” url_new_window=”on” button_text=”about us” button_alignment=”right” button_alignment_tablet=”center” button_alignment_phone=”center” button_alignment_last_edited=”on|phone” _builder_version=”4.24.2″ button_text_size=”14px” button_bg_use_color_gradient=”on” button_bg_color_gradient_direction=”90deg” button_bg_color_gradient_stops=”#0c71c3 0%|#3cccfc 100%” button_bg_color_gradient_start=”#f7828e” button_bg_color_gradient_end=”#fcb6ab” button_border_width=”0px” button_border_color=”rgba(0,0,0,0)” button_border_radius=”4px” button_letter_spacing=”5px” button_font=”Roboto|700||on|||||” background_layout=”dark” custom_margin=”|||” custom_padding=”11px|34px|11px|34px|true|true” box_shadow_style=”preset3″ box_shadow_vertical=”20px” box_shadow_blur=”30px” box_shadow_spread=”-10px” box_shadow_color=”#0C71C3″ button_letter_spacing_hover=”5.5px” global_colors_info=”{}” button_text_size__hover_enabled=”off” button_one_text_size__hover_enabled=”off” button_two_text_size__hover_enabled=”off” button_text_color__hover_enabled=”off” button_one_text_color__hover_enabled=”off” button_two_text_color__hover_enabled=”off” button_border_width__hover_enabled=”off” button_one_border_width__hover_enabled=”off” button_two_border_width__hover_enabled=”off” button_border_color__hover_enabled=”off” button_one_border_color__hover_enabled=”off” button_two_border_color__hover_enabled=”off” button_border_radius__hover_enabled=”off” button_one_border_radius__hover_enabled=”off” button_two_border_radius__hover_enabled=”off” button_letter_spacing__hover_enabled=”on” button_letter_spacing__hover=”5.5px” button_one_letter_spacing__hover_enabled=”off” button_two_letter_spacing__hover_enabled=”off” button_bg_color__hover_enabled=”off” button_one_bg_color__hover_enabled=”off” button_two_bg_color__hover_enabled=”off”][/et_pb_button][/et_pb_column][/et_pb_row][/et_pb_section][et_pb_section fb_built=”1″ disabled_on=”on|on|on” admin_label=”Shop” _builder_version=”4.24.2″ background_color=”#FFFFFF” custom_padding=”0|0px|54px|0px|false|false” top_divider_color=”#ffffff” top_divider_height=”150px” top_divider_flip=”vertical” disabled=”on” global_colors_info=”{}”][et_pb_row _builder_version=”4.24.2″ custom_margin=”||||false|false” global_colors_info=”{}”][et_pb_column type=”4_4″ _builder_version=”4.16″ custom_padding=”|||” global_colors_info=”{}” custom_padding__hover=”|||”][et_pb_text _builder_version=”4.24.2″ text_font=”Montserrat||||||||” text_font_size=”16px” text_line_height=”1.8em” link_font=”Montserrat|700|||||||” link_text_color=”#fa546d” link_font_size=”22px” link_line_height=”1.5em” ul_font=”||||||||” header_font=”||||||||” header_2_font=”Montserrat|700|||||||” header_2_font_size=”40px” header_2_line_height=”1.4em” header_6_font=”Montserrat|600||on|||||” header_6_text_color=”#24d9e2″ header_6_font_size=”16px” header_6_letter_spacing=”2px” header_6_line_height=”1.5em” text_orientation=”center” max_width=”700px” max_width_last_edited=”off|desktop” module_alignment=”center” custom_margin=”||||false|false” custom_padding=”|||” header_2_font_size_tablet=”” header_2_font_size_phone=”24px” header_2_font_size_last_edited=”on|phone” global_colors_info=”{}”]
+Featured Products
+[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row column_structure=”1_3,1_3,1_3″ _builder_version=”4.24.0″ _module_preset=”default” global_colors_info=”{}”][et_pb_column type=”1_3″ _builder_version=”4.24.0″ _module_preset=”default” global_colors_info=”{}”][et_pb_blurb title=”Carbon Fiber Transparent” url=”https://dxbproductions.com/cbtled” url_new_window=”on” image=”https://dxbproductions.com/wp-content/uploads/2024/02/jrvisualtec-carbon-fiber-transparent-led-display-1000x500mm-4.jpg” _builder_version=”4.24.0″ _module_preset=”default” header_text_align=”center” animation=”off” global_colors_info=”{}”][/et_pb_blurb][/et_pb_column][et_pb_column type=”1_3″ _builder_version=”4.24.0″ _module_preset=”default” global_colors_info=”{}”][et_pb_blurb title=”Starlink Transparent” url=”https://dxbproductions.com/starlink” url_new_window=”on” image=”https://dxbproductions.com/wp-content/uploads/2024/01/Starlink-Transparent-LED-Display-Digilight-Direct-LED-Supplier-in-Dubai-1-1.jpg” alt=”Starlink Transparent LED Display, Digilight Direct LED Supplier in Dubai 1 (1)” _builder_version=”4.24.0″ _module_preset=”default” header_text_align=”center” animation=”off” global_colors_info=”{}”][/et_pb_blurb][/et_pb_column][et_pb_column type=”1_3″ _builder_version=”4.24.0″ _module_preset=”default” global_colors_info=”{}”][et_pb_blurb title=”I-soft Flexible Module” url=”https://dxbproductions.com/isoft” url_new_window=”on” image=”https://dxbproductions.com/wp-content/uploads/2024/02/1-5.jpg” _builder_version=”4.24.0″ _module_preset=”default” header_text_align=”center” animation=”off” global_colors_info=”{}”][/et_pb_blurb][/et_pb_column][/et_pb_row][et_pb_row _builder_version=”4.24.0″ _module_preset=”default” global_colors_info=”{}”][et_pb_column type=”4_4″ _builder_version=”4.24.0″ _module_preset=”default” global_colors_info=”{}”][et_pb_button button_url=”https://dxbproductions.com/services” url_new_window=”on” button_text=”All Services” button_alignment=”center” _builder_version=”4.24.2″ button_text_size=”14px” button_bg_use_color_gradient=”on” button_bg_color_gradient_direction=”90deg” button_bg_color_gradient_stops=”#0c71c3 0%|#3cccfc 100%” button_bg_color_gradient_start=”#f7828e” button_bg_color_gradient_end=”#fcb6ab” button_border_width=”0px” button_border_color=”rgba(0,0,0,0)” button_border_radius=”4px” button_letter_spacing=”5px” button_font=”Roboto|700||on|||||” background_layout=”dark” custom_margin=”|||” custom_padding=”18px|34px|18px|34px|true|true” box_shadow_style=”preset3″ box_shadow_vertical=”20px” box_shadow_blur=”30px” box_shadow_spread=”-10px” box_shadow_color=”#0C71C3″ button_letter_spacing_hover=”5.5px” global_colors_info=”{}” button_text_size__hover_enabled=”off” button_one_text_size__hover_enabled=”off” button_two_text_size__hover_enabled=”off” button_text_color__hover_enabled=”off” button_one_text_color__hover_enabled=”off” button_two_text_color__hover_enabled=”off” button_border_width__hover_enabled=”off” button_one_border_width__hover_enabled=”off” button_two_border_width__hover_enabled=”off” button_border_color__hover_enabled=”off” button_one_border_color__hover_enabled=”off” button_two_border_color__hover_enabled=”off” button_border_radius__hover_enabled=”off” button_one_border_radius__hover_enabled=”off” button_two_border_radius__hover_enabled=”off” button_letter_spacing__hover_enabled=”on” button_letter_spacing__hover=”5.5px” button_one_letter_spacing__hover_enabled=”off” button_two_letter_spacing__hover_enabled=”off” button_bg_color__hover_enabled=”off” button_one_bg_color__hover_enabled=”off” button_two_bg_color__hover_enabled=”off”][/et_pb_button][/et_pb_column][/et_pb_row][/et_pb_section]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Got a PROJECT
+
+
+
+
+
+
+
+IN MIND?
+
+
+
+
+
+
+
+
+Let's Talk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+@digilight
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vimeo
+
+
+
+
+
+
+@digilight
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instagram
+
+
+
+
+
+
+@digilightdxb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Youtube
+
+
+
+
+
+
+@digilight
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright © 1997 – 2025 Digital Light Advertising LLC. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

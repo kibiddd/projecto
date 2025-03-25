@@ -1,0 +1,18 @@
+   Domain Name: ZUFLOCOIN.NET
+   Registry Domain ID: 2751676405_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2025-02-27T07:03:13Z
+   Creation Date: 2023-01-16T07:00:53Z
+   Registry Expiry Date: 2025-01-16T07:00:53Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: redemptionPeriod https://icann.org/epp#redemptionPeriod
+   Name Server: DNS101.REGISTRAR-SERVERS.COM
+   Name Server: DNS102.REGISTRAR-SERVERS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-23T21:59:47Z 

@@ -1,0 +1,20 @@
+Domain Name: yescoin.world
+Registry Domain ID: 2dc33f53e60043b882abf15cede52341-DONUTS
+Registrar WHOIS Server: whois.godaddy.com/
+Registrar URL: http://www.godaddy.com/domains/search.aspx?ci=8990
+Updated Date: 2024-12-15T15:56:01Z
+Creation Date: 2024-12-10T15:55:44Z
+Registry Expiry Date: 2025-12-10T15:55:44Z
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Name Server: ns73.domaincontrol.com
+Name Server: ns74.domaincontrol.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-24T00:00:21Z 

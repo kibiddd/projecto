@@ -1,0 +1,28 @@
+Domain Name: YDXPRODEFI.XYZ
+Registry Domain ID: D342830184-CNIC
+Registrar WHOIS Server: whois.name.com
+Registrar URL: http://www.name.com/
+Updated Date: 2025-02-23T07:52:47.0Z
+Creation Date: 2023-01-10T15:50:49.0Z
+Registry Expiry Date: 2025-01-10T23:59:59.0Z
+Registrar: Name.com, Inc
+Registrar IANA ID: 625
+Domain Status: pendingDelete https://icann.org/epp#pendingDelete
+Domain Status: serverHold https://icann.org/epp#serverHold
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: inactive https://icann.org/epp#inactive
+Domain Status: redemptionPeriod https://icann.org/epp#redemptionPeriod
+Registrant Organization: Domain Protection Services, Inc.
+Registrant State/Province: CO
+Registrant Country: US
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server:
+DNSSEC: unsigned
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: abuse@name.com
+Registrar Abuse Contact Phone: +1.7203101849
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-23T23:56:12.0Z 

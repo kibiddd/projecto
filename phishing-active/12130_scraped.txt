@@ -1,0 +1,78 @@
+
+Deprecated:  Return type of Illuminate\Container\Container::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/ital/2.ital.z8.ru/docs/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1182
+
+Deprecated:  Return type of Illuminate\Container\Container::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/ital/2.ital.z8.ru/docs/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1193
+
+Deprecated:  Return type of Illuminate\Container\Container::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/ital/2.ital.z8.ru/docs/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1205
+
+Deprecated:  Return type of Illuminate\Container\Container::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/ital/2.ital.z8.ru/docs/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1218
+
+Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/ital/2.ital.z8.ru/docs/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 811
+
+Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/ital/2.ital.z8.ru/docs/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 885
+
+Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/ital/2.ital.z8.ru/docs/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 811
+
+Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/ital/2.ital.z8.ru/docs/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 885
+
+Deprecated:  Return type of Illuminate\Routing\RouteCollection::count() should either be compatible with Countable::count(): int, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/ital/2.ital.z8.ru/docs/vendor/laravel/framework/src/Illuminate/Routing/RouteCollection.php on line 347
+
+Deprecated:  Return type of Illuminate\Routing\RouteCollection::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/ital/2.ital.z8.ru/docs/vendor/laravel/framework/src/Illuminate/Routing/RouteCollection.php on line 337
+
+Deprecated:  Return type of Illuminate\Http\Request::offsetExists($offset) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/ital/2.ital.z8.ru/docs/vendor/laravel/framework/src/Illuminate/Http/Request.php on line 557
+
+Deprecated:  Return type of Illuminate\Http\Request::offsetGet($offset) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/ital/2.ital.z8.ru/docs/vendor/laravel/framework/src/Illuminate/Http/Request.php on line 570
+
+Deprecated:  Return type of Illuminate\Http\Request::offsetSet($offset, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/ital/2.ital.z8.ru/docs/vendor/laravel/framework/src/Illuminate/Http/Request.php on line 582
+
+Deprecated:  Return type of Illuminate\Http\Request::offsetUnset($offset) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/ital/2.ital.z8.ru/docs/vendor/laravel/framework/src/Illuminate/Http/Request.php on line 593
+
+Deprecated:  Return type of Symfony\Component\HttpFoundation\ParameterBag::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/ital/2.ital.z8.ru/docs/vendor/symfony/http-foundation/ParameterBag.php on line 222
+
+Deprecated:  Return type of Symfony\Component\HttpFoundation\ParameterBag::count() should either be compatible with Countable::count(): int, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/ital/2.ital.z8.ru/docs/vendor/symfony/http-foundation/ParameterBag.php on line 232
+
+Deprecated:  Return type of Symfony\Component\HttpFoundation\HeaderBag::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/ital/2.ital.z8.ru/docs/vendor/symfony/http-foundation/HeaderBag.php on line 272
+
+Deprecated:  Return type of Symfony\Component\HttpFoundation\HeaderBag::count() should either be compatible with Countable::count(): int, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/ital/2.ital.z8.ru/docs/vendor/symfony/http-foundation/HeaderBag.php on line 282
+
+Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/ital/2.ital.z8.ru/docs/vendor/symfony/http-foundation/Request.php on line 317
+
+Deprecated:  mb_strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/ital/2.ital.z8.ru/docs/vendor/laravel/framework/src/Illuminate/Support/Str.php on line 103
+
+Deprecated:  mb_strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/ital/2.ital.z8.ru/docs/vendor/laravel/framework/src/Illuminate/Support/Str.php on line 103
+
+Deprecated:  auto_detect_line_endings is deprecated in /home/ital/2.ital.z8.ru/docs/vendor/vlucas/phpdotenv/src/Loader.php on line 134
+
+Deprecated:  Return type of Illuminate\Config\Repository::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/ital/2.ital.z8.ru/docs/vendor/laravel/framework/src/Illuminate/Config/Repository.php on line 141
+
+Deprecated:  Return type of Illuminate\Config\Repository::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/ital/2.ital.z8.ru/docs/vendor/laravel/framework/src/Illuminate/Config/Repository.php on line 152
+
+Deprecated:  Return type of Illuminate\Config\Repository::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/ital/2.ital.z8.ru/docs/vendor/laravel/framework/src/Illuminate/Config/Repository.php on line 164
+
+Deprecated:  Return type of Illuminate\Config\Repository::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/ital/2.ital.z8.ru/docs/vendor/laravel/framework/src/Illuminate/Config/Repository.php on line 175
+
+Deprecated:  Return type of Symfony\Component\Finder\Finder::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/ital/2.ital.z8.ru/docs/vendor/symfony/finder/Finder.php on line 561
+
+Deprecated:  Return type of Symfony\Component\Finder\Finder::count() should either be compatible with Countable::count(): int, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/ital/2.ital.z8.ru/docs/vendor/symfony/finder/Finder.php on line 618
+
+Deprecated:  Return type of Symfony\Component\Finder\Iterator\FilterIterator::rewind() should either be compatible with FilterIterator::rewind(): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/ital/2.ital.z8.ru/docs/vendor/symfony/finder/Iterator/FilterIterator.php on line 30
+
+Deprecated:  Return type of Symfony\Component\Finder\Iterator\FileTypeFilterIterator::accept() should either be compatible with FilterIterator::accept(): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/ital/2.ital.z8.ru/docs/vendor/symfony/finder/Iterator/FileTypeFilterIterator.php on line 42
+
+Deprecated:  Return type of Symfony\Component\Finder\Iterator\RecursiveDirectoryIterator::getChildren() should either be compatible with RecursiveDirectoryIterator::getChildren(): RecursiveDirectoryIterator, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/ital/2.ital.z8.ru/docs/vendor/symfony/finder/Iterator/RecursiveDirectoryIterator.php on line 85
+
+Deprecated:  Return type of Symfony\Component\Finder\Iterator\RecursiveDirectoryIterator::rewind() should either be compatible with FilesystemIterator::rewind(): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/ital/2.ital.z8.ru/docs/vendor/symfony/finder/Iterator/RecursiveDirectoryIterator.php on line 113
+
+Deprecated:  Return type of Symfony\Component\Finder\Iterator\RecursiveDirectoryIterator::current() should either be compatible with FilesystemIterator::current(): SplFileInfo|FilesystemIterator|string, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/ital/2.ital.z8.ru/docs/vendor/symfony/finder/Iterator/RecursiveDirectoryIterator.php on line 65
+
+Deprecated:  Return type of Symfony\Component\Finder\Iterator\ExcludeDirectoryFilterIterator::accept() should either be compatible with FilterIterator::accept(): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/ital/2.ital.z8.ru/docs/vendor/symfony/finder/Iterator/ExcludeDirectoryFilterIterator.php on line 55
+
+Deprecated:  Return type of Symfony\Component\Finder\Iterator\ExcludeDirectoryFilterIterator::hasChildren() should either be compatible with RecursiveIterator::hasChildren(): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/ital/2.ital.z8.ru/docs/vendor/symfony/finder/Iterator/ExcludeDirectoryFilterIterator.php on line 71
+
+Deprecated:  Return type of Symfony\Component\Finder\Iterator\ExcludeDirectoryFilterIterator::getChildren() should either be compatible with RecursiveIterator::getChildren(): ?RecursiveIterator, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/ital/2.ital.z8.ru/docs/vendor/symfony/finder/Iterator/ExcludeDirectoryFilterIterator.php on line 76
+
+Deprecated:  Return type of Symfony\Component\Finder\Iterator\FilterIterator::rewind() should either be compatible with Iterator::rewind(): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/ital/2.ital.z8.ru/docs/vendor/symfony/finder/Iterator/FilterIterator.php on line 30
+
+Deprecated:  Return type of Symfony\Component\Finder\Iterator\FilenameFilterIterator::accept() should either be compatible with FilterIterator::accept(): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/ital/2.ital.z8.ru/docs/vendor/symfony/finder/Iterator/FilenameFilterIterator.php on line 28
+
+Deprecated:  Return type of Symfony\Component\Finder\Iterator\PathFilterIterator::accept() should either be compatible with FilterIterator::accept(): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/ital/2.ital.z8.ru/docs/vendor/symfony/finder/Iterator/PathFilterIterator.php on line 27

@@ -1,0 +1,161 @@
+{{ lang("開始交易") }}
+比較監管
+比较监管
+Regulation
+Giám sát
+規制を比較する
+法律文件
+項目總覽
+資金保障
+客戶支持
+相關資訊
+相关资讯
+Information
+Thông tin
+関連情報
+{{ lang("關於我們") }}
+{{ lang("聯絡我們") }}
+{{ lang("註冊") }}
+{{ lang("登出") }}
+{{ item.name }}
+{{ lang("登入") }}
+{{
+lang("註冊")
+}}
+{{ lang("會員列表") }}
+{{ lang("登出") }}
+{{webFoot}}
+{{urlChat}}
+{{ lang("關於我們") }}
+比較監管
+服务
+service
+dịch vụ
+サービス
+法律文件
+法律文件
+service
+dịch vụ
+サービス
+項目總攬
+項目總攬
+service
+dịch vụ
+サービス
+最新消息
+最新消息
+latest news
+tin mới nhất
+最新ニュース
+媒體報導
+媒体报道
+media reports
+Tin tức
+メディアレポート
+近期活動
+近期活动
+recent activities
+Tin tức
+最近の活動
+支援中心
+支持中心
+Support center
+Trung tâm hỗ trợ
+サポートセンター
+支援中心
+支持中心
+Support center
+Trung tâm hỗ trợ
+サポートセンター
+隱私權政策
+隐私权政策
+privacy policy
+Riêng tư
+個人情報保護方針
+使用者條款
+使用者条款
+User terms
+Điều kiện
+ユーザー規約
+聯絡我們
+联络我们
+contact us
+liên hệ chúng tôi
+お問い合わせ
+聯絡我們
+联络我们
+contact us
+liên hệ chúng tôi
+お問い合わせ
+常見問題
+{{ webFoot }}
+{{webTitle}}的使命在於為個人和機構客戶營造最好的、最為透明的交易環境從而使交易者能夠更專注於交易本身，同時致力於為交易者提供最優的點差、執行價格和服務。
+建议使用Chrome 74.0.3729.169，Firefox 67.0.1，Safari
+5.1.10或具有1024 x
+768（或更高）分辨率的屏幕的兼容浏览器，以获得最佳浏览体验。
+It is recommended to use Chrome 74.0.3729.169, Firefox
+67.0.1, Safari 5.1.10 or a compatible browser with a screen
+with 1024 x 768 (or higher) resolution for the best browsing
+experience.
+Bạn nên sử dụng Chrome 74.0.3729.169, Firefox 67.0.1, Safari
+5.1.10 hoặc trình duyệt tương thích với màn hình có độ phân
+giải 1024 x 768 (hoặc cao hơn) để có trải nghiệm duyệt web tốt
+nhất.
+最高のブラウジング体験を得るには、Chrome
+74.0.3729.169、Firefox 67.0.1、Safari 5.1.10、または1024 x
+768（またはそれ以上）の解像度の画面を備えた互換性のあるブラウザを使用することをお勧めします。
+免責聲明：此為高波動性投資產品！外匯期指交易並非適合任何人！
+請確保您知道其中的風險。{{webTitle}}
+不會對外匯期指交易提供任何建議與意見，且非為金融顧問，其所提供的任何服務皆基於公司運作。
+免责声明：这是一个高度波动的投资产品！加密货币交易不适合任何人！确保您知道所涉及的风险。该公司不会提供有关加密货币交易的任何建议或意见，也不是财务顾问，并且其提供的任何服务均基于公司的运营。
+Disclaimer: This is a highly volatile investment product!
+Cryptocurrency trading is not for anyone! Make sure you know
+the risks involved. The company will not provide any
+suggestions or opinions on cryptocurrency transactions, and is
+not a financial advisor, and any services it provides are
+based on the company's operations.
+Tuyên bố từ chối trách nhiệm: Đây là một sản phẩm đầu tư rất
+dễ bay hơi! Giao dịch tiền điện tử không dành cho bất kỳ ai!
+Hãy chắc chắn rằng bạn biết những rủi ro liên quan. Công ty sẽ
+không đưa ra bất kỳ đề xuất hoặc ý kiến ​​nào về các giao dịch
+tiền điện tử và không phải là cố vấn tài chính và bất kỳ dịch
+vụ nào mà công ty cung cấp đều dựa trên hoạt động của công
+ty.
+免責事項：これは非常にボラティリティの高い投資商品です！暗号通貨取引は誰のためでもありません！関係するリスクを知っていることを確認してください。同社は暗号通貨取引に関する提案や意見を提供することはなく、ファイナンシャルアドバイザーでもありません。また、提供するサービスは会社の運営に基づいています。
+新增 {{ webTitle }} 至桌面
+新增 {{ webTitle }} 至桌面
+Tầng {{ webTitle }} Để máy tính để bàn
+Add {{ webTitle }} to home screen
+デスクトップに {{ webTitle }} を追加します
+點選瀏覽器右上方圖示選擇「加到主畫面」，即完成。
+点选浏览器右上方图示选择「加到主画面」，即完成。
+Nhấp vào biểu tượng ở trên cùng bên phải của trình duyệtChọn "Thêm vào màn hình chính" để hoàn tất.
+Click the icon at the top right of the browserSelect "Add to main screen" to complete.
+ブラウザの右上にあるアイコンをクリックします「メイン画面に追加」を選択して完了します。
+以 Safari
+開啟本站，即可將本站加入手機主畫面，讓您快速連接本站行動版官網。
+1. 請先點選瀏覽器下方
+2. 點擊 新增 至桌面
+3. 點擊「新增」, 完成
+以 Safari
+开启本站，即可将本站加入手机主画面，让您快速连接本站行动版官网。
+1. 请先点选浏览器下方
+2. 点击 新增 至桌面
+3. 点击「新增」, 完成
+Mở trang web này bằng Safari, bạn có thể thêm trang web này vào
+màn hình chính của điện thoại, cho phép bạn nhanh chóng kết nối
+với trang web chính thức của phiên bản di động của trang web này.
+1. Vui lòng nhấp vào bên dưới trình duyệt trước tiên
+2. Nhấp vào Thêm vào màn hình
+3. Nhấp vào "Thêm" để hoàn tất
+Open this site with Safari, you can add this site to the main
+screen of your phone, allowing you to quickly connect to the
+mobile version of the site.
+1. Please click below the browser first
+2. Click Add to desktop
+3. Click "Add" to finish
+Safariでこのサイトを開くと、このサイトを電話のメイン画面に追加して、このサイトのモバイルバージョンの公式ウェブサイトにすばやく接続できます。
+1.最初にブラウザの下をクリックしてください
+2. [デスクトップに追加]をクリックします
+3. [追加]をクリックして終了します
+OK

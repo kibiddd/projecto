@@ -1,0 +1,18 @@
+   Domain Name: YINGLEINVESTMENT.COM
+   Registry Domain ID: 2872185219_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namesilo.com
+   Registrar URL: http://www.namesilo.com
+   Updated Date: 2024-04-14T12:32:45Z
+   Creation Date: 2024-04-14T12:32:45Z
+   Registry Expiry Date: 2025-04-14T12:32:45Z
+   Registrar: NameSilo, LLC
+   Registrar IANA ID: 1479
+   Registrar Abuse Contact Email: abuse@namesilo.com
+   Registrar Abuse Contact Phone: +1.4805240066
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.DNSOWL.COM
+   Name Server: NS2.DNSOWL.COM
+   Name Server: NS3.DNSOWL.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-24T00:00:14Z 

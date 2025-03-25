@@ -1,0 +1,791 @@
+
+
+
+
+
+
+Digital Engineering Solutions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Product
+Awards
+About Us
+Team
+Clients
+Partners
+News
+Contact
+
+
+
+
+
+
+
+
+
+
+
+
+Embracing Digital Revolution
+
+
+
+We turn pixels into
+actionable inteligence
+
+
+
+We ensure safety operation of your assets
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PRODUCT
+
+
+
+
+Introducing DES Vision System – an affordable, scalable and easy to use app for asset/infrastructure monitoring, management and inspection.
+
+
+
+
+
+
+
+
+
+
+
+Revolutionary
+Previously, collecting structural health monitoring was too expensive. Traditionally, highly qualified, and expensive experts along with specialized equipment are required for this level of monitoring. It also took a long time for the data to be analyzed and results produced. Now with the DES easy-to-use app functionality with its visual inspection and sub-millimeter measurement capability, accurate results can be acquired in a matter of minutes and available at the point of measurement if necessary.
+Explainer video – How it works
+
+
+
+
+
+
+
+
+Your browser does not support the video tag.
+
+
+
+
+
+
+Flexible
+In addition to using smartphones to capture the measurements, it is possible to use DSLR cameras when a longer range is needed for the capture. For difficult to reach sites, time lapse capture, or near-real time measurements fixed cameras such as standard CCTV devices and Drones are often used.
+
+
+
+
+
+
+
+
+
+
+
+Easy to use
+With DES Vision System, technicians, asset owners, inspectors or engineers can undertake visual measurement inspections using the smartphones they carry anyway – no need for specialist equipment or training. Our AI-powered and ISO-certified app allows anyone to analyse videos and images to get rapid results on asset health.
+Applications
+
+
+
+
+
+
+
+
+
+
+
+DES Vision System was used by our clients in a number of countries around the world including Denmark, UK, Poland, Belgium and USA. The app found its application in the following use cases:
+
+bridge span deflection under load
+railway track displacement under tramway load
+tunnel & building settlement
+bridge bearing movement
+asset or component expansion and contraction under temperature change
+high-pressure water pipe displacement.
+
+
+
+
+
+
+
+Client testimonial:
+Martin Duus Havelykke, Asset Manager, A/S Storebælt (Great Belt Bridge owner), Denmark described DES Vision System as:
+
+”Ground-breaking and disruptive technology that enables fundamental changes in the way bridge monitoring and asset management is carried out.”
+
+
+
+
+
+
+
+
+
+
+
+
+„The mobile app measurement identified bearing issue early on and triggered maintenance action that ensured safe operation of the bearings and extended service life”
+
+
+
+
+
+
+Validated + Certified + Patented
+The measurements are highly accurate (sub-mm accuracy) and have been validated multiple times against traditional equipment.  A Calibration certificate has been issued by an accredited laboratory according to the standards for:
+
+European ISO 9513
+American ASTM E83-16
+
+
+
+
+
+
+
+
+
+AWARDS
+
+
+
+
+
+
+ABOUT US
+
+
+
+
+
+
+
+
+
+
+We are an award-winning, high-tech start up company specialising in development of vision-based software for optimal infrastructure asset management and related services. We believe in power of interdisciplinarity.
+Our unique offer is a result of experts coming from different fields including optoelectronics, robotics, artificial neural network, machine learning, structural health monitoring, programming, BIM, AR, probability modeling, risk assessment and predictive maintenance.
+Our team of experts gained professional knowledge working on industrial and research projects all over the world (United States, United Kingdom, Denmark, Poland, New Zeland, Switzerland, Colombia).
+We have over 30 years of collective consultancy, industry and research experience.
+
+
+
+VISION
+
+
+
+Keeping infrastructure safe
+We want to be market leader in providing easy to use, scalable solutions for masses to optimize infrastructure asset management.
+
+
+MISSION
+
+
+
+Turning pixel into actionable intelligence and digitizing asset management
+DES is leveraging computer vision and digital twin technology for effective structural health monitoring and asset service life extension. DES is a pioneer in connecting AI, image analysis with regular smartphones and existing CCTV cameras to improve data-driven decision making process and reduce costs and risks in the ACE industry. We developed an award-winning digital SaaS platform for infrastructure monitoring, management and inspection.
+
+
+CONTACT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Your Name
+
+
+
+Your Email
+
+
+
+
+Organization
+---CompanyUniversity
+
+
+Organization Name
+
+
+
+
+Application / Asset type
+---BridgesBuildingsTunnelsDamRailwayConstruction monitoringLaboratory workOther
+
+
+Duration of monitoring
+---Long Term (days/months)Short Term - Dynamic (seconds/minutes)Permanent (years)
+
+
+
+Subject
+
+
+
+Your Message
+
+
+
+If you submit a question via an enquiry form or contact form, we need to process your data in order to respond. However, your data will only be processed for this purpose, and will not be used for anything else.
+
+
+Send
+
+
+Turning pixels into knowledge.We develop innovative mobile engineering apps and vision based monitoring systems dedicated for ACE market,
+structural health monitoring and digital asset management.OUR TEAMPower of interdisciplinarity
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jan Winkler, PhDj.winkler@de-solutions.info
+
+
+
+co-Founder
+Business Development
+co-CEO
+
+
+
+
+
+
+
+
+
+Grzegorz Bednarski, MSc
+g.bednarski@de-solutions.info
+
+
+
+co-Founder
+Business development
+Management
+Strategy manager
+
+
+
+
+
+
+
+
+
+Kamil Koselnik
+k.koselnik@de-solutions.info
+
+
+
+Software Developer
+Optoelectronics
+
+
+
+
+
+
+
+
+
+Rocco Custer, PhD
+r.custer@de-solutions.info
+
+
+
+Machine Learning
+Programming
+Probability modelling
+Engineering decision modelling
+
+
+
+
+
+
+
+
+
+Joanna Demkow-Bartlomé
+j.demkow@de-solutions.info
+
+
+
+Private Advisor
+
+
+
+
+
+
+
+
+
+Nadine Mageau
+n.mageau@de-solutions.info
+
+
+
+BIM Specialist
+
+
+
+
+
+
+
+
+
+Alan May, PhDa.may@de-solutions.info
+
+
+
+Integration of Monitoring Technologies
+Reliability Modelling
+Maintenance Optimisation
+Cost-benefit analysis
+
+
+
+
+
+
+
+
+
+Diego Castiblanco, PhD
+d.castiblanco@de-solutions.info
+
+
+
+Machine Learning
+Programming
+Infrastructure management
+Engineering risk and decision analysis
+
+
+
+
+
+
+
+
+
+Kamil Korus, PhD
+k.korus@de-solutions.info
+
+
+
+Digital Twin Expert
+
+
+
+
+
+
+
+
+
+Andrzej Zeja
+a.zeja@de-solutions.info
+
+
+
+AI Computer Vision Lead
+
+
+
+
+
+
+
+
+
+Minh Chính Lương, PhD
+m.chinh@de-solutions.info
+
+
+
+SHM Specialist
+
+
+
+ADVISORY BOARD
+
+
+
+
+
+
+QUICK FACTS
+0Clients 0Operate in countries 0Years of experience 0Clients prospectsOUR CLIENTS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OUR PARTNERS
+
+
+
+Research & Development International Programs
+
+
+
+
+
+
+
+
+
+Industry Partners
+
+
+
+
+
+
+
+
+
+
+
+
+
+OFFICE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+North Gate, 17 Bonifraterska st., Warsaw, Poland
+
+
+Nordstrasse 114, 8037 Zürich, Switzerland
+
+
+
+
+
+
+
+
+
+
+
+
+Kielce Technology Park, 6 Olszewskiego st., Kielce, Poland
+
+
+
+
+
+
+e-mail: contact@de-solutions.info
+
+
+NEWS2023
+
+
+
+May 27th 2023: We are proud to announce that DES is among top 40 finalist of the AspBAN Project which is 2-year project co-funded by the European Union to rethink ports along with startups and SME’s!
+👉 Atlantic Smart Ports Blue Acceleration Network (AspBAN) includes a dynamic acceleration platform to activate maritime ports as innovation hubs. AspBAN is focusing on multiple stakeholders working collaboratively to implement multi-port pilot projects and future of the Sustainable Blue Economy in the Atlantic ports (more at https://aspban.eu/en/home/)
+🚀 Earlier this year DES participated in a bootcamp in Lisbon for 3 full days where we had an opportunity to demonstrate our DES Vision System to port owners, investors, and other stakeholders. The AspBAN has the support of 123 strategic partners and a total universe of 391 ports, from EU Atlantic, Norway, USA, Canada, Colombia, Morocco, Mauritania, India and China.
+We are looking forward to work with our partners to demonstrate added value that our computer vision technology provides!
+
+
+
+
+
+
+2022
+
+
+
+December 12th 2022: DES & Atkins: Leveraging Computer Vision for Effective Structural Health Monitoring
+DES has signed a partnership agreement with Atkins SNC-Lavalin that creates an enhanced digital asset management offering and better enables transportation infrastructure asset owners to make the right decisions at the right time. DES mobile & digital twin tools together with Atkins’ expertise in asset management help to decarbonize our industry by extending service life of the existing infrastructure.
+The DES mobile solution allows Atkins engineers to easily collect asset health data during inspections. DES Vision System enables Atkins to support clients in monitoring, inspecting and maintaining their infrastructure assets throughout their lifecycle.
+Atkins have always pioneered application of various digital technologies to support their asset management services. Through early adoption of DES technology, Atkins will continue to be at the forefront of structural health monitoring. For DES this partnership enables closer collaboration with one of the world’s leading engineering consultancies across Europe, Middle East, Asia and North America.
+Chris Hendy, Head of Bridge Engineering and Transportation Technology Chair at SNC-Lavalin’s Atkins business said: “In recent decades we have introduced many innovations in bridge asset management in the UK bridge sector and around the world. DES mobile technology, however, is potentially game-changing and our partnership with DES significantly strengthens our digital asset management offering with respect to structural health monitoring, enabling us to help our clients manage their assets as efficiently and safely as possible.”
+About Atkins
+Atkins is a leading provider of transport asset management services in the UK, developing national best practice in strategic asset management, data collection and analytics, deterioration modelling and decision making.
+www.atkinsglobal.com
+About DES
+DES is an award-winning, high-tech start-up company specialising in development of computer vision-based software for optimal infrastructure asset management and related services. DES is a pioneer in connecting AI with the image analysis and mobile tools to reduce costs and risks in the ACE industry.
+
+August 9th 2022: Digital Engineering Solutions and Vetasi Limited are pleased to have won the prestigious MaximoWorld 2022 award for Best Use of Augmented Reality, Virtual Reality, Visual Support !
+The award recognises DES Vision System and its integration into IBM Maximo and was presented yesterday at MaximoWorld 2022 in Austin, Texas.
+Jan Winkler, Co-CEO of Digital Engineering Solutions: “This MaximoWorld 2022 award is an enormous achievement for DES team and validates our approach and our belief in BIM technology and the value our integrated solutions provide to the infrastructure industry. We have an incredible team and partner network driving technological advancements and conquering the rapidly evolving IoT and Digital Twins industries.”
+„It is an honour to represent Vetasi at MaximoWorld alongside our business partner Digital Engineering Solutions, and we are deeply honoured to receive this award.” According to Jaroslaw Lukasiewicz, Group CEO of Vetasi.
+The project was carried out in collaboration with Atkins and Sund&Baelt and their support is gratefully acknowledged! We look forward to future cooperation!
+We are excited about the potential that awaits other IBM Maximo clients!
+
+DES and Vetasi: Bringing the power of Infrastructure Visual inspection to IBM Maximo
+July 26th 2022: The Vetasi Group, a leading international enterprise asset and facilities management consultancy, has announced a strategic partnership with Digital Engineering Solutions (DES), which will bring the power of DES’ Infrastructure Visual Inspections to Maximo.
+„DES is thrilled to be officially partnering with Vetasi and gaining access to broader IBM family; it has already been a great experience and a truly remarkable story for DES,” says Jan Winkler, Co-CEO of Digital Engineering Solutions. „With Vetasi’s global presence, we are expanding into new regions and markets. “We are ready to enter the ever-changing world of IoT and Digital Twins with Vetasi, combining the strength of IBM Maximo, leading enterprise asset management software, and DES’ BIM technology.”
+„Since winning the MIT Enterprise Forum for Central Eastern Europe in 2020, we’ve been on an incredible journey with DES.” It is the ideal time to commercialise the partnership into something bigger, global and more strategic,” explains Jarosław Łukasiewicz, CEO of the Vetasi Group. Vetasi’s collaboration with DES provides it access to the rapidly expanding infrastructure market. „DES’ technology will add immediate tangible value to the infrastructure industry; it’s an ideal complement to Vetasi’s already impressive technology stack.”
+The inspection solution generates precise critical infrastructure data that is simple to collect and analyse. It enables companies to make informed decisions about maintenance activities and priorities. When used in conjunction with Maximo, these decisions can be automated for maximum efficiency.
+Vetasi and DES will take this partnership on the road by demonstrating the technology and providing insight into some incredible use cases at MaximoWorld in Austin, Texas from the 9th to the 11th of August.
+
+
+
+
+
+2021
+
+
+
+December 20th 2021: What a great way to end 2021! DES is proud to be chosen as one of the best 20 #ConTech companies 2021 ??! Thank you PwC Deutschland & STRABAG for including DES in the new #ConTech Map 2021! We don’t stop and have some exciting announcements coming up! Stay tuned!
+
+
+
+
+2019
+
+
+
+October 3rd 2019: We are happy to announce that DES is within the Top100 Global ConTech Startups 2019 (startup stage Top5 in Engineering & Project Management)! Together with international partners (PwC), BUILTWORLD scouted over 1.200 construction startups and created first ever global ConTechMap: www.contechmap.com. More than 600 tech companies from all over the World were competing for a spot at the Top100. During an online voting, the leading construction companies evaluated all applications within five categories of the built world life cycle: Building Materials & Systems, Building Technologies, Construction Machines & Equipment, Engineering & Project Management and Engineering & Project Management.We were invited for the PrePitch during the Construction Innovation Contest (October 23rd, Frankfurt) organized by BUILTWORLD – the leading innovation ecosystem for connecting cross-disciplinary experts to engage and drive innovation to shape the built world of tomorrow.
+The finale of the global Innovation Contest with 25 tech companies will be held at Light+Building 2020 in Frankfurt.
+
+June 10th 2019: DES is a finalist of the Industry Lab II acceleration program  (http://www.industrylab.pl/#startupy). Within the program DES will demonstrate a new mobile app that uses image analysis to digitize processes for the real estate industry. This is an important strategic step on the way to entering the fast-growing PropTech market.
+The implementation of the program is supported by a European grant.
+
+
+
+
+2018
+
+
+
+May 15th 2018: We established a cooperation with experts from the Silesian Universty of Technology in the field of Optoelectronics, BIM, Augmented Reality and Transportation Infrastructure Asset Management.
+
+
+
+
+https://de-solutions.info/wp-content
+
+
+
+
+
+Copyrights © 2018-2023. All rights reserved to INOVI Co.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

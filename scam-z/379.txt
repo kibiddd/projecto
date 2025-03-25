@@ -1,0 +1,18 @@
+   Domain Name: ZONE-SUPERMALL.COM
+   Registry Domain ID: 2846962661_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.PublicDomainRegistry.com
+   Registrar URL: http://www.publicdomainregistry.com
+   Updated Date: 2025-02-28T14:31:02Z
+   Creation Date: 2024-01-17T12:42:32Z
+   Registry Expiry Date: 2025-01-17T12:42:32Z
+   Registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
+   Registrar IANA ID: 303
+   Registrar Abuse Contact Email: abuse-contact@publicdomainregistry.com
+   Registrar Abuse Contact Phone: +1.2013775952
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: redemptionPeriod https://icann.org/epp#redemptionPeriod
+   Name Server: DNS10.PARKPAGE.FOUNDATIONAPI.COM
+   Name Server: DNS11.PARKPAGE.FOUNDATIONAPI.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-23T21:59:30Z 

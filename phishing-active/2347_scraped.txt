@@ -1,0 +1,8 @@
+
+{
+"success": false,
+"error": {
+"code": 102,
+"info": "Permission denied - User not active."
+}
+}

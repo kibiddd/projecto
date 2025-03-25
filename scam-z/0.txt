@@ -1,0 +1,24 @@
+Domain Name: FOREX-SHOP-Z.ICU
+Registry Domain ID: D505708452-CNIC
+Registrar WHOIS Server: whois.gname.com
+Registrar URL: https://www.gname.com/
+Updated Date: 2024-12-01T11:38:03.0Z
+Creation Date: 2024-11-26T10:11:20.0Z
+Registry Expiry Date: 2025-11-26T23:59:59.0Z
+Registrar: Gname.com Pte. Ltd.
+Registrar IANA ID: 1923
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Organization:
+Registrant State/Province: Alberta
+Registrant Country: CA
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: A.SHARE-DNS.COM
+Name Server: B.SHARE-DNS.NET
+DNSSEC: unsigned
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: complaint@gname.com
+Registrar Abuse Contact Phone: +65.65189986
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-23T23:51:13.0Z 

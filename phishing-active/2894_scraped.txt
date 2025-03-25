@@ -1,0 +1,479 @@
+
+
+
+
+
+
+
+ADS-B, ACARS, AIS - AvionixTech
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Email : sales@avionixtech.com
+
+
+Backup Email : avionixtech@163.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+(current)
+
+About
+
+
+
+
+Products
+
+
+
+
+ADS-B
+ACARS
+AIS
+
+Blog
+
+
+
+
+Download
+
+
+
+
+Contact
+
+
+
+
+
+
+
+
+
+Search Here
+
+
+Search
+
+
+Ã
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thank you for your interest in our products! But we're restructuring, so can't handle new orders recently. We're sorry. We'll be back soon!
+ADS-B, ACARS, AIS
+AvionixTech - Manufacture of ADS-B Receiver, ADS-B Transmitter, ACARS Receiver and AIS Receiver.
+Discover Now
+About Us
+
+
+
+
+
+
+ADS-B Ground Receiver, Portable ADS-B Transmitter, ACARS Receiver and Customized AIS Receiver.
+
+
+
+
+
+
+
+
+ABOUT US
+AvionixTech
+AvionixTech is a manufacturer and supplier of ADS-B, ACARS and AIS equipment/software for users all over the world. Our products include ADS-B Ground Receiver, ADS-B Ground Station, ADS-B Transmitter, ADS-B Module, ADS-B Software, ACARS Receiver and AIS Receiver. The distinguishing feature of AvionixTech is customer-oriented service.
+We're here to help you, not just sell products to you!
+
+
+
+
+
+
+We are committed to provide
+comprehensive solutions
+
+
+
+
+
+
+
+ADS-B
+AvionixTech designs and manufactures advanced ADS-B Ground Receiver, ADS-B Ground Station, ADS-B Transmitter, ADS-B Module and ADS-B Software. We can provide customized ADS-B solutions and services for customers to meet different specific requirement.
+
+
+
+
+
+
+
+
+ACARS
+AvionixTech designs and manufactures advanced ACARS Receiver. We can provide customized ACARS solutions and services for customers to meet different specific requirement.
+
+
+
+
+
+
+
+
+AIS
+AvionixTech designs and manufactures unique AIS Receiver. AvionixTech AIS receiver can output decoded AIS data, can output AIS messages and decoded AIS data with time stamp, can support WiFi data transfer. All these functions are unique on market. We can provide customized AIS solutions and services for customers to meet different specific requirement
+
+
+
+
+
+
+
+
+
+
+Why choose us
+We provide much more than just an off the shelf equipment.
+
+
+
+
+
+Customer Oriented
+The distinguishing feature of AvionixTech is customer-oriented service.
+
+
+
+
+
+Expanded Service
+We expand our service to help customers fully understand the products related technologies.
+
+
+
+
+
+OEM/Customization
+All our products can be supplied fully customized with your brand and logo.
+
+
+
+
+
+Looking for Dealers
+Weâll give our best support to our dealers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Top Products
+
+
+
+
+
+
+products
+
+Low Power Lab ADS-B Transmitter ADSBMiNi
+
+When we do ADS-B lab tests, such as test our own developed ADS-B receivers or do some ADS-B demo, we always need an ADS-B transmitter. However, all the ADS-B transmitters on market are essentially Mode-S transponders with ADS-B OUT function. These ADS-B transponders are designed to be installed on aircrafts. So, it needs some very complicated configurations. It’s OK when you really install these ADS-B transponders on aircraft, because you already have all the wires and systems in place to support these ADS-B transponders’ operation. But it’s a challenge when you want to make these ADS-B transponders work in lab. It essentially requires recreating an aircraft's comprehensive environment to ensure these ADS-B transponders operates as they would in flight.
+
+Furthermore, these standard ADS-B transponders emit at a high power of around 250W. Such intense power levels are not only harmful to health but also pose a risk of damaging your ADS-B receivers, when persons and ADS-B receivers exposed at close range to these ADS-B transponders in lab.
+
+ADSBMiNi is a low power, simple plug&play operation, 1090MHz ADS-B transmitter specifically designed for lab test applications. Integrated with a high-quality multi-GNSS receiver, ADSBMiNi can work independently without any other external devices.
+
+ADSBMiNi can also be utilized for airport surface movement surveillance demonstrations by putting it on a car (please refer to our Airport Vehicle ADS-B Transmitter ADSBVT for professional airport vehicle surveillance applications). Additionally, ADSBMiNi can be deployed on a drone for drone surveillance demonstrations (please also refer to our Portable ADS-B Transmitter ADSBPGA, designed for ADS-B transmitters used on general aviation aircrafts or UAV/drones).
+
+
+
+
+
+
+products
+
+Portable ADS-B Ground Receiver ADSB-RE1090
+
+ADSB-RE1090 is a high-performance, portable and user-friendly 1090MHz ADS-B ground receiver. Designed to meet the demands of modern aviation surveillance applications such as flight tracking, ADSB-RE1090 offers good performance and functionality in a compact package.
+
+With its remarkable reception range, minimal loss of messages at the antenna end, and outstanding reliability, ADSB-RE1090 stands as a high-performance ADS-B ground receiver  that allows you to track aircrafts equipped with 1090ES ADS-B transmitters as far as 200+ miles away. Whether you're monitoring aircraft on map or relying on ADS-B data for professional applications, ADSB-RE1090 exceeds expectations.
+
+With its low power consumption, ADSB-RE1090 is designed for convenience and usability, enabling you to use it effortlessly in any location. Along with built-in network connectivity of both RJ45 and WiFi, ADSB-RE1090 can seamlessly integrates into your network infrastructure and support remote operation.
+
+Delivered with pre-installed software and all necessary accessories, ADSB-RE1090 simplifies setup and operation through its user-friendly web interface.
+
+Complied with Mode-S and ADS-B standards, ICAO Annex 10 Volume IV, RTCA DO-260 version 0, 1 and 2, ED-102B, ED-129B, ADSB-RE1090 ensures compliance and compatibility with industry requirements. Moreover, ADSB-RE1090 offers the flexibility to output ADS-B data in various formats, simplifying integration into your professional applications. Whether you require specific ADS-B data formats for analysis, visualization, or integration with existing systems, ADSB-RE1090 accommodates your needs effortlessly.
+
+With its advanced capabilities, ADSB-RE1090 serves as an ideal replacement for the once-renowned SBS-3 ADS-B ground receiver.
+
+
+
+
+
+
+products
+
+Portable 1090MHz ADS-B Transmitter Board ADSBPGA for GA and UAV
+More and more General Aviation (GA) aircrafts and Unmanned Aerial Vehicles (UAVs) require ADS-B OUT function. But most ADS-B transmitters or ADS-B transponders on market require complicated configurations and even certification procedures, because you need to INSTALL them on aircrafts. ADSBPGA is a portable 1090MHz ADS-B transmitter, so doesn’t need any installation, hence doesn’t need certification. ADSBPGA transmits your aircraft position, altitude, course, and speed on 1090MHz ADS-B, enhancing your ability to “Be Seen”. ADSBPGA includes a GPS, providing accurate and high integrity position data. ADSBPGA doesn’t have a shelf, to lower down weight, so UAVs can easily carry ADSBPGA, especially for payload sensitive UAVs. ADSBPGA can work independently without any other accessories.
+
+
+
+
+
+products
+
+Airport Vehicle ADS-B transmitter ADSBVT
+Airport vehicle incursions into critical safety and movement areas on airport surfaces can indeed pose significant risks for aircraft operations. ADSBVT is a compact and fully autonomous Automatic Dependent Surveillance – Broadcast (ADS-B) transmitter used on airport vehicles. The unit reports the position and speed of the vehicle in real-time to nearby aircraft, other operations vehicles, ATC, and airport management for enhanced situational awareness and prevent vehicle runway incursions. The ADSBVT ADS-B transmitter can be permanently or magnetically mounted to all airside vehicles, including utility, emergency, snow removal, and maintenance equipment. Each vehicle is clearly and uniquely identified. The all in-one design includes a 20W 1090MHz ADS-B transmitter according to DO-260B/ED-102B standards, internal Global Positioning System (GPS) and integrated ADS-B and GPS antennas. The design of ADSBVT ensures easy integration and interoperability with 1090MHz ADS-B ground receiver, Multilateration (MLAT) and Advanced Surface Movement Guidance and Control System (A-SMGCS) surveillance solutions for airport surface monitor, control and situational awareness.
+
+
+
+
+
+products
+
+19 inch ADS-B Ground Station ADSB-GS1090
+ADSB-GS1090 is a complete ADS-B ground station system, with standard 19″ 2U inserts for existing or new racks. ADSB-GS1090 is the ideal solution for ADS-B receiver sites that require 19" plug-n-play rack inserts. With its robust industrial design, advanced ADS-B decoder, and powerful ADS-B data processor, ADSB-GS1090 stands as the optimal solution for receiving, decoding, and distributing aircraft ADS-B data efficiently and reliably. With our ADSB-GS1090, corporate customers can benefit from valuable tracking information tailored to their specific needs:    • Airfield/Apron/Terminal area situational awareness.    • Airport surface movement surveillance and vehicle tracking (with our Vehicle ADS-B Transmitter ADSBVT).    • Low flying operations, including helicopter, flying school flight tracking, offshore and onshore wind farms, oil and gas platforms (with our Portable ADS-B Transmitter ADSBPGA).    • UAV/drone tracking (with our Portable ADS-B Transmitter ADSBPGA).    • Airport vicinity noise monitoring.    • Calibration of radar and navaid equipment.    • Rescue operations in mountainous areas and valley surveillance.    • Defense and Electronic Intelligence.    • Combined vessel/helicopter operations. Complied with Mode-S and ADS-B standards, including ICAO Annex 10, Doc 9871, RTCA DO-260/A/B, ED-102/A/B, ED-129/A/B, ADSB-GS1090 guarantees adherence to industry regulations and compatibility with established requirements. ADSB-GS1090 features low maintenance requirements and minimal life cycle costs, ensuring cost-effective operation throughout its lifespan. Working on the 1090MHz frequency and supporting Mode S Extended Squitter (1090 ES), ADSB-GS1090 also support multilateration (MLAT) capabilities, facilitating precise aircraft tracking and surveillance. Furthermore, it enables fully remote operation, allowing for convenient access and control even in remote areas, thereby enhancing operational flexibility and efficiency.
+
+
+
+
+
+products
+
+Outdoor ADS-B Receiver Station ADSB-RE1090P
+ADSB-RE1090P is the outdoor weatherproof version of ADSB-RE1090. ADSB-RE1090P is a comprehensive ADS-B receiver station solution within a single rugged IP67 weatherproof enclosure that can be permanently mounted outdoors in harsh environmental conditions. Power and data are conveniently supplied through a single Power-Over-Ethernet (POE) network cable, simplifying installation by connecting directly to your LAN. With its quick pole-mount clamp design, installation of ADSB-RE1090P is effortless and efficient. Say goodbye to complicated setups, ADSB-RE1090P ensures a seamless installation process, allowing you to start tracking aircraft with ease. Delivered with pre-installed software, ADSB-RE1090P simplifies setup and operation through its user-friendly web interface. With its exceptional reception range, minimal loss of messages at the antenna end, and unmatched reliability, ADSB-RE1090P stands out as a premier ADS-B receiver station. Capable of tracking aircraft equipped with 1090ES ADS-B transmitters at distances exceeding 200 miles, it provides reliable data for both map-based aircraft monitoring and professional applications, including Airspace Surveillance, Airport Surface Monitoring and UAS Detect and Avoid (DAA).Complied with Mode-S and ADS-B standards, ICAO Annex 10 Volume IV, RTCA DO-260 version 0, 1 and 2, ED-102B, ED-129B, ADSB-RE1090 ensures compliance and compatibility with industry requirements. Moreover, ADSB-RE1090 offers the flexibility to output ADS-B data in various formats, simplifying integration into your professional applications, including Flight Information Displays, data analysis, UAS Ground Control Stations and Unmanned Traffic Management (UTM) Solutions.
+
+
+
+
+
+
+
+
+
+Recent Articles
+Our Latest Blog Posts
+
+
+
+
+
+blog
+
+Simple Explanation of What is ADS-B
+ADS-B (Automatic Dependent Surveillance - Broadcast) is a system or technique used in aviation that relies on airborne GPS and other equipment to determine an aircraft's position and other related information. This data is then broadcasted via onboard communication equipment to ground receivers and other nearby aircrafts. In essence, ADS-B allows aircrafts to "announce" their position and other details, enabling ground stations and nearby aircrafts to monitor and track their movements, or to say, “see” the aircrafts.  Why do we need ADS-B?What equipment are included in ADS-B?Why is it called ADS-B?What information is included in ADS-B?
+
+
+
+
+
+blog
+
+What are ADS-B OUT and ADS-B IN
+ADS-B OUT and ADS-B IN are two fundamental concepts in ADS-B technology. The first thing we need to understand is that both ADS-B OUT and ADS-B IN refer to specific functions that aircraft can have.Just like how a person speaks to communicate their whereabouts and intentions, ADS-B OUT can indeed be likened to the "mouth" of the aircraft, constantly “speaking” (broadcasting) its own vital information to other aircrafts and ground stations. ADS-B OUT function allow the aircraft to “be seen”.Just like how a person uses his/her ears to listen and gather information from his/her surroundings, ADS-B IN functions as the "ears" of the aircraft, continuously “listening to” (receiving) the ADS-B information broadcasted by nearby aircrafts. ADS-B IN function allows the aircraft to “see”.
+
+
+
+
+
+blog
+
+ADS-B Data Link
+As introduced in the Simple Explanation of What is ADS-B, ADS-B relies on communication equipment to transmit the aircraft's own ADS-B information to other aircrafts and ground stations. This communication link is known as the ADS-B data link.There're three tyeps of data link that ADS-B utilize, 1090ESï¼Universal Access Transceiver (UAT) and VDL M4.What are the advantages and disadvantages of the three ADS-B data links?Which datalink should ADS-B use?
+
+
+
+
+
+blog
+
+ADS-B Standards
+While the International Civil Aviation Organization (ICAO) sets global standards and recommendations for aviation, including ADS-B, the practical implementation and compliance with ADS-B standards often rely on industry-specific organizations such as the Radio Technical Commission for Aeronautics (RTCA) in the United States, EUROCAE (The European Organisation for Civil Aviation Equipment) and EUROCONTROL in Europe.Such as, DO-242, DO-260, DO-282, ED-102, ED-129, Asterix Cat021, TSO-C166, AMC20-24.
+
+
+
+
+
+blog
+
+Do all aircraft have ADS-B
+To answer this question, let's first understand what are ADS-B OUT and ADS-B IN. Then we come back to this question, do all aircraft have ADS-B? To address this question effectively, let's categorize "aircraft" into three distinct types:Air carrier aircraftsGeneral aviation aircraftsUAV/drones
+
+
+
+
+
+blog
+
+The difference between Radar and ADS-B
+Primary Surveillance Radar (PSR) and Secondary Surveillance Radar (SSR) are both types of radar systems used in aviation for aircraft detection and tracking. While both radar and ADS-B are used for aircraft surveillance, they operate on different principles and provide different levels of information. Below is an overview highlighting the distinctions between radar and ADS-B in aviation.
+
+
+
+
+
+
+
+
+
+We're here to help you,
+Not just sell products to you!
+
+
+
+Get Free Quote
+
+
+
+
+
+
+
+
+
+This website is intended exclusively for users outside of China. The content herein does not constitute advertising activities targeting the Chinese market.
+
+
+
+
+
+
+
+
+Contact Info
+Head Office:
+Floor 24, No. 1589, Xinhua Road, Kuiwen District, Weifang, Shandong, China.Â
+Global Sales Branch:
+Floor 12, San Toi Building, 139 Connaught Road Central, Central and Western District, Hong Kong.
+Email : sales@avionixtech.com
+Backup Email : avionixtech@163.com
+
+
+
+Quick Links
+Home
+About
+Products
+Blog
+Contact
+
+
+
+
+Explore
+All Categories
+All Tags
+All Products
+All Blogs
+
+
+
+
+
+
+
+
+
+
+Â©2021 - 2025 AvionixTech All rights reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

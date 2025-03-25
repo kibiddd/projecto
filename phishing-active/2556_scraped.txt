@@ -1,0 +1,260 @@
+
+
+
+
+
+Companion Computers — Dev  documentation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Copter
+Plane
+Rover
+Blimp
+Sub
+AntennaTracker
+Mission Planner
+APM Planner 2
+MAVProxy
+Companion Computers
+Developer
+
+
+Downloads
+
+Mission Planner
+APM Planner 2
+Advanced User Tools
+Developer Tools
+Firmware
+
+
+Community
+
+Support Forums
+Facebook
+Developer Chat (Discord)
+Developer Voice (Discord)
+Contact us
+Getting involved
+Commercial Support
+Development Team
+UAS Training Centers
+
+
+Stores
+About
+
+History
+License
+Trademark
+Acknowledgments
+Wiki Editing Guide
+Partners Program
+
+
+
+
+
+
+
+
+
+Dev
+
+
+
+
+
+
+
+
+
+
+
+License (GPLv3)
+AP_Peripheral Devices
+Downloading the code / Using Git
+Building the code
+Editors & IDEs
+Learning the code
+Simulation & Testing
+Debugging
+ArduPilot On Linux
+Support Proxy
+Contributing Code
+MAVLink Interface
+CAN and DroneCAN/UAVCAN
+Companion Computers
+Aerium Lumen - NVIDIA Jetson Baseboard
+Aerium Pascal - Raspberry Pi CM4/CM5 Baseboard
+Arduino family
+ARK Jetson PAB Carrier
+LYCHEE (Cube Carrier Board for Raspberry Pi Compute Module)
+ModalAI VOXL
+ModalAI VOXL2
+NVidia TX1
+NVidia TX2
+ODroid
+Holybro Pixhawk Rasberry Pi CM4/CM5 Baseboard
+Holybro Pixhawk Jetson Baseboard
+Raspberry Pi
+VoidRay
+APSync
+BlueOS
+DroneKit
+FlytOS
+Maverick
+ROS
+Rpanion-server
+Skyhub
+Turnkey Companion Computer Solutions
+
+
+ROS1/ROS2
+Lua Scripts
+Porting to a new Flight Controller
+OEM Customization
+Secure Firmware
+RemoteID
+Advanced Hardware Info
+MAVProxy Developer GCS
+Resources for GCS Developers
+RTF Vehicle Developer Information
+How The Team Works
+Events
+Training Centers
+GSoC
+Developers Conference
+2022 Roadmap
+Wiki Editing Guide
+USB IDs
+User Alerts
+Academic Works Involving ArduPilot
+Appendix
+
+
+
+
+
+
+
+Individual
+Partners
+SWAG Shop
+
+
+
+
+
+
+
+
+Dev
+
+
+
+
+
+
+Companion Computers
+
+Edit on GitHub
+
+
+
+
+
+
+
+Companion ComputersÂ¶
+Companion Computers can be used to interface and communicate with
+ArduPilot on a flight controller using the MAVLink protocol.  By doing
+this your companion computer gets all the MAVLink data produced by the
+autopilot (including GPS data) and can use it to make intelligent
+decisions during flight. For example, âtake a photo when the vehicle is
+at these GPS co-ordinatesâ, gather and pre-process information from advanced
+sensors or actuate lights, auxiliary servos or any other interfaces.
+There are two major parts to Companion Computers - hardware and software.
+The Companion Computer hardware refers to the specific computer hardware being used.
+This is typically a small ARM-based Single Board Computer. Specific tutorials for
+popular Companion Computer hardware are listed below.
+
+
+Aerium Lumen - NVIDIA Jetson Baseboard
+Aerium Pascal - Raspberry Pi CM4/CM5 Baseboard
+Arduino family
+ARK Jetson PAB Carrier
+LYCHEE (Cube Carrier Board for Raspberry Pi Compute Module)
+ModalAI VOXL
+ModalAI VOXL2
+NVidia TX1
+NVidia TX2
+ODroid
+Holybro Pixhawk Rasberry Pi CM4/CM5 Baseboard
+Holybro Pixhawk Jetson Baseboard
+Raspberry Pi
+VoidRay
+
+
+The Companion Computer software refers to the programs and tools that run on the Companion
+Computer. They will take in MAVLink telemetry from the Flight Controller and can route and
+process the telemetry data. Specific tutorials for popular Companion Computer software
+tools/suites are listed below.
+
+
+APSync
+BlueOS
+DroneKit
+FlytOS
+Maverick
+ROS
+Rpanion-server
+Skyhub
+
+
+A number of vendors also offer turnkey systems. See the below link for details.
+
+
+Turnkey Companion Computer Solutions
+
+
+
+
+
+
+Previous
+Next
+
+
+Questions, issues, and suggestions about this page can be raised on the forums. Issues and suggestions may be posted on the forums or the Github Issue Tracker.
+
+
+© Copyright 2024, ArduPilot Dev Team.
+
+
+
+
+
+
+

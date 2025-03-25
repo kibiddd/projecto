@@ -1,0 +1,291 @@
+
+
+
+
+
+Andrew Robinson - Computer Engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+About
+Resume
+Contact
+
+
+
+
+
+
+
+Andrew Robinson
+Test Conductor on the OSAM-1 Project
+
+
+
+
+
+
+
+
+About Me
+I am a Computer Engineering graduate from the Southeast living in Maryland and working for NASA.
+
+
+
+
+
+
+
+
+Name: Andrew Robinson
+Phone: (704) 488-5579
+City: Columbia, MD, USA
+
+
+
+
+Age: 26
+Degree: M.S.E Computer Engineering
+Email: arobinson410@gmail.com
+
+
+
+
+
+
+
+Languages
+C#, C++, Java, Python, Arduino C, VHDL, STOL, HTML, ADA.
+
+
+
+
+
+Certifications
+Eagle Scout, MSHA Part 46 New Miner Training Certified, Eligible for Government Security Clearance.
+
+
+
+
+
+Early on, I knew that I wanted to pursue some sort of career involving computers. I can not quite pin down what sparked that interest, but I have been passionate about learning as much as I can about computers and electronics as I possibly can. This has led me to become familiar with an array of programming languages and computer platforms. I continue to learn more about computers through personal programming projects and about electronics through hobbyist electronic projects.
+
+
+
+
+
+
+
+
+
+My Resume
+
+
+
+Education
+
+Master of Science in Computer Engineering
+2020 - 2021
+Mercer University, Macon, GA
+While working towards the completion of my masters, I focused on Software Engineering and Database Design.
+
+
+Bachelor of Science in Computer Engineering
+2016 - 2020
+Mercer University, Macon, GA
+My undergraduate studies primarily focused on embedded systems, object-oriented programming, and operating system theory.
+
+Projects
+
+High Altitude Research Platform Project Lead
+2017 - 2019
+Mercer University, Macon, GA
+I led a team to prepare and launch a redesigned stratospheric research capsule to collect temperature data and live stream video footage of the Great American Solar Eclipse. During this project, I ensured that software and hardware of on-payload and off-payload components are properly programmed and ready for weather balloon launches. The current effort before I left was to redesign the research capsule and ground station to allow local schools to perform cheap, high altitude, low pressure experiments.
+
+Hobbies
+
+Homelabbing
+I run enterprise-grade servers and networking equipment at home as a way to grow my knowledge in hypervisors, Linux servers, Windows servers, load balancers, and Cisco switches.
+
+
+Programming
+When I face a problem that can be solved with programming, I love to use it as a chance to explore new languages, APIs, and libraries. Some projects of this variety include a Map Keeping program for a D&D game and a Music Bot for Discord.
+
+
+Electronics
+I like to create projects using electical components like microcontrollers, servos, sensors, buttons, etc. My favorite electronic project was a DIY access control system using a servo, Raspberry PI, and an SQL Server to scan a student ID and provision access based on the information from the scanned card.
+
+
+Dungeons and Dragons
+I have played Dungeons and Dragons as both a player and DM in multiple campaigns that have spanned multiple years. In addition to being a fun and cooperative storytelling game, it also encourages creative problem solving, team building, and planning skills.
+
+
+
+Professional Experience
+
+Electrical Enginner Senior
+September 2021 - Present
+The Hammers Company/SAIC/Actalent, Greenbelt, MD
+
+
+Worked as a Test Conductor to develop procedures, scripts, and telemetry pages using ASIST, STOL, and ITACS to aid in Integration and Testing of the OSAM-1 project.
+Worked with on-site engineers to help test and deploy payload testbeds, including the OSAM-1 flatsat.
+Wrote scripts, GUI-based applications, and other software tools to make testing easier using Python and Bash
+
+
+
+
+Electrical Engineer
+August 2020 - September 2021
+Peraton, Greenbelt, MD
+
+
+Employed as a Computer Systems Engineer for NASAâs SENSE contract.
+Worked with a team of engineers to perform tests on the RF communication systems of customer spacecraft to ensure that they were compatible with NASA satellite networks.
+Wrote software to create a common interface for test equipment using Go and Home Assistant.
+
+
+
+
+Computer Engineer Intern
+Summer 2020
+NASA, Greenbelt, MD
+
+
+Worked in Code 450 generating RF signals using SDRs using BladeRFs and C++.
+Primarily worked with GNU Radio in Python and in C++/VHDL for the BladeRFs.
+Worked in a small team pushing to automate the RF testing of flight vehicles.
+
+
+
+
+Computer Engineer Intern
+Early 2020
+Southwest Research Institute, Warner Robins, GA
+
+
+Worked under lead engineer to elaborate on firmware designs.
+Primarily worked VHDL elaborating on designs given by project manager.
+
+
+
+
+Computer Engineer Intern
+Summer 2019
+Mercer Engineering Research Center, Warner Robins, GA
+
+
+Worked in the Avionics and Electronic Warfare department as a full-time C# programmer.
+Primarily worked C# designing user interfaces and supporting code.
+Worked with a larger team of programmers in order to reach development goals set by government contracts.
+
+
+
+
+Controls Engineer Intern
+Summer 2018
+Covia (formerly Unimin), Charlotte, NC
+
+
+Worked under leading automation engineers to create practical and intuitive programmable logic controller (PLC) programs and human-machine interfaces (HMI).
+Given the freedom to work unsupervised and autonomously on assigned projects.
+Primarily worked on creating PLC programs to automate and alert plant managers of consistently out of range values. These events were databased per local regulations.
+
+
+
+
+
+
+
+
+
+
+
+Contact Me
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+Email Me
+arobinson410@gmail.com
+
+
+
+
+
+Call Me
+(704) 488-5579
+
+
+
+
+
+
+
+
+
+
+
+
+Andrew Robinson
+
+© Copyright Andrew Robinson. All Rights Reserved
+
+
+
+
+
+
+Designed by BootstrapMade
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,17 @@
+   Domain Name: ZENITH-TRADERS.COM
+   Registry Domain ID: 2901378032_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.apiname.com
+   Registrar URL: http://www.apiname.com
+   Updated Date: 2024-12-01T09:08:42Z
+   Creation Date: 2024-07-22T16:51:42Z
+   Registry Expiry Date: 2025-07-22T16:51:42Z
+   Registrar: Atak Domain Bilgi Teknolojileri A.S.
+   Registrar IANA ID: 1601
+   Registrar Abuse Contact Email: domain@apiname.com
+   Registrar Abuse Contact Phone: +90.2623259222
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS103.MY-CONTROL-PANEL.COM
+   Name Server: NS104.MY-CONTROL-PANEL.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-23T21:59:47Z 

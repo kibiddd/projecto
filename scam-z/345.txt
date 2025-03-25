@@ -1,0 +1,17 @@
+   Domain Name: ZEUSBIT.NET
+   Registry Domain ID: 2866247657_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.namebright.com
+   Registrar URL: http://www.NameBright.com
+   Updated Date: 2024-03-24T08:02:49Z
+   Creation Date: 2024-03-23T18:34:08Z
+   Registry Expiry Date: 2025-03-23T18:34:08Z
+   Registrar: DropCatch.com 876 LLC
+   Registrar IANA ID: 2635
+   Registrar Abuse Contact Email: support@namebright.com
+   Registrar Abuse Contact Phone: 17204960020
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS15.ABOVEDOMAINS.COM
+   Name Server: NS16.ABOVEDOMAINS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-23T21:59:17Z 

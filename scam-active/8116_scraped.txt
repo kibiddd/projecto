@@ -1,0 +1,122 @@
+KLINCOIN - A Feeless Blockchain
+EN
+RU
+BR
+ABOUT
+TOKEN SALE
+ROADMAP
+COIN WALLET
+FAQ
+CONTACT
+KLINPAPER
+Menu
+KLINCOIN - Building a feeless blockchain platform
+The KLINX Token is an ERC20 token on the ethereum network. Proceeds from this sale will go towards the development of a truly decentralized, secure and infinitely scalable blockchain.
+BUY KLINX TOKEN
+KLINX TOKEN SALES IS OPEN
+00
+days
+00
+hours
+00
+minutes
+00
+seconds
+PURCHASE TOKEN NOW
+Easy Token Exchange
+When the KLIN blockchain is ready, all KLINX Tokens will be exchangeable for KLINCOIN.
+Advanced Security
+The KLINX Token is an ERC20 Token built on the secured ethereum network.
+Decentralized
+It also inherits the fully decentralised protocol of the Ethereum network.
+A compelling value proposition.
+KLINCOIN is a revolutionary blockchain using a novel consensus protocol which we call Positional Proof Of Stake (PPoS).
+Nodes and transactions are prioritized not only by their stake, but also by their position, or precisely, based on the time they go online or enter the network. In the PPoS protocol, all wallets are treated as nodes, and must confirm 4 pending or previous transactions before submitting own transaction.
+Download Klinpaper
+Token Sale
+The KLINX Token will be sold at a discounted price for the next 90 days.
+0
+Start
+$2 M
+Pre Sale
+$12 M
+Soft Cap
+Start
+Started
+Token Supply
+1,000,000,000,000 KLINX
+Accepted Tokens
+BTC, ETH, ADA, XRP, EOS
+Project Protocol
+ERC20 Token
+Circulation Supply
+700,000,000,000 KLINX
+Maximum Cap
+Not Available
+ICO SALE IS OPEN
+00
+days
+00
+hours
+00
+minutes
+00
+seconds
+Select Payment Method
+PURCHASE TOKEN NOW
+Roadmap
+This is the estimated timeline for the completion of key project milestones.
+August 2021
+Sale of a physical coin wallet for storing and managing multiple cryptocurrencies. Proceeds will go to the development of the KLIN blockchain based on the novel PPoS consensus protocol.
+September 2021
+Discounted sale of the KLINX Ether ERC20 Token and multiple listing on exchanges to raise funds and awareness for the further development of the KLIN blockchain.
+October 2021
+Completion of the KLIN blockchain core. Completion of the full node software. Both will be built using the Javascript, Node.JS and Electrum programming languages.
+December 2021
+Completion of the web based wallet software. Completion of the lite node software. Both will be built using the Javascript, Node.JS and Electrum programming languages.
+January 2022
+Lauching the first set of full node clusters and creating the genesis block. Creating a test network to proof the capabilities, security and infinite scalability of the KLIN blockchain.
+February 2022
+Placement of KlinCoin's initial coin offering on exchanges, and building a swap service on KlinSwap.com to provide additional liquidity for all supported trading pairs.
+March 2022
+Launching of the mainnet and making history with the Proof Of Position & Stake algorithm. Start developing a new framework and protocol for feeless smart contracts on the KLIN blockchain.
+Introducing the Coin Wallet
+A physical coin in silver or gold coating. Supports multiple cryptocurrencies and tokens.
+Physical Coin
+Multi-Crypto Support
+Non-Custodial Wallet
+Client Side encryption
+Transferable
+Multi-Signature Support
+Join Us On Telegram
+To stay up to date on recent developments, please follow us on our Telegram below.
+Join Us On Telegram
+FAQ
+Below is a list of some of our frequently asked questions.
+1 What is Proof of Postion & Stake?
+It is a consensus mechanism created to drastically reduce the computing power needed to validate transactions in order to keep the blockchain feeless. With PPoS, wallets and lite nodes handle the bulk of the tasks needed to keep the network secure, hence removing the need for fees as in other blockchains.
+2 How does the PPoS rewards nodes or stakers?
+The computing resource and stake to run a node in an PPoS blockchain is very low, hence no rewards are given. We believe in this scenario, indivudals can run nodes without the need for rewards, just the way torrent networks operates.
+1. Bootstrapping: Wallets have to do first do work on the blockchain before submiting their own transaction for processing.
+2. Branching: Splitting the computing resource to produce a block by dividing it into branches and sending to different node clusters for confirmation.
+3. Pruning: creating a snapshot every 24 hours to create finality and keeping a separate list of the confirmed balances. Nodes only have to search this list, instead of the full blockchain.
+4. Slicing: Splitting the full blockchain data across multiple lite nodes. Again nodes don't have to store the full blockchain, thereby saving storage space.
+3 What does the "Positional" mean in PPoS?
+Nodes and transactions are prioritized based on their position in the blockchain, or time of entry into the network. Also, tasks are assigned to nodes on a next-in-line or positional basis.
+4 What is a Coin Wallet?
+It is a physical coin with part of your master seed in it. After activating the coin, you are required to create the scond part of the seed by generating a random of 24 alphanumerical characters. The total seed is used in creating an HD wallet for secure storage
+5 What if I lose the physical coin?
+Recovery options are supported.
+6 What benefits can I get from buying the KLINX Token or Coin Wallet?
+By buying the KLINX Token or Coin Wallet, you are supporting our missing to build the first truly feeless, decentralized and secure blockchain. Hodlers of the Token or Coin Wallet will receive free KlinCoins based on their holdings when the KLIN blockchain launches.
+7 How do I convert my KLINX Token to USD or other currencies?
+You can withdraw to your native currencies by converting back to USDT on KlinSwap.com or any supported exchanges, and withdrawing to your bank account using services like Binance and others. Shoot us an email, and we will provide you with trusted exchanges in your country.
+Get In Touch
+If you wish to know more about our project, invest or send us a word of encouragement, please don't hesitate to contact us.
+info@klincoin.org
++44 5739 2927
+Join us on Telegram
+Drop a message
+Submit
+2021 © KLINCOIN | All Rights Reserved.
+A Feeless Blockchain For the Decentralized Web

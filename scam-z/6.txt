@@ -1,0 +1,27 @@
+Domain Name: ZIPMEX.XYZ
+Registry Domain ID: D489456090-CNIC
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: https://www.godaddy.com/
+Updated Date: 2024-11-25T18:06:00.0Z
+Creation Date: 2024-09-28T08:30:51.0Z
+Registry Expiry Date: 2025-09-28T23:59:59.0Z
+Registrar: Go Daddy, LLC
+Registrar IANA ID: 146
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Registrant Organization: Domains By Proxy, LLC
+Registrant State/Province: Arizona
+Registrant Country: US
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: BONNIE.NS.CLOUDFLARE.COM
+Name Server: JULIAN.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4805058800
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-23T21:57:05.0Z 

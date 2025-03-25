@@ -1,0 +1,17 @@
+   Domain Name: ZALANDOSHOPS.COM
+   Registry Domain ID: 2922486461_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.name.com
+   Registrar URL: http://www.name.com
+   Updated Date: 2024-10-04T07:13:32Z
+   Creation Date: 2024-10-04T07:10:45Z
+   Registry Expiry Date: 2025-10-04T07:10:45Z
+   Registrar: Name.com, Inc.
+   Registrar IANA ID: 625
+   Registrar Abuse Contact Email: abuse@name.com
+   Registrar Abuse Contact Phone: 7202492374
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: ALINA.NS.CLOUDFLARE.COM
+   Name Server: MARK.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-23T21:58:47Z 

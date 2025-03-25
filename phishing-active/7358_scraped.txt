@@ -1,0 +1,238 @@
+
+
+
+HTML Pasta
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HTML Pasta
+
+
+
+
+
+
+Home
+Taxes
+CodePasta
+Viddit
+
+
+
+
+
+Sign in
+Subscribe
+
+
+
+
+
+
+
+
+HTML Pasta
+
+
+
+
+
+
+
+
+
+
+
+
+
+Development
+
+
+Want to be a better coder? Type faster.
+
+
+This isn't the first time a post has been written about this subject, the infamous Jeff Atwood, creator of StackOverflow, wrote about it before on his controversial blog. Needless to say, this subject comes up relatively frequently and every time it is as polarising as ever. The unfortunate
+
+
+Dec 20, 2019
+3 min read
+
+
+
+
+
+
+
+
+
+
+
+
+Mobile
+
+
+Progressive web apps will inevitably dominate the mobile space
+
+
+People always say that they prefer native apps over cross-platform apps and such but the lines are starting to blur quite a lot. Often, when people complain about cross-platform apps and hear their wishes for native apps, what you realise is that they are just talking about bad apps. They
+
+
+Nov 21, 2019
+3 min read
+
+
+
+
+
+
+
+
+
+
+
+
+Browsers
+
+
+You probably shouldn't use a public CDN for your website
+
+
+Distributing JavaScript and CSS via a public CDN in recent years has become extremely common and yet I feel that using public CDNs is not a good fit for almost any purpose at all.
+
+First of all, there is the security aspect to half of the web relying on a
+
+
+Nov 17, 2019
+3 min read
+
+
+
+
+
+
+
+
+
+
+
+
+News
+
+
+Introducing human readable procedurally generated URLs
+
+
+For a long time HTML Pasta has used the uuid v4 standard for URL generation, today, this changes. Now we are following in the footsteps of the likes of Giphy which started a trend of using funky and quirky URLs for their user uploads. Here is an example of a
+
+
+Nov 10, 2019
+1 min read
+
+
+
+
+
+
+
+
+
+
+
+
+News
+
+
+CodePasta, our non-corporate, lightweight alternative to Pastebin
+
+
+Pastebin has long been the go-to platform for code sharing, as well as sharing other types of text-based content. Pastebin has felt bloated and a bit antiquated for a long time though. Other services like Pastie came along which was a favourite among developers and techies but with the death
+
+
+Oct 27, 2019
+1 min read
+
+
+
+
+
+
+
+
+
+
+
+
+News
+
+
+We've made some changes!
+
+
+HTML Pasta was created over 2 years ago and has since remained almost completely unchanged. Since then we've seen large growth of users month on month fairly consistently. People have used this simple service for various reasons, political, archival or just YTMND style memes.
+
+Today we've
+
+
+Oct 27, 2019
+1 min read
+
+
+
+
+
+
+Page 1 of 1
+
+
+
+
+
+
+HTML Pasta © 2025
+
+
+Powered by Ghost
+
+
+
+
+
+
+

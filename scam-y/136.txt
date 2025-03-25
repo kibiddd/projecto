@@ -1,0 +1,11 @@
+Domain Name: zaxhiyw.cn
+ROID: 20230418s10001s52132758-cn
+Domain Status: ok
+Registrant: 李书云
+Registrant Contact Email: hebgcc888@hotmail.com
+Sponsoring Registrar: 郑州世纪创联电子科技开发有限公司
+Name Server: dm2.dns.com
+Name Server: dm1.dns.com
+Registration Time: 2023-04-18 09:34:34
+Expiration Time: 2025-04-18 09:34:34
+DNSSEC: unsigned

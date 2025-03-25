@@ -1,0 +1,6 @@
+Roundcube Webmail :: Welcome to Roundcube Webmail
+Roundcube Webmail Login
+UsernamePasswordLogin
+请注意，此邮箱为初始邮箱，临时过度使用，为了保护您的账号安全，请保留初始邮箱资料之后，尽快修改为自己的邮箱，感谢您的配合
+Roundcube Webmail
+Warning: This webmail service requires Javascript! In order to use it please enable Javascript in your browser's settings.

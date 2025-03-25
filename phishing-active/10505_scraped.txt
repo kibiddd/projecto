@@ -1,0 +1,23 @@
+Yahoo MailSign inSign upGet the appGet Stuff  DoneSave time? Save money?Done and done with the Yahoo Mail app.get the appGet the appConquerShoppingChaosTrack packages effortlesslyMeet mission control for easy package tracking. Automatic alerts stay at the top of your inbox, so you can't miss them. A summary view shows you the delivery status for all your orders.Keep tabs on free trialsReminders help you manage trial subscriptions, so you can cancel (if you want) before you get charged.Never miss a dealAutomatic alerts let you know when an inbox deal or coupon is about to expire. That's like found money.Use gift cards before it's too lateSee all your gift cards in one spot, so you don't lose them in your inbox before they expire.Get the appLess SearchingMore FindingFind attachments fastSee all your attachments in one view, and filter by files or photos to find just the cat pic you're looking for. Your thumb will thank you.View by senderFind that one email from that one person with just a tap. No complicated inbox searches necessary.Spot receipts easilyReturn that impulse buy faster. Tap receipts view to see all your receipts at once and find just the one you need.Get the appBuh-ByeClutterUnsubscribe in a single tapSkip the tiny unsubscribe links at the end of long emails. See promos and newsletters in one spot, drop the ones you don't want anymore. It's that easy.Call The ShotsConnect all of your emailsBring your Gmail, AOL, Microsoft, or other account, and take advantage of extra features.Customize everythingChoose inbox colors. Set your own swipe actions. Organize navigation your way. This app is yoga-level flexible.Check-in everywhereKeep up with your inbox on desktop, mobile web and, of course, our spiffy new app.Ready to get stuff done?Get the appget the appAbout Our Ads (Updated)Google Data Policy
+if ( !window.BCG
+|| !window.BCG.global
+|| !window.BCG.global.ctx
+|| !window.BCG.global.ctx.geo
+|| window.BCG.global.ctx.geo.isEU === true
+) return;
+
+window.__uspapi('getUSPData', 1, (r, s) => {
+if (s && r.uspString.split('')[2] === 'Y') return;
+
+const iframe = document.createElement('iframe');
+iframe.src = 'https://s.yimg.com/jk/gtm/gtm_ns.html?id=GTM-PH8Z3T7&type=ym6&cat=ym6lp'
+iframe.height = '0'
+iframe.width = '0'
+iframe.style = 'display:none;visibility:hidden'
+iframe.referrerPolicy = 'origin'
+iframe.sandbox = 'allow-scripts  allow-same-origin'
+document.body.appendChild(iframe)
+})
+}
+
+checkGTM()

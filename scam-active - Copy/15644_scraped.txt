@@ -1,0 +1,149 @@
+THORChain
+Integrate
+Swap
+Earn
+Borrow
+Ecosystem
+RUNE
+RUNE
+Cross-Chain
+Swaps
+Savers
+Lending
+Liquidity
+Messaging
+Aggregation
+Infrastructure
+Exchange
+Settlement
+Without Bridges
+Swap, Borrow, and Earn with your native assets. Powered by RUNE
+Swap
+Earn
+Borrow
+Rectify
+What is Thorchain?
+Decentralized Cross-Chain Infrastructure
+THORChain is a network that facilitates native asset settlement between
+Bitcoin
+,
+Ethereum
+,
+BNB Chain
+,
+Avalanche
+,
+Cosmos Hub
+,
+Dogecoin
+,
+Bitcoin Cash
+&
+Litecoin
+THORChain is secured by its native token, RUNE, which deterministically accrues value as
+more assets are deposited into the network.
+Anyone can use THORChain to swap native assets between any supported chains or deposit
+their assets to earn yield from swaps.
+THORChain Quote Estimator
+From:
+To:
+Ethereum
+Bitcoin
+Swap Amount (ETH):
+Get Quote
+THORChain Key Metrics
+Network Statistics
+Total Value Locked
+Total Liquidity
+Total Validator Bond
+Lifetime Volume
+Total Pool Earnings
+Total Swap Count
+Unique Swappers
+24h Trading Volume
+Active Validators
+More Stats
+Providing Native Asset Infrastructure
+Built With THORChain
+Trust Minimized Infrastructure
+THORChain was designed from first principles to minimize trust and become a scalable, economically secure cross-chain communication and settlement layer.
+Dozens of exchanges rely on THORChain to process swaps for their users & more.
+Native Asset Swaps
+Streaming Swaps
+Dual Liquidity
+Savers Vaults
+DEX Aggregation
+Generic Messaging
+Lending
+Trade Assets
+FEATURES
+Native Asset Security
+Swap assets without relying on wrapped tokens.
+Provide liquidity and maintain custody.
+Native Assets
+THORChain allows native cross-chain swaps without wrapped or pegged assets. Users donât
+need RUNE to pay for transactions. The only requirement is a transaction on the first chain.
+Non-Custodial
+Swappers always maintain self-custody of their funds, so they are always in control,
+including directly from a hardware wallet. Liquidity providers funds are always solvent,
+visible, and verifiable on the blockchain - secured by the open source code.
+Single Asset Liquidity
+Savers Vaults allow anyone to provide liquidity to THORChain and earn from swap fees without exposure to RUNE.
+Learn More
+Secured by RUNE
+Node operators bond RUNE to enter the network. Their bonds are worth more than the assets
+they secure. THORChainâs open source code keeps funds safe.
+UPCOMING
+Chain Agnostic Service Provider
+THORChainâs strong foundation for cross-chain communication enables much more than swaps.
+New features and primitives undergo extensive research, design, and debate by the community and are subject to THORChain's node governance processes. New blockchains are connected periodically.
+2023 Year End Report
+2024 Look Ahead
+Streaming Swaps
+Lending
+Trade Accounts
+RUNE Pool
+Memoless Transactions
+Order Book
+Batched Outbounds
+EdDSA Support
+Perpetuals
+Stay up to date on Gitlab
+Blog
+THORChain Medium
+Get the latest updates and news about THORChain.
+Go to Blog
+Discord
+THORChain University
+Learn how to use THORChain to trade or earn yield through TC University with one-on-one
+support and guides.
+Go to Discord
+Documentation
+THORChain Documentation
+Read about the protocol in more depth by visiting the THORChain documentation.
+Go to Documentation
+THORChain
+Documentation
+Whitepapers
+Dashboard
+Audits
+Medium
+Develop
+Documentation
+Node Operators
+Dev Discord
+Bug Bounties
+XChainJS
+Community
+Linktree
+Twitter
+THORChain University
+Nine Realms
+GRC Videos
+Explorers
+RuneScan
+Thorchain.net
+Thorchain.network
+THORCharts
+Infobot
+All THORChain brand is public domain. No rights reserved.

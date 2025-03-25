@@ -1,0 +1,5 @@
+Fatal error:  Uncaught Error: Call to undefined function wp() in /www/wwwroot/cuptoperr.com/wp-blog-header.php:16
+Stack trace:
+#0 /www/wwwroot/cuptoperr.com/index.php(17): require()
+#1 {main}
+thrown in /www/wwwroot/cuptoperr.com/wp-blog-header.php on line 16

@@ -1,0 +1,117 @@
+ï»¿
+Billetterie en ligne
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nous avons choisi d'adhÃ©rer au programme de sÃ©curisation des paiements sur Internet (Verified by Visa ou SecureCode Mastercard).
+Si votre banque adhÃ¨re aussi Ã  ce programme de sÃ©curisation, vous verrez un nouvel Ã©cran s'afficher lors de vos paiements.
+Vous trouverez toutes les instructions nÃ©cessaires sur cet Ã©cran : lisez-les attentivement !
+
+Ce nouvel Ã©cran au logo de votre banque permet de saisir un code d'authentification personnel pour valider vos paiements.Ce code d'authentification varie selon les banques : date de naissance, code spÃ©cifique d'achat sur internet, code envoyÃ© par SMS, etc.Ce code d'authentification vous a Ã©tÃ© communiquÃ© par votre banque, soit sur votre relevÃ© de compte, soit par SMS la plupart du temps.
+Si vous ne connaissez pas ce code, un simple appel tÃ©lÃ©phonique Ã  votre banque devrait rÃ©soudre le problÃ¨me.
+
+
+Attention
+: Ce code d'authentification 3D Secure ne doit Ãªtre confondu ni avec le code secret de votre carte bancaire, ni avec le cryptogramme visuel (3 derniers chiffres au dos de la carte).
+
+
+Illustration du processus de paiement pour la billetterie en ligne :
+
+
+
+
+
+
+Vous trouverez ci-dessous les modalitÃ©s d'authentification de diffÃ©rentes banques :
+
+
+CrÃ©dit Mutuel
+
+Le client doit s'authentifier avec son identifiant de banque en ligne, puis indiquer un des codes inscrit sur sa carte de clÃ©s personnelles (une grille de 64 codes Ã  4 chiffres dans laquelle il faut choisir le bon code en fonction de la ligne et de la colonne demandÃ©e par le site web).
+
+www.creditmutuel.fr
+
+
+Banque Postale, AXA Banque, Caisse d'Epargne, Banque Populaire
+
+Le client doit indiquer sa date de naissance.
+
+www.labanquepostale.fr
+
+www.axabanque.fr/
+
+www.caisse-epargne.fr
+
+www.banquepopulaire.fr
+
+
+BNP Paribas
+
+Le client doit indiquer sa date de naissance. Depuis juillet 2009 - pour la carte BNP Net - un code est envoyÃ© par SMS.
+
+www.bnpparibas.net/
+
+
+SociÃ©tÃ© GÃ©nÃ©rale
+
+Le client doit indiquer sa date de naissance. Depuis septembre 2009, un code est envoyÃ© par SMS.
+
+https://particuliers.societegenerale.fr
+
+
+CrÃ©dit Agricole, LCL
+
+Le client doit indiquer un mot de passe personnel, crÃ©Ã© lors de la premiÃ¨re utilisation.
+
+www.credit-agricole.fr
+
+https://particuliers.secure.lcl.fr
+
+
+BRED
+
+Une clÃ© d'identification Ip@b, CD format carte de crÃ©dit.
+
+www.bred.fr
+
+
+Groupama Banque
+
+Le client doit indiquer son nom, le code postal de sa rÃ©sidence et sa date de naissance.
+
+www.groupama.fr
+
+
+CIC
+
+Le client doit s'inscrire au service gratuit d'authentification des paiements par carte bancaire en se connectant sur son site de banque Ã  distance CIC.
+
+www.cic.fr
+
+
+
+
+
+
+
+
+
+

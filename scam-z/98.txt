@@ -1,0 +1,19 @@
+   Domain Name: ZDRBANGQUCIZ.COM
+   Registry Domain ID: 2926131520_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.discount-domain.com
+   Registrar URL: http://gmo.jp
+   Updated Date: 2024-10-17T09:16:23Z
+   Creation Date: 2024-10-17T09:16:20Z
+   Registry Expiry Date: 2025-10-17T09:16:20Z
+   Registrar: GMO Internet Group, Inc. d/b/a Onamae.com
+   Registrar IANA ID: 49
+   Registrar Abuse Contact Email: abuse@gmo.jp
+   Registrar Abuse Contact Phone: +81.337709199
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: AM.GIGAMYDNS.COM
+   Name Server: EVERYDAY.GIGAMYDNS.COM
+   Name Server: I.GIGAMYDNS.COM
+   Name Server: SHUFFLING.GIGAMYDNS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-23T21:57:32Z 

@@ -1,0 +1,123 @@
+
+
+
+
+
+
+Pienso Luego Instalo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cambiar modo de navegación
+
+
+
+Kubernetes
+Docker
+Jenkins
+Utiles
+Azure
+Blockchain
+
+
+Buscar:
+
+
+
+
+
+
+Pienso Luego Instalo
+
+
+
+
+
+Blockchain Blockchain Local Private Network Ethereum with TesseraPara todos los que queremos desarrollar aplicaciones DAPPS lo primero que necesitamos es una red de desarrollo que podamos crear, destruir y modificar a nuestro antojo. Aquí os dejo un docker compose donde con solo un docker-compose up -d ya tenemos en nuestro localhost una red Ethereum con la que podamos desarrollar y desplegar nuestros contratos. Cloner el repo.   git clone https://github.com/Akaronte/besu-tessera cd besu-tessera vscode . Arreglar los saltos de linea CRLF a LF Leer más…
+Por Akaronte, hace 6 meses10 de octubre de 2024 Blockchain Como crear una red de desarrollo Blockchain BESU+clique+PoAHace muchísimo tiempo yo fui de los que uso su GPU para minar, eran los tiempos en los que Ethereum usaba el protocolo «Proof of Work» para validar transacciones y crear nuevos bloques en la cadena. Actualmente Ethereum usa el «Proof of Stake» Este cambio se llevó a cabo el 15 de septiembre de 2022 y tuvo como resultado una reducción del consumo de energía de Ethereum en aproximadamente un 99.95%1. Actualmente ya los clientes Leer más…
+Por Akaronte, hace 10 meses Utiles Crear un servidor de MastodonPara crear nuestro propio servidor mastodon necesitamos 2 cosas: – Un dominio propio como mastodon.piensoluegoinstalo.com – Un host, es decir un ordenador o vps que este siempre encendido y online. En este ejemplo y como siempre vamos a usar un centos7 y lo primero es instalar docker y docker compose. 1. Instalar Docker y Docker-Compose yum install -y yum-utils yum-config-manager –add-repo https://download.docker.com/linux/centos/docker-ce.repo yum install docker-ce docker-ce-cli containerd.io -y systemctl start docker systemctl status docker systemctl Leer más…
+Por Akaronte, hace 2 años Azure Azure Self Hosted Agent Centos on premise for AzureDevopsEn pleno 2022 seguro que queréis trastear con AzureDevops y trastear con pipelines de azure. Pues que sepáis que con una cuenta personal Azure da capa gratuita de AzureDevops, es decir espacio para 1 repo y 5 pipelines (no recuerdo ahora el limite pero lo tiene). Ya pero aunque de gratis AzureDevops lo que no da gratis son las maquinas virtuales donde se ejecutan o despliegan dichas pipelines, esto es cierto, pero si las maquinas Leer más…
+Por Akaronte, hace 3 años Kubernes Cluster Kubernetes 1.23 en Centos 7.9 con CRI-OKubernetes ya no es compatible con Docker, se venia avisando desde hace tiempo pero si quieres usar docker con kubernetes solo podrás hacerlo hasta la versión 1.22. No es ninguna sorpresa pero después de tantos cluster con docker+kubernetes+Centos7.5 con excelente rendimiento me da nostalgia. ¿Pero porque migrarse entonces?. Pues aunque docker nos ha llevado a lo que ahora somos tiene carencias que han llevado a que kubernetes retire la compatibilidad con este runtine de contenedores Leer más…
+Por Akaronte, hace 3 años Azure Instalar Azure Stack on premise Parte 3Pues ya tenemos nuestro AzureStackHub en un pc en nuestro casa pero que mal que las maquinas virtuales que creo no pueda acceder si no estoy en ese mismo ordenador o a traves de una vps. No encuentro las palabras sutiles para decribir la putada que es. Al buscar por internet te encuentras blogs donde también cuentan sus venturas y desventuras con Azure Stack y muestran diversas soluciones entre ellas la mas destacada es cargarte Leer más…
+Por Akaronte, hace 3 años Azure Instalar Azure Stack on premise Parte 2Ahora ya tenemos un AzureStack en nuestro ordenador pero no esta registrado en azure portal. Para poder hacer esto tenemos que instalar Azure Tools Antes de nada confiar en el repo y una dependencia. Set-PSRepository -Name «PSGallery» -InstallationPolicy Trusted Install-Module PowerShellGet -MinimumVersion 2.2.3 -Force En una nueva terminal. [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12 Install-Module -Name Az.BootStrapper -Force Install-AzProfile -Profile 2020-09-01-hybrid -Force Install-Module -Name AzureStack -RequiredVersion 2.1.1 Get-Module -Name «Az*» -ListAvailable Get-Module -Name «Azs*» -ListAvailable Una vez tenemos Leer más…
+Por Akaronte, hace 3 años Azure Instalar Azure Stack on premise Parte 1Recientemente mi amado azure stack onpremise se jodio, asi que me toca reinstalar todo desde cero, han pasado casi dos años de darme fiel y buen servicio y apenas recordaba toda la movida gigantesca que tuve que hacer para poder tener un azure on premise 100% funcional y sin nada que envidiar al azure portal de pago. El caso es que afortunadamente tuve la intención de publicar un post así que había grabado unos videos Leer más…
+Por Akaronte, hace 3 años Docker Oracledb in docker-composeSi queremos trastear con una base de datos oracle aqui os dejo un docker-compose con interfaz web, aunque sinceramente yo uso sqldeveloper. version: «3.8» services: oracledb: container_name: oracledb image: akaronte/oracle:19.3.0.0 restart: always ports: – ‘1521:1521’ – ‘5500:5500’ environment: SVC_HOST: db19c-oracle-db SVC_PORT: ‘1521’ ORACLE_SID: ORCLCDB ORACLE_PDB: ORCLPDB1 ORACLE_PWD: ORACLE123 ORACLE_CHARACTERSET: AL32UTF8 ORACLE_EDITION: enterprise ENABLE_ARCHIVELOG: ‘false’ volumes: – ./oracledb_data:/opt/oracle/oradata networks: – internal-net omnidb: container_name: omnidb image: akaronte/omnidb privileged: true user: root volumes: – ./omnidb_data:/etc/omnidb environment: – TZ=Europe/Madrid Leer más…
+Por Akaronte, hace 3 años Jenkins Jenkins pipeline en kubernetesLa tendencia ahora es hacer que las pipelines se ejecuten en contenedores que se crean y se destruyen dentro de un cluster kubernetes. Jenkins con el plugin Kuberentes cumple este objetivo. En este post partimos de la base que contamos un cluster openshift y un registry docker para las imagenes y el objetivo sera crear una pipeline en la cual vamos buildear con kaniko un dockerfile y pushearlo a un registry docker. Preparar el namespace Leer más…
+Por Akaronte, hace 3 años
+
+Paginación de entradas
+1
+2
+…
+5
+Siguientes
+
+
+
+
+
+
+
+Página de ejemplo
+
+Hestia | Desarrollado por ThemeIsle
+
+
+
+
+
+
+
+

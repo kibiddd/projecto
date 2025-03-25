@@ -1,0 +1,23 @@
+
+
+
+Default Page
+
+
+
+
+
+
+
+
+
+
+
+
+Congratulations!
+You've successfully started NPMplus.
+If you're seeing this site then you're trying to access a host that isn't set up yet.
+Log in to the Admin panel to get started.
+
+Powered by NPMplus
+

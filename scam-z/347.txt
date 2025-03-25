@@ -1,0 +1,20 @@
+   Domain Name: ZH-HOLDING.COM
+   Registry Domain ID: 2742146728_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.tucows.com
+   Registrar URL: http://www.tucows.com
+   Updated Date: 2022-12-02T12:12:37Z
+   Creation Date: 2022-12-02T11:46:10Z
+   Registry Expiry Date: 2027-12-02T11:46:10Z
+   Registrar: Tucows Domains Inc.
+   Registrar IANA ID: 69
+   Registrar Abuse Contact Email: domainabuse@tucows.com
+   Registrar Abuse Contact Phone: +1.4165350123
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS.FORPSI.CZ
+   Name Server: NS.FORPSI.IT
+   Name Server: NS.FORPSI.NET
+   DNSSEC: signedDelegation
+   DNSSEC DS Data: 58402 8 2 F87B5A15C67E85413C1089AC835B6A87B31C8297D9AD4EE85305B45AA137B3A2
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-23T21:59:17Z 

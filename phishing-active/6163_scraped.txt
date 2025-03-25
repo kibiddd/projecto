@@ -1,0 +1,2 @@
+
+Parse error:  syntax error, unexpected 'new' (T_NEW) in /home/creati43/public_html/wp-settings.php on line 601

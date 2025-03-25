@@ -1,0 +1,17 @@
+   Domain Name: YOMOXSHOPEST.COM
+   Registry Domain ID: 2872749488_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.cloudflare.com
+   Registrar URL: http://www.cloudflare.com
+   Updated Date: 2024-04-16T08:43:27Z
+   Creation Date: 2024-04-16T08:43:23Z
+   Registry Expiry Date: 2025-04-16T08:43:23Z
+   Registrar: Cloudflare, Inc.
+   Registrar IANA ID: 1910
+   Registrar Abuse Contact Email: registrar-abuse@cloudflare.com
+   Registrar Abuse Contact Phone: +1.6503198930
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: JIM.NS.CLOUDFLARE.COM
+   Name Server: SUSAN.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-23T23:56:12Z 

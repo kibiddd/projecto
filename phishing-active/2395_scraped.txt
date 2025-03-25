@@ -1,0 +1,54 @@
+
+
+
+LNMPä¸é®å®è£
+å
+by Licess
+
+
+
+
+
+
+
+
+æ­åæ¨ï¼LNMPä¸é®å®è£
+å
+å®è£
+æåï¼
+
+LNMPä¸é®å®è£
+å
+æ¯ä¸ä¸ªç¨Linux Shellç¼åçå¯ä»¥ä¸ºCentOS/RHEL/Fedora/Aliyun/Amazon LinuxãDebian/Ubuntu/Raspbian/Deepin/Mint Linux VPSæç¬ç«ä¸»æºå®è£
+LNMP(Nginx/MySQL/PHP)ãLNMPA(Nginx/MySQL/PHP/Apache)ãLAMP(Apache/MySQL/PHP)çäº§ç¯å¢çShellç¨åºã
+æ¯æèªå®ä¹NginxãPHPç¼è¯åæ°åç½ç«åæ°æ®åºç®å½ãæ¯æçæLetâs Ecryptå
+è´¹è¯ä¹¦åèªå¤è¯ä¹¦ãæ¯æHTTP2ãTLS 1.3ç­æ°ç¹æ§ãLNMPæ¨¡å¼æ¯æå¤PHPçæ¬ãæ¯æåç¬å®è£
+Nginx/MySQL/MariaDB/Pureftpdæå¡å¨ãæ¯ææ äººå¼å®å®è£
+ï¼åæ¶æä¾ä¸äºå®ç¨çè¾
+å©å·¥å
+·å¦ï¼èæä¸»æºç®¡çãFTPç¨æ·ç®¡çãNginx/MySQL/MariaDB/PHP/PHPMyAdminçåçº§ãå¸¸ç¨ç¼å­ç»ä»¶Redis/Xcacheç­çå®è£
+ãéç½®MySQL rootå¯ç ã502èªå¨éå¯ãæ¥å¿åå²ãSSHé²æ¤DenyHosts/Fail2Banãå¤ä»½ç­è®¸å¤å®ç¨èæ¬ã
+æ¥çæ¬å°ç¯å¢: æ¢é  phpinfo  phpMyAdmin(ä¸ºäºå®å
+¨ï¼å»ºè®®å°phpmyadminç®å½éå½åä¸ºä¸å®¹æçå°çç®å½ï¼)
+æ´å¤LNMPä¸é®å®è£
+å
+ä¿¡æ¯è¯·è®¿é®: https://lnmp.org
+LNMPä¸é®å®è£
+å
+å¸¸è§é®é¢: https://lnmp.org/faq.html
+LNMPä¸é®å®è£
+å
+é®é¢åé¦&ä½¿ç¨äº¤æµ: https://bbs.vpser.net/forum-25-1.html
+VPSç¸å
+³æç¨: https://www.vpser.net/vps-howto
+ç¾å½VPSæ¨è: https://www.vpser.net/ten-dollars-vps
+å£°æï¼åºç°è¯¥é¡µé¢åªè¯´ææ¨å½åè®¿é®çåå/ç½ç«ä½¿ç¨äºLNMPä¸é®å®è£
+å
+æ­å»ºçç¯å¢ï¼å½ååå/ç½ç«ä¸LNMPä¸é®å®è£
+å
+ãVPSä¾¦æ¢ålicessä¸å­å¨ä»»ä½å
+³ç³»ï¼
+LNMPä¸é®å®è£
+å
+by Licess & VPSä¾¦æ¢
+

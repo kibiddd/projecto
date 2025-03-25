@@ -1,0 +1,18 @@
+   Domain Name: ZCRYPTOZ.COM
+   Registry Domain ID: 2752187996_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.hostinger.com
+   Registrar URL: http://www.hostinger.com
+   Updated Date: 2025-03-03T00:53:18Z
+   Creation Date: 2023-01-18T12:22:46Z
+   Registry Expiry Date: 2025-01-18T12:22:46Z
+   Registrar: HOSTINGER operations, UAB
+   Registrar IANA ID: 1636
+   Registrar Abuse Contact Email: abuse-tracker@hostinger.com
+   Registrar Abuse Contact Phone: +37064503378
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: redemptionPeriod https://icann.org/epp#redemptionPeriod
+   Name Server: NS1.DNS-EXPIRED.COM
+   Name Server: NS2.DNS-EXPIRED.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-23T21:59:47Z 

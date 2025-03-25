@@ -1,0 +1,2 @@
+
+Fatal error:  Call to undefined function str_contains() in /var/www/html/eeweb/public_html/blog/wp-includes/load.php on line 1662

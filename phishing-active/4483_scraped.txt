@@ -1,0 +1,912 @@
+
+
+
+
+
+
+
+
+BNP Paribas Productos Cotizados
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PRODUCTOS COTIZADOS
+
+
+
+Darse de alta o Conectarse
+
+
+Registrarse
+
+
+Registrarse
+
+
+Identificarse
+
+x
+
+La contraseña es incorrecta.
+x
+
+
+
+Email
+
+
+Contraseña
+
+
+Conectarse
+
+
+
+
+¿Ha olvidado su contraseña?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Turbos
+
+
+Warrants
+
+
+Multis
+
+
+Bonus Cap
+
+
+Servicios
+
+
+Mercado
+
+
+
+
+
+
+Búsqueda rápida
+
+
+Producto
+Bonus Cap
+Call
+Put
+Turbo Call
+Turbo Put
+
+
+
+
+
+
+
+
+Subyacente
+ACCIONA ENERGIAS RENOVABLES
+ACERINOX
+ACS
+ADVANCED MICRO DEVICES
+AENA
+AIR FRANCE KLM
+ALMIRALL
+ALPHABET C
+AMADEUS IT HOLDING
+AMAZON
+APPLE
+ARCELORMITTAL
+BANCO SANTANDER
+BANKINTER
+BAYER
+BBVA
+BLOCK
+BNP PARIBAS
+BRENT DIC 16
+CAIXABANK
+CELLNEX TELECOM
+DAX®
+DOW JONES IND.
+ENAGAS
+ENDESA
+EUR/USD
+EURO STOXX 50
+FERROVIAL
+FOMENTO DE CONSTRUCCIONES Y CONTRATAS
+GAS NATURAL
+GRUPO ACCIONA
+IAG INTERNATIONAL CONSOLIDATED AIRLINES GROUP
+IBERDROLA
+IBEX 35
+INDITEX
+INDRA SISTEMAS
+INMOBILIARIA COLONIAL
+LUFTHANSA
+MAPFRE
+Merlin Properties Socimi
+MICROSOFT
+NASDAQ 100
+NETFLIX
+NIKE
+NVIDIA
+ORO
+PAYPAL
+PHARMA MAR
+PLATA
+REPSOL
+S&P 500
+SACYR VALLEHERMOSO
+TELEFONICA
+TESLA MOTORS
+USD/JPY
+VISA
+VISCOFAN
+
+
+
+Buscar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+¡Descubra nuestra gama de productos dedicada al bróker Degiro!
+
+
+
+Con Degiro, puede negociar los productos de las 8h de la mañana a las 22h.
+El detalla de la gama aqui :
+
+https://warrants.bnpparibas.com/esp
+
+
+
+
+
+
+
+
+
+
+MAPA DE TURBOS Y WARRANTS
+
+
+Mapa de Turbos
+Mapa de Warrants
+
+
+
+
+
+
+
+Subyacente
+
+ACCIONA ENERGIAS RENOVABLES
+ACERINOX
+ACS
+ADVANCED MICRO DEVICES
+AENA
+AIR FRANCE KLM
+ALMIRALL
+ALPHABET C
+AMADEUS IT HOLDING
+AMAZON
+APPLE
+ARCELORMITTAL
+BANCO SANTANDER
+BANKINTER
+BAYER
+BBVA
+BLOCK
+BNP PARIBAS
+BRENT DIC 16
+CAIXABANK
+CELLNEX TELECOM
+DAX®
+DOW JONES IND.
+ENAGAS
+ENDESA
+EUR/USD
+EURO STOXX 50
+FERROVIAL
+FOMENTO DE CONSTRUCCIONES Y CONTRATAS
+GAS NATURAL
+GRUPO ACCIONA
+IAG INTERNATIONAL CONSOLIDATED AIRLINES GROUP
+IBERDROLA
+IBEX 35
+INDITEX
+INDRA SISTEMAS
+INMOBILIARIA COLONIAL
+LUFTHANSA
+MAPFRE
+Merlin Properties Socimi
+MICROSOFT
+NASDAQ 100
+NETFLIX
+NIKE
+NVIDIA
+ORO
+PAYPAL
+PHARMA MAR
+PLATA
+REPSOL
+S&P 500
+SACYR VALLEHERMOSO
+TELEFONICA
+TESLA MOTORS
+USD/JPY
+VISA
+VISCOFAN
+
+Elast.
+
+
+
+
+Ver todos los productos
+
+
+
+
+
+
+
+[#ProductTypeName#]
+[#InstrumentWKN#]
+
+
+Código :[#InstrumentWKN#]
+Tipo :[#ProductTypeName#]
+Barrera :[#DistanceToKnockOutPercent#]
+Elasticidad :[#Leverage#]
+Vencimiento :[#MatureDate#]
+Compra/Venta :[#Bid#] / [#Ask#]
+
+
+
+
+[#ProductTypeName#]
+[#InstrumentWKN#]
+
+
+Código :[#InstrumentWKN#]
+Tipo :[#ProductTypeName#]
+Strike :[#StrikeAbsolute#]
+Compra :[#Bid#]
+Venta :[#Ask#]
+Delta (%) :[#Delta#]
+Elasticidad :[#Leverage#]
+Vencimiento :[#MatureDate#]
+
+
+
+
+
+
+
+
+
+
+PRECIOS (PRECIOS INDICATIVOS)
+
+Índices
+Acciones
+Mat. Primas
+Divisas
+
+
+
+
+
+
+
+
+
+Subyacente
+
+
+Precio
+
+
+Var. %
+
+
+
+
+
+
+IBEX 35
+
+
+13.308,00
+
+-0,32%
+-42,20
+
+
+
+DAX®
+
+
+22.895,30
+
++0,02%
+3,62
+
+
+
+EURO STOXX 50
+
+
+5.423,54
+
+-0,01%
+-0,29
+
+
+
+S&P 500
+
+
+5.767,57
+
++1,76%
+100,01
+
+
+
+NIKKEI 225
+
+
+37.987,80
+
++1,09%
+409,20
+
+
+
+NASDAQ 100
+
+
+20.172,40
+
++2,12%
+418,44
+
+
+
+
+
+
+
+
+
+
+
+Subyacente
+
+
+Precio
+
+
+Var. %
+
+
+
+
+
+
+BANCO SANTANDER
+
+
+6,539
+
++1,54%
+0,10
+
+
+
+BBVA
+
+
+13,205
+
++0,99%
+0,13
+
+
+
+TELEFONICA
+
+
+4,243
+
+-2,21%
+-0,10
+
+
+
+INDITEX
+
+
+47,13
+
++0,86%
+0,40
+
+
+
+ARCELORMITTAL
+
+
+29,45
+
++1,13%
+0,33
+
+
+
+
+
+
+
+
+
+
+
+Subyacente
+
+
+Precio
+
+
+Var. %
+
+
+
+
+
+
+BRENT
+
+
+73,03
+
++1,30%
+0,94
+
+
+
+WTI
+
+
+69,15
+
++1,26%
+0,86
+
+
+
+ORO
+
+
+3.010,11
+
+-0,70%
+-21,19
+
+
+
+PALADIO
+
+
+957,22
+
++0,02%
+0,22
+
+
+
+PLATIN
+
+
+978,12
+
++0,22%
+2,12
+
+
+
+
+
+
+
+
+
+
+
+Subyacente
+
+
+Precio
+
+
+Var. %
+
+
+
+
+
+
+EUR/USD
+
+
+1,0804
+
+-0,13%
+0,00
+
+
+
+EUR/GBP
+
+
+0,836
+
+-0,18%
+0,00
+
+
+
+EUR/JPY
+
+
+162,82
+
++0,79%
+1,27
+
+
+
+EUR/CHF
+
+
+0,9539
+
+-0,12%
+0,00
+
+
+
+GBP/USD
+
+
+1,2924
+
++0,04%
+0,00
+
+
+
+
+
+
+
+
+Intradia
+1 MES
+6 MESES
+1 AÑO
+
+
+
+
+
+
+
+
+
+
+
+
+INFORMACIÓN DE MERCADO
+
+Sentimiento de Mercado
+VÍDEO DEL DÍA
+RECOMENDACIONES
+AGENDA ECO/EMPRESARIAL
+
+
+
+Sentimiento sobre : IBEX 35
+
+Alcista-%
+Bajista-%
+
+
+El ratio estará disponible próximamente.
+
+
+El sentimiento de mercado de los inversores
+Este ratio es indicativo y describe el sentimiento de los inversores europeos en Productos Cotizados de BNP Paribas sobre el índice IBEX. Para más información.
+Ver todos los ratios
+Estos ratios son puramente indicativos y no predicen la evolución futura ni el rendimiento de ningún instrumento financiero.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DailyMarketInformation: VideoDailyTitle
+x
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contacto
+
+
+
+x
+
+Escríbanos
+
+
+
+Para cualquier reclamación, por favor rellene el siguiente formulario
+
+
+Apellidos*
+
+
+Nombre*
+
+
+
+Email*
+
+
+Objeto*
+
+
+Su mensaje*
+
+
+
+Enviar
+
+
+
+
+
+
+
+
+
+
+
+
+© 2001 - 2025 BNP Paribas
+Powered by adesso
+
+
+
+
+
+
+
+Información Legal
+
+
+
+
+El Banco BNP Paribas
+
+
+
+
+Contacte con BNP Paribas
+
+
+
+
+
+
+Como Reclamar
+
+
+
+
+Uso de Cookies
+
+
+
+
+Conflictos de interés - Recomendaciones de Inversión
+
+
+
+
+
+
+Aviso de Protección de Datos
+
+
+
+
+Cookies Policy
+
+
+
+
+Data Protection Notice
+
+
+
+
+
+
+Cookie Settings
+
+
+
+
+
+¿Qué nota le daría a esta página?
+
+1
+2
+3
+4
+5
+
+
+
+La notación de la página
+x
+
+
+
+Gracias por su comentario.
+
+Email
+
+Tu comentario
+
+
+
+Enviar
+
+
+
+
+
+
+
+
+
+
+One Trust Cookie Settings
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

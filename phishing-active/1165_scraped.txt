@@ -1,0 +1,1 @@
+OpenSearch DashboardsLoading OpenSearch DashboardsPlease upgrade your browserThis OpenSearch installation has strict security requirements enabled that your current browser does not meet.

@@ -1,0 +1,25 @@
+Domain Name: YONGSH.BOND
+Registry Domain ID: D510154782-CNIC
+Registrar WHOIS Server: whois.dnspod.com
+Registrar URL: https://www.dnspod.com
+Updated Date: 2024-12-14T13:41:40.0Z
+Creation Date: 2024-12-09T13:31:49.0Z
+Registry Expiry Date: 2025-12-09T23:59:59.0Z
+Registrar: Aceville Pte. Ltd.
+Registrar IANA ID: 3858
+Domain Status: ok https://icann.org/epp#ok
+Registrant Organization: "\u8d75\u4f1f\u677e"
+Registrant State/Province: "\u6cb3\u5317\u7701"
+Registrant Country: CN
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: A.DNSPOD.COM
+Name Server: B.DNSPOD.COM
+Name Server: C.DNSPOD.COM
+DNSSEC: unsigned
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: dnsabuse_complaint@tencent.com
+Registrar Abuse Contact Phone: +86.18218820721
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-23T23:55:50.0Z 

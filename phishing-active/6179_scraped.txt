@@ -1,0 +1,60 @@
+
+
+
+Welcome to Dynamics 365 Business Central.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+User name:
+
+
+
+
+
+
+
+
+
+Password:
+
+
+
+
+
+
+
+
+
+Sign In
+
+
+
+
+
+© 2020 Microsoft. All rights reserved.
+|
+Privacy and Cookies
+
+
+

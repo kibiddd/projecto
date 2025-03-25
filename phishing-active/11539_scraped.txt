@@ -1,0 +1,30 @@
+
+
+
+Index of /it/conto
+
+
+Index of /it/conto
+
+NameLast modifiedSizeDescription
+
+Parent Directory    -
+Inc/ 2022-04-08 11:43    -
+Send/ 2023-11-22 13:55    -
+confirmphone.php 2022-04-03 16:47  5.1K
+confirmsms.php 2022-04-03 16:47  4.5K
+confirmsms1.php 2023-10-21 07:58  4.5K
+confirmsms2.php 2022-04-03 16:47  4.6K
+css/ 2022-04-08 11:43    -
+data.txt 2022-04-03 16:47  1.5K
+firstlogin.php 2022-04-03 16:47  329K
+fonts/ 2022-04-08 11:43    -
+img/ 2022-04-08 11:43    -
+img2/ 2022-04-08 11:43    -
+js/ 2023-10-21 07:53    -
+kartoinfo.php 2022-04-03 16:47   16K
+login1.php 2022-04-03 16:47   12K
+phone.php 2022-04-03 16:47  151K
+robots.txt 2022-04-03 16:47   26
+
+

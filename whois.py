@@ -49,9 +49,9 @@ def whois_info(url):
 
 def get_whois(dataset_path, save_path):
     dataset = load_dataset(dataset_path)
-    dataset = dataset[:500]
+    #dataset = dataset[163:]
     for idx, url in enumerate(dataset):
-        print(f"Screenshotting URL {idx}/{len(dataset)}: {url}")
+        print(f"Checking WHOIS {idx}/{len(dataset)}: {url}")
         raw = whois_info(url)
         # save raw to txt file
         filename = save_path + str(idx) + ".txt"
@@ -61,4 +61,4 @@ def get_whois(dataset_path, save_path):
             file.write(raw)
 
 if __name__ == "__main__":
-    get_whois('random_legit.txt', 'legit-250311/')
+    get_whois('scam-y.txt', 'scam-y/')

@@ -1,0 +1,69 @@
+Four Steps to a Safer Account | Discord Safety
+
+
+
+
+DownloadNitroDiscoverSafety
+
+
+
+ResourcesSafety NewsSafety LibraryCommunity GuidelinesResourcesPrivacy HubPolicy HubTransparency HubDocumentationTransparency ReportsFamily CenterResourcesParent HubTeen CharterQuests
+
+
+
+ResourcesAdvertisingSuccess StoriesQuests FAQSupport
+
+
+
+ResourcesHelp CenterFeedbackSubmit a RequestBlog
+
+
+
+CollectionsFeaturedCommunityDiscord HQEngineering & DevelopersHow to DiscordPolicy & SafetyProduct & FeaturesDevelopers
+
+
+
+FeaturedGDC 2025Discord Social SDKApps and ActivitiesDocumentationDeveloper HomeDeveloper Documentation
+
+Developer Applications
+
+Developer Help Center
+
+CareersLog InLog in
+
+
+
+
+
+DownloadNitroDiscoverSafety
+
+SafetyResourcesSafety NewsSafety LibraryCommunity GuidelinesResourcesPrivacy HubPolicy HubTransparency HubDocumentationTransparency ReportsFamily CenterResourcesParent HubTeen CharterQuests
+
+QuestsResourcesAdvertisingSuccess StoriesQuests FAQSupport
+
+SupportResourcesHelp CenterFeedbackSubmit a RequestBlog
+
+BlogCollectionsFeaturedCommunityDiscord HQEngineering & DevelopersHow to DiscordPolicy & SafetyProduct & FeaturesDevelopers
+
+DevelopersFeaturedGDC 2025Discord Social SDKApps and ActivitiesDocumentationDeveloper HomeDeveloper Documentation
+
+Developer Applications
+
+Developer Help Center
+
+CareersLog In
+
+App StoreDownloadNitroDiscoverQuestsSafetySafetySupportBlogCareersLoginDownloadBackSafety CenterOverviewControlling Your ExperienceFour steps to a super safe accountFour steps to a super safe serverRole of administrators and moderators on DiscordReporting problems to DiscordMental health on DiscordAge-Restricted Content on DiscordTips against spam and hackingParents & EducatorsWhat is Discord?Discord's commitment to a safe and trusted experienceHelping your teen stay safe on DiscordTalking about online safety with your teenAnswering parents' and educators' top questionsIf your teen encounters an issueWorking with CARU to protect users on DiscordHow We Enforce RulesOur policiesHow we investigateWhat actions we takeHow you can appeal our actionsDiscord's Transparency ReportsWorking with law enforcementBackModerator AcademyOverviewBasics100: An Intro to the DMA103: Basic Channel Setup104: How To Report Content To Discord110: Moderator Etiquette111: Your Responsibilities as a Moderator151: An Intro to the Moderator EcosystemSetup and Function201: Permissions on Discord202: Handling Difficult Scenarios203: Developing Server Rules204: Ban Appeals205: Utilizing Role Colors206: Best Practices for Reporting Tools207: Server Information and Announcement Channels208: Channel Categories and Names210: Moderator Recruitment211: Creating Moderation Team Channels231: Fundamentals of Family-Friendly Servers241: Securing Your Discord AccountAdvanced Community Management301: Implementing Verification Gates302: Developing Moderator Guidelines303: Facilitating Positive Environments304: Moderating Safely and Securely310: Managing Moderation Teams311: Understanding and Avoiding Moderator Burnout312: Internal Conflict Resolution313: How to Moderate Voice Channels314: Training and Onboarding New Moderators321: Auto Moderation in Discord322: Using Webhooks and Embeds 323: Using XP Systems324: Using Modmail Bots331: Community Engagement332: Fostering Healthy Communities333: Planning Community Events334: Community Partnerships341: Understanding Your Community Through Insights345: Best Practices for Moderating Content CreationModeration Seminars401: Transparency in Moderation402: Confidentiality in Moderation403: Sensitive Topics404: Considering Mental Health in Your Community 405: Practicalities of Moderating Adult Channels407: Managing Exponential Membership Growth431: Ethical Community Growth432: Internationalization of a Community441: Community Governance Structures442: Using Insights to Improve Community Growth and Engagement443: Ban Evasion and Advanced Harassment444: Managing Interpersonal Relationships451: Reddit X Discord452: Twitch X Discord453: Patreon X Discord455: Schools X Discord459: Bringing Other Communities to DiscordGraduate531: Parasocial Relationships541: The Application of Metaphors in ModerationAuthor CreditsAuthor CreditsLoginLoginDiscord Safety CenterPolicy HubSafety LibraryFour steps to a super safe accountDiscordVersionNo items found.May 11, 2022Controlling Your ExperienceFour steps to a super safe accountOn Discord, you get to choose the friends and communities you talk with. A key part of making this happen is knowing how you can set up your account. Our tips below can help you keep your account safe.1. Secure your accountFirst, we need to ensure that your account credentials and login information are as secure as possible.Choose a secure passwordHaving a strong password is key to protecting your account. Choose a long password with a mix of uppercase letters, lowercase letters, and special characters that is hard to guess and that you donât use for anything else. We recommend checking out password managers like 1Password (Mac) or Dashlane (Windows), which make creating and storing secure passwords extremely easy.Discord will require your password to be at least 8 characters long. Certain regions in the world may have additional requirements.Consider enabling two-factor authentication (2FA)Two-Factor Authentication (2FA) is the most secure way to protect your account. You can use Google Authenticator, Authy, and other authenticator apps on a mobile device in order to authorize access to your account. Once 2FA is enabled, youâll have the option to further increase your accountâs security with SMS Authentication by adding your phone number to your Discord account.You can enable 2FA in your User Settings. You can also refer to this article for more information.2. Set your privacy & safety settings Your settings are very important. They give you control over who can contact you and what they can send you. You can access your privacy and safety settings in the Privacy & Safety section of your User Settings.We know itâs important for users to understand what controls they have over their experience on Discord and how to be safer. Part of delivering a better, safer experience is making sure people donât see content they donât want to â whether thatâs intrusive spam or unwanted sensitive media. This article covers settings that can help reduce the amount of unwanted content you see on Discord and promote a safer environment for everyone.Sensitive mediaAt any time, you can further configure personal settings to blur or block content in DMs that may be sensitive. The âblurâ option in our sensitive content filters applies to all historic and new media. For teen users, by default, Discord will blur media that may be sensitive in direct messages (DMs) and group direct messages (GDMs) from friends, as well as in servers. Adults can opt into these filters by changing their sensitive media preferences in Privacy & Safety Settings. Learn more about how to do this here. For all users, the default configuration is âblockâ for direct messages (DMs) and group direct messages (GDMs) from non-friends.At any time, you can also block the user responsible and report the content that violates our Community Guidelines or Terms of Service.DM spam filterAutomatically send direct messages that may contain spam into a separate spam inbox.These filters are customizable and you can choose to turn them off. By default, these filters are set to âFilter direct messages from non-friends.â Choose âFilter all direct messagesâ if you want all direct messages that you receive to be filtered, or select âDo not filter direct messagesâ to turn these filters off.Direct messages (DM) settingsYou might only want certain people to contact you. By default, whenever youâre in a server with someone else, they can send you a direct message (DM).You can toggle off the "Allow direct messages from server members" setting to block DMs from users in a server who arenât on your friends list. When you toggle this setting off, you will be prompted to choose if you would like to apply this change to all of your existing servers. If you click "No," youâll need to adjust your DM settings individually for each server that you have joined prior to toggling this setting off.To change this setting for a specific server, select Privacy Settings on the serverâs dropdown list and toggle off the "Allow direct messages from server members" setting.Friend request settingsThe last thing to do in your security settings is determine who can send you a friend request. You can find these settings in the Friend Requests section of your User Settings.Everyone - Selecting this means that anyone who knows your Discord Tag or is in a mutual server with you can send you a friend request. This is handy if you donât share servers with someone and you want to let them friend you with just your Discord Tag.Friends of Friends - Selecting only this option means that for anyone to send you a friend request, they must have at least one mutual friend with you. You can view this in their user profile by clicking the Mutual Friends tab next to the Mutual Servers tab.Server Members - Selecting this means users who share a server with you can send you a friend request. Deselecting this while "Friends of Friends" is selected means that you can only be added by someone with a mutual friend.If you donât want to receive ANY friend requests, you can deselect all three options. However, you can still send out friend requests to other people.You should only accept friend requests from users that you know and trust â if you arenât sure, thereâs no harm in rejecting the friend request. You can always add them later if itâs a mistake. 3. Follow safe account practicesAs with any online interaction, we recommend following some simple rules while youâre on Discord:Be wary of suspicious links and filesDON'T click on links that look suspicious or appear to have been shortened or altered. Discord will try and warn you about links that are questionable, but itâs no substitute for thinking before you click.DON'T download files or applications from users you don't know or trust. Were you expecting a file from someone? If not, donât click the file!DON'T open a file that your browser or computer has flagged as potentially malicious without knowing itâs safe.Never give away your account informationDON'T give away your Discord account login or password information to anyone. Weâll never ask for your password. We also wonât ask for your token, and you should never give that to anyone.DON'T give away account information for any account you own on any platform to other users on Discord. Malicious individuals might ask for this information and use it to take over your accounts.DO report any accounts who claim to be Discord staff or who ask for account information to the Trust & Safety team.Again, Discord will never ask you for your password either by email or by Discord direct message. If you believe your account has been compromised, submit a report to Trust & Safety here.4. Block other users when needed We understand that there are times when you might not want to interact with someone. We want everyone to have a positive experience on Discord and have you covered in this case.How blocking worksWhen you block someone on Discord, they will be removed from your friends list (if they were on it) and will no longer be able to send you DMs.Any message history you have with the user will remain, but any new messages the user posts in a shared server will be hidden from you, though you can see them if you wish.How to block a userOn desktop:Right-click the user's @Username to bring up a menu.Select Block in the menu.On mobile:Tap the user's @Username to bring up the user's profile. Tap the three dots in the upper right corner to bring up a menu.Select Block in the menu.If you have blocked a user but they create a new account to try and contact you, please report the user to the Trust & Safety team. You can learn more about how to do this at this link.âââTags:User SafetyPrivacyContents1. Secure your account 2. Set your privacy & safety settings  3. Follow safe account practices4. Block other users when needed Safety CenterExplore moreControlling Your ExperienceFour steps to a super safe accountLorem Ipsum is simplyHateful Conduct Policy ExplainerViolent Extremism Policy Explainer Controlling Your ExperienceReporting Abusive Behavior to Discord
+LanguageEnglish (US)ÄeÅ¡tinaDanskDeutschEnglishEnglish (UK)EspaÃ±olEspaÃ±ol (AmÃ©rica Latina)FranÃ§aisHrvatskiItalianolietuviÅ³ kalbaMagyarNederlandsNorskPolskiPortuguÃªs (Brasil)RomÃ¢nÄSuomiSvenskaTiáº¿ng Viá»tTÃ¼rkÃ§eÎÎ»Î»Î·Î½Î¹ÎºÎ¬Ð±ÑÐ»Ð³Ð°ÑÑÐºÐ¸Ð ÑÑÑÐºÐ¸Ð¹Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°à¤¹à¤¿à¤à¤¦à¥à¹à¸à¸¢íêµ­ì´ä¸­æä¸­æ(ç¹é«)æ¥æ¬èªSocialMenuProductDownloadNitroStatusApp DirectoryMobile ExperienceCompanyAboutJobsBrandNewsroomResourcesCollegeSupportSafetyBlogStreamKitCreatorsCommunityDevelopersGamingQuestsOfficial 3rd Party MerchFeedbackPoliciesTermsPrivacyCookie SettingsGuidelinesAcknowledgementsLicensesCompany InformationSocial
+
+
+
+
+
+
+
+
+
+
+
+

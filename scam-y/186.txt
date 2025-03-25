@@ -1,0 +1,17 @@
+   Domain Name: YAHMIO.COM
+   Registry Domain ID: 2861608783_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2025-03-08T08:23:06Z
+   Creation Date: 2024-03-07T14:26:48Z
+   Registry Expiry Date: 2026-03-07T14:26:48Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: DNS101.REGISTRAR-SERVERS.COM
+   Name Server: DNS102.REGISTRAR-SERVERS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-23T23:59:43Z 

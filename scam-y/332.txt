@@ -1,0 +1,17 @@
+   Domain Name: YUEGO.CC
+   Registry Domain ID: 202669603_DOMAIN_CC-VRSN
+   Registrar WHOIS Server: whois.22.cn
+   Registrar URL: http://www.22.cn
+   Updated Date: 2024-09-29T12:28:37Z
+   Creation Date: 2024-09-29T11:04:30Z
+   Registry Expiry Date: 2025-09-29T11:04:30Z
+   Registrar: 22net, Inc.
+   Registrar IANA ID: 1555
+   Registrar Abuse Contact Email: abuse@22.cn
+   Registrar Abuse Contact Phone: +86.571.88276020
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: ALGIN.NS.CLOUDFLARE.COM
+   Name Server: JEWEL.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-24T00:00:54Z 

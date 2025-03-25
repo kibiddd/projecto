@@ -1,0 +1,17 @@
+   Domain Name: ZENIQ.COM
+   Registry Domain ID: 218990529_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2024-09-22T22:26:36Z
+   Creation Date: 2005-09-29T05:14:40Z
+   Registry Expiry Date: 2025-09-29T05:14:40Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: KEYLA.NS.CLOUDFLARE.COM
+   Name Server: MATTEO.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-23T21:57:45Z 

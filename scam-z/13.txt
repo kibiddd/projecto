@@ -1,0 +1,19 @@
+   Domain Name: ZFTHYDEDGEENEES.COM
+   Registry Domain ID: 2943516679_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.metaregistrar.com
+   Registrar URL: http://www.metaregistrar.com
+   Updated Date: 2024-12-19T06:02:15Z
+   Creation Date: 2024-12-19T06:02:14Z
+   Registry Expiry Date: 2025-12-19T06:02:14Z
+   Registrar: Metaregistrar BV
+   Registrar IANA ID: 2288
+   Registrar Abuse Contact Email: abuse@metaregistrar.com
+   Registrar Abuse Contact Phone: +31.858885692
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: AM.GIGAMYDNS.COM
+   Name Server: EVERYDAY.GIGAMYDNS.COM
+   Name Server: I.GIGAMYDNS.COM
+   Name Server: SHUFFLING.GIGAMYDNS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-23T21:57:02Z 

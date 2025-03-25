@@ -1,0 +1,17 @@
+   Domain Name: TOKSHOP73.COM
+   Registry Domain ID: 2925808743_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.above.com
+   Registrar URL: http://www.above.com
+   Updated Date: 2024-10-16T09:26:00Z
+   Creation Date: 2024-10-16T09:24:21Z
+   Registry Expiry Date: 2025-10-16T09:24:21Z
+   Registrar: Above.com Pty Ltd.
+   Registrar IANA ID: 940
+   Registrar Abuse Contact Email: abuse@above.com
+   Registrar Abuse Contact Phone: +61 3 9589 7946
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS11.ABOVEDOMAINS.COM
+   Name Server: NS12.ABOVEDOMAINS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-23T21:59:02Z 

@@ -1,0 +1,72 @@
+
+
+
+Linkin lyhennys - Bot.fi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nimipäivät:
+
+Gabriel,
+
+Kaapo,
+
+Kaapro ja
+
+Kaappo.
+
+
+
+
+Jaa kuvasi But.fi kuvienjakopalvelulla.
+
+
+Lyhennä pitkä linkki
+
+
+
+
+Mikä on linkin lyhentämisen tarkoitus?
+
+
+
+Lyhyen linkin eli lyhytosoiteen tarkoitus on helpottaa pitkien linkkien jakamista.
+
+Esimerkiksi seuraava linkki on hyvin pitkä:
+http://maps.google.fi/maps?hl=fi&ie=UTF8&ll=61.047651,26.103516&spn=4.288801,16.907959&z=7
+
+
+Linkin lyhennetty versio http://bot.fi/6
+
+
+Esimerkissä lyhytosoite on 75 merkkiä lyhyempi kuin alkuperäinen osoite.
+
+
+
+Tietoa lyhennetystä linkistä?
+
+
+
+Lisäämällä lyhennetyn linkin perään +-merkin saat esiin linkin klikkaus määrän sekä sen mihin lyhytosoite johtaa.
+Esimerkki lyhytosoitteen tietosivusta http://bot.fi/6+
+
+
+
+
+
+
+
+
+

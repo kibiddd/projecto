@@ -1,0 +1,17 @@
+   Domain Name: DOWNLOADAPPIOS.COM
+   Registry Domain ID: 2702416993_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2024-08-01T17:08:47Z
+   Creation Date: 2022-06-08T21:43:18Z
+   Registry Expiry Date: 2025-06-08T21:43:18Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: CELESTE.NS.CLOUDFLARE.COM
+   Name Server: CHRIS.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-23T23:56:26Z 

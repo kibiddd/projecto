@@ -1,0 +1,17 @@
+   Domain Name: IYSLSCRM.COM
+   Registry Domain ID: 2898216706_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2024-07-12T04:54:39Z
+   Creation Date: 2024-07-11T10:13:04Z
+   Registry Expiry Date: 2025-07-11T10:13:04Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: ARYANNA.NS.CLOUDFLARE.COM
+   Name Server: EMERSON.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-24T00:00:29Z 

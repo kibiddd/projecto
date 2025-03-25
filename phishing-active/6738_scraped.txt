@@ -1,0 +1,7 @@
+
+Warning: require(/code/wp-blog-header.php): Failed to open stream: No such file or directory in /code/index.php on line 18
+
+Fatal error: Uncaught Error: Failed opening required '/code/wp-blog-header.php' (include_path='.:/usr/share/pear:/usr/share/php') in /code/index.php:18
+Stack trace:
+#0 {main}
+thrown in /code/index.php on line 18

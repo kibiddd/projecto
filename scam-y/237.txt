@@ -1,0 +1,24 @@
+Domain Name: GUSDT.XYZ
+Registry Domain ID: D445567908-CNIC
+Registrar WHOIS Server: Whois.communigal.net
+Registrar URL: http://www.galcomm.com
+Updated Date: 2024-05-01T10:37:00.0Z
+Creation Date: 2024-04-07T01:15:19.0Z
+Registry Expiry Date: 2025-04-07T23:59:59.0Z
+Registrar: Communigal Communications Ltd
+Registrar IANA ID: 418
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Organization: Domain Name Privacy Inc.
+Registrant State/Province: Paphos
+Registrant Country: CY
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: NS15.ABOVEDOMAINS.COM
+Name Server: NS16.ABOVEDOMAINS.COM
+DNSSEC: unsigned
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: abuse@galcomm.com
+Registrar Abuse Contact Phone: +972.98850558
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-24T00:00:26.0Z 

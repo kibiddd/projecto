@@ -1,0 +1,1367 @@
+
+
+
+
+
+Paypal – How to not implement 2-Factor-Authentication | IT-Unsecurity
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IT-Unsecurity
+
+
+Sebastian Brabetz — Stuff about IT Security, Pentesting, Vulnerability Management, Networking, Firewalling and more
+
+
+
+
+
+Skip to content
+
+HomeAbout
+Impressum
+IT-Résumé
+Malware Analysis
+
+Analyzing Methods
+Malware Analysis Laboratory
+Malware Breakdown
+
+12fb7332920a7797c2d02df29b57c640
+
+
+
+
+My Books
+
+Metasploit Book
+mimikatz Book
+
+
+Tenable
+Z – Privacy Policy + Cookies
+
+
+
+
+
+
+
+
+← R75.40VS – Light at the end of the tunnel?
+Analyzing Malware at home – Introduction →
+
+
+Paypal – How to not implement 2-Factor-Authentication
+
+Posted on 2013/08/07 by SebastianB
+
+Hello,
+let me give an example how to not implement 2-Factor-Authentication: The Paypal way!
+I have to give Paypal credit for the fact that they introduced SMS 2 Factor Authentication for quite some time now. According to this link they introduced it around the end of 2008 which I guess is not to bad compared to other services.
+I can not really remember when I activated this extra bit of security for my account but I can tell you it was before I got my first iPad and before I started using iPhone’s and iPad’s for daily business like ordering and paying a Pizza online.
+Here is why: IT DOES NOT WORK!
+How it normally works is that you go to paypal.com (or get refered there by an online shop) enter your credentials and get presented with a second page which gives you the option to request the SMS OTP Code by clicking a button and entering it to proceed with your payment.
+Now here is the problem: Paypal analyzes your browsers agent string and presents you with a different login page for Smartphones and Tablets (tested it on iOS and Android).
+For this mobile site they require you to add your OTP Code to the end of your password. Guess what: I cannot enter it if I cannot request it if you dont present me with the button to do so!
+The same sad thing is true for their App:
+
+So whats with that Paypal?! Don’t you test your applications at least superficial for usability?!
+workarround (kinda)
+So I lived with that for maybe a year now and just did not pay with Paypal anymore (the delivery guy does not mind cash). But this week I had some spare time and wanted to dig a bit deeper.
+I found this forum post: https://www.paypal-community.com/t5/About-Payments-Archive/Can-t-login-from-iPad-iPhone-apps-when-SMS-keys-are-already/td-p/610967
+So I am not the only one who wants to order his pizza on the iPad… Suprise…
+In the above forum post someone mentions the VIP Access App. I tought this was some standalone OTP App from paypal but could not find anything that looks like it belongs to Paypal in the Appstore.
+So I decided to contact the Paypal support and told them that I got the exact same issue that is described in their forums and added a link to the forum post.
+The next day I received an answer from Paypal support with the usual blabla that I am an important customer and so forth… and a step by step set of instructions how to disable SMS OTP verification and add the already mentioned VIP Access OTP software (which is a free OTP software from Symantec btw).
+So I started with the OSX application which looks like this:
+
+Next I tried to follow their instructions and add this OTP generator to my paypal account. In your account settings you see the following options regarding 2-Factor-Authentication:
+
+So you get buttons to activate and deactivate existing 2-Factor methods. But no fricking button to add a new method…
+What you have to do is click on “more informations” and you will be presented with this lovely designed website:
+
+Another fancy website marketing the SMS 2-Factor method (which I am told to get rid of by the support)…
+So what you obviously have to do (duh!) is to click that you want to add a SMS security code! You will get rewarded by this page:
+
+Okay here you can enter cell phone numbers (which I dont want). So obviously you have to click on cancel! Now you are presented with the whole range of 2-Factor methods Paypal has to offer:
+
+Now we are talking. So I can order a hard token, activate SMS Tokens (great) or activate a Security Key. What would you chose to activate a Software OTP Token generator?
+Exactly: the Picture that says secrutiy key (which shows the same piece of hardware you can order on the left)…
+So if you managed to do all that you are rewarded with the actual page that lets you activate your VIP Access OTP software client from Symantec for your Paypal account:
+
+It took me maybe 15-20 minutes and some chance to figure all of this out. Also I already worked with OTP Software and Hardware Token solutions and know my way around implementing and activating them.
+But whats about the majority of the Paypal users? People like my parents who just want to pay some stuff online?
+so everything is fine now?
+Not really… I want to pay with my phone so I dont want to start a program on my computer. So there is an App for iOS and Android from Symantec which does the same.
+However I don’t want to set up my Paypal account with only one Software OTP generator on my iPhone. From experience I know that I restore my phone at least once a year and I also just recently had to send it in for a repair and got an exchange device.
+If you ever backed up and restored an iPhone you know that not all software backs up all of its settings. Especially security relevant software like OTP generators tend to not back up  the security key.
+So no problem, you can activate more than one OTP Software Token for your Paypal account as you can see in one of the screenshots above.
+However here comes the funny part: The Paypal App (for iOS at least, did not test android) still does not work, as you still have to add the OTP Code to the end of your password without beeing presented the page where you can chose which token code you want to enter.
+But the mobile website suddenly does present you with a second page after login:
+
+As you can see it is not mobile browser optimized…
+One good thing tough that as you are now presented with the second login page you even can reactivate SMS Codes for your Paypal account and use them on your smartphone or tablet.
+So I can now order and pay my Pizza with my iPad or iPhone again as long as I stick to the browser and do not use the intended App.
+The only thing that remains to be said:
+
+Update (March 23rd, 14): as mentioned in the Comments it seems Paypal does now support Google Authenticator. You can read up on it here: http://lifehacker.com/5938565/heres-everywhere-you-should-enable-two-factor-authentication-right-now
+Update (April 9th, 14): The previous update was not true. Lifehacker is only talking about SMS 2 factor auth for Paypal. The OTP options in the Paypal user settings are still as crude as when i first posted this entry.
+Update (December  29th, 14): As another commenter noted today, the Paypal app now seems to be able to support sms 2 factor authentication. However for me it still does not work as the Paypal app is telling me it does not support hardware tokens (Symantec VIP Access Software Token in my case):
+
+It seems that it does not work when you have both hardware and sms 2 factor authentication activated for your account. So the App will only work if you have no other authentication mechanism beside sms activated I guess.
+This inconsistent implementation of Paypals 2 factor authentication and this years publication by Joshua Roberts leaves me with a bad feeling while trusting paypal with my money…
+Update (July 17th, 19): By now PayPal managed to implement 3rd Party TOTP Apps like Authy but no Recovery Codes and no U2F… Read it here in my latest Post:
+PayPal now Supports proper OTP 2FA Apps – but no Recovery Codes and no U2F!
+Regards
+Sebastian
+
+
+
+
+Related
+
+
+
+
+
+
+About SebastianB
+read it in my blog
+
+View all posts by SebastianB →
+
+
+
+
+This entry was posted in miscellaneous and tagged 2-factor-authentication, 2fa, go home youre drunk, ipad, iphone, otp, paypal, Softtoken. Bookmark the permalink.
+
+
+← R75.40VS – Light at the end of the tunnel?
+Analyzing Malware at home – Introduction →
+
+
+
+41 Responses to Paypal – How to not implement 2-Factor-Authentication
+
+
+
+
+Jay Aeu says:
+
+2013/12/08 at 09:36
+Very interesting. How would one go about using Google Authenticator instead of the Symantec App? More specifically, what is the serial number to enter in the PayPal process?
+
+
+Reply
+
+
+
+
+
+
+SebastianB says:
+
+2013/12/09 at 18:17
+Hi,
+i just checked and verified that paypal is not compatible to google authenticator.
+The VIP Access App however is working fine for me for nearly 4 months now.
+I have one running on my iphone and a separate installation (generates different keys) on my macbook. So I can still log on to paypal if my phone or pc app is lost or needs to be reinitiated.
+I disabled sms authentication entirely because of security concerns. There are news reports that bank accounts got robbed by people who registered spare sim cards with fake IDs to intercept the otp sms.
+It would be nice of paypal to support google authenticator but when I look at how strange and user-unfriendly their 2-factor-service is right now I dont think they will integrate it in the near future.
+Regards
+Sebastian
+
+
+Reply
+
+
+
+
+
+
+Whammy! says:
+
+2014/04/18 at 21:50
+Google’s way is so much better. They give you ten static codes to keep at home, in a safe place in the event you lose your phone or whatever.
+
+
+
+
+
+
+
+
+
+
+
+
+Tammi L. Coles says:
+
+2014/03/06 at 16:10
+It’s 2014 and this is still a problem. Drives me nuts.
+You may have heard recently that the Paypal President was complaining because their own staff aren’t using it enough. NO SURPRISE, in my opinion.
+
+
+Reply
+
+
+
+
+
+
+escapefromyonkers says:
+
+2014/03/23 at 04:58
+paypal works with google  auth now, lifehacker has a link to the info on how to implement it
+
+
+Reply
+
+
+
+
+
+
+lunarmarshall says:
+
+2014/04/09 at 13:37
+ok…. how do i even enable the google authenticator if there is no option to do it?
+
+
+Reply
+
+
+
+
+
+
+lunarmarshall says:
+
+2014/04/09 at 13:46
+the google auth i mean, there is no option to use it
+
+
+Reply
+
+
+
+
+
+
+SebastianB says:
+
+2014/04/09 at 19:05
+Hey lunarmarshall,
+im sorry the last comment was missleading. Paypals till does not support Google authenticator. Lifehacker is just refering to Paypal SMS 2-Factor-Auth in an Google Authenticator article…
+You can still use the Symantec VIP Access app on your smartphone tough as described in the blog post above.
+Regards
+Sebastian
+
+
+
+
+
+
+
+
+
+
+
+
+lunarmarshall says:
+
+2014/04/09 at 20:55
+Not the same, plus I don’t realy trust Symantec, they are great researchers but not so great at implementing
+
+
+Reply
+
+
+
+
+
+
+SebastianB says:
+
+2014/04/09 at 21:49
+Probably still better than 1-Factor-Auth :) But you could also go with the SMS…
+
+
+Reply
+
+
+
+
+
+
+
+
+Nico says:
+
+2014/05/22 at 09:19
+why not just get the hardware security key generator. I got one as soon as they were available and i’m very happy with it. Of cause it would be great to have one such device for different service but at least this one works for ebay and paypal.
+
+
+Reply
+
+
+
+
+
+
+SebastianB says:
+
+2014/05/22 at 09:28
+I generally line hardtokens as they are not easy to copy and you notice theft quckly. Thats why I implemented them in the company I work and would suggest them to any company.
+However in the private parts of the Internet not every User can carry 20 Hardtokens of the most important websites she/he is using. Everyone is carrying a smartphone tough…
+I admir that softtoken on smartphones are not 100% secure against targeted attacks however in cases like yesterdays reported ebay breach a softtoken suffices to save ones ass (or money, or account).
+I currently have 3 Tokens from work on my keychain….
+
+
+Reply
+
+
+
+
+
+
+Nico says:
+
+2014/05/22 at 13:13
+Yeah I already said that it would be great to have a “one for all” hardware token but for me especially this one for paypal is essential.
+
+
+
+
+
+
+
+
+SebastianB says:
+
+2014/05/22 at 13:57
+I agree! Especially for financial services it probably justifies yet another hardtoken.
+The funny thing / main objective of the blogpost is that paypal already supports all kind of tokens but the handling and configuration is horrible.
+Also: is your hardtoken working for you in the mobile app?
+Thx for yor feedback!
+Regards
+Sebastian
+
+
+
+
+
+
+
+
+Nico says:
+
+2014/05/22 at 14:05
+yes it does! The funny thing is, that in the first versions of the mobile app it did not. Guess why! Because the page where you had to enter the security code did not exist there. I think they then established the solution of entering the code directly after the password… ;)
+
+
+
+
+
+
+
+
+
+
+
+
+Dreezman says:
+
+2014/05/23 at 14:38
+great column thanks
+
+
+Reply
+
+
+
+
+
+
+hobbes says:
+
+2014/06/26 at 11:16
+I read the article but I still am not sure if there is a way to use the paypal app with two factor authentication or not in the end…
+– I understand that it won’t work with SMS two factor authentication.
+– I understand that it won’t work if both SMS and the VIP app are activated for two factor authentication.
+But should it work if I have _only_ Symantec’s VIP app activated for two factor authentication? I tried to append the token from Symantec’s VIP app to my password, but that didn’t work. Although I could see that my password was correct since I got a different error (completely useless error saying “there was an error” and that’s it).
+I am baffled that this issue exists for so long now. I am a german user as well.
+
+
+Reply
+
+
+
+
+
+
+SebastianB says:
+
+2014/06/26 at 12:13
+To my Knowlege its still not possible to sign into the mobile App when using 2FA!
+Im still switching to my Mac to order Pizza!
+If someone mamages to get it working I would appreciate a comment here :-)
+
+
+Reply
+
+
+
+
+
+
+nk111 says:
+
+2014/06/26 at 12:56
+As I said earlier: I can use the mobile app together with my hardware token generator.
+
+
+
+
+
+
+
+
+hobbes says:
+
+2014/06/27 at 12:41
+Thanks for replying. I oversaw this piece of information. Now, I would have thought that since it works with the hardware token, it would work with the soft token too. Has anybody else tried it? (with _only_ the softtoken activated in the paypal account, no mobile phone, no hardware token.)
+
+
+
+
+
+
+
+
+
+
+Pingback: Paypal’s 2-Factor-Authentication(2FA): The Good, The Bad, And The Ugly. (Incl. full 2FA bypass without security questions) | Bountolos.info
+
+
+
+
+Anonymous says:
+
+2014/12/29 at 17:59
+This has finally been fixed! Both the mobile web site and the Paypal iOS app now allow you to login with your SMS authentication. This just happened a few days ago,a s far as I can tell.
+
+
+Reply
+
+
+
+
+
+
+SebastianB says:
+
+2014/12/29 at 19:17
+Hello,
+thanks for the notification. I tested it on my iPhone and updated the blogpost regarding my findings.
+It still seems kinda broken and only working in some cases…
+Also i wonder if Paypal broke it for the commenter above who were able to use the mobile app with his hardware token :)
+Regards
+Sebastian
+
+
+Reply
+
+
+
+
+
+
+
+
+Colin says:
+
+2015/01/05 at 03:57
+U.S. user with both software token and SMS key activated and I can’t use the PayPal app either. It complains about hardware tokens even though I have the SMS method activated too. Adding the code generated by the software token to the end of my password doesn’t work, and there’s no button to send an SMS code.
+Does PayPal even test this stuff?
+
+
+Reply
+
+
+
+
+
+
+Colin says:
+
+2015/01/05 at 03:58
+Ps- I’m on iOS
+
+
+Reply
+
+
+
+
+
+
+Jens says:
+
+2015/01/27 at 18:25
+“Does PayPal even test this stuff?”
+No evidence that they do even the most basic usability testing in this regard.
+
+
+Reply
+
+
+
+
+
+
+
+
+Jens says:
+
+2015/01/27 at 18:23
+It’s sadly clear looking at the various generations of pages old and new intermingled, along with Paypal Security Key SMS just not working, is that Paypal just really doesnt care at all about security or it’s users money.
+Or at least that’s the only reasonable and logical conclusion that an observer could make for issues which have persisted for over a year.
+
+
+Reply
+
+
+
+
+
+
+Txiam says:
+
+2015/04/01 at 12:11
+Implemented:  2008
+Still not working fully:  April 1, 2015
+Has option to sidestep at login: YES
+I don’t know about you, but can you think of anyone else that would deserve a more scathing woodshed visit at this point??
+It doesn’t matter if you implemented something in 2008, if it still does not work and you can disable it at time of payment each time, and has NEVER worked on a mobile or IOS platform…the 2008 becomes completely a moot point.
+It doesn’t help that they aren’t also compatible with Google Authenticator, but are with Symantec?  No offense, but WTF on that too?
+So that’s two major industry strikes.
+****This whole sham seriously makes me question Paypal’s ENTIRE security platform****
+
+
+Reply
+
+
+
+
+
+
+Patrick Wolf says:
+
+2015/05/10 at 23:15
+I so agree. I can’t understand why everybody is trying to make their own standards. Google Authenticator is good enough, is convenient and people are actually using it.
+SMS authentication doesn’t work well when you are travelling and the Symantec app is again something else to maintain and doesn’t work for lots of other websites google Auth works for.
+Don’t reinvent the wheel unless its actually better PayPal!
+
+
+Reply
+
+
+
+
+
+
+Anonymous says:
+
+2015/08/24 at 07:23
+It many years but now PayPal still don’t allow me to use 2-factor authentication.
+
+
+Reply
+
+
+
+
+
+
+Hobbes says:
+
+2015/08/27 at 10:41
+Works for me on Android and Desktop now. Android can only do SMS two factor, not using the VIP app.
+
+
+Reply
+
+
+
+
+
+
+
+
+Nathan Adams says:
+
+2015/09/26 at 22:21
+Symantec’s VIP app is just a (poor) implementation of TOTP. I’ve been using FreeOTP for a while with Paypal and other services that use VIP. Symantec didn’t invent anything – they just took the TOTP standard, slapped their name on it, charge for it, and claim it’s “enterprise” worthy.
+Check out this tool: https://github.com/cyrozap/python-vipaccess
+BUT it appears their implementation is completely broken as I can’t login through the front page anymore…
+
+
+Reply
+
+
+
+
+
+
+Nell says:
+
+2016/06/20 at 19:52
+My first transaction whipped the shit out of me when I realized Paypal doesn’t do OTP thing considering the fact that it takes lots of security measures while creating an account. Thanks for this info but I still wish paypal doing some improvements from their side.
+
+
+Reply
+
+
+
+
+
+
+madpadworld says:
+
+2016/09/25 at 00:28
+I live in Switzerland. Not any 2-Factor  Option is available here AT ALL.
+We still only have username/password.
+Talked to the support and they confirmed it.
+Sorry that’s standard today! This really sucks.
+
+
+Reply
+
+
+
+
+
+
+Felix says:
+
+2017/06/14 at 08:57
+It’s June 2017 (!) now and PayPal does NOT support 2 Faktor Authentication with Google Authenticator (or any other Authenticator App).
+What a shame!
+Just embarrassing PayPal, just embarrassing.
+
+
+Reply
+
+
+
+
+
+
+SebastianB says:
+
+2017/06/14 at 09:00
+They support some crappy Symantec Authenticator App for a while now. But i agree, they should have easy and straight forward support for Google Authenticator and U2F.
+Guess you cant expect much from an old slow company that is just discovering the interwebz!
+
+
+Reply
+
+
+
+
+
+
+Nathan Adams says:
+
+2017/06/14 at 09:27
+See my comment above. I’ve been using Authy with PayPal for probably years now (unofficially of course). They have “fixed” the workflow but they require you to enable SMS 2FA which many experts argue that is insecure (due to the fact that it’s extremely easy to take over your cell phone account – coinbase accounts have been compromised this way). Using google voice would probably mitigate that – because let’s face it – you can’t call google (at least not for a free service) :).
+
+
+
+
+
+
+
+
+Felix says:
+
+2017/06/14 at 16:04
+Yeah, I know this crappy App..
+But I want to use the Authenticator App I use for all F2A – Google Authenticator.
+Anyway it seems like F2A is for PayPal like the internet for our chancellor Merkel: ‘unknown territory’.
+
+
+
+
+
+
+
+
+
+
+SebastianB says:
+
+2019/07/17 at 12:04
+They do now…. When everybody else is moving to U2F ;) At least you can deactivate SMS-2FA entirely now….
+https://itunsecurity.com/2019/07/17/paypal-now-supports-proper-otp-2fa-apps-but-no-recovery-codes-and-no-u2f/
+
+
+Reply
+
+
+
+
+
+
+Simos Katsiaris says:
+
+2019/07/19 at 01:52
+now if only my local bank would od proper 2FA since they decided to phase out all physical authentication devices…..
+
+
+
+
+
+
+
+
+SebastianB says:
+
+2019/07/19 at 08:16
+Haha thats bad! German Sparkasse cuts passwords after 8 digita which is horrible but at least they have Chip-TAN to secure Transactions!
+
+
+
+
+
+
+
+
+
+
+
+Leave a comment Cancel reply
+
+
+
+This site uses Akismet to reduce spam. Learn how your comment data is processed.
+
+
+
+
+
+My Latest Book
+
+Search for:
+
+
+
+
+
+Recent Posts
+
+
+Tenable Core Appliance and GDPR Data Deletion Concept – Datenschutz Löschkonzept
+
+
+The Road to Hell is paved with EICAR
+
+
+Tenable LCE Specs verify EPS for Productive LCE Setup
+
+
+Tenable ContainerSecurity simple pyTenable examplescript to list vulns associated with scanned containers
+
+
+Tenable.sc automated Plugin Updates in Airgapped or otherwise Offline Environments
+
+
+Archives
+
+May 2021
+October 2020
+June 2020
+May 2020
+April 2020
+December 2019
+August 2019
+July 2019
+July 2018
+June 2017
+March 2017
+December 2016
+April 2016
+December 2015
+August 2015
+May 2015
+November 2014
+May 2014
+April 2014
+February 2014
+October 2013
+August 2013
+June 2013
+May 2013
+March 2013
+February 2013
+January 2013
+November 2011
+April 2011
+
+Categories
+
+Books
+
+boot2root
+
+Checkpoint
+
+events
+
+InfoSec
+
+malware analysis
+
+miscellaneous
+
+network
+
+OpenWRT
+
+pentesting
+
+SecurityNews
+
+tenable
+
+vulnhub
+
+
+Meta
+
+Register Log in
+Entries feed
+Comments feed
+WordPress.com
+
+Follow Blog via Email
+
+
+Enter your email address to follow this blog and receive notifications of new posts by email.
+
+
+Email Address:
+
+
+
+
+
+
+
+
+Follow
+
+
+
+Join 27 other subscribers
+
+RSS - PostsRSS - Comments
+
+
+
+
+Tags
+2-factor-authentication
+2fa
+adb
+amazon aws
+android
+API
+ARP
+checkpoint
+Cisco Nexus
+ClusterXL
+cpx 2011
+database full
+diginotar
+dlink
+DMA exploitation
+Edge
+elk
+exploit
+FDE
+firewall
+Firewire
+full disk encryption
+fw tab
+GARP
+git
+guidbedit
+hack
+honeypot
+Inception
+index
+iperf
+IPSec
+IPv6
+kali
+kernel panic
+kernel parameters
+kernel tables
+kippo
+LCE
+linksys
+Linux
+Macports
+mailrelay
+malware
+memory forensics
+Microsoft
+obfuscation
+OpenWRT
+pauldotcom.com
+paypal
+Performance
+playstation network
+pyTenable
+python
+R75.40VS
+raspberry pi
+SecureXL
+smart event
+smart event intro
+smartlog
+Smart Log
+sony
+ssl
+Stateless Autoconfiguration
+strings
+tenable
+volatility
+VPN
+VPN 1 Edge
+vpn tu
+VSX
+vulnerabilities
+WDR4300
+Windows
+WR1043ND
+
+
+
+
+
+
+
+
+IT-Unsecurity
+
+
+Blog at WordPress.com.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use.
+To find out more, including how to control cookies, see here:
+
+Cookie Policy
+
+
+
+
+
+
+Comment
+
+
+
+
+
+Subscribe
+
+
+
+Subscribed
+
+
+
+
+
+
+
+IT-Unsecurity
+
+
+
+Join 27 other subscribers
+
+
+
+
+
+
+
+
+
+Sign me up
+
+
+
+
+Already have a WordPress.com account? Log in now.
+
+
+
+
+
+
+
+
+
+
+
+
+IT-Unsecurity
+
+
+
+
+Subscribe
+
+
+
+Subscribed
+
+
+Sign up
+Log in
+
+
+Copy shortlink
+
+
+
+
+
+Report this content
+
+
+
+View post in Reader
+
+
+Manage subscriptions
+
+Collapse this bar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Loading Comments...
+
+
+
+
+
+
+
+You must be logged in to post a comment.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Design a site like this with WordPress.comGet started
+
+
+

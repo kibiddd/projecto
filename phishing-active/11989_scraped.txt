@@ -1,0 +1,21 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fatal error: Call to undefined function  flash_object() in /web/htdocs2/interierykmcz/home/www/index.php on line 28

@@ -1,0 +1,45 @@
+
+FWSPH Phishing
+
+
+
+
+
+
+FWSPH Phishing Campaign
+
+
+
+
+You clicked on a simulated Phishing Campaign.
+Here are some tips to help you stay safer in the future
+
+
+
+Tip: #1
+Stop, Look, Think
+Did anything look out of the ordinary? Did you recognize the senders address? Was it similar but not the same as an offical email?
+FWSPH <hrd@flatworld.site>
+
+
+
+Tip: #2
+Refer to Information below regarding Phishing Awareness Do & Dont's:
+DO...
+Evaluate email
+signatures for legitimacy.
+Take note of a sender's email address to identify suspicious  senders.
+DON'T...
+Click on links from
+unknown sources.
+Open attachments or embedded links unless you know the sender and are expecting the email.
+Open attachments from senders you don't personally recognize.
+
+Tip: #3
+When in doubt throw it out
+If you ever think that an email is suspicous it is better to err on the side of caution. Forward it to:
+fwsph-siem-support@flatworldsolutions.com.ph
+
+
+
+

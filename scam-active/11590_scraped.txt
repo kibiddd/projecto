@@ -1,0 +1,678 @@
+Electric Utility Software | Neara
+3/23/2025 3:37pm : homepage |
+Partnership Announcement! Osmose and Neara Partner to Help Utilities Strengthen Transmission and Distribution Infrastructure
+Read More
+Why NearaFor Utilities
+Digital Asset Management
+Digital Asset ManagementRisk Impact ScoringForecast and Backcast Resilience
+Network Health & Reliability
+Network Health & ReliabilityEquipment InspectionsVegetation ManagementLine RatingClearance Analysis
+Weather Resilience  &  Grid Hardening
+Weather Resilience & Grid HardeningWildfire ManagementHurricane & Storm ManagementFlood ManagementSnow & Ice Management
+Renewable Energy & Decarbonization
+Renewable Energy & DecarbonizationTransmission Design & OptimizationRenewable Energy IntegrationInterconnection Request Management
+Network Digitization
+Network DigitizationNetwork Design & ConstructionLiDAR & GIS Reconciliation
+For EPCs
+FOR EPCsEPCs
+EPCsMake-Ready EngineeringNetwork Design & ConstructionVegetation ManagementLine RatingAsset Health Management
+Resources
+ResourcesResources Col 2
+BlogCase StudiesPress CoverageVideos
+TechCrunch: How Neara Uses AI to Protect Utilities From Extreme Weather Euronews: Blackout Fatigue Threatens Our Climate Change Resilience BBC: We Want to Let People Know Before Floods Hit Them
+Log In
+USAGlobal
+Get a Demo
+Why NearaFor Utilities
+Digital Asset Management
+Digital Asset ManagementRisk Impact ScoringForecast and Backcast Resilience
+Network Health & Reliability
+Network Health & ReliabilityEquipment InspectionsVegetation ManagementLine RatingClearance Analysis
+Weather Resilience  &  Grid Hardening
+Weather Resilience & Grid HardeningWildfire ManagementHurricane & Storm ManagementFlood ManagementSnow & Ice Management
+Renewable Energy & Decarbonization
+Renewable Energy & DecarbonizationTransmission Design & OptimizationRenewable Energy IntegrationInterconnection Request Management
+Network Digitization
+Network DigitizationNetwork Design & ConstructionLiDAR & GIS Reconciliation
+For EPCs
+FOR EPCsEPCs
+EPCsMake-Ready EngineeringNetwork Design & ConstructionVegetation ManagementLine RatingAsset Health Management
+Resources
+ResourcesResources Col 2
+BlogCase StudiesPress CoverageVideos
+TechCrunch: How Neara Uses AI to Protect Utilities From Extreme Weather Euronews: Blackout Fatigue Threatens Our Climate Change Resilience BBC: We Want to Let People Know Before Floods Hit Them
+Log In
+USAGlobal
+Get a Demo
+Stop reacting to
+high winds
+heavy rain
+excessive heat
+cold snaps
+load growth
+outage risks
+Predictive modeling software for proactive network governance. Quantify and prove network needs in any scenario. Run precise analyses in hours and days instead of months or years in the field.
+Get a demo
+How it works
+';
+Get a demo
+How it works
+Trusted by global utilities to keep networks safe and online in hurricanes, heat waves, hail storms, and more.
+Outages and safety incidents are no surprise when you can only see a small fraction of your network at a time — and only see your assets and vegetation on their best behavior.
+You’re trying to prioritize equipment maintenance, trim jobs, and capital projects — but you can only prioritize solutions to risks you can see.
+You need to understand exactly how your assets will respond to severe weather — but field surveys only happen on fair weather days.
+You need to prove your plan will actually solve reliability and resilience challenges — but measuring outcomes looks like guesswork.
+Network governance is 80% reactive and 20% proactive. For utilities using Neara, it’s the other way around.
+1. Generate behaviorally identical digital model of your entire network.
+Every asset bends, deforms, and sways in response to >100mph winds, flash floods, and more exactly as it does in field. Correct GIS errors and set the record straight on every asset location, configuration, and
+clearance measurement.
+2. Execute network-wide simulation analyses so you know exactly what to expect in the field.
+Simulate scenarios like severe weather and new network design to pinpoint key vulnerabilities and test-drive potential remediation solutions before spending a dollar or breaking ground in the field.
+3. Run reports that quantify network needs and measure outcomes.
+Need to validate your vegetation budget number? Demonstrate which poles actually need replacement? Justify your new transmission line? Objectively define network needs with demonstrable data regulators and other key stakeholders will understand.
+How To Fix The Greatest Threat  to Reliability and Resilience
+A Primer on Digital Risk Mitigation
+See How
+Answer any question with Neara
+If SE wind speeds exceed 70mph, which trees will be fall-in risks?
+Complete vegetation work
+50%
+faster
+CASE STUDY
+Which pole failures will cause the most outages in a storm?
+Restore
+power
+3x
+faster
+CASE STUDY
+Where will floodwaters recede fastest?
+Remove
+300
+hours of manual inspection time
+CASE STUDY
+Where exactly would steel poles work best?
+Defer
+3k
+pole replacements
+CASE STUDY
+Where are conductor clash risks close to major highways?
+Identify clash risk
+10x
+faster
+CASE STUDY
+What’s the optimal span length for a new line over hilly terrain?
+Design new network
+85%
+faster
+CASE STUDY
+Which assets are missing from my GIS?
+Correct
+000’s
+of GIS discrepancies
+CASE STUDY
+Explore Solutions
+9x
+Identify and resolve outage risks 9x faster
+Network Health & Reliability
+3x
+Identify asset failure risks3x faster vs. other software
+Digital Asset Management
+85%
+Implement network design changes 85% faster
+Network Design
+3x
+Restore power3x faster
+Weather Resilience & Grid Hardening
+2x
+Without building new infrastructure2x existing network capacity
+Renewable Energy & Decarbonization
+‘000s
+Correct ‘000s  of GIS discrepancies
+Digitization
+Power your network to a whole new level
+Conduct cost-benefit analyses in minutes, not months
+Eliminate thousands of field visits
+Save millions of dollars annually
+Talk to us to about how
+Success stories
+While piloting Neara, we were able to simulate the impact of major flooding in late March. Rather than wait for digital inspections we eliminated 300 hours of inspection time and targeted our response to customers that needed assistance most.
+- Scott Ryan, Chief Asset & Operating Officer, Endeavor Energy
+CASE STUDY
+By monitoring water and clearance levels daily, SA Power Networks was able to leave power on for longer for many customers as the floodwaters rose and also restore power more quickly as water receded. This innovative approach allowed for the re-energisation of power lines within five days, compared with the originally anticipated three-week timeframe using traditional manual methods.
+- Doug Schmidt, General Manager, Network Management
+CASE STUDY
+We have found that the temperature our lines can operate at is much higher than we previously understood. Historically, we have had to apply a crude standard across the network. By modeling each span individually, we found that in many parts, the capacity is twice as high as we previously thought.
+- John Cleland, CEO, Essential Energy
+CASE STUDY
+Which assets need your attention?
+Learn how to find out, fast.
+Get a demo
+info@neara.com
+Find us on
+About
+Learn More
+How it Works
+Why Neara
+About Neara
+Resources
+Careers
+For Geospatial
+LiDAR Classification & Insights
+Automatic LiDAR Classification
+Vectorization & Insights
+For EPCs
+Make-Ready Engineering
+Network Design & Construction
+Vegetation Management
+Line Rating
+Asset Health Management
+For Utilities
+Network Digitization
+Network Design & Construction
+LiDAR & GIS Reconciliation
+Network Health & Reliability
+Asset Health Management
+Vegetation Management
+Dynamic Line Rating
+Clearance Analysis
+Weather Resilience & Grid Hardening
+Wildfire Management
+Hurricane & Storm Management
+Flood Management
+Snow & Ice Management
+Renewable Energy & Decarbonization
+Transmission Design & Optimization
+Renewable Energy Integration
+Interconnection Request Management
+Network Digitization
+Network Design & Construction
+LiDAR & GIS Reconciliation
+Weather Resilience & Grid Hardening
+Wildfire Management
+Hurricane & Storm Management
+Flood Management
+Snow & Ice Management
+Network Health & Reliability
+Asset Health Management
+Vegetation Management
+Dynamic Line Rating
+Clearance Analysis
+Renewable Energy & Decarbonization
+Transmission Design & Optimization
+Renewable Energy Integration
+Interconnection Request Management
+© 2023 Neara. All rights reserved.
+Privacy Policy
+Terms of Service
+Candidate Privacy Policy
+Get a Demo
+First NameLast NameCompany Email(Required)
+How did you hear about us?(Required)Phone numberCompany nameJob titleCountry/RegionMessage
+Neara’s Privacy Policy
+GENERAL PROVISIONS
+1   THE NEARA GROUP
+Neara is committed to protecting your privacy. This privacy policy applies to Linesoft Pty Ltd t/a Neara ABN 84 606 633 443 of 7 Hudson Street, Redfern NSW 2016 as well its international subsidiaries Neara Software LLC and Neara Software UAB (each a Neara Group Company and together Neara, we, our, us).
+This policy (Privacy Policy) sets out how we manage your Personal Information. In particular, this Privacy Policy sets out how we will manage any Personal Information that is collected, handled or disclosed in connection with:
+▪ the Neara Platform;
+▪ the Neara Self Service Administration Portal;
+▪ the Neara Website;
+▪ our subsidiaries and affiliates; and
+▪ our third party suppliers and service providers.
+2   PERSONAL INFORMATION AND SENSITIVE INFORMATION
+Personal Information is defined in the Privacy Act 1988 (Cth) (Privacy Act) to mean information or an opinion about an identified individual, or an individual who is reasonably identifiable:
+▪ whether the information or opinion is true or not; and
+▪ whether the information or opinion is recorded in a material form or not.
+Types of information that may constitute Personal Information include names, email addresses and phone numbers.
+Sensitive Information is defined in the Privacy Act to mean:
+▪ information or an opinion about an individual’s: (i) racial or ethnic origin; (ii) political opinions; or (iii) membership of a political association; or (iv) religious beliefs or affiliations; (v) philosophical beliefs; or (vi) membership of a professional or trade association; or (vii) membership of a trade union; or (viii) sexual orientation or practices; or (ix) criminal record, that is also personal information;
+▪ health information about an individual;
+▪ genetic information about an individual that is not otherwise health information;
+▪ biometric information that is to be used for the purpose of automated biometric verification or biometric identification; or
+▪ biometric templates.
+Neara does not collect, handle or disclose your Sensitive Information under this policy. In very limited circumstances, Neara may collect, handle or disclose the Sensitive Information of its employees, contractors or job applicants. Such collection, handling and/or disclosure is regulated by separate policies.
+3   COLLECTING AND HOLDING YOUR PERSONAL INFORMATION
+3.1 CATEGORIES OF PERSONAL INFORMATION THAT WE COLLECT AND HOLD
+We may collect and hold different categories of your Personal Information, which we have grouped together as follows:
+▪ Contact Information: includes your name, email, phone number and address;
+▪ Transaction Information: includes details about payments to and from you, and other details of products and services you have purchased from and sold to us;
+▪ Payment Information: includes credit card information and billing addresses;
+▪ Technical Information: includes Neara usernames and passwords, internet protocol (IP) addresses, login data, browser type, time zone setting and location, third party access tokens and other technology on the devices you use to access the Neara Platform or the Neara Self Service Administration Portal or any other internal websites, applications or intranets (Internal Applications) (if applicable).
+▪ Usage Information: includes information about how you use the Neara Platform, the Neara Self Service Administration Portal or any Internal Applications (if applicable).
+3.2 DIRECT COLLECTION
+We will collect Personal Information directly from you wherever it is reasonable and practicable to do so. This may be by correspondence, or use of either the Neara Platform or the Neara Self Service Administration Portal, by telephone, by email, via our website, from your website, from media and publications, from your response to any surveys or marketing materials we send out, or from other publicly available sources.
+3.3 INDIRECT COLLECTION
+In some circumstances a Neara Group Company may be provided with information by third parties or by another Neara Group Company.
+3.4 HOLDING YOUR PERSONAL INFORMATION
+We generally hold Personal Information in electronic format, which we store either within our own internal systems and applications, or using third parties such as cloud service providers. We summarise the security of your personal information below.
+4   PURPOSES OF COLLECTION, HOLDING, USE AND DISCLOSURE
+We collect, hold, use and disclose your personal information for a variety of reasons, including the most common circumstances listed below:
+▪ providing and marketing our services to you;
+▪ providing information to our customers;
+▪ to assess the performance of the Neara Platform, the Neara Self Service Administration Portal, or the Neara Website and to improve the services we provide in relation to each;
+▪ to process and respond to a complaint, help ticket or request made by you;
+▪ for purposes related to direct marketing (see section 7 of this policy for more details);
+▪ for purposes necessary for the performance of a contract to which you are a party, or which the entity that engages you (for example, your employer or contracting entity) is a party;
+▪ for the administration of our business and the business of our subsidiaries and other affiliated companies (including fulfilling and exercising our obligations and rights, exercising or defending legal claims and managing the relationship with you); or
+▪ where it is necessary to meet our obligations at law.
+You may unsubscribe from our mailing or marketing lists at any time by contacting us in writing.
+5   DISCLOSURE OF PERSONAL INFORMATION
+We may disclose your Personal Information amongst Neara Group Companies and our affiliated companies as well as to third parties or where required by law.
+Your Personal Information may be disclosed in a number of circumstances including the following:
+▪ to technology partners, service providers or suppliers in connection with services that these third parties perform for us;
+▪ our lawyers, insurance providers and brokers, accountants and other professional advisers;
+▪ our agents and contractors;
+▪ where required or authorised by law; and
+▪ to entities in the event to sell or transfer (or propose to sell or transfer) all or a portion of our business, equity interests or assets, in which case we will use reasonable commercial efforts to require that the transferee uses the Personal Information you have provided to us in a manner that is consistent with this policy.
+We may transfer your Personal Information to New Zealand, the United Kingdom, European Union, Pakistan, India, United States and Canada, and to other countries in which we do business. We may also subcontract certain activities and share your Personal Information with third parties located in countries outside of Australia. The countries in which these organisations are located will vary, but we generally disclose Personal Information to organisations located in Pakistan and India. Such transfers are made in order to provide the services and carry out the activities specified in this policy.
+6   CONSEQUENCES OF NO COLLECTION
+If you do not provide us with the Personal Information that we require, some or all of the following may occur:
+▪ we or any involved third parties may not be able to provide the relevant services or products;
+▪ you may not be able to use the Neara Platform, the Neara Self Service Administration Portal, or the Neara Website; and
+▪ we may not be able to provide you with targeted content or relevant information.
+7   DIRECT MARKETING
+We may provide you with electronic marketing messages from time to time. You may opt out of receiving electronic messages from us at any time by contacting our Privacy Officer via the contact details at the end of this policy, or by using the opt out mechanism included in our electronic marketing messages.
+8   SECURITY OF PERSONAL INFORMATION
+We have put in place appropriate security measures to prevent your Personal Information from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. In addition, we also take steps that are reasonable in the circumstances to protect your Personal Information from misuse, interference, loss, unauthorised access, modification or disclosure. We have put in place procedures to deal with any suspected Personal Information breach and will notify you and any applicable regulator of a breach where we are required to do so. When your Personal Information is no longer needed for the purpose for which it was obtained, we will take reasonable steps to destroy or permanently de-identify your personal information.
+9   UPDATES AND ACCESS TO YOUR PERSONAL INFORMATION
+We take reasonable steps to ensure that the Personal Information we handle is accurate, complete and up-to-date. If you become aware of any errors in your Personal Information held by us or if you require any changes, please contact our Privacy Officer to seek any such correction or change.
+You can request access to any Personal Information we hold about you at any time. From time to time, we may need to reject your request to access Personal Information we hold about you, if we believe it to be necessary and to the extent required by law. To request access to any Personal Information that we may hold about you, please contact our Privacy Officer using the contact details set out at the end of this policy. Depending on your access request and where permitted by law, we may charge a small fee for complying with your request. In order to protect your Personal Information we may require identification from you before releasing the requested information.
+10   UPDATES TO PRIVACY POLICY
+This Privacy Policy may change from time to time, and it is therefore important that you review it regularly. Any change to this Privacy Policy will become effective when we publish the revised Privacy Policy on our website or otherwise make it available to you.
+11   INTEGRATIONS
+From time to time we may provide links or mechanics to interface with other applications or websites for your information or convenience, or to offer integrated services with other service or data providers. These applications or websites may be subject to alternative terms of use, including terms concerning your Personal Information. We have not reviewed these third party applications or sites and do not control, and are not responsible for these applications, sites or their content or privacy practices.
+12   COOKIES
+Our website may contain cookies from time to time. Cookies are a small file that is stored on your device by a website. Cookies contain information which is readable by the website that issued the cookie to you and is commonly used to remember your details and preferences when you return to that website. If you set up your web browser to reject cookies certain functions on the Neara Website may become unavailable to you.
+13   COMPLAINTS
+We take your privacy concerns seriously. If you have a complaint regarding our handling of your Personal Information (including a suspected breach of any privacy law) or concerning our privacy practices more generally, you may file a complaint with our Privacy Officer using the contact details set out at the end of this policy. If our Privacy Officer believes an investigation is necessary, we will open an investigation into your complaint. Our Privacy Officer may need to contact you to request further details of your complaint. If an investigation has been opened following a complaint made by you, our Privacy Officer will contact you with the result of that complaint as soon as possible.
+If we are unable to resolve your complaint to your satisfaction, you may refer your complaint to the Office of the Australian Information Commissioner at www.oaic.gov.au.
+14   CONTACT AND COMPLAINTS
+If you have any queries or complaints about our Privacy Policy please contact our Privacy Officer at:
+Attn: Chief Risk Officer
+Level 1, 7 Hudson Street
+REDFERN NSW 2016
+Email: info@neara.com
+KARAMVIR SINGH
+CHIEF PRODUCT OFFICER / CHIEF RISK OFFICER
+Privacy Policy(Required)
+I acknowledge that I have read the Neara Privacy Policy
+×
+Get a demo
+First name
+Last name
+Job title
+Company name *
+Company email *
+Select your country *
+United States
+Canada
+Australia
+New Zealand
+United Kingdom
+Afghanistan
+Åland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Caribbean Netherlands
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czechia
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+DR Congo
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern and Antarctic Lands
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macau
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Caledonia
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+North Korea
+North Macedonia
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestine
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Islands
+Poland
+Portugal
+Puerto Rico
+Qatar
+Republic of the Congo
+Réunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena, Ascension and Tristan da Cunha
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+São Tomé and Príncipe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United States Minor Outlying Islands
+United States Virgin Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+How did you hear about us?
+LinkedIn / Social Media Post
+Blog Post
+News Article
+Podcast
+My company uses Neara
+An industry colleague uses Neara
+Google / Internet Search
+Event / Conference
+Referral
+Other
+Your message
+Neara’s Privacy Policy
+GENERAL PROVISIONS
+1 THE NEARA GROUP
+Neara is committed to protecting your privacy. This privacy policy applies to Linesoft Pty Ltd t/a Neara ABN 84 606 633 443 of 7 Hudson Street, Redfern NSW 2016 as well its international subsidiaries Neara Software LLC and Neara Software UAB (each a Neara Group Company and together Neara, we, our, us).
+This policy (Privacy Policy) sets out how we manage your Personal Information. In particular, this Privacy Policy sets out how we will manage any Personal Information that is collected, handled or disclosed in connection with:
+▪ the Neara Platform;
+▪ the Neara Self Service Administration Portal;
+▪ the Neara Website;
+▪ our subsidiaries and affiliates; and
+▪ our third party suppliers and service providers.
+2 PERSONAL INFORMATION AND SENSITIVE INFORMATION
+Personal Information is defined in the Privacy Act 1988 (Cth) (Privacy Act) to mean information or an opinion about an identified individual, or an individual who is reasonably identifiable:
+▪ whether the information or opinion is true or not; and
+▪ whether the information or opinion is recorded in a material form or not.
+Types of information that may constitute Personal Information include names, email addresses and phone numbers.
+Sensitive Information is defined in the Privacy Act to mean:
+▪ information or an opinion about an individual’s: (i) racial or ethnic origin; (ii) political opinions; or (iii)membership of a political association; or (iv) religious beliefs or affiliations; (v) philosophical beliefs; or (vi) membership of a professional or trade association; or (vii) membership of a trade union; or (viii) sexual orientation or practices; or (ix) criminal record, that is also personal information;
+▪ health information about an individual;
+▪ genetic information about an individual that is not otherwise health information;
+▪ biometric information that is to be used for the purpose of automated biometric verification or biometric identification; or
+▪ biometric templates.
+Neara does not collect, handle or disclose your Sensitive Information under this policy. In very limited circumstances, Neara may collect, handle or disclose the Sensitive Information of its employees, contractors or job applicants. Such collection, handling and/or disclosure is regulated by separate policies.
+3 COLLECTING AND HOLDING YOUR PERSONAL INFORMATION
+3.1 CATEGORIES OF PERSONAL INFORMATION THAT WE COLLECT AND HOLD
+We may collect and hold different categories of your Personal Information, which we have grouped together as follows:
+▪ Contact Information: includes your name, email, phone number and address;
+▪ Transaction Information: includes details about payments to and from you, and other details of products and services you have purchased from and sold to us;
+▪ Payment Information: includes credit card information and billing addresses;
+▪ Technical Information: includes Neara usernames and passwords, internet protocol (IP) addresses, logindata, browser type, time zone setting and location, third party access tokens and other technology on the devices you use to access the Neara Platform or the Neara Self Service Administration Portal or any other internal websites, applications or intranets (Internal Applications) (if applicable).
+▪ Usage Information: includes information about how you use the Neara Platform, the Neara Self Service Administration Portal or any Internal Applications (if applicable).
+3.2 DIRECT COLLECTION
+We will collect Personal Information directly from you wherever it is reasonable and practicable to do so. This may be by correspondence, or use of either the Neara Platform or the Neara Self Service Administration Portal, by telephone, by email, via our website, from your website, from media and publications, from your response to any surveys or marketing materials we send out, or from other publicly available sources.
+3.3 INDIRECT COLLECTION
+In some circumstances a Neara Group Company may be provided with information by third parties or by another Neara Group Company.
+3.4 HOLDING YOUR PERSONAL INFORMATION
+We generally hold Personal Information in electronic format, which we store either within our own internal systems and applications, or using third parties such as cloud service providers. We summarise the security of your personal information below.
+4 PURPOSES OF COLLECTION, HOLDING, USE AND DISCLOSURE
+We collect, hold, use and disclose your personal information for a variety of reasons, including the most common circumstances listed below:
+▪ providing and marketing our services to you;
+▪ providing information to our customers;
+▪ to assess the performance of the Neara Platform, the Neara Self Service Administration Portal, or the Neara Website and to improve the services we provide in relation to each;
+▪ to process and respond to a complaint, help ticket or request made by you;
+▪ for purposes related to direct marketing (see section 7 of this policy for more details);
+▪ for purposes necessary for the performance of a contract to which you are a party, or which the entity that engages you (for example, your employer or contracting entity) is a party;
+▪ for the administration of our business and the business of our subsidiaries and other affiliated companies(including fulfilling and exercising our obligations and rights, exercising or defending legal claims and managing the relationship with you); or
+▪ where it is necessary to meet our obligations at law.
+You may unsubscribe from our mailing or marketing lists at any time by contacting us in writing.
+5 DISCLOSURE OF PERSONAL INFORMATION
+We may disclose your Personal Information amongst Neara Group Companies and our affiliated companies as well as to third parties or where required by law.
+Your Personal Information may be disclosed in a number of circumstances including the following:
+▪ to technology partners, service providers or suppliers in connection with services that these third parties perform for us;
+▪ our lawyers, insurance providers and brokers, accountants and other professional advisers;
+▪ our agents and contractors;
+▪ where required or authorised by law; and
+▪ to entities in the event to sell or transfer (or propose to sell or transfer) all or a portion of our business,equity interests or assets, in which case we will use reasonable commercial efforts to require that the transferee uses the Personal Information you have provided to us in a manner that is consistent with this policy.
+We may transfer your Personal Information to New Zealand, the United Kingdom, European Union, Pakistan, India, United States and Canada, and to other countries in which we do business. We may also subcontract certain activities and share your Personal Information with third parties located in countries outside of Australia. The countries in which these organisations are located will vary, but we generally disclose Personal Information to organisations located in Pakistan and India. Such transfers are made in order to provide the services and carry out the activities specified in this policy.
+6 CONSEQUENCES OF NO COLLECTION
+If you do not provide us with the Personal Information that we require, some or all of the following may occur:
+▪ we or any involved third parties may not be able to provide the relevant services or products;
+▪ you may not be able to use the Neara Platform, the Neara Self Service Administration Portal, or the Neara Website; and
+▪ we may not be able to provide you with targeted content or relevant information.
+7 DIRECT MARKETING
+We may provide you with electronic marketing messages from time to time. You may opt out of receiving electronic messages from us at any time by contacting our Privacy Officer via the contact details at the end of this policy, or by using the opt out mechanism included in our electronic marketing messages.
+8 SECURITY OF PERSONAL INFORMATION
+We have put in place appropriate security measures to prevent your Personal Information from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. In addition, we also take steps that are reasonable in the circumstances to protect your Personal Information from misuse, interference, loss, unauthorised access, modification or disclosure. We have put in place procedures to deal with any suspected Personal Information breach and will notify you and any applicable regulator of a breach where we are required to do so. When your Personal Information is no longer needed for the purpose for which it was obtained, we will take reasonable steps to destroy or permanently de-identify your personal information.
+9 UPDATES AND ACCESS TO YOUR PERSONAL INFORMATION
+We take reasonable steps to ensure that the Personal Information we handle is accurate, complete and up-to-date. If you become aware of any errors in your Personal Information held by us or if you require any changes, please contact our Privacy Officer to seek any such correction or change.
+You can request access to any Personal Information we hold about you at any time. From time to time, we may need to reject your request to access Personal Information we hold about you, if we believe it to be necessary and to the extent required by law. To request access to any Personal Information that we may hold about you, please contact our Privacy Officer using the contact details set out at the end of this policy. Depending on your access request and where permitted by law, we may charge a small fee for complying with your request. In order to protect your Personal Information we may require identification from you before releasing the requested information.
+10 UPDATES TO PRIVACY POLICY
+This Privacy Policy may change from time to time, and it is therefore important that you review it regularly. Any change to this Privacy Policy will become effective when we publish the revised Privacy Policy on our website or otherwise make it available to you.
+11 INTEGRATIONS
+From time to time we may provide links or mechanics to interface with other applications or websites for your information or convenience, or to offer integrated services with other service or data providers. These applications or websites may be subject to alternative terms of use, including terms concerning your Personal Information. We have not reviewed these third party applications or sites and do not control, and are not responsible for these applications, sites or their content or privacy practices.
+12 COOKIES
+Our website may contain cookies from time to time. Cookies are a small file that is stored on your device by a website. Cookies contain information which is readable by the website that issued the cookie to you and is commonly used to remember your details and preferences when you return to that website. If you set up your web browser to reject cookies certain functions on the Neara Website may become unavailable to you.
+13 COMPLAINTS
+We take your privacy concerns seriously. If you have a complaint regarding our handling of your Personal Information (including a suspected breach of any privacy law) or concerning our privacy practices more generally, you may file a complaint with our Privacy Officer using the contact details set out at the end of this policy. If our Privacy Officer believes an investigation is necessary, we will open an investigation into your complaint. Our Privacy Officer may need to contact you to request further details of your complaint. If an investigation has been opened following a complaint made by you, our Privacy Officer will contact you with the result of that complaint as soon as possible.
+If we are unable to resolve your complaint to your satisfaction, you may refer your complaint to the Office of the Australian Information Commissioner at www.oaic.gov.au.
+14 CONTACT AND COMPLAINTS
+If you have any queries or complaints about our Privacy Policy please contact our Privacy Officer at:
+Attn: Chief Risk Officer
+Level 1, 7 Hudson Street
+REDFERN NSW 2016
+Email: info@neara.com
+KARAMVIR SINGH
+CHIEF PRODUCT OFFICER / CHIEF RISK OFFICER
+Read More
+I acknowledge that I have read the Neara Privacy Policy
+Submit
+We are using cookies to give you the best experience on our website.
+You can find out more about which cookies we are using or switch them off in settings.
+Accept
+Reject
+TweetShareShare
+Close GDPR Cookie Settings
+Privacy Overview
+Strictly Necessary Cookies
+3rd Party Cookies
+Powered by  GDPR Cookie Compliance
+Privacy Overview
+This website uses cookies so that we can provide you with the best user experience possible. Cookie information is stored in your browser and performs functions such as recognising you when you return to our website and helping our team to understand which sections of the website you find most interesting and useful.
+Strictly Necessary Cookies
+Strictly Necessary Cookie should be enabled at all times so that we can save your preferences for cookie settings.
+Enable or Disable Cookies
+If you disable this cookie, we will not be able to save your preferences. This means that every time you visit this website you will need to enable or disable cookies again.
+3rd Party Cookies
+This website uses Google Analytics to collect anonymous information such as the number of visitors to the site, and the most popular pages.
+Keeping this cookie enabled helps us to improve our website.
+Enable or Disable Cookies
+Please enable Strictly Necessary Cookies first so that we can save your preferences!
+Enable All
+Save Settings

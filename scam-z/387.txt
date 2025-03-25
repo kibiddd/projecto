@@ -1,0 +1,25 @@
+Domain Name: ZOOMFINDS.BOND
+Registry Domain ID: D463961064-CNIC
+Registrar WHOIS Server: whois.namesilo.com
+Registrar URL: https://www.namesilo.com
+Updated Date: 2025-03-14T05:06:45.0Z
+Creation Date: 2024-06-16T12:05:43.0Z
+Registry Expiry Date: 2025-06-16T23:59:59.0Z
+Registrar: NameSilo, LLC
+Registrar IANA ID: 1479
+Domain Status: serverHold https://icann.org/epp#serverHold
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Organization: See PrivacyGuardian.org
+Registrant State/Province: AZ
+Registrant Country: US
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: ELIAS.NS.CLOUDFLARE.COM
+Name Server: LEANNA.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: abuse@namesilo.com
+Registrar Abuse Contact Phone: +1.4805240066
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-23T21:59:45.0Z 

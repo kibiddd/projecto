@@ -1,0 +1,219 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Static Page
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Data Search
+
+Indian Medicinal Plants Nomenclature Database
+Traded Medicinal Plants Database
+Plant Images
+Digital Herbarium
+Digital Atlas - Geo-distribution Maps
+Raw Drugs
+Statewise Checklist
+Conservation Concern Species
+
+
+
+Publications
+
+Articles
+Books
+CDs
+Posters
+Presentations
+Kannada Publications
+Magazines
+CITES
+Camp
+IUCN
+Training Module
+
+
+Publications
+
+Directory
+
+Herbaria
+Pharmacognosy Labs
+Nurseries
+MPSG Experts
+Medicinal Plants Conservational Parks
+Medicinal Plants Conservational Areas
+NTFP Related Links
+CSIR Institute
+CCRAS
+State Medicinal Plants Board
+Envis Centres
+State Forest Department
+B. V. Pundit's Herbal Garden
+Useful Websites
+Trader Details
+Bibliography
+
+
+
+Directory
+
+News
+
+News & Events
+Newsletters
+
+
+Send Query
+FAQ
+
+Features
+
+Kew's Medicinal Plants Named Services
+Pomegranates can enhance healthy living
+International Year of Water 2013
+International Year of Biodiversity 2016
+Cost-effective method of water purification
+Heritage Amruth
+
+
+Our Websites
+Ethnomedicinal Garden
+NTFP
+
+Reports
+
+CAMP Reports
+Sample Survey about Websites
+COE Annual Reports
+Web Stats
+Queries
+
+
+Children's Page
+Manuscripts
+
+Login
+
+More
+
+Publications
+Directory
+News & Events
+Newsletters
+FAQ
+Send Query
+Childrens' Page
+Manuscripts
+Reports
+Ethnomedicinal Garden
+NTFP
+Features
+Our Websites
+
+
+More
+
+
+
+
+
+Static Page
+This is a static page for bootstrap.
+Array
+(
+[title] => Static Page
+[pagetitle] => Static Page
+[metakeywords] => static page
+[metadescription] => this is a static page. the design will be based on this.
+[actualfilename] => bootstrap
+)
+
+The contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Get UpdatesEnter your email to get regular updates  Remove Email
+
+
+
+
+Disclaimer |
+Overview |
+Privacy |
+Copyright |
+About Envis |
+About FRLHT |
+Contact Us |
+FRLHT Envis Team
+
+Suggested  citation for the Website: Editors: D K Ved (Late), Suma Tagadur Sureshchandra, Vijay Barve, Vijay Srinivas, Sathya Sangeetha,  K. Ravikumar, Kartikeyan R., Vaibhav Kulkarni, Ajith S. Kumar, S.N. Venugopal, B. S. Somashekhar, M.V. Sumanth, Noorunissa Begum, Sugandhi Rani, Surekha K.V., and Nikhil Desale. 2016. (envis.frlht.org / frlhtenvis.nic.in).  FRLHT's ENVIS Centre on Medicinal Plants,  Bengaluru.  Copy Right: FRLHT, Bengaluru and MoEFCC, GoI.
+Last Updated : Monday, 18th November, 2024
+http://envis.frlht.org
+Browser Type:
+Vertically Very small
+
+
+
+
+
+
+No. of visits since 1/4/2017
+
+
+
+
+TS.
+VTS.
+
+
+
+

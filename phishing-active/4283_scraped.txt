@@ -1,0 +1,2 @@
+
+Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home/biaatr/public_html/index.php on line 2

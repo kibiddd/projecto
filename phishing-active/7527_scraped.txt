@@ -1,0 +1,453 @@
+
+
+
+Welcome to TechJobsCafe - Jobs Search Results
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Job Search | Job Seekers | EmployersLogin
+
+
+
+
+Login:
+
+
+
+Username :
+
+
+
+
+
+
+
+Password :
+
+
+
+
+
+
+
+
+
+
+
+Forgot your Account or Password?
+
+
+Close Forgot your Account or password
+
+
+
+Enter your e-mail
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Job Search Results
+
+
+
+
+
+
+
+
+
+
+Mechanical Engineer 2 - Lam Research
+
+
+Listed
+03/Jan/25
+
+
+
+USA, California
+
+
+The Group You’ll Be A Part Of      In the Global Products Group, we are dedicated to excellence in the design and engineering of Lam's etch and deposition products. We drive innovation to ensure our cutting-edge solutions are helping to solve the biggest challenges in the semiconductor industry.           The Impact You’ll Make      As a Mechanical Engineer at Lam, you're designing and defining cutting-edge mechanical and electro-mechanical systems. Your role …
+
+
+
+
+
+Mechanical Engineer 3 - Lam Research
+
+
+Listed
+03/Jan/25
+
+
+
+USA, California
+
+
+Job Responsibilities      Technical    Participates in the conceptualization, modeling, analysis, development, documentation, and test/validation of hardware associated with new semiconductor equipment.   Designs parts using metals, ceramics, quartz, plastics, and advanced coatings/plating’s. Work with potential suppliers to ensure parts can be manufactured in accordance with performance and cost objectives.  Ensures documentation is consistent with SEMI, Lam Standards and other …
+
+
+
+
+
+GPU Design Verification Engineer - AMD
+
+
+Listed
+02/Jan/25
+
+
+
+USA, California
+
+
+We care deeply about transforming lives with AMD technology to enrich our industry, our communities, and the world. Our mission is to build great products that accelerate next-generation computing experiences – the building blocks for the data center, artificial intelligence, PCs, gaming and embedded. Underpinning our mission is the AMD culture. We push the limits of innovation to solve the world’s most important challenges. We strive for execution excellence while being direct, …
+
+
+
+
+
+Sr. Silicon Design Engineer - AMD
+
+
+Listed
+02/Jan/25
+
+
+
+USA, California
+
+
+WHAT YOU DO AT AMD CHANGES EVERYTHING  We care deeply about transforming lives with AMD technology to enrich our industry, our communities, and the world. Our mission is to build great products that accelerate next-generation computing experiences – the building blocks for the data center, artificial intelligence, PCs, gaming and embedded. Underpinning our mission is the AMD culture. We push the limits of innovation to solve the world’s most important challenges. We strive for …
+
+
+
+
+
+Machine Learning Engineer 3D Geometry/ Multi-Modal - Autodesk
+
+
+Listed
+02/Jan/25
+
+
+
+USA, California
+
+
+Position Overview  The work we do at Autodesk touches nearly every person on the planet. By creating software tools for making buildings, machines, and even the latest movies, we influence and empower some of the most creative people in the world. As a Machine Learning Engineer at Autodesk Research, you will work side-by-side with world-class researchers and engineers to build new ML-powered product features to help our customers imagine, design, and make a better world. You are a software …
+
+
+
+
+
+Principal Engineer - Autodesk
+
+
+Listed
+02/Jan/25
+
+
+
+USA, California
+
+
+verse workplace and an inclusive culture to give more people the chance to imagine, design, and make a better world. Autodesk is proud to be an equal opportunity employer and considers all qualified applicants for employment without regard to race, color, religion, age, sex, sexual orientation, gender, gender identity, national origin, disability, veteran status or any other legally protected characteristic. We also consider for employment all qualified applicants regardless of criminal …
+
+
+
+
+
+Senior Principal Software Engineer - Autodesk
+
+
+Listed
+02/Jan/25
+
+
+
+USA, California
+
+
+Position Overview  At Autodesk, we as Enterprise Data Engineering team is important to driving business growth and improving operational efficiency through innovative data solutions and insights. We are looking for a Senior Principal Software Engineer with deep technical expertise and business domain knowledge in Go-To-Market (GTM) enterprise systems, sales, finance, and customer master data domains.     You will report to the Director of Data Engineering in our Enterprise Systems & …
+
+
+
+
+
+Geoprocessing Product Engineer II - ESRI
+
+
+Listed
+02/Jan/25
+
+
+
+USA, California
+
+
+Join the geoprocessing development team as we work to support a framework and comprehensive suite of 2,000+ geoprocessing tools in ArcGIS Pro. We’re looking for a new team member to help with tasks related to testing data packaging and extraction workflows, Python scripting, data format conversion, and more. You will coordinate cross-product requirements between development teams, respond to user requirements by entering bugs, features, and enhancement issues for developers to work on, …
+
+
+
+
+
+Sr. GIS Apps Product Engineer - ESRI
+
+
+Listed
+02/Jan/25
+
+
+
+USA, Maine
+
+
+Join a fast-paced environment driven to make a difference by building purposeful and delightful mobile solutions. Whether responding to events, maintaining critical infrastructure, or providing humanitarian aid; ArcGIS Field Maps is transforming the way organizations work all over the world. If you are an engineer who is passionate about shaping and delivering capabilities to customers in mobile and web app development, our team is the perfect place for you to thrive.      Responsibilities      …
+
+
+
+
+
+Sr. GIS Apps Product Engineer - ESRI
+
+
+Listed
+02/Jan/25
+
+
+
+USA, Oregon
+
+
+Join a fast-paced environment driven to make a difference by building purposeful and delightful mobile solutions. Whether responding to events, maintaining critical infrastructure, or providing humanitarian aid; ArcGIS Field Maps is transforming the way organizations work all over the world. If you are an engineer who is passionate about shaping and delivering capabilities to customers in mobile and web app development, our team is the perfect place for you to thrive.      Responsibilities    …
+
+
+
+
+
+Senior Principal Mechanical Engineer - General Dynamics Mission Systems
+
+
+Listed
+02/Jan/25
+
+
+
+USA, Pennsylvania
+
+
+Responsibilities for this Position  Progeny Systems, a business area within the General Dynamics Mission Systems company, is a high-tech business focusing on software and hardware system integration, cutting-edge research and development, and manufacturing. We deliver architectures, designs, testing, and production of the current and next generation torpedo guidance and control systems for the Department of Defense providing the warfighter with advanced capabilities in target detection, …
+
+
+
+
+
+Equipment Engineer, Raxium - Google
+
+
+Listed
+02/Jan/25
+
+
+
+USA, California
+
+
+Minimum qualifications:    Bachelor's degree in Electrical, Process, or Manufacturing Engineering, or equivalent practical experience.  5 years of experience in a semiconductor fab, Research and Development (R&D) lab, or a related area.  Experience with two or more of the following: wet etch, dry etch, deposition, lithography, CMP, backend.  Experience with RODI, PVAC, AWN, electrical, and hazardous material distribution systems.  Experience with equipment engineering or maintenance …
+
+
+
+
+
+Mechanical Test Engineer, Platforms Infrastructure - Google
+
+
+Listed
+02/Jan/25
+
+
+
+USA, California
+
+
+Minimum qualifications:    Bachelor’s degree in Mechanical Engineering, Electrical Engineering, Computer Engineering, Physics, a related field, or equivalent practical experience.  2 years of experience working in a Mechanical Engineering technical environment, or 1 year of experience with an advanced degree.  Experience with hardware evaluation methodologies (e.g., lab measurements, environmental stress testing, performance monitoring, test automation, and data analysis).  Experience …
+
+
+
+
+
+Mechanical Manufacturing Engineering Manager - Google
+
+
+Listed
+02/Jan/25
+
+
+
+USA, California
+
+
+Minimum qualifications:    Bachelor's degree in Electrical, Process, or Manufacturing Engineering, or equivalent practical experience.  10 years of experience as a Manufacturing, Quality, Reliability, or Product Engineer.  8 years of experience in people management.  6 years of experience managing programs to improve engineering productivity or related areas (e.g., engineering or development throughput, automation, capacity, cost, speed, or effectiveness).        About the job  Google's …
+
+
+
+
+
+CAD Engineer - Nvidia
+
+
+Listed
+02/Jan/25
+
+
+
+USA, California
+
+
+NVIDIA is searching for a highly motivated, excellent CAD Engineer to join the Advanced Technology Group. You will support installation of foundry techfiles. You will provide expert support to designers in debugging tool, techfile and design errors. And you will develop flows and scripts to improve productivity of custom circuit designers worldwide. A successful candidate will have solid EE or CS background with an in-depth understanding of circuits, layouts and VLSI design. We are looking for …
+
+
+
+
+
+Senior Firmware Architect - Server Manageability - Nvidia
+
+
+Listed
+02/Jan/25
+
+
+
+USA, California
+
+
+We are looking for a Senior Firmware Architect - Server Manageability!  NVIDIA’s invention of the GPU in 1999 fueled the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing. More recently, GPU deep learning ignited modern deep learning — the next era of computing — with the GPU acting as the brain of computers, robots, and self-driving cars that can perceive and understand the world. Today, we are increasingly known as …
+
+
+
+
+
+Senior Platform Software Engineer, AI Server - GPU - Nvidia
+
+
+Listed
+02/Jan/25
+
+
+
+USA, California
+
+
+NVIDIA’s invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing. More recently, GPU deep learning ignited modern deep learning — the next era of computing — with the GPU acting as the brain of computers, robots, and self-driving cars that can perceive and understand the world. Today, we are increasingly known as “the AI computing company.” We're looking to grow our …
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The reuested job 'CSM Design Verification Lead' by 'Apple Inc' was removed from the company posting ...
+
+
+Please close the dialog to review all related jobs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2025 Internet Business Systems, Inc.
+670 Aberdeen Way, Milpitas, CA 95035
++1 (408) 882-6541 — Contact Us, or visit our other sites:
+
+
+
+
+
+
+
+
+
+Privacy PolicyAdvertise
+
+
+
+
+
+
+
+

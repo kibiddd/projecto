@@ -1,0 +1,233 @@
+
+
+
+
+
+Installing Mission Planner — Mission Planner  documentation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Copter
+Plane
+Rover
+Blimp
+Sub
+AntennaTracker
+Mission Planner
+APM Planner 2
+MAVProxy
+Companion Computers
+Developer
+
+
+Downloads
+
+Mission Planner
+APM Planner 2
+Advanced User Tools
+Developer Tools
+Firmware
+
+
+Community
+
+Support Forums
+Facebook
+Developer Chat (Discord)
+Developer Voice (Discord)
+Contact us
+Getting involved
+Commercial Support
+Development Team
+
+
+Stores
+About
+
+History
+License
+Trademark
+Acknowledgments
+Wiki Editing Guide
+Partners Program
+
+
+
+
+
+
+
+
+
+Mission Planner
+
+
+
+
+
+
+
+
+
+
+
+Mission Planner Overview
+Installing Mission Planner
+Windows Installation
+Open Mission Planner
+Updating Mission Planner
+Mission Planner Advanced Installation
+
+
+
+
+Mission Planner on Android
+Mission Planner on Linux
+
+
+Loading Firmware onto boards with existing ArduPilot firmware
+Loading Firmware onto boards without existing ArduPilot firmware (first time only)
+Connect Mission Planner to AutoPilot
+Mission Planning
+Mission Planner Features/Screens
+OpenDroneID Panel
+Mission Planner Building
+Appendix
+
+
+
+
+
+
+
+Individual
+Partners
+SWAG Shop
+
+
+
+
+
+
+
+
+Mission Planner
+
+
+
+
+
+
+Installing Mission Planner
+
+Edit on GitHub
+
+
+
+
+
+
+
+Installing Mission PlannerÂ¶
+Mission Planner was designed for native Windows installation. However, it is possible to use it under Linux (with some occasional issues) and there is a Beta version for Android OS.
+
+Windows InstallationÂ¶
+The following instructions show how to install Mission Planner on Windows. These instructions will be suitable for most users.  For advanced users and non-standard installations, instructions are found here:.  A useful video guide for advanced installation of Mission Planner is located here.
+
+Download the latest Mission Planner installer from here
+Double click on the downloaded .msi file to run the installer
+
+
+Follow the instructions to complete the setup process.
+The installation utility will automatically install any necessary software drivers.
+If you receive a DirectX installation error,
+please update your DirectX plug-in from the Windows Download Center.
+If you receive the warning pictured below, select Install this driver software anyway to continue.
+
+
+
+Mission Planner is normally installed in the C:\Program Files (x86)\Mission Planner folder.
+An icon to open the Mission Planner is created according to your instructions during the installation.
+
+Open Mission PlannerÂ¶
+Once installation is complete, open Mission Planner by clicking on its system icon.
+Then you can either:
+
+Connect Mission Planner to AutoPilot in order to receive telemetry and control the vehicle OR
+Load Firmware OR plan autonomous missions.
+
+
+Note
+If ArduPilot firmware is not already installed on the autopilot, see Loading Firmware to boards without existing ArduPilot firmware.
+
+
+
+Updating Mission PlannerÂ¶
+Mission Planner automatically notifies you about available updates (when it is connected to the Internet).
+Please always run the most current version of Mission Planner.
+
+
+Mission Planner Advanced Installation
+
+
+
+
+
+Mission Planner on AndroidÂ¶
+A version for Android is in development and can be downloaded from the Google Play Store here.
+The latest version is also available here. Download to device, and double click on it to install.
+
+
+Mission Planner on LinuxÂ¶
+It is possible to run most Windows based programs on many Linux Distributions using MONO. Mission Planner does run under MONO but will have occasional issues and/or crashes. QGC and MAVProxy are alternatives that run stably in Linux, but if Mission Planner is really desired, you can follow these steps:
+
+Download and install the latest version of MONO from here
+Download Mission Planner as a zip file from here and  unzip to a directory.
+Change to that directory and execute:
+
+mono MissionPlanner.exe
+
+
+
+
+
+
+
+
+
+
+Previous
+Next
+
+
+Questions, issues, and suggestions about this page can be raised on the forums. Issues and suggestions may be posted on the forums or the Github Issue Tracker.
+
+
+© Copyright 2024, ArduPilot Dev Team.
+
+
+
+
+
+
+

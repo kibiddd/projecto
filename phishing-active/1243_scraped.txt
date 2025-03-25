@@ -1,0 +1,43 @@
+
+
+
+
+
+SheCodes
+
+
+
+
+
+
+
+
+Utility CSS Classes
+Challenge 1
+Import Bootstrap
+Challenge 2
+
+Add a border around each color without using CSS, the border color should
+match the color name (i.e blue border around the word Blue)
+
+Blue
+Red
+Green
+Challenge 3
+Make this link black and not underlined using CSS classes
+SheCodes Workshops
+Challenge 4
+
+Using CSS classes, add a yellow background to this button, with a large
+shadow and full width
+
+Get started
+Challenge 5
+
+Create a custom utility class called shadow-xl which adds a lot of shadow
+and apply it to this button, add a green gradient background to this
+button with yellow and uppercased text
+
+Get started
+
+

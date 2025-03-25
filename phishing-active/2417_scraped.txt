@@ -1,0 +1,2 @@
+
+PermanentRedirectThe bucket you are attempting to access must be addressed using the specified endpoint. Please send all future requests to this endpoint.s3.amazonaws.comapplelinkQRCYCDAJS6AQ5TYKD0xEQYnChj0PrR8mRyZ9TlcKTQMyQXEBxd59w3CibYe4DDGu5KsY+ndwxdRSzDBUHJRHMrg5kMd0zyMjrTChTINlf+wCAuTkka2dP8yiKxA=

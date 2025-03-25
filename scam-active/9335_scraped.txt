@@ -1,0 +1,91 @@
+LocalBitcoins.com
+- LocalBitcoins
+Toggle navigation
+Trades
+Learn
+Frequently Asked Questions
+Guides
+Contact support
+Blog
+Fees
+About us
+Log in
+×
+We're gradually renewing our website!
+Learn more about the latest changes
+LocalBitcoins has been closed.
+We are sad to inform that LocalBitcoins does no longer provide its Bitcoin trading service.
+In case you think that you have an account with bitcoin balance, please log in to your account and make a withdrawal request.
+Read more
+Frequently Asked Questions regarding the closure of the service
+Why I cannot register a new account?
+LocalBitcoins has decided to stop providing Bitcoin trading services. New account registration was suspended on 2023-02-09.
+I've forgotten my username
+You can use your email address instead of your username when you login. Just type it in the username field.
+I have forgotten my username and password
+Do you remember your email address linked to the account? If yes, then you can reset your password here, and then log in to the account using email address and new password.
+I have lost my username, password and the email I used to register with LocalBitcoins
+In case you have forgotten your username, email and password which you have used with LocalBitcoins, visit the support request page and select the option that fits your situation the most and fill out the form and we can help you restore access to your account.
+I have lost access to the email address linked to my account on LocalBitcoins, and I don’t remember account password / don’t have access to two-factor authentication codes
+In this case we can change the email address assigned to your account, but it is necessary to verify that you are the account's real owner.
+Please go to the support page and submit a ticket with the following information (all that you can remember):
+Your account username
+A new email address
+The registered phone number on your account
+The registered email address on your account
+Your first and last name
+We will also require you to complete some additional ID verification steps. Please also send us in the same ticket the following photographs:
+A photograph of you ("Selfie") holding up your ID along with a note containing (handwritten with a pen) your username and today's date.
+A photograph of a recent utility bill with your name, address, and issue date (within 3 months) on it. The utility bill can be electricity bill, gas bill, heating bill, and water bill. Landline bills and bank statements are also accepted
+A photograph of your ID held right next to your computer/mobile phone screen with the whole screen visible (all four corners). The whole screen needs to show this ticket page and browser address bar.
+In order to increase our efficiency of problem-solving, please:
+only upload each photograph once.
+make sure all the details in your ID are clear and visible
+How do I re-activate Two-factor authentication using my backup code?
+If you have just bought a new smartphone or otherwise need to re-activate your Mobile based two-factor authentication application you can follow these steps.
+To re-activate your Two-Factor authentication codes with Google Authenticator you will need the backup code that you wrote down during the activation process.
+Find your Two-factor authentication backup code from when you first activated two-factor authentication.
+Install and launch the Google Authenticator app on your mobile device.
+Press Begin setup.
+Select the option Enter a provided key.
+Enter LocalBitcoins as the account name.
+Enter your Two-factor authentication backup code in the key field.
+Leave the dropdown as Time based.
+Press add to re-activate your Two-factor authentication.
+You can now use the code the app displays to authenticate your LocalBitcoins account and log in. If this did not work, or if you do not have the backup code written down, you cannot re-activate your two-factor authentication and must submit a two-factor authentication removal. You can find a link to submit it while logging in on the page that asks for your two-factor authentication code.
+How to remove 2FA from my account, if I lost access to the codes?
+The purpose of two-factor authentication is to prevent unauthorized logins to your account. If you lose access to your two-factor authentication there are two ways to restore access to your account:
+If you used the mobile app based two-factor authentication, you can recover it by using the backup code that you wrote down when enabling two-factor authentication on your account. Please see this guide under the section "How do I re-activate Two-factor authentication using my backup code?"
+If you do not have the backup code, you will need to submit the two-factor authentication removal request from the login page. First, enter your username and password. When the site asks you for your 2FA codes press the "Problems with two-factor login?" link and then the "Send two-factor removal request" button to request the removal of your two-factor authentication. In 14 days you will receive a confirmation email with a link to remove 2FA from your account. The link expires after 48 hours, so make sure you use it as soon as you get it. Please check the spam folder as well. If you set up paper-based two-factor authentication and you don't have access to the codes, you will have to submit the two-factor removal request from the login page. Unfortunately there is no way to recover the codes.
+What is Login Guard and how does it work?
+Login Guard protects your account from logins when someone else knows your username and password. Whenever someone logs into your account from a new computer or a new web browser an email is sent to the address used to register your LocalBitcoins account. This email contains some information on who started the login and a link. You need to click the link to verify your login.
+You can take a look at all the browsers that are authorized by Login Guard to login to your account from the Authorized Browsers page in the security options. This page lets you revoke access from a browser if you do not recognize it, e.g. because the location is not yours.
+If you have trouble getting access to your account using Login Guard you can open up a support ticket to get help.
+ABOUT
+About us
+Fees
+Security bounties
+Terms of service
+Privacy policy
+SUPPORT
+About website renewal
+Contact support
+FAQ
+Guides
+Forgot password
+SERVICES
+English
+English (en)
+español (es)
+français (fr)
+Русский (ru)
+Português Brasileiro (pt-br)
+简体中文 (zh-hans)
+Block Explorer
+×
+Log in to LocalBitcoins.com
+Trouble logging in?
+If you have forgotten your username, try logging in with your email.
+Forgotten password? Reset your password
+Log In
+Close

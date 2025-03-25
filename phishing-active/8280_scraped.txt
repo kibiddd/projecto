@@ -1,0 +1,841 @@
+
+
+
+
+
+
+exhilite.com - Above.com Marketplace
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bid Status
+Current Bid
+The current highest bid on this domain.
+Bids
+The total number of bids this auction has received so far.
+Time Remaining
+The time remaining on this auction.
+Highest Bidder
+The user who is currently leading the auction.
+Seller
+The seller of the domain.
+
+
+Your Bid Amount
+Buy Now
+Displays the Buy Now price for this auction and provides a button to allow you to use the Buy Now feature.
+Your Max Bid
+Allows you to place a maximum bid for this auction.
+Add to Watch List
+Allows you to add this auction to your Watch list.
+
+
+Domain Info
+Characters
+Characters shows the number of characters of the domain. eg. testdomain.com will show Characters as 9. This figure would help in determining the length of the domain name.
+TLD
+The Top Level Domain denotes the domain tld. e.g. in testdomain.com the TLD is .com
+Listing Views
+This is the number of times this specific listing has been viewed by unique visitors. A unique visitor is defined as One Unique IP per 24 hour period.
+Google Backlinks
+The number of webpages indexed by Google that link to this domain.
+Google Pages Indexed
+The number of websites indexed by Google that match the keywords contained in this domain.
+Alexa Rank
+Ranking of website popularity according to stats gathered from browsers using the Alexa toolbar. The lower the number the better.
+MozRank
+Representing the global link popularity on a 0 to 10 scale. The higher the number the better.
+
+
+Uniques
+Unique hits recorded for domains that use Above.com DNS.
+Traffic
+The Traffic column shows the number of unique visitors, as reported by third party monetization services, for the last 30 days prior to the auction. The statistics are imported directly and not provided by the seller. Above.com guarantees that this value accurately reflects the figures as reported by the parking companies used to monetize the domain.
+A value of n/a indicates that the seller has not made the traffic stats publicly available.
+Note: The Reported uniques value will not be accurate for domains parked for less than 32 days prior to the auction start.
+Revenue
+The Revenue column shows the total revenues earned by the domain name for the last 30 days prior to the auction. The Revenue statistics are imported directly from monetization services and not provided by the seller. Above.com guarantees that this value accurately reflects the figures as reported by the parking companies used to monetize the domain at the time of import.
+A value of n/a indicates that the seller has not made the traffic stats publicly available.
+
+
+Hits
+Total hits (page impressions) recorded for this domain.
+Uniques
+Unique hits recorded for domain that use Above.com DNS.
+Reported
+Reported stats for the domain as reported by parking companies.
+RPM
+The average revenue per thousand unique visitors for the domain.
+Date
+Date
+Revenue
+The Revenue column shows the total revenues earned by the domain name for the last 30 days prior to the auction. The Revenue statistics are imported directly from monetization services and not provided by the seller. Above.com guarantees that this value accurately reflects the figures as reported by the parking companies used to monetize the domain at the time of import.
+A value of n/a indicates that the seller has not made the traffic stats publicly available.
+Services Tab
+Pie Chart of companywise marketshare of revenue.
+Traffic Tab
+Bar graph showing the traffic for the domain.
+Revenue Tab
+Bar graph showing the daily revenue for the domain.
+Demographics Tab
+Pie Chart of the domain demographics.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+exhilite.com
+
+Might Be For Sale
+
+
+
+
+
+USE THIS FORM TO MAKE AN OFFER
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
++93 (Afghanistan)
++358 (Aland Islands)
++355 (Albania)
++213 (Algeria)
++1-684 (American Samoa)
++376 (Andorra)
++244 (Angola)
++1-264 (Anguilla)
++672 (Antarctica)
++1-268 (Antigua And Barbuda)
++54 (Argentina)
++374 (Armenia)
++297 (Aruba)
++61 (Australia)
++43 (Austria)
++994 (Azerbaijan)
++1-242 (Bahamas)
++973 (Bahrain)
++880 (Bangladesh)
++1-246 (Barbados)
++375 (Belarus)
++32 (Belgium)
++501 (Belize)
++229 (Benin)
++1-441 (Bermuda)
++975 (Bhutan)
++591 (Bolivia)
++387 (Bosnia And Herzegovina)
++267 (Botswana)
++0 (Bouvet Island)
++55 (Brazil)
++246 (British Indian Ocean Territory)
++673 (Brunei Darussalam)
++359 (Bulgaria)
++226 (Burkina Faso)
++257 (Burundi)
++855 (Cambodia)
++237 (Cameroon)
++1 (Canada)
++238 (Cape Verde)
++1-345 (Cayman Islands)
++236 (Central African Republic)
++235 (Chad)
++56 (Chile)
++86 (China)
++61 (Christmas Island)
++61 (Cocos (keeling) Islands)
++57 (Colombia)
++269 (Comoros)
++242 (Congo)
++243 (Congo, The Democratic Republic Of The)
++682 (Cook Islands)
++506 (Costa Rica)
++225 (Cote D'ivoire)
++385 (Croatia)
++53 (Cuba)
++357 (Cyprus)
++420 (Czech Republic)
++45 (Denmark)
++253 (Djibouti)
++1-767 (Dominica)
++1-809 (Dominican Republic)
++593 (Ecuador)
++20 (Egypt)
++503 (El Salvador)
++240 (Equatorial Guinea)
++291 (Eritrea)
++372 (Estonia)
++251 (Ethiopia)
++500 (Falkland Islands (malvinas))
++298 (Faroe Islands)
++679 (Fiji)
++358 (Finland)
++33 (France)
++594 (French Guiana)
++689 (French Polynesia)
++0 (French Southern Territories)
++241 (Gabon)
++220 (Gambia)
++995 (Georgia)
++49 (Germany)
++233 (Ghana)
++350 (Gibraltar)
++30 (Greece)
++299 (Greenland)
++1-473 (Grenada)
++590 (Guadeloupe)
++1-671 (Guam)
++502 (Guatemala)
++224 (Guinea)
++245 (Guinea-bissau)
++592 (Guyana)
++509 (Haiti)
++504 (Honduras)
++852 (Hong Kong)
++36 (Hungary)
++354 (Iceland)
++91 (India)
++62 (Indonesia)
++98 (Iran, Islamic Republic Of)
++964 (Iraq)
++353 (Ireland)
++44-1624 (Isle Of Man)
++972 (Israel)
++39 (Italy)
++1-876 (Jamaica)
++81 (Japan)
++44-1534 (Jersey)
++962 (Jordan)
++7 (Kazakhstan)
++254 (Kenya)
++686 (Kiribati)
++850 (Korea, Democratic People's Republic Of)
++82 (Korea, Republic Of)
++383 (Kosovo)
++965 (Kuwait)
++996 (Kyrgyzstan)
++856 (Lao People's Democratic Republic)
++371 (Latvia)
++961 (Lebanon)
++266 (Lesotho)
++231 (Liberia)
++218 (Libya)
++423 (Liechtenstein)
++370 (Lithuania)
++352 (Luxembourg)
++853 (Macao)
++389 (Macedonia, The Former Yugoslav Republic Of)
++261 (Madagascar)
++265 (Malawi)
++60 (Malaysia)
++960 (Maldives)
++223 (Mali)
++356 (Malta)
++692 (Marshall Islands)
++596 (Martinique)
++222 (Mauritania)
++230 (Mauritius)
++262 (Mayotte)
++52 (Mexico)
++691 (Micronesia, Federated States Of)
++373 (Moldova, Republic Of)
++377 (Monaco)
++976 (Mongolia)
++382 (Montenegro)
++1-664 (Montserrat)
++212 (Morocco)
++258 (Mozambique)
++95 (Myanmar)
++264 (Namibia)
++674 (Nauru)
++977 (Nepal)
++31 (Netherlands)
++599 (Netherlands Antilles)
++687 (New Caledonia)
++64 (New Zealand)
++505 (Nicaragua)
++227 (Niger)
++234 (Nigeria)
++683 (Niue)
++672 (Norfolk Island)
++1-670 (Northern Mariana Islands)
++47 (Norway)
++968 (Oman)
++92 (Pakistan)
++680 (Palau)
++0 (Palestinian Territory, Occupied)
++507 (Panama)
++675 (Papua New Guinea)
++595 (Paraguay)
++51 (Peru)
++63 (Philippines)
++870 (Pitcairn)
++48 (Poland)
++351 (Portugal)
++1-787 (Puerto Rico)
++974 (Qatar)
++262 (Reunion)
++40 (Romania)
++7 (Russian Federation)
++250 (Rwanda)
++590 (Saint Barthelemy)
++290 (Saint Helena)
++1-869 (Saint Kitts And Nevis)
++1-758 (Saint Lucia)
++590 (Saint Martin)
++508 (Saint Pierre And Miquelon)
++1-784 (Saint Vincent And The Grenadines)
++685 (Samoa)
++378 (San Marino)
++239 (Sao Tome And Principe)
++966 (Saudi Arabia)
++221 (Senegal)
++381 (Serbia)
++248 (Seychelles)
++232 (Sierra Leone)
++65 (Singapore)
++421 (Slovakia)
++386 (Slovenia)
++677 (Solomon Islands)
++252 (Somalia)
++27 (South Africa)
++500 (South Georgia And The South Sandwich Islands)
++34 (Spain)
++94 (Sri Lanka)
++249 (Sudan)
++597 (Suriname)
++47 (Svalbard And Jan Mayen)
++268 (Swaziland)
++46 (Sweden)
++41 (Switzerland)
++963 (Syrian Arab Republic)
++886 (Taiwan, Province Of China)
++992 (Tajikistan)
++255 (Tanzania, United Republic Of)
++66 (Thailand)
++670 (Timor-leste)
++228 (Togo)
++690 (Tokelau)
++676 (Tonga)
++1-868 (Trinidad And Tobago)
++216 (Tunisia)
++90 (Turkey)
++993 (Turkmenistan)
++1-649 (Turks And Caicos Islands)
++688 (Tuvalu)
++256 (Uganda)
++380 (Ukraine)
++971 (United Arab Emirates)
++44 (United Kingdom)
++1 (United States)
++808 (United States Minor Outlying Islands)
++598 (Uruguay)
++998 (Uzbekistan)
++678 (Vanuatu)
++379 (Holy See (vatican City State))
++58 (Venezuela)
++84 (Viet Nam)
++1-284 (Virgin Islands, British)
++1-340 (Virgin Islands, U.s.)
++681 (Wallis And Futuna)
++212 (Western Sahara)
++967 (Yemen)
++260 (Zambia)
++263 (Zimbabwe)
+
+
+
+
+
+
+
+I have read and accepted the Terms of Service
+
+
+
+
+
+
+
+
+
+
+
+
+Verify Your Email
+
+A verification code has been sent to:
+Your code will be valid for 15 minutes.
+
+
+Email Verification
+
+
+
+
+
+
+
+
+
+Resend Email Verification Code
+
+
+
+Create Account
+
+Alias shown on offers
+
+
+
+
+
+Password
+
+
+
+
+
+
+
+
+
+Password
+
+
+
+A lowercase letter
+A capital (uppercase) letter
+A number
+A Special character
+Minimum 8 characters
+
+
+
+
+
+
+
+First Name
+
+
+
+
+
+
+Surname
+
+
+
+
+
+
+Telephone
+
+
++93 (Afghanistan)
++358 (Aland Islands)
++355 (Albania)
++213 (Algeria)
++1-684 (American Samoa)
++376 (Andorra)
++244 (Angola)
++1-264 (Anguilla)
++672 (Antarctica)
++1-268 (Antigua And Barbuda)
++54 (Argentina)
++374 (Armenia)
++297 (Aruba)
++61 (Australia)
++43 (Austria)
++994 (Azerbaijan)
++1-242 (Bahamas)
++973 (Bahrain)
++880 (Bangladesh)
++1-246 (Barbados)
++375 (Belarus)
++32 (Belgium)
++501 (Belize)
++229 (Benin)
++1-441 (Bermuda)
++975 (Bhutan)
++591 (Bolivia)
++387 (Bosnia And Herzegovina)
++267 (Botswana)
++0 (Bouvet Island)
++55 (Brazil)
++246 (British Indian Ocean Territory)
++673 (Brunei Darussalam)
++359 (Bulgaria)
++226 (Burkina Faso)
++257 (Burundi)
++855 (Cambodia)
++237 (Cameroon)
++1 (Canada)
++238 (Cape Verde)
++1-345 (Cayman Islands)
++236 (Central African Republic)
++235 (Chad)
++56 (Chile)
++86 (China)
++61 (Christmas Island)
++61 (Cocos (keeling) Islands)
++57 (Colombia)
++269 (Comoros)
++242 (Congo)
++243 (Congo, The Democratic Republic Of The)
++682 (Cook Islands)
++506 (Costa Rica)
++225 (Cote D'ivoire)
++385 (Croatia)
++53 (Cuba)
++357 (Cyprus)
++420 (Czech Republic)
++45 (Denmark)
++253 (Djibouti)
++1-767 (Dominica)
++1-809 (Dominican Republic)
++593 (Ecuador)
++20 (Egypt)
++503 (El Salvador)
++240 (Equatorial Guinea)
++291 (Eritrea)
++372 (Estonia)
++251 (Ethiopia)
++500 (Falkland Islands (malvinas))
++298 (Faroe Islands)
++679 (Fiji)
++358 (Finland)
++33 (France)
++594 (French Guiana)
++689 (French Polynesia)
++0 (French Southern Territories)
++241 (Gabon)
++220 (Gambia)
++995 (Georgia)
++49 (Germany)
++233 (Ghana)
++350 (Gibraltar)
++30 (Greece)
++299 (Greenland)
++1-473 (Grenada)
++590 (Guadeloupe)
++1-671 (Guam)
++502 (Guatemala)
++224 (Guinea)
++245 (Guinea-bissau)
++592 (Guyana)
++509 (Haiti)
++504 (Honduras)
++852 (Hong Kong)
++36 (Hungary)
++354 (Iceland)
++91 (India)
++62 (Indonesia)
++98 (Iran, Islamic Republic Of)
++964 (Iraq)
++353 (Ireland)
++44-1624 (Isle Of Man)
++972 (Israel)
++39 (Italy)
++1-876 (Jamaica)
++81 (Japan)
++44-1534 (Jersey)
++962 (Jordan)
++7 (Kazakhstan)
++254 (Kenya)
++686 (Kiribati)
++850 (Korea, Democratic People's Republic Of)
++82 (Korea, Republic Of)
++383 (Kosovo)
++965 (Kuwait)
++996 (Kyrgyzstan)
++856 (Lao People's Democratic Republic)
++371 (Latvia)
++961 (Lebanon)
++266 (Lesotho)
++231 (Liberia)
++218 (Libya)
++423 (Liechtenstein)
++370 (Lithuania)
++352 (Luxembourg)
++853 (Macao)
++389 (Macedonia, The Former Yugoslav Republic Of)
++261 (Madagascar)
++265 (Malawi)
++60 (Malaysia)
++960 (Maldives)
++223 (Mali)
++356 (Malta)
++692 (Marshall Islands)
++596 (Martinique)
++222 (Mauritania)
++230 (Mauritius)
++262 (Mayotte)
++52 (Mexico)
++691 (Micronesia, Federated States Of)
++373 (Moldova, Republic Of)
++377 (Monaco)
++976 (Mongolia)
++382 (Montenegro)
++1-664 (Montserrat)
++212 (Morocco)
++258 (Mozambique)
++95 (Myanmar)
++264 (Namibia)
++674 (Nauru)
++977 (Nepal)
++31 (Netherlands)
++599 (Netherlands Antilles)
++687 (New Caledonia)
++64 (New Zealand)
++505 (Nicaragua)
++227 (Niger)
++234 (Nigeria)
++683 (Niue)
++672 (Norfolk Island)
++1-670 (Northern Mariana Islands)
++47 (Norway)
++968 (Oman)
++92 (Pakistan)
++680 (Palau)
++0 (Palestinian Territory, Occupied)
++507 (Panama)
++675 (Papua New Guinea)
++595 (Paraguay)
++51 (Peru)
++63 (Philippines)
++870 (Pitcairn)
++48 (Poland)
++351 (Portugal)
++1-787 (Puerto Rico)
++974 (Qatar)
++262 (Reunion)
++40 (Romania)
++7 (Russian Federation)
++250 (Rwanda)
++590 (Saint Barthelemy)
++290 (Saint Helena)
++1-869 (Saint Kitts And Nevis)
++1-758 (Saint Lucia)
++590 (Saint Martin)
++508 (Saint Pierre And Miquelon)
++1-784 (Saint Vincent And The Grenadines)
++685 (Samoa)
++378 (San Marino)
++239 (Sao Tome And Principe)
++966 (Saudi Arabia)
++221 (Senegal)
++381 (Serbia)
++248 (Seychelles)
++232 (Sierra Leone)
++65 (Singapore)
++421 (Slovakia)
++386 (Slovenia)
++677 (Solomon Islands)
++252 (Somalia)
++27 (South Africa)
++500 (South Georgia And The South Sandwich Islands)
++34 (Spain)
++94 (Sri Lanka)
++249 (Sudan)
++597 (Suriname)
++47 (Svalbard And Jan Mayen)
++268 (Swaziland)
++46 (Sweden)
++41 (Switzerland)
++963 (Syrian Arab Republic)
++886 (Taiwan, Province Of China)
++992 (Tajikistan)
++255 (Tanzania, United Republic Of)
++66 (Thailand)
++670 (Timor-leste)
++228 (Togo)
++690 (Tokelau)
++676 (Tonga)
++1-868 (Trinidad And Tobago)
++216 (Tunisia)
++90 (Turkey)
++993 (Turkmenistan)
++1-649 (Turks And Caicos Islands)
++688 (Tuvalu)
++256 (Uganda)
++380 (Ukraine)
++971 (United Arab Emirates)
++44 (United Kingdom)
++1 (United States)
++808 (United States Minor Outlying Islands)
++598 (Uruguay)
++998 (Uzbekistan)
++678 (Vanuatu)
++379 (Holy See (vatican City State))
++58 (Venezuela)
++84 (Viet Nam)
++1-284 (Virgin Islands, British)
++1-340 (Virgin Islands, U.s.)
++681 (Wallis And Futuna)
++212 (Western Sahara)
++967 (Yemen)
++260 (Zambia)
++263 (Zimbabwe)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Secure Free Escrow
+FastTrack Transfer
+$Millions in Transactions Completed
+
+
+
+We respect your privacy and will never sell or misuse your contact information
+
+Privacy Policy | Terms of Services | About Us
+
+Copyright © 2008 - 2025 Above.com Pty Ltd, a Trillion.com Company - All rights reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,568 @@
+
+
+
+
+
+
+Idz Do - System skracania linków
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nawigacja
+
+
+
+
+
+
+
+
+
+Platforma w wersji developerskiej.
+Strona główna
+Rozwiązania
+Cennik
+API
+Kontakt
+Panel klienta
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Narzędzie do skracania adresów URL .
+
+
+szybko & skutecznie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Idz-Do.pl
+
+
+Czy Twój adres domeny jest dłuższy niż kilka znaków? Na pewno... Obecnie niemal wszystkie krótkie nazwy domen są zajęte, a wykupienie ich kosztuje zbyt dużo, aby było to opłacalne.
+Chcesz wysłać - dla przykładu SMS do klienta z linkiem do ankiety? Dużo lepiej będzie wykorzystać link skrócony niż długą nazwę domeny.
+Dlatego już dziś możesz wykorzystać nasz produkt, który skróci Twoje linki, poinformuje Cię czy klient go kliknął, a jeśli tak - to kiedy i z jakiego urządzenia.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skróć swój link
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skróć
+
+
+Klikając Skróć wyrażasz zgodę na Warunki świadczenia usług i Politykę prywatności
+
+
+
+
+
+
+
+
+
+
+
+
+Nasza ideologia
+
+
+
+
+
+
+
+
+
+
+
+
+01
+
+EfektywnaKomunikacja
+
+
+
+EfektywnaKomunikacja
+Prostota rozwiązania zwiększa produktywność a tym samym może generować większy przychody Twojej firmie.
+
+
+
+
+
+
+02
+
+ŁatwaObsługa
+
+
+
+ŁatwaObsługa
+Prosty i przejrzysty panel zarządzania usługą i raportów sprawi że obsługa systemu jest niezwykle łatwa.
+
+
+
+
+
+
+03
+
+NiskaCena
+
+
+
+NiskaCena
+Od wersji darmowej umożliwiającej generowanie 5 darmowych linków aż do wersji bez limitu i generowanie linków wprost z Twojego systemu. Sam wybierasz model współpracy.
+
+
+
+
+
+
+
+
+
+
+
+
+Mówią o nas
+
+
+
+
+
+
+
+
+
+
+
+"Dawno szukaliśmy niezawodnego produktu, który umożliwi nam wykorzystanie skróconych linków w przystępnej cenie i oto jest. Polecamy dla każdego! "
+
+
+
+
+"Rewelacyjny system! Rozpoczeliśmy korzystać z pakietu darmowego, ale szybko okazało się że warto zapłacić za większe możliwości. "
+
+
+
+
+"Nic dodać nic ująć - znakomity system linków skróconych. Teraz możemy wysyłać naszym klientom wiadomości SMS nie tracąc cennych znaków."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rozwiązania
+
+
+
+
+
+
+
+FASTLINK
+
+Tworzenie szybkich linków
+Potrzebujesz szybko utworzyć link do swojego produktu lub strony - żaden problem. Kilka kliknięć i gotowe! Możesz zrobić to w naszym systemie lub skorzystać z naszego API.
+
+
+
+
+
+
+
+
+
+
+SMSLINK
+
+Linki w wiadomości SMS
+Możesz wysyłać linki naszego systemu w wiadomościach SMS. W raporcie otrzymasz datę i godzinę kliknięcia, urządzenie, z którego klient wszedł na link oraz, jeśli wyrazi zgodę, to jego lokalizację.
+
+
+
+
+
+
+
+
+
+
+APILINK
+
+API
+Potrzebujesz unikalnych linków dla każdego klienta i nie chcesz ich tworzyć ręcznie? Skorzystaj z naszego API i wysyłaj je bezpośrednio ze swojej aplikacji.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Liczniki
+
+Spędzaliśmy różne ilości czasu na zajęciach. Oczywiście lubimy też kawę i wolny czas.
+
+
+
+
+
+
+
+1
+Wypitych kaw
+
+
+
+
+
+1
+Linii kodu
+
+
+
+
+
+1
+Pracuje dla Ciebie
+
+
+
+
+
+1
+Zamówionych cateringów
+
+
+
+
+
+
+
+
+
+
+Cennik
+
+Oferujemy niezwykle konkurencyjne ceny na wszystkie produkty.
+
+
+
+
+
+
+Darmowy
+0 zł / miesiąc
+50 linków
+API nie
+link automatyczny
+kod QR nie
+historia linków 30 dni
+historia raportów 30 dni
+subdomena nie
+Pomoc przez email
+
+Załóż konto
+
+
+
+
+
+
+Podstawowy
+39 zł * / miesiąc
+500 linków
+API tak
+link automatyczny
+kod QR nie
+historia linków 60 dni
+historia raportów 60 dni
+subdomena nie
+Pomoc przez email
+
+Załóż konto
+
+
+
+
+
+
+Zaawansowany
+89 zł * / miesiąc
+5000 linków
+API tak
+link automatyczny/własny
+kod QR tak
+historia linków 1 rok
+historia raportów 1 rok
+subdomena tak
+Pomoc przez email i telefon
+
+Załóż konto
+
+
+
+
+
+
+Indywidualny
+do ustalenia / miesiąc
+bez limitu
+API tak
+link automatyczny/własny
+kod QR tak
+historia linków 2 lata
+historia raportów 2 lata
+subdomena tak
+Pomoc przez email i telefon
+
+Załóż konto
+
+
+
+* Ceny netto
+
+
+
+
+
+
+
+
+
+Kontakt
+
+Jesteśmy do Twojej dyspozycji od poniedziałku do piątku od 9 do 17a przez email całą dobę.
+
+
+
+
+Nasz adres
+ITRabbit Software
+
+Email: info@idz-do.pl
+Telefon: +48 514 14 55 65
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wyślij
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Do góry
+© ITRabbit 2021 - 2025
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

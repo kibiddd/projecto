@@ -1,0 +1,19 @@
+   Domain Name: YSHX-FX.COM
+   Registry Domain ID: 2687176169_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.name.com
+   Registrar URL: http://www.name.com
+   Updated Date: 2022-09-01T09:54:40Z
+   Creation Date: 2022-04-06T11:01:53Z
+   Registry Expiry Date: 2025-04-06T11:01:53Z
+   Registrar: Name.com, Inc.
+   Registrar IANA ID: 625
+   Registrar Abuse Contact Email: abuse@name.com
+   Registrar Abuse Contact Phone: 7202492374
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1CNB.NAME.COM
+   Name Server: NS2HKT.NAME.COM
+   Name Server: NS3CNA.NAME.COM
+   Name Server: NS4SXY.NAME.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-23T23:56:26Z 

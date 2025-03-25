@@ -1,0 +1,18 @@
+
+
+
+Index of /files/IndiFTPD/1.0.8a_beta
+
+
+Index of /files/IndiFTPD/1.0.8a_beta
+
+NameLast modifiedSizeDescription
+
+Parent Directory   -
+FreeBSD/2008-04-30 21:54    -
+Linux/2008-04-30 21:54    -
+Solaris/2008-04-30 21:54    -
+Windows/2008-04-30 21:54    -
+
+
+Apache/2.4.7 (Ubuntu) Server at dftpd.com Port 80

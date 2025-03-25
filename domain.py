@@ -1,16 +1,36 @@
 # Use a pipeline as a high-level helper
 from transformers import pipeline
 from datetime import datetime
+from dataset import load_dataset
 import whois
 
 # function that checks if registration info is invalid
-def check_info(domain_info):
+def check_active(domain_info):
 	if domain_info.startswith("No match") or domain_info.startswith("Stream was cancelled"):
-		return True
-	return False
+		return False
+	return True
+
+def check_all(dataset_path, domain_path):
+	active = []
+	inactive = []
+	dataset = load_dataset(dataset_path)
+	# read content from each domain file
+	for idx, u in enumerate(dataset):
+		domain_file_path = domain_path + str(idx) + '.txt'
+		with open(domain_file_path, "r", encoding="utf-8") as file:
+			# Attempt to read the file as UTF-8
+			domain_info = file.read()
+		if check_active(domain_info):
+			active.append(idx)
+		else:
+			inactive.append(idx)
+	print(f'active:{len(active)}, inactive:{len(inactive)}')
+	return inactive
+
+
 
 def domain_analysis(pipe, url, domain_info):
-	if check_info(info):
+	if not check_active(domain_info):
 		print("Invalid info")
 		return "Invalid info"
 	# pipe = pipeline("text-generation", model="microsoft/Phi-4-mini-instruct", trust_remote_code=True)
@@ -45,10 +65,12 @@ def domain_analysis(pipe, url, domain_info):
 	return content
 
 if __name__ == "__main__":
-	pipe = pipeline("text-generation", model="microsoft/Phi-4-mini-instruct", trust_remote_code=True)
+	inactives = check_all('scam-y.txt', 'scam-y/')
+	print(inactives)
+	#pipe = pipeline("text-generation", model="microsoft/Phi-4-mini-instruct", trust_remote_code=True)
 	#url = 'http://yummy-rhinestone-button.glitch.me/hover.html'
-	url = 'https://www.thekingsmeadow.net/FOSTER-CRAWFORD.htm'
-	with open('legit-250311/31.txt', 'r') as f:
-		info = f.read()
-	domain_analysis(pipe=None, url=url, domain_info=info)
+	#url = 'https://www.thekingsmeadow.net/FOSTER-CRAWFORD.htm'
+	#with open('legit-250311/31.txt', 'r') as f:
+	#	info = f.read()
+	#domain_analysis(pipe=None, url=url, domain_info=info)
 

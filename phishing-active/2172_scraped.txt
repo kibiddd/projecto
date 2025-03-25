@@ -1,0 +1,6 @@
+
+Warning:  include(/home/storage/7/3d/99/ampesc/public_html/pesquisa2018/vendor/composer/../vlucas/phpdotenv/src/Dotenv.php): failed to open stream: No such file or directory in /home/storage/7/3d/99/ampesc/public_html/pesquisa2018/vendor/composer/ClassLoader.php on line 414
+
+Warning:  include(): Failed opening '/home/storage/7/3d/99/ampesc/public_html/pesquisa2018/vendor/composer/../vlucas/phpdotenv/src/Dotenv.php' for inclusion (include_path='.:/usr/share/pear56:/usr/share/php56') in /home/storage/7/3d/99/ampesc/public_html/pesquisa2018/vendor/composer/ClassLoader.php on line 414
+
+Fatal error:  Class 'Dotenv\Dotenv' not found in /home/storage/7/3d/99/ampesc/public_html/pesquisa2018/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/DetectEnvironment.php on line 23

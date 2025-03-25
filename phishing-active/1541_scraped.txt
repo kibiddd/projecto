@@ -1,0 +1,96 @@
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Support Inbox
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Two-factor authentication required
+
+You’ve asked us to require a 6-digit login code when anyone tries to access your account from a new device or browser.
+Enter the 6-digit code from your code generator or third-party app below.
+
+
+
+
+( wait:  )
+Send Code Again
+
+The
+code generator you entered is incorrect. Please wait 5 minutes to receive another one.
+
+
+
+Need another way to authenticate?
+Send
+
+
+
+
+
+
+
+
+
+
+
+Didn’t receive a code?
+
+×
+
+
+
+1. Go to Settings > Security and Login.
+2. Under the Two-Factor Authentication section, click Use two-factor
+authentication. You may need to re-enter your password.
+3. Next to Recovery Codes, click Setup then Get
+Codes.
+If you've already set up recovery codes, you can click Show Codes.
+
+
+Close
+
+
+
+
+
+
+
+
+
+
+

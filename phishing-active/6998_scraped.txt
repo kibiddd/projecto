@@ -1,0 +1,2528 @@
+
+
+
+
+
+Quick WordPress Testing & Staging Sites – TasteWP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+Set up your WordPress site
+
+
+WP Version
+
+
+Choose WP Version (6.7.2)
+
+
+
+Choose WP Version
+v6.8-beta3 insecure beta
+v6.8-beta2 insecure beta
+v6.7.2 stable secure
+v6.7.1 stable secure outdated
+v6.7 insecure outdated
+v6.6.2 stable secure outdated
+v6.6.1 insecure outdated
+v6.6 insecure outdated
+v6.5.5 stable secure outdated
+v6.5.4 insecure outdated
+v6.5.3 insecure outdated
+v6.5.2 insecure outdated
+v6.5 insecure outdated
+v6.4.5 stable secure outdated
+v6.4.4 insecure outdated
+v6.4.3 insecure outdated
+v6.4.2 insecure outdated
+v6.4.1 insecure outdated
+v6.4 insecure outdated
+v6.3.5 stable secure outdated
+v6.3.4 insecure outdated
+v6.3.3 insecure outdated
+v6.3.2 insecure outdated
+v6.3.1 insecure outdated
+v6.3 insecure outdated
+v6.2.6 stable secure outdated
+v6.2.5 insecure outdated
+v6.2.4 insecure outdated
+v6.2.3 insecure outdated
+v6.2.2 insecure outdated
+v6.2.1 insecure outdated
+v6.2 insecure outdated
+v6.1.7 stable secure outdated
+v6.1.6 insecure outdated
+v6.1.5 insecure outdated
+v6.1.4 insecure outdated
+v6.1.3 insecure outdated
+v6.1.2 insecure outdated
+v6.1.1 insecure outdated
+v6.1 insecure outdated
+v6.0.9 stable secure outdated
+v6.0.8 insecure outdated
+v6.0.7 insecure outdated
+v6.0.6 insecure outdated
+v6.0.5 insecure outdated
+v6.0.4 insecure outdated
+v6.0.3 insecure outdated
+v6.0.2 insecure outdated
+v6.0.1 insecure outdated
+v6.0 insecure outdated
+v5.9.10 stable secure outdated
+v5.9.9 insecure outdated
+v5.9.8 insecure outdated
+v5.9.7 insecure outdated
+v5.9.6 insecure outdated
+v5.9.5 insecure outdated
+v5.9.4 insecure outdated
+v5.9.3 insecure outdated
+v5.9.2 insecure outdated
+v5.9.1 insecure outdated
+v5.9 insecure outdated
+v5.8.10 stable secure outdated
+v5.8.9 insecure outdated
+v5.8.8 insecure outdated
+v5.8.7 insecure outdated
+v5.8.6 insecure outdated
+v5.8.5 insecure outdated
+v5.8.4 insecure outdated
+v5.8.3 insecure outdated
+v5.8.2 insecure outdated
+v5.8.1 insecure outdated
+v5.8 insecure outdated
+v5.7.12 stable secure outdated
+v5.7.11 insecure outdated
+v5.7.10 insecure outdated
+v5.7.9 insecure outdated
+v5.7.8 insecure outdated
+v5.7.7 insecure outdated
+v5.7.6 insecure outdated
+v5.7.5 insecure outdated
+v5.7.4 insecure outdated
+v5.7.3 insecure outdated
+v5.7.2 insecure outdated
+v5.7.1 insecure outdated
+v5.7 insecure outdated
+v5.6.14 stable secure outdated
+v5.6.13 insecure outdated
+v5.6.12 insecure outdated
+v5.6.11 insecure outdated
+v5.6.10 insecure outdated
+v5.6.9 insecure outdated
+v5.6.8 insecure outdated
+v5.6.7 insecure outdated
+v5.6.6 insecure outdated
+v5.6.5 insecure outdated
+v5.6.4 insecure outdated
+v5.6.3 insecure outdated
+v5.6.2 insecure outdated
+v5.6.1 insecure outdated
+v5.6 insecure outdated
+v5.5.15 stable secure outdated
+v5.5.14 insecure outdated
+v5.5.13 insecure outdated
+v5.5.12 insecure outdated
+v5.5.11 insecure outdated
+v5.5.10 insecure outdated
+v5.5.9 insecure outdated
+v5.5.8 insecure outdated
+v5.5.7 insecure outdated
+v5.5.6 insecure outdated
+v5.5.5 insecure outdated
+v5.5.4 insecure outdated
+v5.5.3 insecure outdated
+v5.5.2 insecure outdated
+v5.5.1 insecure outdated
+v5.5 insecure outdated
+v5.4.16 stable secure outdated
+v5.4.15 insecure outdated
+v5.4.14 insecure outdated
+v5.4.13 insecure outdated
+v5.4.12 insecure outdated
+v5.4.11 insecure outdated
+v5.4.10 insecure outdated
+v5.4.9 insecure outdated
+v5.4.8 insecure outdated
+v5.4.7 insecure outdated
+v5.4.6 insecure outdated
+v5.4.5 insecure outdated
+v5.4.4 insecure outdated
+v5.4.3 insecure outdated
+v5.4.2 insecure outdated
+v5.4.1 insecure outdated
+v5.4 insecure outdated
+v5.3.18 stable secure outdated
+v5.3.17 insecure outdated
+v5.3.16 insecure outdated
+v5.3.15 insecure outdated
+v5.3.14 insecure outdated
+v5.3.13 insecure outdated
+v5.3.12 insecure outdated
+v5.3.11 insecure outdated
+v5.3.10 insecure outdated
+v5.3.9 insecure outdated
+v5.3.8 insecure outdated
+v5.3.7 insecure outdated
+v5.3.6 insecure outdated
+v5.3.5 insecure outdated
+v5.3.4 insecure outdated
+v5.3.3 insecure outdated
+v5.3.2 insecure outdated
+v5.3.1 insecure outdated
+v5.3 insecure outdated
+v5.2.21 stable secure outdated
+v5.2.20 insecure outdated
+v5.2.19 insecure outdated
+v5.2.18 insecure outdated
+v5.2.17 insecure outdated
+v5.2.16 insecure outdated
+v5.2.15 insecure outdated
+v5.2.14 insecure outdated
+v5.2.13 insecure outdated
+v5.2.12 insecure outdated
+v5.2.11 insecure outdated
+v5.2.10 insecure outdated
+v5.2.9 insecure outdated
+v5.2.8 insecure outdated
+v5.2.7 insecure outdated
+v5.2.6 insecure outdated
+v5.2.5 insecure outdated
+v5.2.4 insecure outdated
+v5.2.3 insecure outdated
+v5.2.2 insecure outdated
+v5.2.1 insecure outdated
+v5.2 insecure outdated
+v5.1.19 stable secure outdated
+v5.1.18 insecure outdated
+v5.1.17 insecure outdated
+v5.1.16 insecure outdated
+v5.1.15 insecure outdated
+v5.1.14 insecure outdated
+v5.1.13 insecure outdated
+v5.1.12 insecure outdated
+v5.1.11 insecure outdated
+v5.1.10 insecure outdated
+v5.1.9 insecure outdated
+v5.1.8 insecure outdated
+v5.1.7 insecure outdated
+v5.1.6 insecure outdated
+v5.1.5 insecure outdated
+v5.1.4 insecure outdated
+v5.1.3 insecure outdated
+v5.1.2 insecure outdated
+v5.1.1 insecure outdated
+v5.1 insecure outdated
+v5.0.22 stable secure outdated
+v5.0.21 insecure outdated
+v5.0.20 insecure outdated
+v5.0.19 insecure outdated
+v5.0.18 insecure outdated
+v5.0.17 insecure outdated
+v5.0.16 insecure outdated
+v5.0.15 insecure outdated
+v5.0.14 insecure outdated
+v5.0.13 insecure outdated
+v5.0.12 insecure outdated
+v5.0.11 insecure outdated
+v5.0.10 insecure outdated
+v5.0.9 insecure outdated
+v5.0.8 insecure outdated
+v5.0.7 insecure outdated
+v5.0.6 insecure outdated
+v5.0.4 insecure outdated
+v5.0.3 insecure outdated
+v5.0.2 insecure outdated
+v5.0.1 insecure outdated
+v5.0 insecure outdated
+v4.9.26 stable secure outdated
+v4.9.25 insecure outdated
+v4.9.24 insecure outdated
+v4.9.23 insecure outdated
+v4.9.22 insecure outdated
+v4.9.21 insecure outdated
+v4.9.20 insecure outdated
+v4.9.19 insecure outdated
+v4.9.18 insecure outdated
+v4.9.17 insecure outdated
+v4.9.16 insecure outdated
+v4.9.15 insecure outdated
+v4.9.14 insecure outdated
+v4.9.13 insecure outdated
+v4.9.12 insecure outdated
+v4.9.11 insecure outdated
+v4.9.10 insecure outdated
+v4.9.9 insecure outdated
+v4.9.8 insecure outdated
+v4.9.7 insecure outdated
+v4.9.6 insecure outdated
+v4.9.5 insecure outdated
+v4.9.4 insecure outdated
+v4.9.3 insecure outdated
+v4.9.2 insecure outdated
+v4.9.1 insecure outdated
+v4.9 insecure outdated
+v4.8.25 stable secure outdated
+v4.8.24 insecure outdated
+v4.8.23 insecure outdated
+v4.8.22 insecure outdated
+v4.8.21 insecure outdated
+v4.8.20 insecure outdated
+v4.8.19 insecure outdated
+v4.8.18 insecure outdated
+v4.8.17 insecure outdated
+v4.8.16 insecure outdated
+v4.8.15 insecure outdated
+v4.8.14 insecure outdated
+v4.8.13 insecure outdated
+v4.8.12 insecure outdated
+v4.8.11 insecure outdated
+v4.8.10 insecure outdated
+v4.8.9 insecure outdated
+v4.8.8 insecure outdated
+v4.8.7 insecure outdated
+v4.8.6 insecure outdated
+v4.8.5 insecure outdated
+v4.8.4 insecure outdated
+v4.8.3 insecure outdated
+v4.8.2 insecure outdated
+v4.8.1 insecure outdated
+v4.8 insecure outdated
+v4.7.29 stable secure outdated
+v4.7.28 insecure outdated
+v4.7.27 insecure outdated
+v4.7.26 insecure outdated
+v4.7.25 insecure outdated
+v4.7.24 insecure outdated
+v4.7.23 insecure outdated
+v4.7.22 insecure outdated
+v4.7.21 insecure outdated
+v4.7.20 insecure outdated
+v4.7.19 insecure outdated
+v4.7.18 insecure outdated
+v4.7.17 insecure outdated
+v4.7.16 insecure outdated
+v4.7.15 insecure outdated
+v4.7.14 insecure outdated
+v4.7.13 insecure outdated
+v4.7.12 insecure outdated
+v4.7.11 insecure outdated
+v4.7.10 insecure outdated
+v4.7.9 insecure outdated
+v4.7.8 insecure outdated
+v4.7.7 insecure outdated
+v4.7.6 insecure outdated
+v4.7.5 insecure outdated
+v4.7.4 insecure outdated
+v4.7.3 insecure outdated
+v4.7.2 insecure outdated
+v4.7.1 insecure outdated
+v4.7 insecure outdated
+v4.6.29 stable secure outdated
+v4.6.28 insecure outdated
+v4.6.27 insecure outdated
+v4.6.26 insecure outdated
+v4.6.25 insecure outdated
+v4.6.24 insecure outdated
+v4.6.23 insecure outdated
+v4.6.22 insecure outdated
+v4.6.21 insecure outdated
+v4.6.20 insecure outdated
+v4.6.19 insecure outdated
+v4.6.18 insecure outdated
+v4.6.17 insecure outdated
+v4.6.16 insecure outdated
+v4.6.15 insecure outdated
+v4.6.14 insecure outdated
+v4.6.13 insecure outdated
+v4.6.12 insecure outdated
+v4.6.11 insecure outdated
+v4.6.10 insecure outdated
+v4.6.9 insecure outdated
+v4.6.8 insecure outdated
+v4.6.7 insecure outdated
+v4.6.6 insecure outdated
+v4.6.5 insecure outdated
+v4.6.4 insecure outdated
+v4.6.3 insecure outdated
+v4.6.2 insecure outdated
+v4.6.1 insecure outdated
+v4.6 insecure outdated
+
+
+
+
+
+PHP Version
+
+
+Choose PHP Version (8.0)
+
+
+
+Choose PHP Version
+Secure v8.4
+Secure v8.3
+Stable and Secure v8.2
+Stable and secure v8.1
+Stable and secure v8.0
+Stable v7.4
+Stable v7.3
+Not recommended v7.2
+Not recommended v7.1
+Not recommended v7.0
+Not recommended v5.6
+
+
+
+
+
+
+
+Advanced WP Config
+
+
+
+
+
+Include WP Debug
+
+
+
+
+Save WP Debug Log
+
+
+
+
+WP Disable Fatal Error Handler
+
+
+
+
+WP Debug Display
+
+
+
+
+Concatenate WP Scripts
+
+
+
+
+Disable Automatic Updates
+
+
+
+
+Turn ON Alternate WP Cron
+
+
+
+
+Disable WP CRON
+
+
+
+
+Disable WP Cache
+
+
+
+
+SAVEQUERIES for Debug
+
+
+
+You can learn more about WordPress variables here at WordPress.org about variables.!
+
+
+
+
+
+
+Choose pre-installed plugins & themes
+
+
+
+
+
+
+Backup Migration (to migrate your site)
+
+Allows you to easily migrate your site to another hoster.
+
+
+
+
+
+Copy Delete Posts
+
+Go crazy with testing your site by e.g. duplicating posts 1,000 times and then deleting them again in bulk. That’s what this plugin allows.
+
+
+
+
+
+Pop-up Plugin
+
+Play around with fancy pop-ups on your dummy site.
+
+
+
+
+
+Redirect Redirection
+
+Taste how easy it is to make new redirections using this plugin.
+
+
+
+
+
+Image Converter for WebP
+
+This plugin converts images to WebP format, reducing their size and speeding up page loading. It works in the background, ensuring faster performance without interruptions. Enhance your website’s speed while maintaining image quality.
+
+
+
+
+
+Search and Replace for Block Editor
+
+This plugin adds Search and Replace functionality to the block editor, enabling quick text searches and bulk changes. It improves efficiency, reduces manual errors, and streamlines content management. Save time and ensure consistency across your WordPress site.
+
+
+
+
+
+
+
+
+
+
+
+
+Twenty Twenty-Three
+
+
+
+
+
+
+
+
+
+
+
+
+Twenty Twenty
+
+
+
+
+
+
+
+
+
+
+
+
+Neve
+
+
+
+
+
+
+
+
+
+
+
+
+GeneratePress
+
+
+
+
+
+
+
+
+
+
+
+
+Twenty Twenty-Four
+
+
+
+
+
+
+
+
+
+
+
+
+Twenty Fifteen
+
+
+
+
+
+All checked themes will be installed, and the one with the radio button will be the active one.
+
+
+
+
+You can pre-install any plugin or theme by using
+one-link set-up urls.
+
+
+
+
+
+
+Custom site name
+
+
+
+
+
+You have to be logged in to use this feature.
+
+
+
+
+Leave blank for random funny name
+
+
+
+
+
+
+Additional options:
+
+
+
+Make it a multisite on Subpaths
+
+
+
+
+
+You can manage your sites when you sign up!
+
+
+
+I agree with the Terms
+
+
+
+
+
+
+
+
+Create Temp Site
+
+
+
+
+
+
+
+
+
+Create Premium site
+
+
+(No expiry and many other benefits)
+
+
+
+
+
+
+
+
+
+
+
+
+Wait for it...
+
+
+
+Currently working on:
+
+
+...
+Adding your request to Queue!
+Checking & Sanitizing your Domain
+Creating dedicated Database
+Generating database Credentials
+Making your Database Space
+Adjusting database Permissions
+Importing WordPress Database
+Parsing WordPress SQL
+WordPress SQL Parsed, Importing...
+Database Imported
+Adjusting WordPress Settings
+Creating your own Partition
+Mounting your own Partition
+Installing WordPress Files
+Installing TasteWP for WordPress
+Installing Themes
+Installing Plugins
+Forcing default Theme
+Generating WP-Config
+Initializing your Host & Domain
+Enabling your Server
+Your server is ready :)
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+Your brand new site is here!
+
+
+
+Your credentials & Info:
+Copy
+
+
+
+
+Site name: Site name
+
+
+
+URL:
+
+
+
+Username:
+
+
+
+Password:
+
+
+Creation took: 0ms
+
+
+
+Remember that you can manage your sites in user dashboard!
+Thank you for using TasteWP & have fun!
+
+
+
+
+
+
+
+Access it now!
+
+
+
+
+
+
+
+
+
+×
+
+
+Log in
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Remember me
+
+
+
+Forgot password?
+
+
+
+
+
+
+Log in
+
+
+
+
+
+
+
+Don't have an account yet? Create!
+
+
+
+
+
+
+
+
+×
+
+
+Create an account
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I agree with the Terms
+
+
+
+
+
+
+
+
+Register
+
+
+
+
+
+
+
+Already have account? Login!
+
+
+
+
+
+
+
+
+×
+
+
+
+Recover your password
+
+
+
+
+
+
+
+
+
+Reset
+
+
+
+
+
+
+
+Changed your mind? Login!
+
+
+
+
+
+
+
+
+×
+
+
+
+Privacy Policy
+
+
+
+TasteWP.com Privacy Policy ("Privacy Policy")
+
+
+Last Updated: May 1st, 2023 (Version 1.1)
+
+
+
+Introduction
+
+
+We are committed to safeguarding the privacy of our website visitors and service users.
+This policy applies where we are acting as a data controller with respect to the personal data of our website visitors and service users; in other words, where we determine the purposes and means of the processing of that personal data.
+We use cookies on our website. Read more about cookies and how we use them under section 8 below.
+In this policy, "we", "us" and "our" refer to TasteWP. For more information about us, see Section 10.
+
+
+
+How we use your personal data
+
+
+
+In this Section 2 we have set out:
+
+the general categories of personal data that we may process;
+the purposes for which we may process personal data; and
+the legal bases of the processing.
+
+
+
+We may process data about your use of our website and services ("usage data"). The usage data may include your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views and website navigation paths, as well as information about the timing, frequency and pattern of your service use. This usage data may be processed for the purposes of analyzing the use of the website and services. The legal basis for this processing is our legitimate interests, namely monitoring and improving our website and services.
+
+
+We may process your account data ("account data"). The account data may include your name and email address. The account data may be processed for the purposes of operating our website, providing our services, ensuring the security of our website and services, maintaining back-ups of our databases and communicating with you. The legal basis for this processing is our legitimate interests, namely the proper administration of our website and business.
+
+
+We may process your information included in your personal profile on our website ("profile data"). The profile data may include your name, address, telephone number, email address, profile pictures, gender, date of birth, interests and hobbies. The profile data may be processed for the purposes of enabling and monitoring your use of our website and services. The legal basis for this processing is our legitimate interests, namely the proper administration of our website and business.
+
+
+We may process information that you post for publication on our website ("publication data"). The publication data may be processed for the purposes of enabling such publication and administering our website and services. The legal basis for this processing is our legitimate interests, namely the proper administration of our website and business.
+
+
+We may process information contained in any inquiry you submit to us regarding goods and/or services ("inquiry data"). The inquiry data may be processed for the purposes of offering, marketing and selling relevant goods and/or services to you. The legal basis for this processing is consent.
+
+
+We may process information relating to our customer relationships, including customer contact information ("customer relationship data"). The customer relationship data may include your name, your employer or company, your job title or role, your contact details, your employer or company tax numbers, and information contained in communications between us and you or your employer The customer relationship data may be processed for the purposes of managing our relationships with customers, communicating with customers, keeping records of those communications and promoting our products and services to customers. The legal basis for this processing is our legitimate interests, namely the proper management of our customer relationships.
+
+
+We may process information relating to transactions, including purchases of goods and services, that you enter into with us and/or through our website ("transaction data"). The transaction data may include your contact details, your card details and the transaction details. The transaction data may be processed for the purpose of supplying the purchased goods and services and keeping proper records of those transactions. The legal basis for this processing is the performance of a contract between you and us and/or taking steps, at your request, to enter into such a contract and our legitimate interests, namely the proper administration of our website and business.
+
+
+We may process information that you provide to us for the purpose of subscribing to updates and notifications, which may include your email address, browser information, Facebook and Twitter account information ("notification data"). The notification data may be processed for the purposes of sending you the relevant notifications and/or newsletters. The legal basis for this processing is consent.
+
+
+We may process information contained in or relating to any communication that you send to us ("correspondence data"). The correspondence data may include the communication content and metadata associated with the communication. Our website will generate the metadata associated with communications made using the website contact forms. The correspondence data may be processed for the purposes of communicating with you and record-keeping. The legal basis for this processing is our legitimate interests, namely the proper administration of our website and business and communications with users.
+
+
+We may process any of your personal data identified in this policy where necessary for the establishment, exercise or defense of legal claims, whether in court proceedings or in an administrative or out-of-court procedure. The legal basis for this processing is our legitimate interests, namely the protection and assertion of our legal rights, your legal rights and the legal rights of others.
+
+
+We may process any of your personal data identified in this policy where necessary for the purposes of obtaining or maintaining insurance coverage, managing risks, or obtaining professional advice. The legal basis for this processing is our legitimate interests, namely the proper protection of our business against risks.
+
+
+In addition to the specific purposes for which we may process your personal data set out in this Section 2, we may also process any of your personal data where such processing is necessary for compliance with a legal obligation to which we are subject, or in order to protect your vital interests or the vital interests of another natural person.
+
+
+Please do not supply any other person's personal data to us, unless we prompt you to do so.
+
+
+
+
+Providing your personal data to others
+
+We may disclose your personal data to any member of our group of companies (this means our subsidiaries, our ultimate holding company and all its subsidiaries) insofar as reasonably necessary for the purposes, and on the legal bases, set out in this policy.
+In the event that TasteWP.com or Inisev Ltd. is acquired by or merged with a third-party entity, we reserve the right, in any of these circumstances, to transfer or assign the personal data we have collected from you as part of such merger, acquisition, sale, or other change of control. In the event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors rights generally, we may not be able to control how your personal data is treated, transferred, or used.
+We may disclose your personal data to our insurers and/or professional advisers insofar as reasonably necessary for the purposes of obtaining or maintaining insurance coverage, managing risks, obtaining professional advice, bookkeeping or the establishment, exercise or defense of legal claims, whether in court proceedings or in an administrative or out-of-court procedure.
+Financial transactions relating to our website and services are handled by our payment services provider Sellcodes/Mangopay. We will share transaction data with our payment services provider only to the extent necessary for the purposes of processing your payments, refunding such payments and dealing with complaints and queries relating to such payments and refunds. You can find information about the payment services provider's privacy policy and practices at https://www.mangopay.com/privacy/ and https://sellcodes.com/privacy.
+In addition to the specific disclosures of personal data set out in this Section 3, we may disclose your personal data where such disclosure is necessary for compliance with a legal obligation to which we are subject, or in order to protect your vital interests or the vital interests of another natural person. We may also disclose your personal data where such disclosure is necessary for the establishment, exercise or defense of legal claims, whether in court proceedings or in an administrative or out-of-court procedure.
+
+
+Amendments
+
+We may update this policy from time to time by publishing a new version on our website.
+You should check this page occasionally to ensure you are happy with any changes to this policy.
+We may notify you of significant changes to this policy.
+
+
+Your rights
+
+In this Section 5, we have summarised the rights that you have under data protection law. Some of the rights are complex, and not all of the details have been included in our summaries. Accordingly, you should read the relevant laws and guidance from the regulatory authorities for a full explanation of these rights.
+
+Your principal rights under data protection law are:
+
+the right to access;
+the right to rectification;
+the right to erasure;
+the right to restrict processing;
+the right to object to processing;
+the right to complain to a supervisory authority; and
+the right to withdraw consent.
+
+
+You have the right to confirmation as to whether or not we process your personal data and, where we do, access to the personal data, together with certain additional information. That additional information includes details of the purposes of the processing, the categories of personal data concerned and the recipients of the personal data. Providing the rights and freedoms of others are not affected, we will supply you a copy of your personal data. The first copy will be provided free of charge, but additional copies may be subject to a reasonable fee.
+You have the right to have any inaccurate personal data about you rectified and, taking into account the purposes of the processing, to have any incomplete personal data about you completed.
+In some circumstances you have the right to the erasure of your personal data without undue delay. Those circumstances include: the personal data are no longer necessary in relation to the purposes for which they were collected or otherwise processed; you withdraw consent to consent-based processing; you object to the processing under certain rules of applicable data protection law; the processing is for direct marketing purposes; and the personal data have been unlawfully processed. However, there are exclusions of the right to erasure. The general exclusions include where processing is necessary: for exercising the right of freedom of expression and information; for compliance with a legal obligation; or for the establishment, exercise or defense of legal claims.
+In some circumstances you have the right to restrict the processing of your personal data. Those circumstances are: you contest the accuracy of the personal data; processing is unlawful but you oppose erasure; we no longer need the personal data for the purposes of our processing, but you require personal data for the establishment, exercise or defense of legal claims; and you have objected to processing, pending the verification of that objection. Where processing has been restricted on this basis, we may continue to store your personal data. However, we will only otherwise process it: with your consent; for the establishment, exercise or defense of legal claims; for the protection of the rights of another natural or legal person; or for reasons of important public interest.
+You have the right to object to our processing of your personal data on grounds relating to your particular situation, but only to the extent that the legal basis for the processing is that the processing is necessary for: the performance of a task carried out in the public interest or in the exercise of any official authority vested in us; or the purposes of the legitimate interests pursued by us or by a third party. If you make such an objection, we will cease to process the personal information unless we can demonstrate compelling legitimate grounds for the processing which override your interests, rights and freedoms, or the processing is for the establishment, exercise or defense of legal claims.
+You have the right to object to our processing of your personal data for direct marketing purposes (including profiling for direct marketing purposes). If you make such an objection, we will cease to process your personal data for this purpose.
+You have the right to object to our processing of your personal data for scientific or historical research purposes or statistical purposes on grounds relating to your particular situation, unless the processing is necessary for the performance of a task carried out for reasons of public interest.
+To the extent that the legal basis for our processing of your personal data is:
+
+consent; or
+that the processing is necessary for the performance of a contract to which you are party or in order to take steps at your request prior to entering into a contract, and such processing is carried out by automated means, you have the right to receive your personal data from us in a structured, commonly used and machine-readable format. However, this right does not apply where it would adversely affect the rights and freedoms of others.
+
+
+If you consider that our processing of your personal information infringes data protection laws, you have a legal right to lodge a complaint with a supervisory authority responsible for data protection. You may do so in the EU member state of your habitual residence, your place of work or the place of the alleged infringement.
+To the extent that the legal basis for our processing of your personal information is consent, you have the right to withdraw that consent at any time. Withdrawal will not affect the lawfulness of processing before the withdrawal.
+You may exercise any of your rights in relation to your personal data by written notice to us.
+
+
+About cookies
+
+A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server.
+Cookies may be either "persistent" cookies or "session" cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.
+Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
+
+
+Cookies that we use
+
+We use cookies for the following purposes:
+
+authentication - we use cookies to identify you when you visit our website and as you navigate our website;
+status - we use cookies to help us to determine if you are logged into our website;
+personalization - we use cookies to store information about your preferences and to personalize the website for you;
+security - we use cookies as an element of the security measures used to protect user accounts, including preventing fraudulent use of login credentials, and to protect our website and services generally;
+advertising - we use cookies to help us to display advertisements that will be relevant to you;
+affiliate marketing - we use cookies to determine affiliate commissions; and
+analysis - we use cookies to help us to analyze the use and performance of our website and services.
+
+
+
+
+Cookies used by our service providers
+
+Our service providers use cookies and those cookies may be stored on your computer when you visit our website.
+We use Google Analytics to analyze the use of our website. Google Analytics gathers information about website use by means of cookies. The information gathered relating to our website is used to create reports about the use of our website. Google's privacy policy is available at: https://www.google.com/policies/privacy.
+
+
+Managing cookies
+
+Most browsers allow you to refuse to accept cookies and to delete cookies. The methods for doing so vary from browser to browser, and from version to version. You can however obtain up-to-date information about blocking and deleting cookies via these links:
+
+https://support.google.com/chrome/answer/95647?hl=en; (Chrome);
+https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences (Firefox);
+http://www.opera.com/help/tutorials/security/cookies/ (Opera);
+https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer (Internet Explorer);
+https://support.apple.com/kb/PH21411 (Safari); and
+https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy (Edge).
+
+
+Blocking all cookies will have a negative impact upon the usability of many websites.
+If you block cookies, you will not be able to use all the features on our website.
+
+
+Our details
+
+This website is owned and operated by Inisev Ltd.
+We are registered in Malta under registration number C78013 and registered address at 193 (Suite 39), Ursuline Sisters Street, Pieta’ PTA 1222, Malta.
+You can contact us:
+
+by post, to the postal address given above;
+emailing us at hi (at) tastewp (dot) com
+
+
+
+
+Data protection officer
+
+Our data protection officer's contact details are: Attn: Data Protection Officer, 193 (Suite 39), Ursuline Sisters Street, Pieta’ PTA 1222, Malta.
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+Terms Of Use
+
+
+
+
+TasteWP Terms of Use (the "Terms")
+
+
+
+Last Updated: May 12st, 2024 (Version 2.2)
+
+
+
+Introduction
+
+
+Welcome: Welcome to TasteWP, the best platform to get started with WordPress! We allow WordPress site, plugin and theme developers to experiment on WordPress in an easy and comfortable way.
+This Terms of Use Agreement (“Terms”) sets forth the legally binding terms that govern your use of the services of TasteWP.com. Wherever we mention "TasteWP”, “we” or “us” in these Terms we are referring to the TasteWP.com website and any services, features, content, or applications offered, even only from time to time, by TasteWP.com in connection with the TasteWP.com website. By accessing TasteWP.com you agree to be bound to these Terms and to our Privacy Policy, which is available here.
+
+TasteWP.com is operated by lnisev Ltd., a company incorporated under the laws of Malta with registration number C 78013 and registered address at 193 (Suite 39), Ursuline Sisters Street, Pieta’ PTA 1222, Malta.
+We are required according to the Data Protection Act of 2001 (Chapter 440 of the Laws of Malta) to comply with data protection requirements in the way in which we use any personal information collected from you in your use of TasteWP.com. We take privacy seriously. Please review our Privacy Policy (available here) to learn more
+
+
+Using TasteWP: You may use TasteWP.com either as a “visitor”, which means that you simply browse TasteWP.com, or as a "member", which means that you have either
+
+created a site while not signed in, or
+you have registered an account with TasteWP.com and agreed to these Terms (for all of our members and visitors to our website), and our Privacy Policy.
+
+You can join TasteWP by becoming a member here.
+
+The term "user" can refer to either a visitor or a member. You are only authorized to use TasteWP.com (regardless of whether your access or use is intended) if you agree to abide by all applicable laws and to these Terms, as they may be updated from time to time. Please read these Terms carefully and save them somewhere safe for your reference later. This version of the Terms will not always be available online. If you do not agree to these Terms, then please do not visit or use TasteWP.com.
+
+
+Updates to the Terms: We expressively reserve the right to change these Terms from time to time without providing you with direct notice, although we will note the most recent version of each of our terms at the top of the Terms. This will help you keep track of the latest version of the Terms. By accessing our site, you acknowledge and agree that it is your responsibility to review this site and these Terms from time to time and to familiarize yourself with any modifications. Your continued use of this site after such modifications will constitute acknowledgment of the modified Terms and agreement to abide and be bound by the modified Terms.
+
+
+
+Users and Memberships
+
+Age requirements: You need to be at least:
+
+14 years of age (or the minimum age required where you are to access a website without parental permission) to be a visitor and browse the TasteWP.com website(s).
+18 years of age (or older, if required to be older where you are) to become a member.
+
+By using TasteWP.com, you affirm that you are old enough to be a visitor, and by signing up to become a member or creating a site while not signed in, you affirm that you are old enough to be a member.
+
+
+By using TasteWP, you agree to promptly notify TasteWP if you discover or otherwise suspect any security breaches or unauthorized access related to your account or services, to take responsibility for all activities that occur under your account, and accept all risks of any authorized or unauthorized access to your account. You also agree to not open multiple accounts in order to bypass any restrictions or misuse the TasteWP affiliate program.
+
+
+Membership: It is possible to look through our site without becoming a member, but becoming a member is easy and free! Enrollment can be done quickly and easily on our website. During registration, we will ask you for information that is necessary to get the most out of your membership. This information may include the following: your name, address, email address (required). Our collection and use of this information is governed by our Privacy Policy, available here.
+
+
+Membership benefits: Membership is free. As a member, you can set custom names for your test WordPress sites, change the PHP versions, earn non-expiring sites, and more.
+
+
+Non-transferrable: Membership is personal to you and not transferrable.
+
+
+Keep your login information confidential!: When you sign up for a membership, you will be asked to select a password. It is your sole responsibility to maintain the confidentiality of your login information you may use to sign up for your membership. You agree not to use the membership, username, or password of another member at any time or to disclose your password to any third party. You are solely responsible for any and all use of your membership; unauthorized use of your membership may result in you losing work progress and/or access to your account. As described further below, TasteWP.com is not responsible for any of these losses when you have allowed your membership to be accessed by a third party, intentionally or otherwise.
+
+
+
+Intellectual Property (IP)
+
+
+We don’t own the content on the TasteWP.com sites: TasteWP provides a hosting platform where users can upload codes, software and other content; hence, the TasteWP users are responsible for all uploaded material, and we cannot be held responsible with respect to it.
+
+
+TasteWP.com property: While we don’t own WordPress or its plugins and themes, we do own all the content which we put on the platform, including texts, design, copyright, trademarks and other content you find on TasteWP.com not provided by our users or WordPress. You are not permitted to copy, modify, translate, publish, broadcast, transmit, distribute, perform, display, or sell any of such content owned by us.
+
+
+As a TasteWP user, you may not post, modify, distribute, or reproduce in any way any copyrighted material, trademarks, or other proprietary information belonging to others on TasteWP without obtaining the prior written consent of the owner of such proprietary rights. It is the policy of TasteWP to terminate membership privileges of any member who repeatedly infringes the copyright rights of others upon receipt of prompt notification to TasteWP by the copyright owner or the copyright owner's legal agent.
+
+
+If you or any user of this site believes its copyright, trademark or other property rights have been infringed by a posting on any TasteWP website or property, you or the user should notify us via our contact form and send a notification to our Designated Agent immediately. To be effective, the notification must include:
+
+Identify in sufficient detail the proprietary work that you believe has been infringed upon or other information sufficient to specify the copyrighted work being infringed).
+Identify the material that you claim is infringing the proprietary work listed in item #1 above.
+Provide information reasonably sufficient to permit us to contact you (email address is preferred)
+Provide information, if possible, sufficient to permit us to notify the owner/administrator of the allegedly infringing webpage or other content (email address is preferred).
+Include the following statement: "I have a good faith belief that use of the proprietary materials described above as allegedly infringing is not authorized by the proprietary owner, its agent, or the law.
+Include the following statement: "I swear, under penalty of perjury, that the information in the notification is accurate and that I am the proprietary owner or am authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+Sign the paper
+Send the written communication to follow.it' designated Agent for Claimed Infringement at hi [at] tastewp[dot]com
+
+You acknowledge and agree that upon receipt of a notice of a claim of infringement of proprietary rights, we may immediately remove the identified materials from our site without liability to you or any other party and that the claims of the complaining party and the party that originally posted the materials, will be referred to the United States Copyright Office for adjudication as provided in the Digital Millennium Copyright Act.
+
+
+
+
+Content/Activity Prohibited
+The following is a partial list of the kind of Content that is illegal or prohibited to post on or through the TasteWP.com Services. TasteWP.com reserves the right to investigate and take appropriate legal action against anyone who, in TasteWP.com's sole discretion, violates this provision, including without limitation, removing the offending communication from the TasteWP.com Services and terminating the Membership of such violators. Prohibited Content includes, but is not limited to Content that, in the sole discretion of TasteWP.com:
+
+
+is patently offensive and promotes racism, bigotry, hatred or physical harm of any kind against any group or individual;
+harasses or advocates harassment of another person;
+exploits people in a sexual or violent manner;
+contains nudity, violence, or offensive subject matter or contains a link to an adult website;
+solicits personal information from anyone under 18;
+provides any telephone numbers, street addresses, last names, URLs or email addresses;
+promotes information that you know is false or misleading or promotes illegal activities or conduct that is abusive, threatening, obscene, defamatory or libelous;
+promotes an illegal or unauthorized copy of another person's copyrighted work, such as providing pirated computer programs or links to them, providing information to circumvent manufacture-installed copy-protect devices, or providing pirated music or links to pirated music files;
+contains restricted or password only access pages or hidden pages or images (those not linked to or from another accessible page);
+furthers or promotes any criminal activity or enterprise or provides instructional information about illegal activities including, but not limited to making or buying illegal weapons, violating someone's privacy, or providing or creating computer viruses;
+solicits passwords or personal identifying information for commercial or unlawful purposes from other Users;
+involves commercial activities and/or sales without our prior written consent such as contests, sweepstakes, barter, advertising, or pyramid schemes;
+includes a photograph of another person that you have posted without that person's consent;
+or for band and filmmaker profiles, uses sexually suggestive imagery or any other unfair, misleading or deceptive Content intended to draw traffic to the profile.
+
+The following is a partial list of the kind of activity that is illegal or prohibited on the TasteWP.com Website and through your use of the TasteWP.com Services. TasteWP.com reserves the right to investigate and take appropriate legal action against anyone who, in TasteWP.com's sole discretion, violates this provision, including without limitation, reporting you to law enforcement authorities. Prohibited activity includes, but is not limited to:
+
+criminal or tortious activity, including child pornography, fraud, trafficking in obscene material, drug dealing, gambling, harassment, stalking, spamming, spimming, phishing, sending of viruses or other harmful files, copyright infringement, patent infringement, or theft of trade secrets;
+advertising to, or solicitation of, any Member to buy or sell any products or services through the TasteWP.com Services unless explicitly allowed in selected areas (“advertising section”);
+covering or obscuring the banner advertisements on your personal profile page, or any TasteWP.com page via HTML/CSS or any other means;
+any automated use of the system, such as using scripts to send messages;
+interfering with, disrupting, or creating an undue burden on the TasteWP.com Services or the networks or services connected to the TasteWP.com Services;
+attempting to impersonate another Member or person;
+using the account, username, or password of another Member at any time or disclosing your password to any third party or permitting any third party to access your account;
+selling or otherwise transferring your profile;
+using any information obtained from the TasteWP.com Services in order to harass, abuse, or harm another person;
+displaying an advertisement on your profile, or accepting payment or anything of value from a third person in exchange for your performing any commercial activity on or through the TasteWP.com Services on behalf of that person, such as placing commercial content on your profile, posting blogs or bulletins with a commercial purpose, selecting a profile with a commercial purpose, or using the TasteWP.com Services in a manner inconsistent with any and all applicable laws and regulations.
+
+If you find any fraudulent activity, such as misrepresentation or phishing attempts, or material that infringes copyrights, please report it to our team by email to hi [at] tastewp [dot] com so we can promptly remove such content and take further action if necessary.
+
+
+
+Payments and refund policy
+
+TasteWP is offering premium features available to users which can be used upon the test site creation or from the user’s TasteWP Dashboard section from which expiring sites can be converted to premium sites. Users have the option to set up payment agreements with Sellcodes.com, our payment provider, allowing TasteWP to charge again once the monthly/yearly payment period has passed, as defined by the user. You can cancel your premium subscriptions anytime via your Sellcodes Account page, in which case you will not be charged once your current premium plan expires.
+We reserve the right to modify our fee schedule at any time upon thirty (days) written notice by posting such fee rates on our pricing/premium page.
+As a company policy, we do not issue refunds. Therefore, please consider carefully if you want to use our service before you make a purchase. Due to the free tier, you can get a perfect idea of what the functions will do which will be accessible after you become a premium user. If anything is not clear, please contact us. We'll respond within 24 hours.
+
+
+
+Limitations on Liability & Indemnification
+
+TasteWP.com is provided to our users “AS IS” or, to put it another way, “AS AVAILABLE.” As such, we do not make promises or make any warranties as to the suitability or quality of the content available on TasteWP.com or the products offered on TasteWP.com and hereby exclude, to the furthest extent permitted by law, all implied warranties in the same respect (including but not limited to warranties of non-infringement, merchantability, and fitness for a particular or specific purpose). The limitations on liability and indemnification in these Terms are a part of the bargain between the parties.
+Your access to and use of TasteWP.com is your decision solely, and at your discretion and risk. We are under no obligation to make TasteWP.com available to you on any particular platform, and the platform we choose to offer TasteWP.com on may change.
+We cannot make any promises that you will always be able to access the information here (that includes but is not limited to accessing any test site and content created).
+To the extent permitted by applicable law, we (including our affiliates, our agents and employees) are not liable (which means you will not hold us responsible) for any damages or losses resulting directly or indirectly from, inter alia, content on TasteWP.com; access limitations or delayed availability on TasteWP.com; unauthorized access to and/or manipulation disputes or disagreements between users; failure of TasteWP.com to authorize an account or TasteWP.com decision to close or suspend membership or a license offering; any conduct or failure to act by any of our third-party service providers (including but not limited to Sellcodes.com) unless the damages or losses result directly from intentional conduct by TasteWP.com;  viruses or other malicious software that is a result of accessing TasteWP.com, downloading the codes, opening any email or in your exchanges; any access of your account that is unauthorized by the Company. As the websites hosted on TasteWP are managed by its users, and not TasteWP, we cannot guarantee that they adhere to these Terms. As a visitor or member, you use the TasteWP services, which includes browsing and interacting with the sites on TasteWP, at your own risk and to your own responsibility. Although TasteWP has systems in place to prevent and ban unpermitted content, we have no obligation to monitor, validate, correct, or update users’ sites’ content in any way. TasteWP may, in its sole discretion, alter, remove, or refuse to display any users’ content that is in violation of these Terms.
+If you have a dispute with another user on TasteWP.com, you agree to release us (and our agents and employees) from claims, demands and damages (both consequential and actual) of every kind and nature, known and unknown, arising out of or in any way connected with such disputes. THIS RELEASE MAY INCLUDE A WAIVER ON YOUR PART OF ANY PROTECTIONS THAT WOULD OTHERWISE LIMIT THE COVERAGE OF THIS RELEASE TO ONLY THOSE CLAIMS WHICH YOU KNEW, MAY HAVE KNOWN OR SUSPECTED TO EXIST AT THE TIME YOU AGREED TO THIS RELEASE.
+The chatbot service is provided on an 'as is' and 'as available' basis without any form of warranty, either expressed or implied. While we endeavor to deliver useful and precise information, we cannot assure the accuracy, reliability, or completeness of the content generated by the AI chatbot.
+Please note that interactions with the chatbot do not constitute legally binding commitments or representations on behalf of Inisev Ltd. The chatbot is not authorized to engage in or conclude any contractual agreements or legally binding arrangements. Any apparent affirmation or agreement generated by the chatbot during conversation, such as agreeing to terms or transactions, should not be considered legally relevant or binding.
+In no circumstance will Inisev Ltd. be held liable for any direct, indirect, incidental, consequential, or punitive damages that arise from the usage of the chatbot. This includes, but is not limited to, damages resulting from any inaccuracies in the chatbot's output.
+You agree to indemnify and hold us (and our employees and agents) harmless from any claim or demand, including reasonable legal fees, made by any third party due to or arising out of your breach of these Terms or your improper use of TasteWP.com or your interaction with other TasteWP.com users.
+
+
+
+
+
+
+Get started
+
+
+Ready to go? Then please sign up!
+
+
+
+
+
+
+
+
+
+
+
+
+
+LOADING
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+It's yummy!
+
+
+
+
+
+
+
+
+
+
+asteWP.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+English (EN)
+
+
+
+
+
+English (EN)
+Français (FR)
+Polski (PL)
+Italiano (IT)
+Ελληνικά (EL)
+Filipino (TL)
+Tiếng Việt (VI)
+Türkçe (TR)
+Deutsch (DE)
+Netherlands (NL)
+Español (ES)
+Português (PT)
+Русский (RU)
+Srpski (SR)
+বাংলা (BN)
+日本語 (JA)
+中文 (简体) (ZH)
+اَلْعَرَبِيَّةُ‎ (AR)
+فارسی (FA)
+
+
+
+Blog
+Log in
+Sign up
+
+
+
+
+
+
+
+
+Get a taste of WordPress
+
+Set up a new WordPress instance now:
+
+
+
+Set it up!
+(no sign up required!)
+
+
+
+
+Advanced Setup
+
+
+
+
+
+
+
+I agree with the Terms
+
+
+
+
+
+
+
+
+What is this good for?
+
+
+
+
+Get started with WordPress quickly even without being logged in
+
+
+
+Play around without inhibitions​
+
+
+
+Clone other sites and use TasteWP as your staging server with this plugin​
+
+
+
+Host your site with us permanently and use your own domain​
+
+
+
+Other use cases: Demo your WordPress product | Teach WordPress to Students
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Premium Features
+
+
+
+
+
+
+
+
+
+No expiry
+
+Use the site(s) for as long as you want
+
+
+
+
+
+
+
+
+More space
+
+Up to 20 GB per site (need more?)
+
+
+
+
+
+
+
+
+Top support
+Get help when you get stuck
+
+
+
+
+
+
+
+
+
+
+Own domain
+Use any domain name
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Buy now
+
+
+From 2.98 USD/month only – cancel anytime. Questions?
+
+
+
+
+
+
+
+
+Tips & Tricks
+
+
+
+
+Chrome extension
+Pre-installed plugin(s)
+Pre-installed theme
+Templates
+WP Directory tools
+
+
+
+
+
+
+
+Spin up a demo site when on the WP repo, with that plugin/theme already installed
+Instantly see if a site is using WordPress
+See the theme & plugins a site is using
+
+
+
+Add to Chrome!
+
+
+
+
+Check out blog post
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A link like
+https://tastewp.com/new/
+spins up a new site. Add “
+?pre-installed-plugin-slug=(pluginslug)
+” to have a plugin pre-installed where “(pluginslug)” is the slug of the plugin in the WP directory, e.g.
+
+
+https://tastewp.com/new/?pre-installed-plugin-slug=akismet
+will have the Akismet plugin pre-installed.
+
+
+If you’re a plugin creator you can use this to offer potential users to first try out your plugin on a dummy site, e.g. by placing it at the top of the description in the readme.txt, like
+this plugin.
+
+
+Check out blog post
+
+
+
+
+
+
+
+
+
+
+
+
+Add “?pre-installed-theme-slug=(themeslug)” to
+https://tastewp.com/new/
+in order to spin up a site with a certain theme pre-installed.​
+
+
+For example,
+
+
+
+https://tastewp.com/new/?pre-installed-theme-slug=neve
+
+
+will create a site with the  Neve theme
+pre-installed.
+
+
+Check out blog post
+
+
+
+
+
+
+
+
+
+
+
+
+With templates you can tailor the sites (which get set up) even more. For example, you can upload your own plugin zip files (i.e. they don’t have to be in the WP directory), you can define the site parameters (e.g. WP and PHP versions), and you can track how often the templates get used.​
+
+
+To create a template,
+login
+and then click on “Site templates” in the left menu, and then on “New template” at the top right.
+
+
+Check out blog post
+
+
+
+
+
+
+
+
+
+
+
+
+If you’re on a plugin or theme page in the WP directory, just replace the “wordpress.org” in the url with “tastewp.com” and press enter, to spin up a site to try out that plugin or theme.
+
+
+
+Or, drag and drop this button
+
+Spin it up!
+
+
+
+
+to your bookmarklet toolbar and click on it when you’re on a plugin or theme page in the WP directory – it will do the same as above, just with a click of a button.
+
+
+For this to work, make sure your browser has visible toolbar.
+Your bookmarklet toolbar is not showing? –
+
+Get help
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FAQ
+
+
+
+
+
+
+How long are the sites live?
+
+
+
+
+
+
+
+
+
+
+
+
+If you create a site when not logged in on TasteWP, it's valid for 2 days, otherwise it's 7 days.
+It's free to sign up, you can do it here.
+If you don’t want your sites to expire at all, check out our premium features.
+Disclaimer: Sites created on wordpress.org will have 8 hours expiration time for non-logged in users and 3 days for logged in users.
+
+
+
+
+
+
+How much space do the sites have?
+
+
+
+
+
+
+
+
+
+
+
+
+By default it's 1 GB (for free sites). If you want more, have a look at our premium features.
+
+
+
+
+
+
+How many sites can I create at once?
+
+
+
+
+
+
+
+
+
+
+
+
+If you're not logged into TasteWP, you can create up to 2 sites (and once they expire, create new ones).
+If you're logged into TasteWP, you can create up to 6.
+
+Sign up now, it's free.
+
+If you use our premium features, then you can have as many premium sites as you paid for (there is no limits of premium sites).
+
+
+
+
+
+
+Can I migrate to another hoster?
+
+
+
+
+
+
+
+
+
+
+
+
+Yes you can! By default a migration plugin is installed (Backup Migration), which allows you to migrate easily to another hoster.
+
+
+
+
+
+
+
+
+Can I create WP with multisite support?
+
+
+
+
+
+
+
+
+
+
+
+
+Yes! Just click on 'Advanced options' and click on the respective button.
+
+
+
+
+
+
+Can I change my PHP version later?
+
+
+
+
+
+
+
+
+
+
+
+
+Yes, if you are logged in, you can do it in the site manager.
+
+
+
+
+
+
+Can I download WordPress debug.log file?
+
+
+
+
+
+
+
+
+
+
+
+
+Yes you can do it in the site manager (in the dashboard).
+
+
+
+
+
+
+Can I change the domain you give me?
+
+
+
+
+
+
+
+
+
+
+
+
+That will be possible soon. Stay tuned!
+
+
+
+
+
+
+
+
+Show others
+
+Prev
+
+
+
+1
+/
+2
+
+
+
+Next
+
+
+
+
+
+
+
+
+
+
+
+
+TasteWP is part of the Inisev product family
+
+See all projects
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© TasteWP.com/5.2.3 - Privacy Policy | Terms | Contact
+
+
+
+
+
+
+This website uses cookies to ensure you get the best experience on our website.
+
+
+
+
+I like cookies!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

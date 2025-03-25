@@ -1,0 +1,723 @@
+
+
+
+
+
+
+
+OneDrive for dummies – Social Media and Networking
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+Social Media and Networking
+Introduction to the current world
+
+
+
+
+
+
+
+
+
+OneDrive for dummies
+
+Posted on July 6, 2015July 17, 2015 by brittax
+
+
+https://support.office.com/en-ie/article/Using-Office-Online-in-OneDrive-dc62cfd4-120f-4dc8-b3a6-7aec6c26b55d
+Creating a Microsoft account
+Before you can use Office Online and OneDrive, you’ll need a Microsoft account. If you already have a @hotmail.com, @live.com, or @outlook.com email account (or any other account that lets you use a Microsoft service), you already have a Microsoft account. To access OneDrive, just sign in with your existing account.
+To create a Microsoft account
+
+Go to OneDrive sign-in page. Locate and select Sign up now.
+Clicking Sign up now
+
+
+The sign up form will appear. Follow the directions and enter the required information, such as your name, birth date, and gender.
+Entering your information
+
+Review the Microsoft services agreement and privacy statement, then click Create account.
+Clicking Create account
+
+Your Microsoft account is now created, and your OneDrive will appear.
+
+
+
+Click the buttons in the interactive below to learn more about the OneDrive interface.
+
+To install the OneDrive app:
+
+
+Navigate to the Download OneDrive page. Locate and select Download OneDrive for Windows.
+Downloading OneDrive
+
+Once the file is downloaded, open it and follow the instructions to install OneDrive.
+Installing OneDrive
+
+OneDrive is now installed on your computer. A OneDrive folder will be added to your Windows Explorer. We’ll talk more about using this folder in our lesson on how to Upload, Sync, and Manage Files.
+
+
+
+
+OneDrive for mobile devices
+If you need to access your files on the go, OneDrive offers mobile apps for iOS, Android, and Windows Phone. While the mobile app will allow you to view and upload files, you will not be able to edit or create new documents.
+
+
+neDrive and Office Online
+Office Online—previously known as Office Web Apps—is a free online version of Microsoft Office that includes Word, Excel, PowerPoint, and OneNote. Office Online is accessed through Microsoft’s OneDrive—previously known as SkyDrive—a cloud-based storage service that allows you to create, upload, and share Office documents and other files.
+ways to organize and view your folders.
+
+
+
+Save documents to OneDrive from Office programs
+If you have a recent version of Office, you can save documents directly to OneDrive from your Office program. That eliminates the extra step of saving on your computer, then uploading.
+
+
+In the newest version of Office
+Go to File > Save As, and then pick OneDrive to save documents directly from programs like Word, Excel, and PowerPoint.
+
+For detailed steps, see Save documents online.
+
+
+
+In Office 2010
+
+
+In Word, Excel, or PowerPoint
+
+Open an existing document or create a new one in Word, Excel, or PowerPoint.
+Click File, click Save & Send, and then click Save to Web.
+
+Click Sign in. enter your email address and password, and then click OK. If you use Hotmail, Messenger, or Xbox Live, you already have a Microsoft account. If you don’t have one, click Sign Up to create a new Microsoft account.
+Select a folder on your OneDrive, and then click Save As. Type a name for your file and then click Save. The document is now saved on OneDrive. Click File and Close.
+
+In your web browser, go to OneDrive.com.
+Select the folder where you saved your document, and then click the file name The document opens in the appropriate Office Online program.
+
+
+
+
+In OneNote
+
+Open an existing notebook or create a new one.
+Click the File tab, and then click Share.
+Click the notebook you want to save.
+Click Web. Note    If the notebook is not in the OneNote 2010 file format, OneNote prompts you to upgrade it. Click Upgrade, and then in the Notebook Properties dialog box click Convert to 2010. Click OK at the prompt that warns you that users of an earlier version of OneNote will not be able to share the notebook. Anyone with an earlier version of OneNote is able to share the notebook by using OneNote Online.
+Click Sign In, enter your email address and password, and then click OK.
+If you use Hotmail, Messenger, or Xbox Live, you already have a Microsoft account. If you don’t have one, click Sign up for Microsoft OneDrive to create a new Microsoft account.
+Select a folder on your OneDrive, and then click Share Notebook.
+In your web browser, go to OneDrive.com.
+Select the folder where you saved your notebook, and then click it. The notebook opens in OneNote Online.
+
+Top of Page
+
+
+
+
+Create new documents in your browser
+
+Go to Office.com.
+Click a program tile to create a new blank document.
+
+Note    Or browse for a template by clicking Templates in the top right corner.
+
+Sign in or create a Microsoft account.
+
+For more information about using Office Online see Share a spreadsheet, document, presentation, or notebook in OneDrive.
+Top of Page
+
+
+
+Work with Word documents
+
+
+View your club newsletter in the browser
+Distributing your organization’s newsletter is as simple as saving it on your OneDrive and sending a link.
+
+Go to where the document is stored on your OneDrive, by following a link or by signing in at OneDrive.com.
+Click the document.
+Word Online opens the document opens in Reading view.
+Click Share to invite individuals or get a link you can post or send to your friends.
+
+
+
+
+Make a last-minute change
+You’re the newsletter editor. The newsletter is finished, and you’ve saved it on OneDrive, ready to share. One last look, and you notice you misspelled a board member’s name. That’s quick and easy to update in the browser.
+
+With the document open in Word Online in Reading view, click Edit Document, and then Edit in Word Online.
+Word Online switches to Editing view, and the display of the document might change. However, the content is not altered.
+If you want to make changes beyond what you can do in the browser, click Open in Word.
+In Word, when you save the document, it is saved back on OneDrive.
+
+Note    In OneDrive, multiple authors can edit a document at the same time in Word Online. For more information, see Work together on a document in Word Online.
+
+
+
+Print from the browser
+The document that you print from the browser looks the same as it would if you printed it from Word.
+With the document open in Word Online, click the File tab in Word Online, and then click Print, and click Print again. A printable PDF is generated. Open it by clicking Click here to view the PDF of your document., and then follow the procedure you normally do for opening and printing PDF files from your browser.
+
+
+
+More information
+For more information about using Word Online see Basic tasks in Word Online.
+Top of Page
+
+
+
+
+Work with Excel workbooks
+
+
+Make decisions based on live data
+Gathering information in an Excel workbook helps you compare items so you can make informed choices. For example, you could reserve the picnic area for your party for free, but maybe it’s worth the expense of renting an indoor venue in rainy weather. By tracking information in an Excel workbook on your OneDrive, you can open the workbook in your browser anytime and slice your data in different ways to make decisions.
+
+Go to where the workbook is stored on your OneDrive, by following a link or by signing in at OneDrive.com.
+Click the workbook.
+Excel Online opens the workbook.
+Use the ribbon interface to view and interact with the data. Sort and filter rows or columns, expand PivotTables, and refresh the data.
+
+
+
+
+Edit a spreadsheet in the browser
+You just found out that the local movie theater is available to rent for private events. You want to add this information to your list of venues. When you edit in the browser, you can change data, enter or edit formulas, and apply basic formatting within the spreadsheet.
+
+With the workbook open in Excel Online click Edit Workbook, and then Edit in Excel Online.
+Update the data, add formulas, insert charts, or apply formatting.
+Excel Online saves your changes automatically.
+If you want to make changes beyond what you can do in the browser, click Open in Excel.
+In Excel, when you save the workbook, it is saved back on OneDrive.
+
+
+
+
+Work together at the same time on a spreadsheet
+You’re not the only one researching event venues. What if your friend wants to add information to the spreadsheet at the same time you’re working in the workbook? In Excel Online you can collaborate with other people on the same workbook at the same time. Go ahead and make your changes. Excel Online indicates if other people are also working in the workbook.
+
+
+
+
+Print from the browser
+
+If you want to print a range of cells instead of the entire worksheet, select the cells.
+On the File tab, click Print.
+If popups are blocked, unblock them, at least for now. Then repeat steps 1 and 2.
+Excel Online opens a view suitable for printing in a new browser tab or window.
+If you selected a range of cells, but you want to print the whole worksheet afterall, click Entire Sheet.
+Click Print.
+
+
+
+
+More information
+For more information about using Excel Online see Basic tasks in Excel Online.
+Top of Page
+
+
+
+
+Work with PowerPoint presentations
+
+
+Use your browser to view or present a slide show
+It’s your turn to present the slide show for class, but you forgot to bring your laptop computer. You borrow someone else’s, but they don’t have PowerPoint installed. That’s okay: sign in to OneDrive, open the slide show in PowerPoint Online, and present the slide show.
+
+Go to where the presentation is stored on your OneDrive, by following a link or by signing in at OneDrive.com.
+Click the presentation.
+PowerPoint Online opens the presentation in Reading view.
+Click the arrow buttons at the bottom of the display to step through the sides, or click Start Slide Show to play the slide show in in full-screen view.
+
+
+
+
+Quickly add some slides
+If your classmates want you to add some slides to the group presentation, you can quickly do that in your browser.
+
+With the presentation open in PowerPoint Online in Reading view, click Edit Presentation, and then click Edit in PowerPoint Online.
+PowerPoint Online switches to Editing view.
+Click New Slide, and edit content as you want.
+PowerPoint Online saves your changes automatically.
+If you want to make changes beyond what you can do in the browser, click the File tab, and then click Open in PowerPoint.
+In PowerPoint, when you save the presentation, it is saved back on OneDrive.
+
+
+
+
+Print from the browser
+You might want to print the slides as handouts to share with the class. Click the File tab, and then click Print and click Print again. A printable PDF is generated. Open it by clicking Click here to view the PDF of your document., and then follow the procedure you normally do for opening and printing PDF files from your browser.
+
+
+
+More information
+For more information about using PowerPoint Online see Basic tasks in PowerPoint Online.
+Top of Page
+
+
+
+
+Work with OneNote Notebooks
+
+
+Post notes for your friends or family
+When you’re planning a group activity OneNote Online gives your group a centralized place for collecting notes, brainstorming an idea, or assembling the bits into a more structured document, such as an itinerary you can share with your contacts as a Word document.
+
+Go to where the notebook is stored on your OneDrive, by following a link or by signing in at OneDrive.com.
+Click the notebook.
+OneNote Online opens the notebook in Editing view.
+Add notes to the current page, click a different page to edit, or add new pages or sections to the notebook in the navigation pane.
+OneNote Online saves your changes automatically.
+If you want to make changes beyond what you can do in the browser, click the File tab, and then click Edit Notebook, and then Edit in OneNote Online (requires Microsoft OneNote 2010 or later.
+In OneNote, the notebook is saved back on OneDrive.
+
+
+
+
+Brainstorm together
+Brainstorming loses steam if you have to take turns, waiting for one person to finish editing the notebook before you can add your ideas. By using OneNote Online you can add your notes while other people are working in the notebook, even if some people have the notebook open in the OneNote desktop application.
+Go ahead and make your changes. OneNote Online lets you see who made which changes, and you can roll pages back to an earlier version if someone made changes that you don’t want.
+
+To keep track of who is contributing which pieces of content, click the View tab, and then click Show Authors.
+To view an earlier version of a page, click Page Versions on the View tab, and then click the time stamp for the version that you want to see.
+
+
+
+
+More information
+For more information about using OneNote Online see Basic tasks in OneNote Online.
+Top of Page
+
+
+
+
+Mobile device access
+You can use your browser-enabled cellular phone to read Word, Excel and PowerPoint files stored on OneDrive. The following devices provide mobile support for Office Online in OneDrive:
+
+Internet Explorer 7 on Windows Mobile 7
+Windows Phone 7.5 and later
+Android 4 and later
+Safari 4 on on iOS 4.3 and later
+
+
+
+
+
+Share this:TwitterFacebookLike Loading...
+
+Related
+
+
+Posted in OnDrive, UncategorizedTagged OneDriveLeave a comment
+
+
+Post navigation
+
+← How to use twitter: twitter for dummies8 Powerful Tips for Linkedin →
+
+
+
+Leave a comment Cancel reply
+
+
+
+Δ
+
+
+
+
+
+
+Search for:
+
+
+
+
+
+Recent Posts
+
+
+Create your own QR code
+
+
+My Twitter Page
+
+
+Webinar
+
+
+eBook for Social Media
+
+
+Great socail media qoute
+
+
+Recent CommentsArchives
+
+July 2015
+
+Categories
+
+ebook
+
+Facebook
+
+Free 30 day trail of Webinar
+
+Introduction
+
+LinkedIn
+
+My Twitter
+
+OnDrive
+
+social media qoute
+
+twitter
+
+Uncategorized
+
+
+Meta
+
+Register Log in
+Entries feed
+Comments feed
+WordPress.com
+
+
+
+
+
+
+
+
+
+
+Search for:
+
+
+
+
+
+Recent Posts
+
+
+Create your own QR code
+
+
+My Twitter Page
+
+
+Webinar
+
+
+eBook for Social Media
+
+
+Great socail media qoute
+
+
+Recent CommentsArchives
+
+July 2015
+
+Categories
+
+ebook
+
+Facebook
+
+Free 30 day trail of Webinar
+
+Introduction
+
+LinkedIn
+
+My Twitter
+
+OnDrive
+
+social media qoute
+
+twitter
+
+Uncategorized
+
+
+Meta
+
+Register Log in
+Entries feed
+Comments feed
+WordPress.com
+
+
+
+
+
+
+
+Blog at WordPress.com.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use.
+To find out more, including how to control cookies, see here:
+
+Cookie Policy
+
+
+
+
+
+
+Comment
+
+
+
+
+Reblog
+
+
+
+
+
+Subscribe
+
+
+
+Subscribed
+
+
+
+
+
+
+
+Social Media and Networking
+
+
+
+
+
+
+
+
+
+
+
+
+Sign me up
+
+
+
+
+Already have a WordPress.com account? Log in now.
+
+
+
+
+
+
+
+
+
+
+
+
+Social Media and Networking
+
+
+
+
+Subscribe
+
+
+
+Subscribed
+
+
+Sign up
+Log in
+
+
+Copy shortlink
+
+
+
+
+
+Report this content
+
+
+
+View post in Reader
+
+
+Manage subscriptions
+
+Collapse this bar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+%d
+
+
+
+
+Design a site like this with WordPress.comGet started
+
+

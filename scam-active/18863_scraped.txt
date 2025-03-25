@@ -1,0 +1,189 @@
+Ying Fashion Shop
+{{ 'fb_in_app_browser_popup.desc' | translate }}
+{{ 'fb_in_app_browser_popup.copy_link' | translate }}
+{{ 'close' | translate }}
+{{ 'in_app_browser_popup.desc' | translate }}
+{{ 'close' | translate }}
+{{word('consent_title')}}
+{{word('consent_desc')}} {{word('read_more')}}
+{{word('settings')}}
+{{word('accept')}}
+{{word('consent_title')}}
+{{word('consent_desc')}} {{word('read_more')}}
+{{setting.title}}
+{{setting.description}}
+{{word('save_preferences')}}
+🍃 全館 1280 元 免運 / 韓國代購 5500 免運
+歡迎加入 ➤YF韓國潮牌代購社群 點我加入 ⛧
+▲ 3 月活動 滿 499 折 30 / 899 折 50 / 1899 折 80
+🍃 全館 1280 元 免運 / 韓國代購 5500 免運
+歡迎加入 ➤YF韓國潮牌代購社群 點我加入 ⛧
+▲ 3 月活動 滿 499 折 30 / 899 折 50 / 1899 折 80
+🍃 全館 1280 元 免運 / 韓國代購 5500 免運
+繁體中文
+English
+繁體中文
+找商品
+首頁
+所有商品
+抗寒必備暖呼呼➤外套
+🇰🇷 韓國代購品牌連線 🇰🇷
+【MFG】
+【Mardi Mercredi 】
+【MATIN KIM】
+【WHO.A.U】
+【NATIONAL GEOGRAPHIC 國家地理】
+【EMIS】
+【LOTSYOU】
+【COVERANT】
+【Torriden】
+【LABUBU】
+韓國大創 Daiso
+VIP會員制度
+購物車
+你的購物車是空的
+{{ 'product.bundled_products.label' | translate }}
+{{ 'product.bundle_group_products.label' | translate }}
+{{ 'product.buyandget.label' | translate }}
+{{ 'product.gift.label' | translate }}
+{{ 'product.addon_products.label' | translate }}
+{{item.product.title_translations|translateModel}}
+{{ field.name_translations | translateModel }}
+{{ childProduct.title_translations | translateModel }}
+{{ getChildVariationShorthand(childProduct.child_variation) }}
+{{ 'product.set.open_variation' | translate }}
+{{ getSelectedItemDetail(selectedChildProduct, item).childProductName }}
+x {{ selectedChildProduct.quantity || 1 }}
+{{ getSelectedItemDetail(selectedChildProduct, item).childVariationName }}
+{{item.variation.name}}
+{{item.quantity}}x
+NT$0
+{{ item.unit_point }} 點
+刪除
+{{ 'product.addon_products.label' | translate }}
+{{addonItem.product.title_translations|translateModel}}
+{{addonItem.quantity}}x
+{{ mainConfig.merchantData.base_currency.alternate_symbol + "0" }}
+刪除
+{{ 'cart.checkout' | translate }}
+你的購物車是空的
+{{ 'product.bundled_products.label' | translate }}
+{{ 'product.bundle_group_products.label' | translate }}
+{{ 'product.buyandget.label' | translate }}
+{{ 'product.gift.label' | translate }}
+{{ 'product.addon_products.label' | translate }}
+{{item.product.title_translations|translateModel}}
+{{ field.name_translations | translateModel }}
+{{ childProduct.title_translations | translateModel }}
+{{ getChildVariationShorthand(childProduct.child_variation) }}
+{{ 'product.set.open_variation' | translate }}
+{{ getSelectedItemDetail(selectedChildProduct, item).childProductName }}
+x {{ selectedChildProduct.quantity || 1 }}
+{{ getSelectedItemDetail(selectedChildProduct, item).childVariationName }}
+{{item.variation.name}}
+{{item.quantity}}x
+NT$0
+{{ item.unit_point }} 點
+刪除
+{{ 'product.addon_products.label' | translate }}
+{{addonItem.product.title_translations|translateModel}}
+{{addonItem.quantity}}x
+{{ mainConfig.merchantData.base_currency.alternate_symbol + "0" }}
+刪除
+{{ 'cart.checkout' | translate }}
+目錄                      首頁                                             所有商品                                             抗寒必備暖呼呼➤外套                                             🇰🇷 韓國代購品牌連線 🇰🇷                                                        【MFG】                                             【Mardi Mercredi 】                                             【MATIN KIM】                                             【WHO.A.U】                                             【NATIONAL GEOGRAPHIC 國家地理】                                             【EMIS】                                             【LOTSYOU】                                             【COVERANT】                                             【Torriden】                                             【LABUBU】                                             韓國大創 Daiso                                       VIP會員制度                                       分類                           🇰🇷 韓國代購品牌連線 🇰🇷                                                                                                                            【MFG】                                                                         【Mardi Mercredi 】                                                                         【MATIN KIM】                                                                         【WHO.A.U】                                                                         【NATIONAL GEOGRAPHIC 國家地理】                                                                         【LEE】                                                                         【THE NORTH FACE】                                                                         【LOTSYOU】                                                                         【COVERANT】                                                                         【Torriden】                                                                         【FIND KAPOOR 】                                                                         【LABUBU】                                                                         韓國大創 Daiso                                                                     【換季賠本出清! 現貨48小時快速出貨】                                     平價精選女裝                                                                                                                         熱門主打 HOST                                                                         出門不煩惱➤套裝                                                                         抗寒必備暖呼呼➤外套                                                                         甜美洋裝專區 ღ                                                                         TOP ➤ 上衣                                                                                        無袖 / 短袖 上衣                                                                     雪紡 / 防曬 上衣                                                                     針織 / 毛衣 上衣                                                                     長袖 / 短袖 襯衫                                                                     長袖棉質上衣                                                                     針織馬甲背心                                                                     刷毛 / 厚棉 上衣                                                             DRESS ➤ 洋裝/套裝/連衣裙                                                                                        長袖 / 短袖 洋裝                                                                     長袖 / 短袖 套裝                                                                     長袖 / 短袖 連衣裙                                                             BOTTOM ➤ 下半身                                                                                        短褲                                                                     長褲                                                                     長/ 短 裙裝                                                                     吊帶褲 / 裙                                                                     牛仔褲 / 裙                                                             OUTER ➤ 外套                                                                                        薄款外套/防曬外套                                                                     棉質外套 / 皮衣外套                                                                     夾克外套 / 小香風外套                                                                     針織外套                                                                     西裝外套                                                                     保暖大衣外套                                                             BANDEAU ➤ 內搭                                                                                        小可愛 / 背心                                                             ACCESSORIES ➤ 配件                                                                                        包包                                                                     鞋子/時尚拖                                                                     帽子                                                                     圍巾                                                                     襪子                                                         平價精選男裝                                                                                                                    冬季外套                                                                         長袖T恤/大學T                                                                         坎肩背心                                                                         長褲                                                                                針織毛衣                                                           帳戶         會員登入   新用戶註冊           其他           聯絡我們                                繁體中文                         語言       English   繁體中文             貨幣       $ HKD   P MOP   ¥ CNY   $ TWD   $ USD   $ SGD   € EUR   $ AUD   £ GBP   ₱ PHP   RM MYR   ฿ THB   د.إ AED   ¥ JPY   $ BND   ₩ KRW   Rp IDR   ₫ VND   $ CAD
+現貨+預購
+加入購物車                加入購物車
+Ying Fashion shop 春秋新款 韓系氣質 收腰顯瘦 百搭必備 襯衫連衣裙 小個子 襯衫短裙 長袖洋裝                    NT$625                               NT$922
+加入購物車                加入購物車
+Ying Fashion Shop 夏季新款chic 復古小眾 翻領修身 顯瘦純色 短袖連衣裙 包臀短裙 短袖洋裝                    NT$680                               NT$1,014
+現貨+預購
+加入購物車                加入購物車
+Ying Fashion Shop 細肩帶連衣裙 吊帶碎花洋裝 魚尾裙款式 針織棉洋裝 氣質甜美 傘裙洋裝                      NT$620 ~ NT$750                                       NT$1,000
+加入購物車                加入購物車
+Ying Fashion Shop 赫本風 茶歇氏碎花洋裝 露背碎花裙 收腰顯瘦 木耳邊連衣裙                      NT$850                                       NT$1,308
+現貨+預購
+加入購物車                加入購物車
+Ying Fashion Shop 韓系chic 氣質百搭 優雅翻領 長袖襯衫 綁帶收腰 純白 不規則襯衫 襯衫連衣短裙                      NT$712 ~ NT$750                                       NT$846
+現貨+預購
+加入購物車                加入購物車
+Ying Fashion Shop 瘦瘦女孩首選 條紋襯衫連衣裙 翻領短袖洋裝 修身顯瘦 條紋A字連衣裙                      NT$750 ~ NT$890                                       NT$1,369
+加入購物車                加入購物車
+Ying Fashion Shop 秋冬復古 慵懶風 POLO領 針織上衣 休閒百搭 長袖針織連衣裙                      NT$750                                       NT$1,000
+現貨
+加入購物車                加入購物車
+Ying Fashion Shop韓系chic 夏季氣質款 簡約POLO領 鑲邊撞色 修身顯瘦 包臀短裙 包臀針織連衣裙                    NT$580                               NT$768
+現貨+預購
+加入購物車                加入購物車
+Ying Fashion Shop 夏季新款 氣質甜美 碎花連衣裙 純欲 小心機 露腰方領 泡泡袖洋裝 短袖碎花短裙                    NT$690                               NT$1,000
+加入購物車                加入購物車
+Ying Fashion  秋冬新款 韓國 長版連帽T恤 簡約慵懶風 抽繩連帽上衣 泡泡袖 開叉連衣裙 加絨加厚                    NT$690                               NT$957
+加入購物車                加入購物車
+Ying Fashion shop 韓系chic 夏季法式 溫柔甜美洋裝 繞頸圓領 削肩連衣裙 設計感 綁帶收腰 連衣裙                    NT$690                               NT$998
+加入購物車                加入購物車
+Ying Fashion Shop 約會出遊必收套裝 細肩帶 吊帶洋裝+寬鬆西裝外套 純慾氣質風 小個子連衣裙 兩件套                      NT$590 ~ NT$950                                       NT$1,308
+加入購物車                加入購物車
+Ying Fashion shop 韓系chic 夏季法式 小眾方領 露背綁帶蝴蝶結 收腰顯瘦 吊帶連衣裙 細肩帶洋裝                    NT$680                               NT$892
+加入購物車                加入購物車
+Ying Fashion Shop 韓系chic 法式氣質 翻領不規則 襯衫連衣裙 收腰裹胸 吊帶背心兩件套 襯杉洋裝                    NT$750                               NT$1,000
+現貨+預購
+加入購物車                加入購物車
+Ying Fashion Shop 清新薄荷藍綠色 繞頸圍脖 無袖連衣裙 收腰顯瘦 日常洋裝                      NT$844 ~ NT$889                                       NT$1,369
+現貨+預購
+加入購物車                加入購物車
+Ying Fashion Shop 春夏甜美溫柔款 氣質吊帶洋裝 高腰顯瘦 蛋糕吊帶連衣裙                      NT$645 ~ NT$680                                       NT$1,046
+現貨+預購
+加入購物車                加入購物車
+Ying Fashion Shop 法式氣質 V領針織上衣 條紋背心上衣 高腰包臀半身裙 條紋控 兩件式套裝                      NT$750                                       NT$1,154
+現貨+預購
+加入購物車                加入購物車
+Ying Fashion Shop 溫柔甜美 吊帶開衫連衣裙 海灘渡假風 短版開衫外套 吊帶層次洋裝 兩件式套裝                      NT$560 ~ NT$1,200                                       NT$1,846
+加入購物車                加入購物車
+Ying Fashion Shop 韓系chic 春夏氣質洋裝 翻領單排釦 綁帶收腰 長袖百褶連衣裙 A字傘裙 襯衫洋裝                    NT$695                               NT$992
+加入購物車                加入購物車
+Ying Fashion shop 韓系chic 春夏新款 小眾圓領 綁帶收腰 微透泡泡袖 褶皺感 碎花連衣裙 長袖洋裝                    NT$680                               NT$962
+現貨+預購
+加入購物車                加入購物車
+Ying Fashion Shop 甜美減齡 polo領 修身顯瘦 A字洋裝 小個子 短袖連衣裙                      NT$625                                       NT$962
+加入購物車                加入購物車
+Ying Fashion shop春秋新款 韓系chic 復古麻花紋 V領收腰 約會必備 燈籠袖 A字裙 麻花針織連衣裙                    NT$725                               NT$892
+加入購物車                加入購物車
+Ying Fashion Shop 春秋新款 韓系chic 氣質V領 修身針織連衣裙 打底長裙 V領洋裝 長袖針織洋裝                    NT$690                               NT$872
+現貨+預購
+加入購物車                加入購物車
+Ying Fashion Shop 小個子設計感 蝴蝶結後綁帶 皺褶吊帶洋裝 花苞蓬蓬裙 吊帶連衣裙                      NT$620 ~ NT$650                                       NT$1,000
+現貨+預購
+加入購物車                加入購物車
+Ying Fashion Shop 夏季新款 法式蓬蓬裙 純慾小清新 氣質 吊帶洋裝 高級感短裙 收腰連衣裙 吊帶洋裝                    NT$580                               NT$754
+關於我們
+品牌故事品牌精神團隊成員
+顧客服務
+常見問題運送服務方式付款服務方式退換貨政策條款與細則
+隱私權政策
+客服聯絡資訊
+MAIL：judy050729@gmail.com
+公司名稱：睿博商行
+統一編號：88323504
+FOLLOW US
+$ HKD
+P MOP
+¥ CNY
+$ TWD
+$ USD
+$ SGD
+€ EUR
+$ AUD
+£ GBP
+₱ PHP
+RM MYR
+฿ THB
+د.إ AED
+¥ JPY
+$ BND
+₩ KRW
+Rp IDR
+₫ VND
+$ CAD
+繁體中文
+English
+繁體中文

@@ -1,0 +1,210 @@
+
+
+
+
+
+Archived Topic: PXFmini — Copter  documentation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Copter
+Plane
+Rover
+Blimp
+Sub
+AntennaTracker
+Mission Planner
+APM Planner 2
+MAVProxy
+Companion Computers
+Developer
+
+
+Downloads
+
+Mission Planner
+APM Planner 2
+Advanced User Tools
+Developer Tools
+Firmware
+
+
+Community
+
+Support Forums
+Facebook
+Developer Chat (Discord)
+Developer Voice (Discord)
+Contact us
+Getting involved
+Commercial Support
+Development Team
+UAS Training Centers
+
+
+Stores
+About
+
+News
+History
+License
+Trademark
+Acknowledgments
+Wiki Editing Guide
+Partners Program
+
+
+
+
+
+
+
+
+
+Copter
+
+
+
+
+
+
+
+
+
+
+
+Introduction to Copter
+Choosing an Autopilot
+Open Hardware
+Closed Hardware
+Linux Based Autopilots
+Firmware Limitations
+Discontinued Boards
+CUAV V5
+Emlid Edge
+Erle PXFmini RPi Zero Shield
+Quick start
+
+
+Erle ErleBrain
+Holybro Kakute H7 Mini
+Intel Aero
+Intel Aero RTF vehicle
+Mateksys F405-SE
+Mateksys F405-STD and variants*
+Mateksys F405-Wing
+Mateksys F765-Wing
+Mateksys F765-WSE
+
+
+Schematics
+
+
+Ground Control Stations
+First Time Setup
+First Flight and Tuning
+Traditional Helicopters
+Mission Planning
+If A Problem Arises
+Advanced Configuration
+Peripheral Hardware
+Additional Information
+User Alerts
+
+
+
+
+
+
+
+Individual
+Partners
+SWAG Shop
+
+
+
+
+
+
+
+
+Copter
+
+
+
+
+
+
+Choosing an Autopilot
+Archived Topic: PXFmini
+
+Edit on GitHub
+
+
+
+
+
+
+
+Archived Topic: PXFminiÂ¶
+The PXFmini (Pixhawk Fire Cape Mini) Autopilot Shield made by Erle Robotics is a low cost
+and open autopilot shield for the Raspberry Pi that allows you to create
+a ready-to-fly autopilot with support for ArduPilot.
+The shield has been designed specially for the Raspberry Pi Zero but it
+is also pin to pin compatible with other models from the Raspberry Pi
+family.
+
+The PXFmini shield weighs only 15 grams and embeds all the power
+electronics necessary to comply with most of the existing components for
+drones through its I2C and UART ports. PXFmini includes 3 axes gravity
+sensor, 3 axes gyroscope, 3 axes digital compass, pressure sensor,
+temperature sensor and an ADC. It includes new JST GH connectors
+provide an amazing new experience.
+Whatâs best, the PXFmini schematics are open for you to hack around and
+create your own robots based on the design. The board can be purchased
+here.
+
+Quick startÂ¶
+All the documentation related to this product (specs, software,
+schematics,â¦) can be found in the Erle Robotics documentation site.
+
+
+
+
+
+Previous
+Next
+
+
+Questions, issues, and suggestions about this page can be raised on the forums. Issues and suggestions may be posted on the forums or the Github Issue Tracker.
+
+
+© Copyright 2024, ArduPilot Dev Team.
+
+
+
+
+
+
+

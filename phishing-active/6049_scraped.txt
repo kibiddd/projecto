@@ -1,0 +1,2215 @@
+
+
+
+
+
+Valuation Exchange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*** JavaScript is required to complete this report. This is currently disabled on your browser. Please follow the instructions shown below to enable JavaScript on your browser.
+Once JavaScript is enabled, please close the current window and try again. If you require assistance, please contact Hometrack MLS Helpdesk on helpdesk@hometrack.com  or
+Tel: - 0208 0768400 ***
+
+
+The Valuation Exchange uses scripting to enhance your browsing experience.
+To allow Valuation Exchange websites to run scripts, please use the steps that apply to your browser:
+
+Windows Internet Explorer
+
+To allow scripting on the Valuation Exchange Web site only, and to leave scripting disabled in the Internet zone, add
+valuationexchange.com  and edmonline.com domains to the Trusted sites zone.
+
+To allow scripting on all websites:
+
+On the Tools menu, click Internet Options, and then click the Security tab.
+Click the Internet zone.
+If you do not have to customize your Internet security settings, click Default Level. Then do step 4
+If you have to customize your Internet security settings, follow these steps:
+
+a.   Click
+Custom Level.
+
+b.    In the
+Security Settings – Internet Zone dialog box, click
+Enable for
+Active Scripting in the
+Scripting section.
+Click the Back button to return to the previous page, and then click the Refresh button to run scripts.
+
+Mozilla Firefox
+
+By default, Firefox enables the use of JavaScript and requires no additional installation.
+Note To allow and block JavaScript on certain domains you can install privacy extensions such as:
+
+
+
+NoScript: Allows JavaScript and other content to run only on websites of your choice.
+
+Ghostery: Allows you to block scripts from companies that you don't trust.
+
+
+For more information please refer to mozzila support web page.
+Google Chrome
+
+Select Customize and control Google Chrome (the icon with 3 stacked horizontal lines) to the right of the address bar.
+From the drop-down menu, select Settings.
+At the bottom of the page, click Show advanced settings....
+Under Privacy, select the  Content settings... button.
+Finally, under the JavaScript heading, select the Allow all sites to run JavaScript radio button.
+
+Safari
+
+In the  Edit drop-down menu at the top of the window, select Preferences...
+Select the  Security icon/tab at the top on the window.
+Then, check the  Enable JavaScript checkbox.
+Close the window to save your changes.
+Finally, Refresh your browser.
+
+Opera
+
+On the Opera menu, click Settings.
+Select the Websites tab.
+Click to select the Enable JavaScript radio button.
+Click the Back button to return to the previous page, and then click the Reload button to run scripts.
+
+Netscape
+
+
+Select Edit, Preferences,Advanced
+Click to select  Enable JavaScript option.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Report on Title (November 2021 version)
+To Barclays PLC and each of its subsidiaries as defined in the Companies Act 2006 (the "Bank")
+
+Lender Reference
+Lenders Reference Number
+
+
+
+
+
+
+The "Borrower" or "Principal Debtor":
+Insert name of Bank's Customer(s) as detailed in the Security
+
+
+
+
+
+
+The "Mortgagor"
+Insert name of the Mortgagor(s)
+
+
+
+
+
+
+Tenure
+
+
+
+Freehold
+
+
+
+Leasehold (If Yes, please ensure Part 5 is completed)
+
+
+
+Freehold interest in commonhold (If Yes, please ensure Part 9 is completed)
+
+
+
+
+
+The "Property"
+Insert description of Property
+
+
+
+
+
+
+Title Number(s)
+Insert title number(s) or state unregistered
+
+
+
+
+
+
+Completion Date
+Insert date of completion
+
+
+
+
+
+
+
+
+Please ensure you submit your Report on Title 7 days PRIOR to completion
+
+
+
+
+
+
+In consideration of you providing or continuing to provide facilities to the Borrower, the Mortgagor has agreed to grant the Bank security over the Property (the “Security”)  and we have agreed to perfect the Security, investigate title to the Property and to provide you with this Report on Title (the “Transaction”), which we agree may be relied on in respect of all money and liabilities from time to time due from the Borrower (which term also comprises the Principal Debtor referred to in the Security (if applicable)) and / or the Mortgagor, until you release the Security. We confirm that we have investigated title to the Property in accordance with the version of your General Instructions to Solicitors and Licensed Conveyancers current at the date of this Report on Title (the “General Instructions”) and we certify that, save as disclosed in the appropriate part of the schedule to this Report (the “Schedule”):
+
+
+
+1. If the Property is being purchased by or transferred to the Mortgagor we confirm that:
+
+
+(a) the consideration stated in the Transfer ("consideration") is:
+
+
+
+
+
+
+
+
+and we confirm that either the Consideration is the same as the open market value of the Property as set out in the Valuation Report (as defined below) or we have provided details of the difference between the Consideration and the open market value in Part 1 of the Schedule, and  we confirm that we have complied with the “Insolvency Considerations / Transactions at Undervalue” section of the General Instructions;
+
+
+(b)	the contract for sale provides for vacant possession on completion of the Transaction or details of any tenancy, licence or other occupation affecting the Property are set out in Part 8 of the Schedule;
+
+
+(c) the seller has owned (if the Property is unregistered) or been the registered proprietor (if the Property is registered) of the Property for not less than six months;
+
+
+(d)	we are not acting on behalf of the seller, ourselves or a Connected Party (as defined in the Structural Reform and Acting for the Bank” section of the General Instructions).
+
+
+Any disclosures made in relation to the statements in this paragraph number 1 are detailed in Part 1 of the Schedule.
+
+
+
+
+2.	Save as disclosed in Part 2 of the Schedule, the Mortgagor will on completion of the Security, have a good and marketable title to the Property and to all Appurtenant Rights free from onerous encumbrances (including, but not limited to all pre-sale agreements, options, pre-emption rights or other contractual rights that affect the Property and of which we have become aware, having made all reasonable enquiries in respect of such matters) and free from prior mortgages or charges (save for those referred to in Part 7 of the Schedule) and will on registration of our Security, be registered at HM Land Registry as the proprietor of the Property with absolute title.  Save as disclosed in Part 2 of the Schedule, nothing has been revealed by our searches, enquiries and title review which would prevent or restrict: (i) the Property being used for its Current Use (as defined in Part 4 of the Schedule); and (ii) if the Valuation Report (as defined below) is based on any development of the Property, the Property being used for the Proposed Use (as defined in Part 4 of the Schedule) and the development works required to implement the Proposed Use (together the “Current and Proposed Use”).
+
+
+For the purpose of this report “Appurtenant Rights” shall include but shall not be limited to all rights, services, easements and wayleaves that are required for the Current and Proposed Use of the Property including any rights that are required over adjoining and neighbouring land.   Reference to adjoining and neighbouring land includes adjoining and neighbouring land owned by the Mortgagor.
+
+
+
+
+3. Save as disclosed in Part 3 of the Schedule, we confirm that we have received a copy of the valuation report prepared for the Bank in respect of the Property (the “Valuation Report”) and we confirm that;
+
+
+3.1 we have compared the extent of the Property shown on the plan(s) in the Valuation Report with the plans in the relevant title deeds / title plan for the Property and there are no discrepancies between such plans;
+
+
+3.2 we have considered the issues on which assumptions have been made in the Valuation Report and there are no discrepancies between such assumptions and our investigations in respect of such issues;
+
+
+3.3 where the Valuation Report indicates that the valuer has not seen any lease or other tenancy 	documentation, we have sent copies of the same to the valuer; and
+
+
+3.4	we have sent the final form of this Report on Title to the valuers that prepared the Valuation 	Report and they have confirmed to us in writing that there is nothing contained in this Report 	on Title that has an adverse impact on the value and marketability of the Property.
+
+
+
+
+4. Save as disclosed in Part 4 of the Schedule; we confirm that:
+
+
+4.1	we have made or are in possession of the results of a CON29R search, a local land charges search and such other searches and enquiries as are required under the General Instructions and we confirm there are no subsisting adverse entries affecting the Property revealed by such searches and enquiries. We confirm that such searches and enquiries will not be more than three months old at exchange of contracts (if applicable) and not be more than six months old at completion of the Security;
+
+
+4.2	the Current Use and the Proposed Use (as defined in Part 4 of the Schedule) is the same as the use on which the Valuation Report is based;
+
+
+4.3	the Property (including the buildings currently at the Property) has the planning consents, licences, permits and authorisations that are required for the Current and Proposed Use and such consents, licences, permits and authorisations are not temporary or personal and the limitation period for challenging them has expired;
+
+
+4.4	we have not become aware of any outstanding breaches of any of the planning consents, licences, permits or authorisations which authorise the Current and Proposed Use of the Property; and
+
+
+4.5	we have carried out relevant checks in accordance with the “Building Safety Act 2022 (BSA) and Higher Risk Buildings (HRBs)” section of the General Instructions and we can provide the confirmations required under that section;
+
+
+4.6	nothing has been revealed by our searches, enquiries and title review which requires the payment of any sums or the undertaking of any works in order for the Property to lawfully be used for its Current and Proposed Use.
+
+
+
+
+5. If the title to the Property is leasehold, we have set out details of the lease under which the Property is held (the ”Lease”) and the name and address of the current landlord of the Lease (the “Landlord”) in Part 5 of the Schedule and confirm that except as disclosed in Part 5 of the Schedule:
+
+
+5.1	either the consent of the Landlord to the creation of the Security is not necessary or it has been obtained;
+
+
+5.2	we have made all appropriate enquiries and confirm that they have not revealed any existing breach of the Lease;
+
+
+5.3	the Lease cannot be forfeited by reason of the tenant either becoming insolvent, being subject to any insolvency process, entering into an arrangement for the benefit of its creditors, any distress or execution being levied on the tenant’s goods or the tenant being subject to any process under the Commercial Rent Arrears Recovery process;
+
+
+5.4	the Lease permits the Current and Proposed Use of the Property;
+
+
+5.5	the terms of the Lease accord with the General Instructions, including any requirement you have for covenants by the Landlord and / or Management Company and / or by a deed of mutual covenant for the insurance repair and maintenance of the structure, exterior and common parts of any building of which the Property forms part; and
+
+
+5.6	we have or will obtain upon completion a clear receipt showing the up to date payment of rent, service charge and any other sums due under the Lease.
+
+
+
+
+6.	Save as disclosed in Part 6 of the Schedule, we confirm that we have seen evidence that on completion of this Transaction, buildings insurance will be in place for all buildings at the Property (if any) for a  sum not less than the recommended reinstatement value set out in the Valuation Report  and on the terms set out in the Security, the loan agreement for this Transaction and the General Instructions. If the Property is insured under a block insurance policy, we have also taken the necessary steps to ensure that the Property is covered by the policy and that the insurance requirements in the “Leasehold Property” section as set out in the General Instructions have been satisfied.  If the Property is to be developed, save as disclosed in Part 6 of the Schedule, we have complied with the requirements in the ”Insurance” section of the General Instructions and we confirm that the sum insured for the Property under the Contractor’s All Risks policy is not less than the gross developed value of the Property as set out in the Valuation Report and that the Contractor’s All risks policy is in the name of the party responsible for undertaking the development of the Property.
+
+
+
+
+7.	Save as disclosed in Part 7 of the Schedule, we are not aware of any matters relating to the Property, the Borrower or the Mortgagor,  which we believe should be brought to your attention, including any non-compliance with your General Instructions.
+
+
+
+
+8.	We have supplied in Part 8 of the Schedule, the details for each lease, tenancy and licence affecting the Property (whether oral or in writing), along with any disclosures that are pertinent in relation to the “Tenanted Properties” and “Occupiers and Beneficial Interests” sections of the General Instructions and any other matters relating to the occupation of the Property that should be brought to your attention. In particular, the Mortgagor has confirmed to us in writing that the Property is not occupied by or subject to any rights of occupation, including any agreement for lease, other than those referred to in Part 8 of the Schedule.
+
+
+
+
+9.	If the title to the Property is a Freehold interest in Commonhold Land brief details of the terms of the Commonhold Community Statement are disclosed in Part 9 of the Schedule and we confirm except as disclosed in Part 9 of the Schedule that:
+
+
+9.1 the Commonhold Association cannot claim any right which may rank in priority to the Security in respect of any sums due to the Commonhold Association in respect of the Property;
+
+
+9.2 we have made all appropriate enquiries and confirm that they have not revealed any existing breach of the terms of the Commonhold Community Statement;
+
+
+9.3 that we have or will obtain before completion confirmation that all sums due to the Commonhold Association under the terms of the Commonhold Community Statement have been paid up to the date of the Security; and
+
+
+9.4 that the Commonhold Unit Information Certificate shows that there is no money due to the Commonhold Association by the Mortgagor.
+
+
+
+
+10.	Details of this firm’s Professional Indemnity Insurance are set out in Part 10 of the Schedule. We confirm that we hold sufficient Professional Indemnity Insurance to cover the value of the Property as reported in the Valuation Report or, if the Property is to be developed, the developed value of the Property as reported in the Valuation Report.
+
+
+
+
+11.	Where the Borrower and / or the Mortgagor (if different) is an incorporated body, charity, pension scheme, trust, club, association, society or limited partnership, we confirm that we have satisfied the Bank’s requirements in the relevant section of the General Instructions.
+
+
+
+
+12.	Where any part of the purchase price or sums required to repay an existing lender are not being provided by the Bank, we confirm;
+
+
+12.1 we have obtained confirmation from the Borrower that such sums are being provided from the Borrower’s own funds; and
+
+
+12.2 we have received such sums from a bank or other financial institution regulated by the Financial Conduct Authority or the Prudential Regulation Authority (as appropriate) or such body from time to time responsible for regulating banks and other financial institutions in the United Kingdom; and
+
+
+12.3 we have complied with The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 as varied, amended or replaced from time to time.
+
+
+WE UNDERTAKE
+
+
+a. that we are holding, or if the Bank is separately represented in this Transaction, such firm is holding the original of a legal charge (or such alternative security required by you) over the Property (the “Security Documents”), duly executed by the parties in whom the legal estate in the Property is, or is to be vested, and all other parties required under the General Instructions to execute such security including the Principal Debtor, occupiers and other parties even if they are not registered as the registered proprietor of the Property at HM Land Registry or are not our client;
+
+
+b. that we have checked the identities of the parties to the Security Documents in accordance with the General Instructions or we are satisfied that such parties’ solicitors have checked the identities of the parties to the Security Documents in accordance with the General Instructions;
+
+
+c. that we have made all applicable searches of HM Land Registry, the Land Charges Department,   Companies House, the Central Registry of Winding Up Petitions of the Companies Court, the Financial Conduct Authority, the Charity Commission and any other searches necessary to ensure the Security Documents are valid and enforceable and will have the priority expected by the Bank, and we will update such searches (where necessary) prior to completion of the Transaction;
+
+
+d. that we will apply all monies received from you (if any) in accordance with your instructions and will not part with the advance (and will return it to you if required) if, prior to completion, we become aware of the Property being occupied other than as set out in Part 8 of the Schedule to this Report on Title;
+
+
+e. except for any prior charge that we have indicated in Part 7 of the Schedule to this Report on Title is to remain in place at completion of the Transaction, we will either redeem all existing security (if any) over the Property (the “Existing Security”) on completion of the Transaction, or prior completion of the Transaction we will be holding an irrevocable undertaking from a firm of solicitors (addressed to both this firm and the Bank), confirming that they will redeem the Existing Security (if any) on completion of the Transaction;
+
+
+f. that we are either holding such documents as are necessary to release the Existing Security (if any) (the “Release Documents”), or we have such solicitor’s undertakings as we consider necessary to procure the Release Documents within the periods of protection referred to in paragraph i. below;
+
+
+g. that we will notify you in writing if prior to completion of the Transaction,  we become aware of any matter which would render the statements made in this Report on Title and undertaking untrue or inaccurate and in those circumstances, we will defer completion pending your authority to proceed and will return the advance to you if required;
+
+
+h. that the Security Documents will be completed on completion of the Transaction;
+
+
+i. that either we will, or the Bank’s solicitors (if different) have confirmed that they will, within the period of protection afforded by the searches referred to in paragraph c. above and before any deadline for registration;
+
+
+i. submit to HM Land Registry a duly completed application to register: (1) the Security Documents; (2) a Land Registry restriction in the form required by the Bank; and (3) all relevant prior dealings (including registration of the transfer of the Property to the Mortgagor if relevant) together with all the enclosures, consents, certificates and fees required to complete such applications at HM Land Registry;
+
+
+ii. undertake all other registrations of the Security Documents as are required to protect the Bank’s interest as mortgagee or otherwise and pay the appropriate fees in respect of such registrations, including registration at Companies House within the statutory 21 day timescale if the Mortgagor is a Company; and
+
+
+iii. serve such notices of completion of the Security Documents (including any registrations required under any lease) as are required to protect the Bank’s interest in the Property;
+
+
+j. that we will, or that the Bank’s solicitors (if different) have confirmed to us that they will, promptly reply to all requisitions raised by the Land Registry in respect of the Land Registry application referred to paragraph i above;
+
+
+k. to provide the Bank with an update on progress with completion of the registrations referred to in paragraph i above, where such registrations have not been completed within two months of completion of the Transaction;
+
+
+l. that we will deliver to the address at the top of your instruction letter for this Transaction, the following documents within ten working days of completion of the last of the registrations referred to in paragraph i above;
+
+
+i. a Title Information Document for the Property showing the relevant Security Documents and Land Registry restriction registered on the title to the Property;
+
+
+ii. where the Property is leasehold, the original (or an official copy of the lease where the original has been lost) pursuant to which the Mortgagor holds the Property together with the original share certificate (where the Property requires membership of a management company) and an original Stock Transfer Form completed in accordance with your General Instructions;
+
+
+iii. the originals of the Security Documents;
+
+
+iv.  where the Property is subject to one or more tenancies, the originals of all counterpart leases / licences / tenancy agreements or a schedule listing such leases, licences and agreements and an undertaking from a law firm, to hold the originals of such documents to your order (where you have agreed that such firm may retain the originals);
+
+
+v. where the Property is unregistered, the originals of the documents required to deduce the Mortgagor’s title to the Property;
+
+
+vi. copies of all indemnity insurance policies benefiting the Property; and
+
+
+vii. any other documents required in connection with the Mortgagor’s ownership of the Property.
+
+
+
+
+The advance should be forwarded by CHAPS to our bank, details of which are:
+
+
+
+Bank:
+
+
+
+
+
+
+
+
+
+
+Branch Address:
+
+
+
+
+
+
+
+
+
+
+Sorting Code Number:
+
+
+
+
+
+
+
+
+
+
+Name of Account:
+
+
+
+
+
+
+
+
+
+
+Account Number:
+
+
+
+
+
+
+
+
+
+
+
+We acknowledge that  the parties to whom this Report is addressed and any successors in title to the Security and persons deriving title under or through the Security (together the “Beneficiaries” and each a “Beneficiary”) may also rely on the statements, disclosures and other information in this Report on Title when making lending facilities available against the Security now or in the future.
+
+
+We confirm that the Beneficiaries may disclose this Report on Title and any of the annexures and enclosures to it, to:
+
+
+(a)	any other member or affiliate of Barclays PLC and each of its subsidiaries as defined in the Companies Act 2006 (the “Barclays Group”) and our or their officers, directors, employees, auditors, partners, consultants and professional advisers;
+
+
+(b)	any governmental, banking, taxation or other regulatory authority;
+
+
+(c)	any person in connection with a securitisation of all or any part of the loan assets of any member of the Barclays Group from time to time;
+
+
+(d)	any person who may otherwise enter into contractual relations with any member of the Barclays Group in connection with the Property or the Security;
+
+
+(e)	any person to whom information is required or requested to be disclosed by any court of competent jurisdiction or governmental, banking, taxation or other regulatory authority or similar body;
+
+
+(f)	any rating agency (including its professional advisers) to enable the rating agency to carry out its normal rating activities;
+
+
+(g)	each other Mortgagor, Principal Debtor and any guarantor;
+
+
+(h)	any credit reference agency;
+
+
+(i)	any other obligor in respect of all or part of the obligations secured by the Security, and any affiliate, holding company or subsidiary thereof; and
+
+
+(j)	the respective directors, officers, employees, agents and advisers of any of the parties listed in paragraphs (a) to (i) above.
+
+
+
+
+
+
+
+Partner’s name:
+
+
+.....................................................
+
+
+
+
+Partner’s signature:
+
+
+.....................................................
+
+
+
+
+Name of firm:
+
+
+
+
+
+
+
+
+
+
+Date:
+
+
+
+
+
+
+
+
+
+THE SCHEDULE
+PART 1
+Are there any disclosures against the statements in paragraph 1 of this Report on title?
+
+
+
+Yes
+
+
+
+No
+
+
+
+
+
+
+Insert below details of disclosures against statements in paragraph 1.
+
+
+
+
+
+PART 2
+Are there any disclosures against the statements in paragraph 2 of this Report on title?
+
+
+
+Yes
+
+
+
+No
+
+
+
+
+
+
+Insert below details of disclosures against statements in paragraph 2.
+
+
+
+
+
+PART 3
+Are there any disclosures against the statements in paragraph 3 of this Report on title?
+(Note: Where agricultural land is being charged and a professional valuation has not been obtained, please enclose a copy of a plan showing the area of land being charged).
+
+
+
+Yes
+
+
+
+No
+
+
+
+
+
+
+Insert below details of disclosures against statements in paragraph 3.
+
+
+
+
+
+PART 4
+Current Use:
+
+
+
+
+
+
+Proposed Use:
+
+
+
+
+
+
+Are there any disclosures against the statements in paragraph 4 of this Report on title?
+
+
+
+Yes
+
+
+
+No
+
+
+
+
+
+
+Insert below details of disclosures against statements in paragraph 4.
+
+
+
+
+
+
+PART 5
+Is title to the Property leasehold?
+
+
+
+Yes
+
+
+
+No
+
+
+
+
+
+
+Insert details of the lease below, followed by disclosures against the statements in paragraph 5 of this Report on Title.
+
+Date:
+
+
+
+
+
+
+Parties to the original lease:
+
+
+
+
+
+
+Name of current lessee:
+
+
+
+
+
+
+Name of landlord and their current address:
+
+
+
+
+
+
+Term:
+
+
+
+
+
+
+Years left to run:
+
+
+
+
+
+
+Permitted Use under the Lease:
+
+
+
+
+
+
+The Permitted Use in the Lease accords with and permits the Current and Proposed Use (as defined above): *
+
+
+
+CONFIRMED
+
+
+
+NOT CONFIRMED
+
+
+
+
+
+Ground Rent/Rent per annum:
+
+
+
+
+
+
+The Rent is reviewable on:
+
+
+
+
+
+
+The other rent Review terms are:
+
+
+
+
+
+
+The Rent Review terms comply with our requirements as set out in the relavent part of the Leasehold Property section of the General Instructions:
+
+
+
+CONFIRMED
+
+
+
+NOT CONFIRMED
+
+
+
+
+
+If not confirmed, the differences are:
+
+
+
+
+
+The Repair provisions are fair and reasonable:
+
+
+
+CONFIRMED
+
+
+
+NOT CONFIRMED
+
+
+
+
+
+If not confirmed, the repair provisions are:
+
+
+
+
+
+
+
+
+The Insurance provisions accord with our requirements as set out in the relavent part of the Leasehold Property section of the General Instructions:
+
+
+
+CONFIRMED
+
+
+
+NOT CONFIRMED
+
+
+
+
+
+If not confirmed, the differences are:
+
+
+
+
+
+
+
+
+The Lease does not contain any provisions which allow the Landlord to terminate the Lease before the end of the Term:
+
+
+
+CONFIRMED
+
+
+
+NOT CONFIRMED
+
+
+
+
+
+If not confirmed, the terms of such provisions are:
+
+
+
+
+
+
+
+
+The Forfeiture provisions accord with the requirements as set out in the relevant part of the Leasehold Property section of the General Instructions:
+
+
+
+CONFIRMED
+
+
+
+NOT CONFIRMED
+
+
+
+
+
+If not confirmed, the differences are:
+
+
+
+
+
+
+
+
+The alienation provisions allow the Lease to be charged:
+
+
+
+CONFIRMED
+
+
+
+NOT CONFIRMED
+
+
+Either we will, or the Bank’s solicitors (if different) have confirmed that they will serve notice of the Bank’s charge over the Lease on the Landlord in accordance with the relevant provisions of the Lease and your General Instructions:
+
+
+
+CONFIRMED
+
+
+
+NOT CONFIRMED
+
+
+
+
+
+If not confirmed, the notice will be served by:
+
+
+
+
+
+
+
+
+The Lease can be assigned by the tenant, and there are no provisions in the Lease that allow the landlord to unreasonably withhold or delay their consent to an assignment of the Lease, or to give its consent subject to any onerous or unusual conditions:
+
+
+
+CONFIRMED
+
+
+
+NOT CONFIRMED
+
+
+
+
+
+If not confirmed, the assignment provisions are:
+
+
+
+
+
+
+
+
+The Lease has been contracted out of sections 24 to 28 of the Landlord and Tenant Act 1954:
+
+
+
+CONFIRMED
+
+
+
+NOT CONFIRMED
+
+
+
+
+
+There are no other terms of the lease that are onerous or unusual, or disclosures that we need to make against statements in paragraph 5 of this Report on Title:
+
+
+
+CONFIRMED
+
+
+
+NOT CONFIRMED
+
+
+
+
+
+
+If not confirmed, the disclosures are:
+
+
+
+
+
+How many additional leases do you need to detail?
+
+
+
+
+
+
+Part 5 - lease 2
+Date:
+
+
+
+
+
+
+Parties to the original lease:
+
+
+
+
+
+
+Name of the current lease:
+
+
+
+
+
+
+Name of the landlord and their current address:
+
+
+
+
+
+
+Term:
+
+
+
+
+
+
+Years left to run:
+
+
+
+
+
+
+Permitted usee under the lease:
+
+
+
+
+
+
+The Permitted Use in the Lease accords with and permits the Current and Proposed Use (as defined above): *
+
+
+
+CONFIRMED
+
+
+
+NOT CONFIRMED
+
+
+Ground Rent/Rent per annum:
+
+
+
+
+
+
+The Rent is reviewable on:
+
+
+
+
+
+
+The other Rent review terms are:
+
+
+
+
+
+
+The Rent Review terms comply with our requirements as set out in the relavent part of the Leasehold Property section of the General Instructions:
+
+
+
+CONFIRMED
+
+
+
+NOT CONFIRMED
+
+
+
+
+
+If not confirmed, the differences are:
+
+
+
+
+
+The Repair provisions are fair and reasonable:
+
+
+
+CONFIRMED
+
+
+
+NOT CONFIRMED
+
+
+
+
+
+If not confirmed, the repair provisions are:
+
+
+
+
+
+
+
+
+The Insurance provisions accord with our requirements as set out in the relavent part of the Leasehold Property section of the General Instructions:
+
+
+
+CONFIRMED
+
+
+
+NOT CONFIRMED
+
+
+
+
+
+If not confirmed, the differences are:
+
+
+
+
+
+
+
+
+The Lease does not contain any provisions which allow the Landlord to terminate the Lease before the end of the Term:
+
+
+
+CONFIRMED
+
+
+
+NOT CONFIRMED
+
+
+
+
+
+If not confirmed, the terms of such provisions are:
+
+
+
+
+
+
+
+
+The Forfeiture provisions accord with the requirements as set out in the relevant part of the Leasehold Property section of the General Instructions:
+
+
+
+CONFIRMED
+
+
+
+NOT CONFIRMED
+
+
+
+
+
+If not confirmed, the differences are:
+
+
+
+
+
+
+
+
+The alienation provisions allow the Lease to be charged:
+
+
+
+CONFIRMED
+
+
+
+NOT CONFIRMED
+
+
+Either we will, or the Bank’s solicitors (if different) have confirmed that they will serve notice of the Bank’s charge over the Lease on the Landlord in accordance with the relevant provisions of the Lease and your General Instructions:
+
+
+
+CONFIRMED
+
+
+
+NOT CONFIRMED
+
+
+
+
+
+If not confirmed, the notice will be served by:
+
+
+
+
+
+
+
+
+The Lease can be assigned by the tenant, and there are no provisions in the Lease that allow the landlord to unreasonably withhold or delay their consent to an assignment of the Lease, or to give its consent subject to any onerous or unusual conditions:
+
+
+
+CONFIRMED
+
+
+
+NOT CONFIRMED
+
+
+
+
+
+If not confirmed, the assignment provisions are:
+
+
+
+
+
+
+
+
+The Lease has been contracted out of sections 24 to 28 of the Landlord and Tenant Act 1954:
+
+
+
+CONFIRMED
+
+
+
+NOT CONFIRMED
+
+
+
+
+
+There are no other terms of the lease that are onerous or unusual, or disclosures that we need to make against statements in paragraph 5 of this Report on Title:
+
+
+
+CONFIRMED
+
+
+
+NOT CONFIRMED
+
+
+
+
+
+
+If not confirmed, the disclosures are:
+
+
+
+
+
+
+
+
+If you need to complete Part 5 for more than 2 leases, please download the following document and complete foe the other leases
+
+
+Download
+
+
+
+
+
+
+
+PART 6
+Are there any disclosures against the statements in paragraph 6 of this Report on Title?
+
+
+
+Yes
+
+
+
+No
+
+
+
+
+
+
+If yes, the disclosures are:
+
+
+
+
+
+BUILDINGS INSURANCE
+The policy details are:
+
+Name of Insurance Company:
+
+
+
+
+
+
+Policy number (if available):
+
+
+
+
+
+CONTRACTOR'S ALL RISK INSURANCE
+
+Will a Contractor's All Risk insurance be in place at competition?
+
+
+
+Yes
+
+
+
+No
+
+
+
+N/A
+
+
+
+
+
+
+If No, please confirm:
+
+
+
+
+
+
+If no, please confirm how the building works are to be insured:
+
+
+
+
+
+
+
+
+Please provide Insurance details:
+
+
+
+
+
+
+
+Policy details:
+
+Name of Insurance Company:
+
+
+
+
+
+
+Policy Number(If available):
+
+
+
+
+
+
+
+LOSS OF LICENCE / LOSS OF REGISTRATION INSURANCE
+On completion of the Transaction, will our requirements regarding loss of licence / loss of registration insurance (as set out in the General instruction) be satisifed?
+
+
+
+Yes
+
+
+
+No
+
+
+
+N/A
+
+
+
+
+
+
+If No, please confirm:
+
+
+
+
+
+
+Loss of Licence / Loss of Registration sum insured
+
+
+
+
+
+
+
+
+If No – Please comment
+
+
+
+
+
+
+
+Policy details:
+
+Name of Insurance Company:
+
+
+
+
+
+
+Policy Number(If available):
+
+
+
+
+
+
+Sum insured:
+
+
+
+
+
+
+
+PART 7
+Are there any disclosures against the statements in paragraph 7 of this Report on Title
+
+
+
+Yes
+
+
+
+No
+
+
+
+
+
+
+If yes, details of such matters are as follows:
+
+
+
+
+
+Where a prior mortgage over the Property is to remain in place, the mortgage details are:
+
+Name of Mortgagee: (“Prior Mortgagee”)
+
+
+
+
+
+
+Current Amount Secured:
+
+
+
+
+
+
+Is there an Obligation on the Prior Mortgagee to Make Further Advances?
+
+
+
+Yes
+
+
+
+No
+
+
+
+
+
+
+Maximum liability
+
+
+
+
+
+
+
+Are there any arrears in the repayment of the prior mortgage?
+
+
+
+Yes
+
+
+
+No
+
+
+
+
+
+
+Please provide Details
+
+
+
+
+
+
+
+A Bank approved Deed of Priority will be put in place by us on completion of the Transaction?
+
+
+
+Yes
+
+
+
+No
+
+
+
+
+
+
+If yes, the priority sum required by the Prior Mortgagee is
+
+
+
+
+
+
+
+
+If no, this is because
+
+
+
+
+
+
+
+
+PART 8
+
+
+Is the Property subject to any lease, tenancy or licence (whether oral or in writing)?
+
+
+
+
+Yes
+
+
+
+No
+
+
+
+
+
+
+How many leases?
+
+
+
+
+
+
+
+If you need to complete Part 8 for more than 8 leases, please download the document at the end of this section and complete for the other leases.
+
+
+
+
+If you need to complete Part 8 for more than 8 leases, please download the following document and complete for the other leases
+
+
+Download
+
+
+
+Date:
+
+
+
+
+
+
+Original parties:
+
+
+
+
+
+
+Current Tenant:
+
+
+
+
+
+
+Term:
+
+
+
+
+
+
+Details of Premises Let:
+
+
+
+
+
+
+Permitted Use stated in lease:
+
+
+
+
+
+
+Rent p.a:
+
+
+
+
+
+
+
+
+
+Deductions/Set off
+
+
+
+Restricts set off against payments of annual rent?
+
+
+
+Yes
+
+
+
+No
+
+
+
+
+
+
+
+Rent Review
+
+
+
+Open market based on usual assumptions and disregards
+
+
+
+Yes
+
+
+
+No
+
+
+
+
+
+
+
+
+
+
+If term exceeds 5 years - upward only reviews
+
+
+
+Yes
+
+
+
+No
+
+
+
+
+
+
+
+
+
+
+Independent surveyor / valuer appointed in a dispute
+
+
+
+Yes
+
+
+
+No
+
+
+
+
+
+
+Alienation
+
+
+
+Assignment of whole only and with landlord's consent
+
+
+
+Yes
+
+
+
+No
+
+
+
+
+
+
+
+
+
+
+Lease requires Authorised Guarantee Agreements
+
+
+Yes
+
+
+
+No
+
+
+
+
+
+
+Repair
+
+
+
+Express tenant cover to repair
+
+
+
+Yes
+
+
+
+No
+
+
+
+
+
+
+
+
+
+
+Where applicable, lease provides as minimum for the interior/exterior to be maintained in condition at start of lease
+
+
+
+Yes
+
+
+
+No
+
+
+
+
+
+
+Insurance
+
+
+
+Insurance proceeds belong to landlord absolutely if the lease is terminated following damage by aninsured risk
+
+
+
+Yes
+
+
+
+No
+
+
+
+
+
+
+Options
+
+
+
+The lease is free from any option or right of pre-emption
+
+
+Yes
+
+
+
+No
+
+
+
+
+
+
+Forfeiture
+
+
+
+The lease can be forfeited for:
+
+
+
+
+
+
+
+
+
+Non-payment of rent
+
+
+
+Yes
+
+
+
+No
+
+
+
+
+
+
+
+
+
+
+Breach of tenant covenant
+
+
+
+Yes
+
+
+
+No
+
+
+
+
+
+
+
+
+
+
+Insolvensy / Bankruptcy
+
+
+
+Yes
+
+
+
+No
+
+
+
+
+
+
+Yeilding up
+
+
+
+Tenant to yield up at expiry or earlier determination
+
+
+
+Yes
+
+
+
+No
+
+
+
+
+
+
+Security of tenure
+
+
+
+Lease is contracted out of sections 24 to 28 of the Landlord and tenant act 1954
+
+
+Yes
+
+
+
+No
+
+
+
+
+
+
+
+
+
+
+Deductions/Set off
+
+
+
+Restricts set off against payments of annual rent?
+
+
+
+Yes
+
+
+
+No
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+If we have answered NO to any of the above or if there are any other matters referred to in the occupational lease that the Bank should be made aware of, the details are:
+
+
+
+Yes
+
+
+
+No
+
+
+
+If yes, details of such matters are as follows:
+
+
+
+
+
+Is the Property subject to any agreement for lease or other right to occupy?
+
+
+
+Yes
+
+
+
+No
+
+
+
+If yes, the terms are as follows:
+
+
+
+
+
+
+
+Do the terms above accord with those in the Valuation Report? *
+
+
+
+Yes
+
+
+
+No
+
+
+
+
+If no, you must obtain confirmation from the Valuer that the above terms do not change their opinion of the value of the Property, before sending us your Report on Title.
+
+
+
+
+PART 9
+If title to the Property is a freehold interest in Commonhold?
+
+
+
+Yes
+
+
+
+No
+
+
+
+
+
+
+
+
+If yes, the details of the Commonhold Community Statement and any disclosures against the statements in paragraph 9 of this Report on Title are as follows:
+Date of Commonhold Community Statement:
+
+
+
+
+
+
+Name of Commonhold Association:
+
+
+
+
+
+
+Permitted Use:
+
+
+
+
+
+
+Arrears of payments to the Commonhold Association in respect of the Property (if any) are:
+
+
+
+
+
+
+Brief details of the Common Parts and the Repair provisions:
+
+
+
+
+
+
+The sums outstanding by the Unit holder as disclosed by the Commonhold Unit Information Certificate are:
+
+
+
+
+
+
+
+The date of the Commonhold Unit Information Certificate is:
+
+
+
+
+
+(the Commonhold Unit Information Certificate should be no more than one month old at completion)
+Please insert below any other disclosures relating to this commonhold property:
+
+
+
+
+
+
+
+
+
+PART 10
+Details of our Professional Indemnity insurance cover:
+Amount of cover for any one claim:
+
+
+
+
+
+
+Insurance company:
+
+
+
+
+
+
+Date of expiry of current policy:
+
+
+
+
+
+
+
+NB. Details of your Professional Indemnity insurance cover MUST be provided before funds can be drawn down
+
+PART 11
+Are there any disclosures against the statements in paragraph 11?
+
+
+
+Yes
+
+
+
+No
+
+
+
+
+
+
+Insert below details of disclosures against statements in paragraph 11.
+
+
+
+
+
+
+NOTE: We only permit plans to be appended to Reports on Title. We expect the relevant details of any other documents to be set out in the relevant Part of the above Schedule. With the exception of plans, no other documents that are appended to this Report on Title will be reviewed by the Bank.
+
+
+When you have printed and signed the ROT, you can PDF and send via email to BBROT'sTeam@barclayscorp.com
+
+
+
+
+
+Some required information is missing or incorrect.  Please correct and try again.
+
+
+
+
+Some required information is missing or incorrect. Please correct and try again.
+
+
+
+
+
+Are you sure you want to close this tab? All information you have entered will be lost.
+
+
+
+
+
+
+

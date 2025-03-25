@@ -1,0 +1,1054 @@
+MetaTrader Expert Advisors, MT4/MT5 Expert Advisors
+Forex Brokers
+Forex Tools
+Prop Firms
+Forex Books
+Community
+Education
+Software
+About
+Search  EN   RU ES 中文 باللغة    Popular results Tools Position Sizer Calculate risk-based position size directly in your MetaTrader platform and execute a trade in one click or a press of a button. /metatrader-expert-advisors/Position-Sizer/ Education What Is Forex Learn what Forex is and how it works from this simple explanation. /what-is-forex/ Indicators Supertrend Download the Supertrend indicator for MT4 and MT5 to detect trend changes based on the price action. /metatrader-indicators/supertrend/ Tools Position Size Calculator Calculate your position size based on risk, stop-loss, account size, and the currencies involved. A simple online calculator for quick results. /position-size-calculator/   Advertisements —   — Trade Forex with 1:2000 Leverage  ₿ $ £ ¥ € ₣
+¥ ₿ ₣ £ $ € EarnForexSoftwareMT4/MT5 Expert Advisors
+MetaTrader Expert Advisors
+Here you can download MT4 and MT5 expert advisors (EAs, also called robots) that can be used with the MetaTrader Forex trading platform to enhance your currency trading results with the completely automated trading or simple expert advising (signals you can choose whether to act on or not). The MetaTrader expert advisors presented here implement the best trading strategies. They are free and open-source, so you can test and change them as you like before applying them to your real or demo Forex account. The results of my own testing are also shown for your convenience. The top expert advisors were selected to yield considerable profit with low maximum drawdown during backtests. You will need an account with some of the MT4 Forex brokers to use any of the MT4 EAs presented here. If you want to use an MT5 EA, you would need to open an account with a broker that supports the MT5 version of the platform.
+If you experience any problems whole installing a MetaTrader expert advisor on your platform, please refer to this tutorial
+MetaTrader Expert Advisors User's Tutorial
+If you want to achieve higher backtesting quality for your expert advisors, please read this tutorial on importing and converting quality historical data in MetaTrader
+MetaTrader History Data Importing and Converting Tutorial for Quality Backtesting
+Advisor Currency pairs Rating Timeframes CPU load Test period Test lots Best result Test profit
+Max DrawDown
+MT4
+MT5
+PersistentAnti Measures persistence of price movements; trades against it.
+Currency pairs
+All
+Rating
+7
+Timeframes
+All
+CPU load
+Low
+Test period
+01/01/2001 – 04/14/2022
+Test lots
+0.1
+Best result
+EUR/USD @ W1
+Test profit
+~84%
+Max DrawDown
+~11%
+MT4
++
+MT5
++ Bollinger Bands Breakout A promising BB breakout expert advisor.
+Currency pairs
+All
+Rating
+7
+Timeframes
+All
+CPU load
+Low
+Test period
+03/01/2019 – 12/01/2020
+Test lots
+0.1
+Best result
+EUR/USD @ H1
+Test profit
+~3.2%
+Max DrawDown
+~2.7%
+MT4
++
+MT5
+- Spike Trader Based on USD/CAD spike trading strategy by Currency Trader magazine.
+Currency pairs
+All
+Rating
+6
+Timeframes
+All
+CPU load
+Low
+Test period
+01/01/2013 – 04/15/2022
+Test lots
+0.1
+Best result
+USD/CAD @ D1
+Test profit
+~16.3%
+Max DrawDown
+~14%
+MT4
++
+MT5
++ Heiken Ashi Naïve Reverse Heiken Ashi strategy.
+Currency pairs
+EUR/USD
+Rating
+6
+Timeframes
+D1
+CPU load
+Low
+Test period
+01/01/2013 – 04/13/2022
+Test lots
+0.1
+Best result
+EUR/USD @ D1
+Test profit
+~29.2%
+Max DrawDown
+~18%
+MT4
++
+MT5
++ RSI EA An RSI expert advisor built using our MT5 EA template.
+Currency pairs
+All
+Rating
+5
+Timeframes
+All
+CPU load
+Average
+Test period
+01/01/2021 – 01/03/2024
+Test lots
+0.1
+Best result
+EUR/USD @ M5
+Test profit
+~4.5%
+Max DrawDown
+~12.1%
+MT4
+-
+MT5
++ Binario Tester with variable lot size.
+Currency pairs
+All
+Rating
+3
+Timeframes
+All
+CPU load
+Average
+Test period
+01/01/2013 – 04/19/2022
+Test lots
+1
+Best result
+EUR/USD @ D1
+Test profit
+~88%
+Max DrawDown
+~29%
+MT4
++
+MT5
++ Bill Williams Alligator  Basic EA based on Bill Williams' Alligator indicator.
+Currency pairs
+All
+Rating
+3
+Timeframes
+All
+CPU load
+Low
+Test period
+03/01/2019 – 12/01/2020
+Test lots
+0.1
+Best result
+EUR/USD @ H1
+Test profit
+~13.5%
+Max DrawDown
+~6.2%
+MT4
++
+MT5
+- 2 MA Crossover Basic moving average crossover EA for further development.
+Currency pairs
+All
+Rating
+2
+Timeframes
+All
+CPU load
+Low
+Test period
+03/01/2019 – 12/01/2020
+Test lots
+0.1
+Best result
+EUR/USD @ M30
+Test profit
+-
+Max DrawDown
+~14.7%
+MT4
++
+MT5
+- Adjustable MA Customizable moving average cross EA.
+Currency pairs
+All
+Rating
+1
+Timeframes
+All
+CPU load
+Low
+Test period
+04/01/2008 – 01/24/2014
+Test lots
+0.1
+Best result
+EUR/USD @ M5
+Test profit
+~12%
+Max DrawDown
+~13%
+MT4
++
+MT5
++ Parabolic SAR A disastrous expert advisor based on PSAR indicator.
+Currency pairs
+All
+Rating
+1
+Timeframes
+All
+CPU load
+Low
+Test period
+03/01/2019 – 12/01/2020
+Test lots
+0.1
+Best result
+EUR/USD @ H1
+Test profit
+-
+Max DrawDown
+~47%
+MT4
++
+MT5
+- Stochastic Oscillator A disastrous EA based on stochastic oscillator indicator.
+Currency pairs
+All
+Rating
+1
+Timeframes
+All
+CPU load
+Low
+Test period
+03/01/2019 – 12/01/2020
+Test lots
+0.1
+Best result
+EUR/USD @ M15
+Test profit
+-
+Max DrawDown
+~70%
+MT4
++
+MT5
+- AUD/JPY Wednesday 15:00 Based on Wednesday AUD/JPY strategy.
+Currency pairs
+AUD/JPY
+Rating
+Timeframes
+H1
+CPU load
+Almost 0%
+Test period
+07/07/2008 – 11/09/2009
+Test lots
+1
+Best result
+AUD/JPY @ H1
+Test profit
+-
+Max DrawDown
+~100%
+MT4
++
+MT5
++ Framework Based on CCI indicators.
+Currency pairs
+All
+Rating
+Timeframes
+All
+CPU load
+Average
+Test period
+11/20/2006 – 01/24/2014
+Test lots
+0.1
+Best result
+GBP/JPY @ D1
+Test profit
+-
+Max DrawDown
+~100%
+MT4
++
+MT5
+- Phoenix Based on breakouts.
+Currency pairs
+GBP/USD,
+USD/JPY,
+EUR/JPY,
+GBP/JPY,
+USD/CHF
+Rating
+Timeframes
+All
+CPU load
+Low
+Test period
+11/19/2006 – 01/24/2014
+Test lots
+1
+Best result
+GBP/USD @ M15
+Test profit
+-
+Max DrawDown
+~100%
+MT4
++
+MT5
+- Otkat Pull-back strategy with low take-profit.
+Currency pairs
+All
+Rating
+Timeframes
+H1
+CPU load
+Low
+Test period
+11/19/2006 – 01/27/2014
+Test lots
+1
+Best result
+EUR/USD @ H1
+Test profit
+-
+Max DrawDown
+~100%
+MT4
++
+MT5
++ MACD Sample Sample MACD EA optimized for GBP/USD @ H4.
+Currency pairs
+All
+Rating
+Timeframes
+All
+CPU load
+Low
+Test period
+11/19/2006 – 12/30/2013
+Test lots
+0.3
+Best result
+GBP/USD @ H4
+Test profit
+-
+Max DrawDown
+~100%
+MT4
++
+MT5
+- Artificial Intelligence Simple neural network.
+Currency pairs
+All
+Rating
+Timeframes
+All
+CPU load
+Average
+Test period
+11/19/2006 – 01/24/2014
+Test lots
+0.1
+Best result
+GBP/USD @ H1
+Test profit
+-
+Max DrawDown
+~100%
+MT4
++
+MT5
+- myFXOverEasy Multiple indicators system.
+Currency pairs
+All
+Rating
+Timeframes
+All
+CPU load
+High
+Test period
+11/19/2006 – 12/30/2013
+Test lots
+0.1
+Best result
+USD/CHF @ H4
+Test profit
+-
+Max DrawDown
+~100%
+MT4
++
+MT5
+- myPickyBreakout Simple breakout strategy for Tuesday, Wednesday and Thursday.
+Currency pairs
+All
+Rating
+Timeframes
+All
+CPU load
+Low
+Test period
+01/01/2013 – 04/18/2022
+Test lots
+0.1
+Best result
+EUR/USD @ D1
+Test profit
+-
+Max DrawDown
+~100%
+MT4
++
+MT5
+- MACD Pattern EA based on MACD patterns for EUR/USD @ H4.
+Currency pairs
+EUR/USD
+Rating
+Timeframes
+H4
+CPU load
+Average
+Test period
+01/01/2013 – 04/15/2022
+Test lots
+0.1
+Best result
+EUR/USD @ H4
+Test profit
+-
+Max DrawDown
+~100%
+MT4
++
+MT5
+- ATR Trailer Based on ATR trailing stop.
+Currency pairs
+All
+Rating
+Timeframes
+All
+CPU load
+Low
+Test period
+01/01/2013 – 04/14/2022
+Test lots
+0.1
+Best result
+EUR/USD @ H1
+Test profit
+-
+Max DrawDown
+~100%
+MT4
++
+MT5
++ Adjustable MA 3G Based on 3rd Generation Moving Average indicator.
+Currency pairs
+All
+Rating
+Timeframes
+All
+CPU load
+Average
+Test period
+01/01/2021 – 04/15/2022
+Test lots
+0.1
+Best result
+EUR/USD @ M5
+Test profit
+-
+Max DrawDown
+~100%
+MT4
++
+MT5
++ Ichimoku Chikou Cross Uses Ichimoku Kinko Hyo for signals, ATR for position sizing.
+Currency pairs
+All
+Rating
+Timeframes
+All
+CPU load
+Low
+Test period
+01/01/2013 – 04/14/2022
+Test lots
+0.1
+Best result
+EUR/USD @ D1
+Test profit
+-
+Max DrawDown
+~100%
+MT4
++
+MT5
++ Weekly Breakout It trades on breakouts of the previous week's trading range.
+Currency pairs
+All
+Rating
+Timeframes
+W1
+CPU load
+Almost 0%
+Test period
+01/01/2013 – 04/15/2022
+Test lots
+0.1
+Best result
+GBP/USD @ W1
+Test profit
+-
+Max DrawDown
+~100%
+MT4
++
+MT5
++ Account Protector Trade management EA with a panel.
+Currency pairs
+All
+Rating
+10
+Timeframes
+All
+CPU load
+Low
+Test period
+–
+Test lots
+-
+Best result
+-
+Test profit
+-
+Max DrawDown
+-
+MT4
++
+MT5
++ Position Sizer A panel EA to calculate position size and open trades.
+Currency pairs
+All
+Rating
+10
+Timeframes
+All
+CPU load
+Low
+Test period
+–
+Test lots
+-
+Best result
+-
+Test profit
+-
+Max DrawDown
+-
+MT4
++
+MT5
++ Chart Pattern Helper Trades based on manually drawn chart patterns.
+Currency pairs
+All
+Rating
+9
+Timeframes
+All
+CPU load
+Average
+Test period
+–
+Test lots
+-
+Best result
+-
+Test profit
+-
+Max DrawDown
+-
+MT4
++
+MT5
++ AutoTrading Scheduler AutoTrading scheduling by days of the week.
+Currency pairs
+All
+Rating
+9
+Timeframes
+All
+CPU load
+Low
+Test period
+–
+Test lots
+-
+Best result
+-
+Test profit
+-
+Max DrawDown
+-
+MT4
++
+MT5
++ One-Click Trade Pro A dashboard panel to manage your orders and positions in one-click manner.
+Currency pairs
+All
+Rating
+9
+Timeframes
+All
+CPU load
+Average
+Test period
+–
+Test lots
+-
+Best result
+-
+Test profit
+-
+Max DrawDown
+-
+MT4
++
+MT5
+- News Trader News trading with early position entry.
+Currency pairs
+All
+Rating
+8
+Timeframes
+All
+CPU load
+Low
+Test period
+–
+Test lots
+-
+Best result
+-
+Test profit
+-
+Max DrawDown
+-
+MT4
++
+MT5
++ Time Line Auto Close Close some or all orders by a timer line.
+Currency pairs
+All
+Rating
+7
+Timeframes
+All
+CPU load
+Low
+Test period
+–
+Test lots
+-
+Best result
+-
+Test profit
+-
+Max DrawDown
+-
+MT4
++
+MT5
+- Timed Order Schedule a preplanned order.
+Currency pairs
+All
+Rating
+7
+Timeframes
+All
+CPU load
+Low
+Test period
+–
+Test lots
+-
+Best result
+-
+Test profit
+-
+Max DrawDown
+-
+MT4
++
+MT5
++ ATR Trailing Stop A utility EA to trail stop-losses using average true range indicator.
+Currency pairs
+All
+Rating
+6
+Timeframes
+All
+CPU load
+Low
+Test period
+–
+Test lots
+-
+Best result
+-
+Test profit
+-
+Max DrawDown
+-
+MT4
++
+MT5
+- Move Stop to Breakeven A basic move-stop-to-breakeven expert advisor.
+Currency pairs
+All
+Rating
+6
+Timeframes
+All
+CPU load
+Low
+Test period
+–
+Test lots
+-
+Best result
+-
+Test profit
+-
+Max DrawDown
+-
+MT4
++
+MT5
+- Amazing News trader. You give it a date and time of a news and it sets up the breakouts. Good for Forex news traders.
+Currency pairs
+All
+Rating
+5
+Timeframes
+All
+CPU load
+Low
+Test period
+–
+Test lots
+-
+Best result
+-
+Test profit
+-
+Max DrawDown
+-
+MT4
++
+MT5
++ Fractals Trailing Stop A utility EA to trail stop-losses using the fractals indicator.
+Currency pairs
+All
+Rating
+5
+Timeframes
+All
+CPU load
+Low
+Test period
+–
+Test lots
+-
+Best result
+-
+Test profit
+-
+Max DrawDown
+-
+MT4
++
+MT5
++ Moving Average Trailing Stop A simple trailing stop EA based on a moving average.
+Currency pairs
+All
+Rating
+5
+Timeframes
+All
+CPU load
+Low
+Test period
+–
+Test lots
+-
+Best result
+-
+Test profit
+-
+Max DrawDown
+-
+MT4
++
+MT5
+- PSAR Trailing Stop A utility EA to trail stop-losses using Parabolic SAR.
+Currency pairs
+All
+Rating
+5
+Timeframes
+All
+CPU load
+Low
+Test period
+–
+Test lots
+-
+Best result
+-
+Test profit
+-
+Max DrawDown
+-
+MT4
++
+MT5
++ Fixed Step Trailing Stop A utility EA to trail stop-losses using a fixed step method.
+Currency pairs
+All
+Rating
+5
+Timeframes
+All
+CPU load
+Low
+Test period
+–
+Test lots
+-
+Best result
+-
+Test profit
+-
+Max DrawDown
+-
+MT4
++
+MT5
+- High/Low Trailing Stop A utility EA to trail stop-losses using recent highs and lows.
+Currency pairs
+All
+Rating
+5
+Timeframes
+All
+CPU load
+Low
+Test period
+–
+Test lots
+-
+Best result
+-
+Test profit
+-
+Max DrawDown
+-
+MT4
++
+MT5
+- Supertrend Trailing Stop A utility EA to trail stop-losses using the Supertrend indicator.
+Currency pairs
+All
+Rating
+5
+Timeframes
+All
+CPU load
+Low
+Test period
+–
+Test lots
+-
+Best result
+-
+Test profit
+-
+Max DrawDown
+-
+MT4
++
+MT5
++ Ghost SL & TP Hide stop-loss and take-profit from your broker.
+Currency pairs
+All
+Rating
+5
+Timeframes
+All
+CPU load
+Low
+Test period
+–
+Test lots
+-
+Best result
+-
+Test profit
+-
+Max DrawDown
+-
+MT4
++
+MT5
+- Trailing Stop on Profit Starts to trail your stop-loss once a given profit value is reached. Otherwise, works as usual.
+Currency pairs
+All
+Rating
+5
+Timeframes
+All
+CPU load
+Low
+Test period
+–
+Test lots
+-
+Best result
+-
+Test profit
+-
+Max DrawDown
+-
+MT4
++
+MT5
++ myRandom Completely random expert advisor.
+Currency pairs
+All
+Rating
+Timeframes
+All
+CPU load
+Low
+Test period
+11/19/2006 – 01/25/2014
+Test lots
+0.1
+Best result
+GBP/JPY @ H1
+Test profit
+-
+Max DrawDown
+~100%
+MT4
++
+MT5
++ MT4 Expert Advisor Template Basic template to create your own MT4 expert advisors.
+Currency pairs
+All
+Rating
+8
+Timeframes
+All
+CPU load
+None
+Test period
+–
+Test lots
+-
+Best result
+-
+Test profit
+-
+Max DrawDown
+-
+MT4
++
+MT5
+- MT5 EA Template Starting template to create your own MT5 expert advisor.
+Currency pairs
+All
+Rating
+8
+Timeframes
+All
+CPU load
+None
+Test period
+–
+Test lots
+-
+Best result
+-
+Test profit
+-
+Max DrawDown
+-
+MT4
+-
+MT5
++
+As you can see in the table above, all MetaTrader expert advisors can be divided into two broad categories:
+MT4 expert advisors that are coded using MQL4 language and that can only be run inside MetaTrader 4 platform.
+MT5 expert advisors that are coded using MQL5 language and that can only be run inside MetaTrader 5 platform.
+However, for some of the presented MetaTrader expert advisors, the code is available in two versions: one version in MQL4 for MT4 and another version in MQL5 for MT5. Please make sure you are using the right code version depending on your platform of choice.
+If you want to share your own expert advisor or if you want to comment on any Forex robot (EA) presented here, please visit our forum on MetaTrader expert advisors
+Go to forum
+Subscribe
+to the newsletter
+We’ll send you our monthly newsletter which is fully stocked with free resources like articles, videos, podcasts, reward ideas, and anything else we can think of to help you make your trading knowledge awesome.
+Subscribe to our newsletter
+Advertisements  — Trade smarter: TradingView, MT4, MT5.    Forex — the foreign exchange market (also known as FOREX or FX) is the biggest and the most liquid financial market in the world. It boasts a daily volume of more than $7.5 trillion. Trading in this market involves buying and selling world currencies, taking profit from the exchange rates difference. FX trading can yield high profits but is also a very risky endeavor.
+Forex Brokers
+MT4 Forex Brokers MT5 Forex Brokers PayPal Brokers Regulated Brokers Oil Trading Brokers Gold Trading Brokers Muslim-Friendly Brokers Web Browser Platform Brokers with CFD Trading ECN Brokers Skrill Brokers Neteller Brokers Perfect Money FX Brokers Bitcoin FX Brokers Ethereum FX Brokers Litecoin FX Brokers Cryptocurrency Forex Brokers PAMM Forex Brokers Brokers for US Traders Brokers with USDT Scalping Forex Brokers Low Spread Brokers Zero Spread Brokers Low Deposit Forex Brokers Micro Forex Brokers With Cent Accounts High Leverage Forex Brokers WebMoney Brokers cTrader Forex Brokers NinjaTrader Forex Brokers Brokers with TradingView UK Forex Brokers ASIC-Regulated Forex Brokers Swiss Forex Brokers Canadian Forex Brokers Spread Betting Brokers New Forex Brokers Search Brokers Interviews with Brokers Forex Broker Reviews
+See all
+Forex Tools
+Pivot Points Calculator Fibonacci Calculator Pip Value Calculator Position Size Calculator Risk & Reward Calculator MT4 VPS Hosting Interest Rates Table Gain and Loss Percentage Calculator Forex Strategies Report Analysis Tool Spread Betting Size Calculator Max Position Size by Margin Stop-Out
+Forex Brokers
+No Evaluation Prop Firms Prop Firms for Swing Traders
+Community
+Forex Forum Recommended Resources Forex Newsletter
+Forex Books
+Forex Books for Beginners General Market Books Trading Psychology Money Management Trading Strategy Advanced Forex Trading
+Software
+MT4/MT5 Expert Advisors MetaTrader Indicators MetaTrader Scripts cTrader Indicators cTrader cBots (Robots) Custom Coding Service
+Education
+What Is Forex? Forex Course Forex for Dummies Forex FAQ Forex Glossary Guides Payment Systems WebMoneyPayPalSkrillNetellerTether (USDT)Bitcoin
+About
+Contact Webmaster Forex Advertising Risk of Loss Terms of Service
+© 2005-2025. EarnForex. All Rights Reserved.
+Forex trading bears intrinsic risks of loss. You must understand that Forex trading, while potentially profitable, can make you lose your money. Never trade with the money that you cannot afford to lose! Trading with leverage can wipe your account even faster. CFDs are leveraged products and as such loses may be more than the initial invested capital. Trading in CFDs carry a high level of risk thus may not be appropriate for all investors. EarnForex.com is operated by EARNFOREX S.A.S., a company registered at the following address: 229 rue Saint-Honoré, 75001 Paris, France. Tribunal de commerce de Paris registration number: 951833029. French VAT ID: FR04951833029. Developed by  Forex trading bears intrinsic risks of loss. You must understand that Forex trading, while potentially profitable, can make you lose your money. Never trade with the money that you cannot afford to lose! Trading with leverage can wipe your account even faster. CFDs are leveraged products and as such loses may be more than the initial invested capital. Trading in CFDs carry a high level of risk thus may not be appropriate for all investors. EarnForex.com is operated by EARNFOREX S.A.S., a company registered at the following address: 229 rue Saint-Honoré, 75001 Paris, France. Tribunal de commerce de Paris registration number: 951833029. French VAT ID: FR04951833029.     OK

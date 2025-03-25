@@ -1,0 +1,21 @@
+Registrácia domén, hosting a servery :: Websupport.sk
+Na tejto
+doméne zatiaľ
+nič nie je
+Dôvodov, prečo sa nezobrazuje žiadny obsah, môže byť
+viacero. Ak ste správca webu, môžete nahrať/zmazať
+existujúci obsah alebo kontaktovať svojho webadmina.
+S nahraním obsahu vám pomôže
+tento návod.
+Overte si novú doménu vo Websupporte
+Nothing to see
+here yet
+There might be several reasons why no content is displayed. If
+you're the web admin, you can upload/delete the existing content,
+and if not, you can contact them.
+This guide can help you upload
+the content.
+Set up a new domain in Websupport
+Webadmin
+Websupport
+Help

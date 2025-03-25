@@ -1,0 +1,9 @@
+
+Fatal error:  Uncaught Error: Call to undefined function wp_initial_constants() in /home/ebrusana/domains/ebrusanati.com/public_html/wp-settings.php:61
+Stack trace:
+#0 /home/ebrusana/domains/ebrusanati.com/public_html/wp-config.php(90): require_once()
+#1 /home/ebrusana/domains/ebrusanati.com/public_html/wp-load.php(50): require_once('/home/ebrusana/...')
+#2 /home/ebrusana/domains/ebrusanati.com/public_html/wp-blog-header.php(13): require_once('/home/ebrusana/...')
+#3 /home/ebrusana/domains/ebrusanati.com/public_html/index.php(5): require('/home/ebrusana/...')
+#4 {main}
+thrown in /home/ebrusana/domains/ebrusanati.com/public_html/wp-settings.php on line 61

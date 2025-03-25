@@ -1,0 +1,18 @@
+   Domain Name: 7CNTW.COM
+   Registry Domain ID: 2855712035_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.gname.com
+   Registrar URL: http://www.gname.com
+   Updated Date: 2025-03-20T08:21:24Z
+   Creation Date: 2024-02-16T13:47:05Z
+   Registry Expiry Date: 2025-02-16T13:47:05Z
+   Registrar: Gname.com Pte. Ltd.
+   Registrar IANA ID: 1923
+   Registrar Abuse Contact Email: complaint@gname.com
+   Registrar Abuse Contact Phone: +65.65189986
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: redemptionPeriod https://icann.org/epp#redemptionPeriod
+   Name Server: EXPIRE1.GNAME-DNS.COM
+   Name Server: EXPIRE2.GNAME-DNS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-23T23:55:41Z 

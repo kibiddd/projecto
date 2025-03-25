@@ -1,0 +1,17 @@
+   Domain Name: PXMARTAPP.COM
+   Registry Domain ID: 2805029320_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.rrpproxy.net
+   Registrar URL: http://www.key-systems.net
+   Updated Date: 2024-07-12T07:40:20Z
+   Creation Date: 2023-08-11T11:43:49Z
+   Registry Expiry Date: 2025-08-11T11:43:49Z
+   Registrar: Key-Systems GmbH
+   Registrar IANA ID: 269
+   Registrar Abuse Contact Email: abuse@key-systems.net
+   Registrar Abuse Contact Phone: +49.68949396850
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NICK.NS.CLOUDFLARE.COM
+   Name Server: RAEGAN.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-23T23:59:58Z 

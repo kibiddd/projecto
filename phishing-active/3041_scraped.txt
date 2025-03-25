@@ -1,0 +1,1 @@
+Ini file /var/www/vhosts/edu-crm.com/wildcard_crm/_core/_project/_conf/babboesignal/service.ini is not found!

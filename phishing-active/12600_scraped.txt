@@ -1,0 +1,261 @@
+
+
+Welcome to APWG & CMU's Phishing Education Landing Page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WARNING!
+The web page you tried to visit might have been trying to steal
+your personal information.	 That page was removed after being identified
+as a "phishing" web page. A phishing web page tricks people out of bank
+account information, passwords and other confidential information.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How You Were Tricked
+
+
+
+
+
+
+This email is from my bank. It asks me to update my information. I better click on the link and update it.
+
+
+
+
+
+
+STOP!Don't fall for scam email.
+
+
+
+
+
+
+
+My Inbox
+From: service@Wombank.com
+Dear Jane,
+Your account will be suspended if
+you do not update your information.http://www.Wombank.com/update
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How to Help Protect Yourself
+
+
+
+
+
+1
+Don't trust links in an email.
+
+DANGER!
+http://www.amazon.com/update
+
+
+
+
+2
+Never give out personal information upon email request.
+
+DANGER!
+
+
+
+Name:  Jane Smith
+Credit Card:  1234 5678 9101 1213
+
+
+
+
+3
+Look carefully at the web address.
+
+
+
+
+4
+Type in the real website address into a web browser.
+
+
+
+
+
+
+
+
+
+
+5
+Don't call company phone numbers in emails or instant messages. Check a reliable source such as a phone book or credit card statement.
+
+
+Credit Card Statement
+
+
+
+For Customer Service call:1-800 xxx-xxx
+
+
+
+
+
+6
+Don't open unexpected email attachments or instant message download links.
+
+
+My Inbox
+Here is the updated document.attachment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How Phishers Trick You Into Giving Out Personal Information
+
+
+
+
+
+
+My Inbox
+From: service@Wombank.com
+Dear Jane,
+Your account will be suspended if
+you do not update your information.
+http://www.Wombank.com/update
+
+
+
+
+
+
+
+
+He forges email addresses to look genuine
+He provokes the computer user with an urgent request
+He adds links that appear to connect to a real bank but bring users to the phisher's counterfeit site - to take their information and money
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How You Can Help
+
+
+
+
+
+
+
+Should I report this suspicious email?
+
+
+
+
+
+
+This one was already reported. You are safe. But please tell your friends what you  learned here.
+
+
+
+
+
+
+
+
+
+
+
+For additional information, please visit APWG's resources page at https://apwg.org/resources/
+
+
+
+
+Legal Disclaimer
+PLEASE NOTE:The APWG, Carnegie Mellon University, and any cooperating
+service providers have provided this message as a public service, based
+upon information that the URL you were seeking has been involved in a
+phishing or malware exploit. There is no guarantee that you have not
+been phished or exposed to malware from this URL you were seeking, or
+previously. This is not a complete list of steps that may be taken to
+avoid harm from phishing, and we offer no warranty as to the
+completeness, accuracy or pertinence of this advisory with respect to
+the page you attempted to access. Please see https://www.apwg.org for more information. The PhishGuru goldfish character is a trademark of Wombat Security Technologies, Inc.
+
+
+
+
+
+
+Content on this web page is licensed by APWG, Carnegie Mellon University, and Wombat Security Technologies, Inc. under a Creative Commons Attribution-No Derivative Works 3.0 Unported License
+
+
+
+
+
+
+|  APWG Home  |  CMU STDP Home  |  Consumer Advice  |
+Membership  |  Contact Us  |  About  |
+
+

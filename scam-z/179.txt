@@ -1,0 +1,17 @@
+   Domain Name: ZIICNFTCRYPTO.COM
+   Registry Domain ID: 2883556481_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.PublicDomainRegistry.com
+   Registrar URL: http://www.publicdomainregistry.com
+   Updated Date: 2024-05-22T13:31:12Z
+   Creation Date: 2024-05-22T13:30:19Z
+   Registry Expiry Date: 2025-05-22T13:30:19Z
+   Registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
+   Registrar IANA ID: 303
+   Registrar Abuse Contact Email: abuse-contact@publicdomainregistry.com
+   Registrar Abuse Contact Phone: +1.2013775952
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS4.DATAPLUGS.COM
+   Name Server: NS5.DATAPLUGS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-23T21:58:01Z 

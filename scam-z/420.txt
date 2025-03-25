@@ -1,0 +1,18 @@
+   Domain Name: ZUREX.CC
+   Registry Domain ID: 187746587_DOMAIN_CC-VRSN
+   Registrar WHOIS Server: whois.gname.com
+   Registrar URL: http://www.gname.com
+   Updated Date: 2025-03-04T08:15:21Z
+   Creation Date: 2023-02-01T01:43:33Z
+   Registry Expiry Date: 2025-02-01T01:43:33Z
+   Registrar: Gname.com Pte. Ltd.
+   Registrar IANA ID: 1923
+   Registrar Abuse Contact Email: complaint@gname.com
+   Registrar Abuse Contact Phone: +65.65189986
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: redemptionPeriod https://icann.org/epp#redemptionPeriod
+   Name Server: EXPIRE1.GNAME-DNS.COM
+   Name Server: EXPIRE2.GNAME-DNS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-23T21:59:39Z 

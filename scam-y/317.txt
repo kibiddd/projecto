@@ -1,0 +1,17 @@
+   Domain Name: YTUBBUO.COM
+   Registry Domain ID: 2904696632_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.cloudflare.com
+   Registrar URL: http://www.cloudflare.com
+   Updated Date: 2024-08-02T10:57:24Z
+   Creation Date: 2024-08-02T10:57:19Z
+   Registry Expiry Date: 2025-08-02T10:57:19Z
+   Registrar: Cloudflare, Inc.
+   Registrar IANA ID: 1910
+   Registrar Abuse Contact Email: registrar-abuse@cloudflare.com
+   Registrar Abuse Contact Phone: +1.6503198930
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: GINA.NS.CLOUDFLARE.COM
+   Name Server: MARVIN.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-24T00:00:45Z 

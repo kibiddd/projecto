@@ -1,0 +1,17 @@
+   Domain Name: ZEALMINERS.COM
+   Registry Domain ID: 2790282035_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2024-11-04T11:58:27Z
+   Creation Date: 2023-06-14T20:45:12Z
+   Registry Expiry Date: 2025-06-14T20:45:12Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.AFTERNIC.COM
+   Name Server: NS2.AFTERNIC.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-23T21:59:02Z 

@@ -1,0 +1,17 @@
+   Domain Name: ZTMFX.COM
+   Registry Domain ID: 2936676863_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.domainshype.com
+   Registrar URL: http://www.domainshype.com
+   Updated Date: 2025-02-17T16:39:27Z
+   Creation Date: 2024-11-24T09:36:36Z
+   Registry Expiry Date: 2025-11-24T09:36:36Z
+   Registrar: Domainshype.com, LLC
+   Registrar IANA ID: 1660
+   Registrar Abuse Contact Email: abuse-contact@publicdomainregistry.com
+   Registrar Abuse Contact Phone: +1.2013775952
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.DNS-PARKING.COM
+   Name Server: NS2.DNS-PARKING.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-23T21:59:17Z 

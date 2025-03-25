@@ -1,0 +1,36 @@
+
+
+
+Test Page for the Nginx HTTP Server on AlmaLinux
+
+
+
+
+Welcome to nginx on AlmaLinux!
+
+This page is used to test the proper operation of the
+nginx HTTP server after it has been
+installed. If you can read this page, it means that the
+web server installed at this site is working
+properly.
+
+Website Administrator
+
+This is the default index.html page that
+is distributed with nginx on
+AlmaLinux.  It is located in
+/usr/share/nginx/html.
+You should now put your content in a location of
+your choice and edit the root configuration
+directive in the nginx
+configuration file
+/etc/nginx/nginx.conf.
+For information on AlmaLinux, please visit the AlmaLinux website.
+
+
+
+
+
+
+
+

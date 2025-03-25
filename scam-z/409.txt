@@ -1,0 +1,17 @@
+   Domain Name: ZPBULLCOIN.COM
+   Registry Domain ID: 2793470082_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.tucows.com
+   Registrar URL: http://www.tucows.com
+   Updated Date: 2024-05-31T22:40:35Z
+   Creation Date: 2023-06-25T18:47:12Z
+   Registry Expiry Date: 2025-06-25T18:47:12Z
+   Registrar: Tucows Domains Inc.
+   Registrar IANA ID: 69
+   Registrar Abuse Contact Email: domainabuse@tucows.com
+   Registrar Abuse Contact Phone: +1.4165350123
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS15.ABOVEDOMAINS.COM
+   Name Server: NS16.ABOVEDOMAINS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-23T21:59:47Z 

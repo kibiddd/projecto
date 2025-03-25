@@ -1,0 +1,59 @@
+
+
+
+
+ICANN Verification Required
+
+
+
+
+
+
+
+
+
+
+You have reached a domain that is pending ICANN verification.
+As of January 1, 2014 the Internet Corporation for Assigned Names and Numbers (ICANN) will mandate that all ICANN accredited registrars begin verifying t
+he Registrant WHOIS contact information for all new domain registrations and Registrant contact modifications.
+
+Why has this domain been suspended?
+
+The email address has not been verified
+This is a new domain registration and the Registrant email address has not been verified.
+Resend the verification email
+
+----- OR ------
+
+The Registrant contact data for this domain was modified but still requires verification.
+Specifically the first name, last name, email address, physical address, and/or phone number have been changed and never verified.
+Log in to your name.com account
+
+Frequently asked questions
+
+Once the suspension is removed, when will my website come back online?
+We estimate it may take 24 to 48 hours for the website to come back online.
+
+
+Why was my domain suspended?
+ICANN requires that the domain registrant's contact information or changes to the registrant's WHOIS information be verified within 15 calendar
+days. If the data is not verified in this timeframe, ICANN mandates that the website be suspended pending the verification.
+
+
+How can I remove the suspension on my domain?
+The suspension of the domain will be removed after the WHOIS information is successfully verified. Please update the WHOIS information with comp
+lete and accurate contact details through your domain service provider. Once updated you will receive a new verification email.
+
+
+Who is ICANN?
+ICANN is responsible for the coordination of the global internet's systems of unique identifiers and, in particular, ensuring its' stable and se
+cure operation. ICANN maintains policies and specifications for registrars and registrants to abide by.
+
+
+What is WHOIS?
+WHOIS services provide public access to data on registered domain name holders. Registered name holders are required to provide accurate and rel
+iable contact details to their Registrar to update WHOIS data for a registered name.
+
+
+
+

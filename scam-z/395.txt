@@ -1,0 +1,20 @@
+   Domain Name: ZORROTRADE.COM
+   Registry Domain ID: 2277136472_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.moniker.com
+   Registrar URL: http://www.moniker.com
+   Updated Date: 2025-03-10T06:37:56Z
+   Creation Date: 2018-06-20T10:52:02Z
+   Registry Expiry Date: 2025-06-20T10:52:02Z
+   Registrar: Moniker Online Services LLC
+   Registrar IANA ID: 228
+   Registrar Abuse Contact Email: abuse@moniker.com
+   Registrar Abuse Contact Phone: +49.68949396850
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS10.DNSMADEEASY.COM
+   Name Server: NS11.DNSMADEEASY.COM
+   Name Server: NS12.DNSMADEEASY.COM
+   Name Server: NS13.DNSMADEEASY.COM
+   Name Server: NS14.DNSMADEEASY.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-23T21:59:30Z 

@@ -1,0 +1,1 @@
+ERROR: Incorrect link (mail details not found)!

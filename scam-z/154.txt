@@ -1,0 +1,2 @@
+The queried object does not exist: z-fund.top
+>>> Last update of WHOIS database: 2025-03-23T21:55:18Z 

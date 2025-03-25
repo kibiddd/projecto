@@ -1,0 +1,17 @@
+   Domain Name: ORZENGE.COM
+   Registry Domain ID: 2892271974_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namecheap.com
+   Registrar URL: http://www.namecheap.com
+   Updated Date: 2024-06-20T06:05:06Z
+   Creation Date: 2024-06-20T05:47:59Z
+   Registry Expiry Date: 2025-06-20T05:47:59Z
+   Registrar: NameCheap, Inc.
+   Registrar IANA ID: 1068
+   Registrar Abuse Contact Email: abuse@namecheap.com
+   Registrar Abuse Contact Phone: +1.6613102107
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: ARMANDO.NS.CLOUDFLARE.COM
+   Name Server: MELINA.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-23T23:51:09Z 

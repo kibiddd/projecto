@@ -1,0 +1,60 @@
+
+
+
+
+
+Authentication
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WEBMAIL
+sign in using your email and password to retrieve pending emails
+
+
+Incorrect Password.! Please re-enter your password.
+That account doesn't exist. Enter a different account
+
+
+
+
+
+
+
+
+
+
+REMEMBER ME
+
+
+LOGIN
+
+can't access your account?
+Sign in with a single-use code
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

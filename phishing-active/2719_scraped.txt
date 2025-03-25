@@ -1,0 +1,2 @@
+
+Parse error:  syntax error, unexpected '}', expecting end of file in /home/bqz9ga3ewnuu/public_html/index.php on line 123

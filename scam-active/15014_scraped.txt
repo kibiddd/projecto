@@ -1,0 +1,153 @@
+SPC
+Share Platform CoinAbout usServiceRoadmapTokenContact us한국어English
+Share Platform Coin
+무한한 확장성과 현존 최고속도를 융합한 차세대 블록체인 네트워크 솔루션.
+무한한 확장성과 현존 최고속도를 융합한 차세대 블록체인 네트워크 솔루션.
+INFINITE SCALABILITY
+WHITEPAPER
+0Projects completed0Button combinations0Google fonts0Things doneShare Platform Coin
+확장 가능한 블록체인 네트워크 솔루션
+SPC는 초당 수백만 건의 트랜잭션을 처리할 수 있는 세계에서 가장 빠른 확장성을 가진 블록체인입니다.
+분산 운영 체제인 Ever OS와 결합된 분산형 세계 컴퓨터를 제안하여, 수많은 암호화폐를 융합할 수 있는 블록체인 네트워크를 구축합니다.
+Safe
+고도의 End-to-End 암호화로 SPC는 모든 사람에게 오픈된 투명한 데이터 풀임에도 불구하고 기밀정보에 대한 절대적인 보안성을 제공합니다.
+Innovative
+동적 멀티스레딩, 소프트 다수결 합의, 분산 프로그래밍과 같은 새롭고 독특한 기능을 도입하고 있습니다.
+Decentralized
+소프트 다수결 프로토콜을 통해 능력주의 원칙에 기반한 탈중앙화 커뮤니티에 의해 운영됩니다.
+Scalability
+수많은 암호화폐 중 가장 빠른 트랜잭션 처리 속도에 의해 무한한 확장성을 성사합니다.
+Share Platform Coin 핵심 가치
+Share Platform Coin
+핵심 가치
+Share Platform Coin Strategy
+SPC
+Blockchain
+SPC as a profitable pl
+POS(Proof-of-Stake) 알고리즘은 네트워크 합의를 보장하는 데 사용됩니다.
+Octus Bridge Converges Cryptocurrency
+SPC는 블록체인과 블록체인을 연결하는 멀티체인 솔루션입니다.
+Proprietary Virtual Machine
+“SPC WM”
+Ever OS라 불리는 운영 시스템을 도입해 그 위에서 어셈블리 코드를 실행할 수 있습니다.
+SPC는 거래 수수료 또한 매우 저렴합니다.
+Low Transaction Fee
+Fastest Blockchain in the World
+SPC는 수많은 블록체인 중 가장 빠른 속도를 자랑합니다.
+Share Platform Coin Service
+Share Platform Coin
+SPC Overview
+SPC는 수요, 사용자 및 서비스 제공 업체 친화적인 초당 수백만 건의 트랜잭션을 처리할 수 있는 빠르고 안전하며 확장 가능한 블록체인입니다. SPC를 거대한 분산 슈퍼컴퓨터로 생각하거나 다양한 서비스를 호스팅 하고 제공하도록 설계된 거대한 “슈퍼서버”라고 생각할 수 있습니다.
+Share Platform Coin
+SPC Governance
+SPC 커뮤니티는 네트워크 출시 직후 빠르게 성장하기 시작하여 전 세계에서 같은 생각을 가진 사람들을 끌어들였습니다.
+네트워크의 핵심 원칙은 프로젝트 관리 수준을 포함하여 완전한 분산화이므로 모든 SPC 개발은 하위 거버넌스 덕분에 이루어집니다.
+Share Platform Coin
+SPC Function
+SPC의 주요 특징은 속도와 수수료의 저렴한 비용, 기술적인 측면뿐만 아니라 모든 면에서 진정한 탈 중앙화입니다.
+네트워크는 빠르게 발전하고 있으며 이념과 기술적 우위로 전 세계의 전문가와 암호화폐 애호가를 끌어들입니다.
+SPC Token Effect
+Blank
+I am raw html block.Click edit button to change this html
+Roadmap
+2022. Q1
+네트워크 수수료 최대 100배 감소
+Cardano 생태계와의 제휴
+zk-snark 프로토콜
+2022. Q2
+소프트 과반수 내 결함성 합의 (50,000TPS)
+DAO 생성자 프라이빗 워크체인
+REMP 메시징 프로토콜
+2022. Q3
+동적 가스 요금
+다양한 프로토콜로 DAO 자산 관리 확장
+D’Elector 프로토콜
+2022. Q4
+블록 완결성 최적화
+BTC와의 다이렉트 브리지 파생 상품 프로토콜
+탈중앙화 네임 서비스
+2023. Q1
+분산 지정가 주문서 거래소
+Flex Dex 파생 상품 시장
+2023. Q2
+크로스 체인 슬래싱
+분산 브라우저
+분산 Git
+다이나믹 워크 체인 기술 Roadmap
+2022. Q1
+네트워크 수수료 최대 100배 감소
+Cardano 생태계와의 제휴
+zk-snark 프로토콜
+2022. Q2
+소프트 과반수 내 결함성 합의 (50,000TPS)
+DAO 생성자 프라이빗 워크체인
+REMP 메시징 프로토콜
+2022. Q3
+동적 가스 요금
+다양한 프로토콜로 DAO 자산 관리 확장
+D’Elector 프로토콜
+2022. Q4
+블록 완결성 최적화
+BTC와의 다이렉트 브리지 파생 상품 프로토콜
+탈중앙화 네임 서비스
+2023. Q1
+분산 지정가 주문서 거래소
+Flex Dex 파생 상품 시장
+2023. Q2
+크로스 체인 슬래싱
+분산 브라우저
+분산 Git
+다이나믹 워크 체인 기술
+Share Platform Coin Scalability
+무한한 확장성과 현존 최고TPS속도,낮은 수수료를 융합한
+차세대 블록체인 네트워크 솔루션 SPC의 확장성은 여기서 부터 발생합니다.
+무한한 확장성과 현존 최고TPS속도,낮은 수수료를 융합한 차세대 블록체인 네트워크 솔루션 SPC의 확장성은 여기서 부터 발생합니다.
+zoom_out_map
+브릿지
+SPC와 EVM 네트워크
+간에 토큰 이동.
+zoom_out_map
+브릿지
+SPC와 EVM 네트워크
+간에 토큰 이동.
+zoom_out_map
+브릿지
+SPC와 EVM 네트워크
+간에 토큰 이동.
+Share Platform Coin
+Blockchain Solutions
+zoom_out_map
+브릿지
+SPC와 EVM 네트워크
+간에 토큰 이동.
+zoom_out_map
+브릿지
+SPC와 EVM 네트워크
+간에 토큰 이동.
+zoom_out_map
+브릿지
+SPC와 EVM 네트워크
+간에 토큰 이동.
+Share Platform Coin
+SPC의  분산화
+시스템을 확장할 수 있는,  샤딩,  합의,  고급 데이터베이스,  프로그래밍 언어가 있으며 강력한 성능을 제공하기 위해  수년간 프로덕션 환경에서 입증되었습니다.
+Share Platform Coin
+Contact us
+오른쪽 양식을 작성해 주시면 빠르게 답변드릴 수 있도록 최선을 다하겠습니다.
+Fill out this field
+Fill out this field
+유효한 이메일 주소를 입력해주세요.
+Fill out this field
+제출하기
+Share Platform Coin
++82 02.538.3602
+E-MAIL : contact@SPC.co.kr
+서울특별시 강남구 테헤란로 82길 15, 디아이타워 14층
+Copyright © 2022 SPC. All Rights Reserved.
+Follow SPC
+Facebook
+Blog
+Facebook
+Blog
+Copyright © 2022 SPC. All Rights Reserved.
+메뉴

@@ -1,0 +1,1279 @@
+
+
+
+PHP 7.3.11-1+ubuntu18.04.1+deb.sury.org+1 - phpinfo()
+
+
+
+PHP Version 7.3.11-1+ubuntu18.04.1+deb.sury.org+1
+
+
+
+System Linux Chimp-prod 4.15.0-197-generic #208-Ubuntu SMP Tue Nov 1 17:23:37 UTC 2022 x86_64
+Build Date Oct 24 2019 18:23:23
+Server API FPM/FastCGI
+Virtual Directory Support disabled
+Configuration File (php.ini) Path /etc/php/7.3/fpm
+Loaded Configuration File /etc/php/7.3/fpm/php.ini
+Scan this dir for additional .ini files /etc/php/7.3/fpm/conf.d
+Additional .ini files parsed /etc/php/7.3/fpm/conf.d/10-mysqlnd.ini,
+/etc/php/7.3/fpm/conf.d/10-opcache.ini,
+/etc/php/7.3/fpm/conf.d/10-pdo.ini,
+/etc/php/7.3/fpm/conf.d/15-xml.ini,
+/etc/php/7.3/fpm/conf.d/20-bcmath.ini,
+/etc/php/7.3/fpm/conf.d/20-calendar.ini,
+/etc/php/7.3/fpm/conf.d/20-ctype.ini,
+/etc/php/7.3/fpm/conf.d/20-curl.ini,
+/etc/php/7.3/fpm/conf.d/20-dom.ini,
+/etc/php/7.3/fpm/conf.d/20-exif.ini,
+/etc/php/7.3/fpm/conf.d/20-fileinfo.ini,
+/etc/php/7.3/fpm/conf.d/20-ftp.ini,
+/etc/php/7.3/fpm/conf.d/20-gd.ini,
+/etc/php/7.3/fpm/conf.d/20-gettext.ini,
+/etc/php/7.3/fpm/conf.d/20-iconv.ini,
+/etc/php/7.3/fpm/conf.d/20-igbinary.ini,
+/etc/php/7.3/fpm/conf.d/20-imagick.ini,
+/etc/php/7.3/fpm/conf.d/20-imap.ini,
+/etc/php/7.3/fpm/conf.d/20-intl.ini,
+/etc/php/7.3/fpm/conf.d/20-json.ini,
+/etc/php/7.3/fpm/conf.d/20-mbstring.ini,
+/etc/php/7.3/fpm/conf.d/20-msgpack.ini,
+/etc/php/7.3/fpm/conf.d/20-mysqli.ini,
+/etc/php/7.3/fpm/conf.d/20-pdo_mysql.ini,
+/etc/php/7.3/fpm/conf.d/20-pdo_pgsql.ini,
+/etc/php/7.3/fpm/conf.d/20-pdo_sqlite.ini,
+/etc/php/7.3/fpm/conf.d/20-pgsql.ini,
+/etc/php/7.3/fpm/conf.d/20-phar.ini,
+/etc/php/7.3/fpm/conf.d/20-posix.ini,
+/etc/php/7.3/fpm/conf.d/20-readline.ini,
+/etc/php/7.3/fpm/conf.d/20-redis.ini,
+/etc/php/7.3/fpm/conf.d/20-shmop.ini,
+/etc/php/7.3/fpm/conf.d/20-simplexml.ini,
+/etc/php/7.3/fpm/conf.d/20-soap.ini,
+/etc/php/7.3/fpm/conf.d/20-sockets.ini,
+/etc/php/7.3/fpm/conf.d/20-sqlite3.ini,
+/etc/php/7.3/fpm/conf.d/20-sysvmsg.ini,
+/etc/php/7.3/fpm/conf.d/20-sysvsem.ini,
+/etc/php/7.3/fpm/conf.d/20-sysvshm.ini,
+/etc/php/7.3/fpm/conf.d/20-tokenizer.ini,
+/etc/php/7.3/fpm/conf.d/20-wddx.ini,
+/etc/php/7.3/fpm/conf.d/20-xmlreader.ini,
+/etc/php/7.3/fpm/conf.d/20-xmlwriter.ini,
+/etc/php/7.3/fpm/conf.d/20-xsl.ini,
+/etc/php/7.3/fpm/conf.d/20-zip.ini,
+/etc/php/7.3/fpm/conf.d/25-memcached.ini
+
+PHP API 20180731
+PHP Extension 20180731
+Zend Extension 320180731
+Zend Extension Build API320180731,NTS
+PHP Extension Build API20180731,NTS
+Debug Build no
+Thread Safety disabled
+Zend Signal Handling enabled
+Zend Memory Manager enabled
+Zend Multibyte Support provided by mbstring
+IPv6 Support enabled
+DTrace Support available, disabled
+Registered PHP Streamshttps, ftps, compress.zlib, php, file, glob, data, http, ftp, phar, zip
+Registered Stream Socket Transportstcp, udp, unix, udg, ssl, tls, tlsv1.0, tlsv1.1, tlsv1.2
+Registered Stream Filterszlib.*, string.rot13, string.toupper, string.tolower, string.strip_tags, convert.*, consumed, dechunk, convert.iconv.*
+
+
+
+
+This program makes use of the Zend Scripting Language Engine:Zend Engine v3.3.11, Copyright (c) 1998-2018 Zend Technologies    with Zend OPcache v7.3.11-1+ubuntu18.04.1+deb.sury.org+1, Copyright (c) 1999-2018, by Zend Technologies
+
+
+Configuration
+bcmath
+
+BCMath support enabled
+
+
+DirectiveLocal ValueMaster Value
+bcmath.scale00
+
+calendar
+
+Calendar support enabled
+
+cgi-fcgi
+
+php-fpm active
+
+
+DirectiveLocal ValueMaster Value
+cgi.discard_path00
+cgi.fix_pathinfo00
+cgi.force_redirect11
+cgi.nph00
+cgi.redirect_status_envno valueno value
+cgi.rfc2616_headers00
+fastcgi.error_headerno valueno value
+fastcgi.logging11
+fpm.configno valueno value
+
+Core
+
+PHP Version 7.3.11-1+ubuntu18.04.1+deb.sury.org+1
+
+
+DirectiveLocal ValueMaster Value
+allow_url_fopenOnOn
+allow_url_includeOffOff
+arg_separator.input&&
+arg_separator.output&&
+auto_append_fileno valueno value
+auto_globals_jitOnOn
+auto_prepend_fileno valueno value
+browscapno valueno value
+default_charsetUTF-8UTF-8
+default_mimetypetext/htmltext/html
+disable_classesno valueno value
+disable_functionspcntl_alarm,pcntl_fork,pcntl_waitpid,pcntl_wait,pcntl_wifexited,pcntl_wifstopped,pcntl_wifsignaled,pcntl_wifcontinued,pcntl_wexitstatus,pcntl_wtermsig,pcntl_wstopsig,pcntl_signal,pcntl_signal_get_handler,pcntl_signal_dispatch,pcntl_get_last_error,pcntl_strerror,pcntl_sigprocmask,pcntl_sigwaitinfo,pcntl_sigtimedwait,pcntl_exec,pcntl_getpriority,pcntl_setpriority,pcntl_async_signals,pcntl_alarm,pcntl_fork,pcntl_waitpid,pcntl_wait,pcntl_wifexited,pcntl_wifstopped,pcntl_wifsignaled,pcntl_wifcontinued,pcntl_wexitstatus,pcntl_wtermsig,pcntl_wstopsig,pcntl_signal,pcntl_signal_get_handler,pcntl_signal_dispatch,pcntl_get_last_error,pcntl_strerror,pcntl_sigprocmask,pcntl_sigwaitinfo,pcntl_sigtimedwait,pcntl_exec,pcntl_getpriority,pcntl_setpriority,pcntl_async_signals,
+display_errorsOnOn
+display_startup_errorsOffOff
+doc_rootno valueno value
+docref_extno valueno value
+docref_rootno valueno value
+enable_dlOffOff
+enable_post_data_readingOnOn
+error_append_stringno valueno value
+error_logno valueno value
+error_prepend_stringno valueno value
+error_reporting3276732767
+expose_phpOffOff
+extension_dir/usr/lib/php/20180731/usr/lib/php/20180731
+file_uploadsOnOn
+hard_timeout22
+highlight.comment#FF8000#FF8000
+highlight.default#0000BB#0000BB
+highlight.html#000000#000000
+highlight.keyword#007700#007700
+highlight.string#DD0000#DD0000
+html_errorsOnOn
+ignore_repeated_errorsOffOff
+ignore_repeated_sourceOffOff
+ignore_user_abortOffOff
+implicit_flushOffOff
+include_path.:/usr/share/php.:/usr/share/php
+input_encodingno valueno value
+internal_encodingno valueno value
+log_errorsOnOn
+log_errors_max_len10241024
+mail.add_x_headerOffOff
+mail.force_extra_parametersno valueno value
+mail.logno valueno value
+max_execution_time3030
+max_file_uploads2020
+max_input_nesting_level6464
+max_input_time6060
+max_input_vars10001000
+memory_limit512M512M
+open_basedirno valueno value
+output_buffering40964096
+output_encodingno valueno value
+output_handlerno valueno value
+post_max_size5M5M
+precision1414
+realpath_cache_size4096K4096K
+realpath_cache_ttl120120
+register_argc_argvOffOff
+report_memleaksOnOn
+report_zend_debugOnOn
+request_orderGPGP
+sendmail_fromno valueno value
+sendmail_path/usr/sbin/sendmail -t -i /usr/sbin/sendmail -t -i
+serialize_precision-1-1
+short_open_tagOffOff
+SMTPlocalhostlocalhost
+smtp_port2525
+sys_temp_dirno valueno value
+syslog.facilityLOG_USERLOG_USER
+syslog.filterno-ctrlno-ctrl
+syslog.identphpphp
+track_errorsOffOff
+unserialize_callback_funcno valueno value
+upload_max_filesize5M5M
+upload_tmp_dirno valueno value
+user_dirno valueno value
+user_ini.cache_ttl300300
+user_ini.filename.user.ini.user.ini
+variables_orderGPCSGPCS
+xmlrpc_error_number00
+xmlrpc_errorsOffOff
+zend.assertions-1-1
+zend.detect_unicodeOnOn
+zend.enable_gcOnOn
+zend.multibyteOffOff
+zend.script_encodingno valueno value
+zend.signal_checkOffOff
+
+ctype
+
+ctype functions enabled
+
+curl
+
+cURL support enabled
+cURL Information 7.58.0
+Age 4
+Features
+AsynchDNS Yes
+CharConv No
+Debug No
+GSS-Negotiate No
+IDN Yes
+IPv6 Yes
+krb4 No
+Largefile Yes
+libz Yes
+NTLM Yes
+NTLMWB Yes
+SPNEGO Yes
+SSL Yes
+SSPI No
+TLS-SRP Yes
+HTTP2 Yes
+GSSAPI Yes
+KERBEROS5 Yes
+UNIX_SOCKETS Yes
+PSL Yes
+HTTPS_PROXY Yes
+MULTI_SSL No
+BROTLI No
+Protocols dict, file, ftp, ftps, gopher, http, https, imap, imaps, ldap, ldaps, pop3, pop3s, rtmp, rtsp, smb, smbs, smtp, smtps, telnet, tftp
+Host x86_64-pc-linux-gnu
+SSL Version OpenSSL/1.1.1d
+ZLib Version 1.2.11
+
+
+DirectiveLocal ValueMaster Value
+curl.cainfono valueno value
+
+date
+
+date/time support enabled
+timelib version 2018.02
+"Olson" Timezone Database Version 0.system
+Timezone Database internal
+Default timezone UTC
+
+
+DirectiveLocal ValueMaster Value
+date.default_latitude31.766731.7667
+date.default_longitude35.233335.2333
+date.sunrise_zenith90.58333390.583333
+date.sunset_zenith90.58333390.583333
+date.timezoneUTCUTC
+
+dom
+
+DOM/XML enabled
+DOM/XML API Version 20031129
+libxml Version 2.9.9
+HTML Support enabled
+XPath Support enabled
+XPointer Support enabled
+Schema Support enabled
+RelaxNG Support enabled
+
+exif
+
+EXIF Support enabled
+Supported EXIF Version 0220
+Supported filetypes JPEG, TIFF
+Multibyte decoding support using mbstring enabled
+Extended EXIF tag formats Canon, Casio, Fujifilm, Nikon, Olympus, Samsung, Panasonic, DJI, Sony, Pentax, Minolta, Sigma, Foveon, Kyocera, Ricoh, AGFA, Epson
+
+
+DirectiveLocal ValueMaster Value
+exif.decode_jis_intelJISJIS
+exif.decode_jis_motorolaJISJIS
+exif.decode_unicode_intelUCS-2LEUCS-2LE
+exif.decode_unicode_motorolaUCS-2BEUCS-2BE
+exif.encode_jisno valueno value
+exif.encode_unicodeISO-8859-15ISO-8859-15
+
+fileinfo
+
+fileinfo support enabled
+libmagic 533
+
+filter
+
+Input Validation and Filtering enabled
+
+
+DirectiveLocal ValueMaster Value
+filter.defaultunsafe_rawunsafe_raw
+filter.default_flagsno valueno value
+
+ftp
+
+FTP support enabled
+FTPS support enabled
+
+gd
+
+GD Support enabled
+GD headers Version 2.2.5
+GD library Version 2.2.5
+FreeType Support enabled
+FreeType Linkage with freetype
+FreeType Version 2.8.1
+GIF Read Support enabled
+GIF Create Support enabled
+JPEG Support enabled
+libJPEG Version 8
+PNG Support enabled
+libPNG Version 1.6.34
+WBMP Support enabled
+XPM Support enabled
+libXpm Version 30411
+XBM Support enabled
+WebP Support enabled
+
+
+DirectiveLocal ValueMaster Value
+gd.jpeg_ignore_warning11
+
+gettext
+
+GetText Support enabled
+
+hash
+
+hash support enabled
+Hashing Engines md2 md4 md5 sha1 sha224 sha256 sha384 sha512/224 sha512/256 sha512 sha3-224 sha3-256 sha3-384 sha3-512 ripemd128 ripemd160 ripemd256 ripemd320 whirlpool tiger128,3 tiger160,3 tiger192,3 tiger128,4 tiger160,4 tiger192,4 snefru snefru256 gost gost-crypto adler32 crc32 crc32b fnv132 fnv1a32 fnv164 fnv1a64 joaat haval128,3 haval160,3 haval192,3 haval224,3 haval256,3 haval128,4 haval160,4 haval192,4 haval224,4 haval256,4 haval128,5 haval160,5 haval192,5 haval224,5 haval256,5
+
+
+MHASH support Enabled
+MHASH API Version Emulated Support
+
+iconv
+
+iconv support enabled
+iconv implementation glibc
+iconv library version 2.27
+
+
+DirectiveLocal ValueMaster Value
+iconv.input_encodingno valueno value
+iconv.internal_encodingno valueno value
+iconv.output_encodingno valueno value
+
+igbinary
+
+igbinary support enabled
+igbinary version 3.1.6
+igbinary APCu serializer ABI 0
+igbinary session support yes
+
+
+DirectiveLocal ValueMaster Value
+igbinary.compact_stringsOnOn
+
+imagick
+
+imagick moduleenabled
+imagick module version 3.4.4
+imagick classes Imagick, ImagickDraw, ImagickPixel, ImagickPixelIterator, ImagickKernel
+Imagick compiled with ImageMagick version ImageMagick 6.9.7-4 Q16 x86_64 20170114 http://www.imagemagick.org
+Imagick using ImageMagick library version ImageMagick 6.9.7-4 Q16 x86_64 20170114 http://www.imagemagick.org
+ImageMagick copyright © 1999-2017 ImageMagick Studio LLC
+ImageMagick release date 20170114
+ImageMagick number of supported formats:  230
+ImageMagick supported formats 3FR, AAI, AI, ART, ARW, AVI, AVS, BGR, BGRA, BGRO, BIE, BMP, BMP2, BMP3, BRF, CAL, CALS, CANVAS, CAPTION, CIN, CIP, CLIP, CMYK, CMYKA, CR2, CRW, CUR, CUT, DATA, DCM, DCR, DCX, DDS, DFONT, DJVU, DNG, DOT, DPX, DXT1, DXT5, EPDF, EPI, EPS, EPS2, EPS3, EPSF, EPSI, EPT, EPT2, EPT3, ERF, EXR, FAX, FILE, FITS, FRACTAL, FTP, FTS, G3, G4, GIF, GIF87, GRADIENT, GRAY, GROUP4, GV, H, HALD, HDR, HISTOGRAM, HRZ, HTM, HTML, HTTP, HTTPS, ICB, ICO, ICON, IIQ, INFO, INLINE, IPL, ISOBRL, ISOBRL6, JBG, JBIG, JNG, JNX, JPE, JPEG, JPG, JPS, JSON, K25, KDC, LABEL, M2V, M4V, MAC, MAGICK, MAP, MASK, MAT, MATTE, MEF, MIFF, MKV, MNG, MONO, MOV, MP4, MPC, MPEG, MPG, MRW, MSL, MSVG, MTV, MVG, NEF, NRW, NULL, ORF, OTB, OTF, PAL, PALM, PAM, PANGO, PATTERN, PBM, PCD, PCDS, PCL, PCT, PCX, PDB, PDF, PDFA, PEF, PES, PFA, PFB, PFM, PGM, PICON, PICT, PIX, PJPEG, PLASMA, PNG, PNG00, PNG24, PNG32, PNG48, PNG64, PNG8, PNM, PPM, PREVIEW, PS, PS2, PS3, PSB, PSD, PTIF, PWP, RADIAL-GRADIENT, RAF, RAS, RAW, RGB, RGBA, RGBO, RGF, RLA, RLE, RMF, RW2, SCR, SCT, SFW, SGI, SHTML, SIX, SIXEL, SPARSE-COLOR, SR2, SRF, STEGANO, SUN, SVG, SVGZ, TEXT, TGA, THUMBNAIL, TIFF, TIFF64, TILE, TIM, TTC, TTF, TXT, UBRL, UBRL6, UIL, UYVY, VDA, VICAR, VID, VIFF, VIPS, VST, WBMP, WMF, WMV, WMZ, WPG, X, X3F, XBM, XC, XCF, XPM, XPS, XV, XWD, YCbCr, YCbCrA, YUV
+
+
+DirectiveLocal ValueMaster Value
+imagick.locale_fix00
+imagick.progress_monitor00
+imagick.set_single_thread11
+imagick.shutdown_sleep_count1010
+imagick.skip_version_check11
+
+imap
+
+IMAP c-Client Version 2007f
+SSL Support enabled
+Kerberos Support enabled
+
+
+DirectiveLocal ValueMaster Value
+imap.enable_insecure_rshOffOff
+
+intl
+
+Internationalization supportenabled
+ICU version 64.2
+ICU Data version 64.2
+ICU TZData version 2019a
+ICU Unicode version 12.1
+
+
+DirectiveLocal ValueMaster Value
+intl.default_localeno valueno value
+intl.error_level00
+intl.use_exceptions00
+
+json
+
+json support enabled
+json version 1.7.0
+
+libxml
+
+libXML support active
+libXML Compiled Version 2.9.9
+libXML Loaded Version 20910
+libXML streams enabled
+
+mbstring
+
+Multibyte Support enabled
+Multibyte string engine libmbfl
+HTTP input encoding translation disabled
+libmbfl version 1.3.2
+oniguruma version 6.9.3
+
+
+mbstring extension makes use of "streamable kanji code filter and converter", which is distributed under the GNU Lesser General Public License version 2.1.
+
+
+Multibyte (japanese) regex support enabled
+Multibyte regex (oniguruma) backtrack check On
+Multibyte regex (oniguruma) version 6.9.3
+
+
+DirectiveLocal ValueMaster Value
+mbstring.detect_orderno valueno value
+mbstring.encoding_translationOffOff
+mbstring.func_overload00
+mbstring.http_inputno valueno value
+mbstring.http_outputno valueno value
+mbstring.http_output_conv_mimetypes^(text/|application/xhtml\+xml)^(text/|application/xhtml\+xml)
+mbstring.internal_encodingno valueno value
+mbstring.languageneutralneutral
+mbstring.regex_stack_limit100000100000
+mbstring.strict_detectionOffOff
+mbstring.substitute_characterno valueno value
+
+memcached
+
+memcached supportenabled
+Version 3.1.5
+libmemcached version 1.0.18
+SASL support yes
+Session support yes
+igbinary support yes
+json support yes
+msgpack support yes
+
+
+DirectiveLocal ValueMaster Value
+memcached.compression_factor1.31.3
+memcached.compression_threshold20002000
+memcached.compression_typefastlzfastlz
+memcached.default_binary_protocolOffOff
+memcached.default_connect_timeout00
+memcached.default_consistent_hashOffOff
+memcached.serializerphpphp
+memcached.sess_binary_protocolOnOn
+memcached.sess_connect_timeout00
+memcached.sess_consistent_hashOnOn
+memcached.sess_consistent_hash_typeketamaketama
+memcached.sess_lock_expire00
+memcached.sess_lock_max_waitnot setnot set
+memcached.sess_lock_retries55
+memcached.sess_lock_waitnot setnot set
+memcached.sess_lock_wait_max150150
+memcached.sess_lock_wait_min150150
+memcached.sess_lockingOnOn
+memcached.sess_number_of_replicas00
+memcached.sess_persistentOffOff
+memcached.sess_prefixmemc.sess.key.memc.sess.key.
+memcached.sess_randomize_replica_readOffOff
+memcached.sess_remove_failed_serversOffOff
+memcached.sess_sasl_passwordno valueno value
+memcached.sess_sasl_usernameno valueno value
+memcached.sess_server_failure_limit00
+memcached.store_retry_count22
+
+msgpack
+
+MessagePack Support enabled
+Session Support enabled
+extension Version 2.1.2
+header Version 3.2.0
+
+
+DirectiveLocal ValueMaster Value
+msgpack.error_displayOnOn
+msgpack.illegal_key_insertOffOff
+msgpack.php_onlyOnOn
+msgpack.use_str8_serializationOnOn
+
+mysqli
+
+MysqlI Supportenabled
+Client API library version mysqlnd 5.0.12-dev - 20150407 - $Id: 7cc7cc96e675f6d72e5cf0f267f48e167c2abb23 $
+Active Persistent Links 0
+Inactive Persistent Links 0
+Active Links 0
+
+
+DirectiveLocal ValueMaster Value
+mysqli.allow_local_infileOffOff
+mysqli.allow_persistentOnOn
+mysqli.default_hostno valueno value
+mysqli.default_port33063306
+mysqli.default_pwno valueno value
+mysqli.default_socketno valueno value
+mysqli.default_userno valueno value
+mysqli.max_linksUnlimitedUnlimited
+mysqli.max_persistentUnlimitedUnlimited
+mysqli.reconnectOffOff
+mysqli.rollback_on_cached_plinkOffOff
+
+mysqlnd
+
+mysqlndenabled
+Version mysqlnd 5.0.12-dev - 20150407 - $Id: 7cc7cc96e675f6d72e5cf0f267f48e167c2abb23 $
+Compression supported
+core SSL supported
+extended SSL supported
+Command buffer size 4096
+Read buffer size 32768
+Read timeout 86400
+Collecting statistics Yes
+Collecting memory statistics No
+Tracing n/a
+Loaded plugins mysqlnd,debug_trace,auth_plugin_mysql_native_password,auth_plugin_mysql_clear_password,auth_plugin_sha256_password
+API Extensions mysqli,pdo_mysql
+
+
+mysqlnd statistics
+bytes_sent 0
+bytes_received 0
+packets_sent 0
+packets_received 0
+protocol_overhead_in 0
+protocol_overhead_out 0
+bytes_received_ok_packet 0
+bytes_received_eof_packet 0
+bytes_received_rset_header_packet 0
+bytes_received_rset_field_meta_packet 0
+bytes_received_rset_row_packet 0
+bytes_received_prepare_response_packet 0
+bytes_received_change_user_packet 0
+packets_sent_command 0
+packets_received_ok 0
+packets_received_eof 0
+packets_received_rset_header 0
+packets_received_rset_field_meta 0
+packets_received_rset_row 0
+packets_received_prepare_response 0
+packets_received_change_user 0
+result_set_queries 0
+non_result_set_queries 0
+no_index_used 0
+bad_index_used 0
+slow_queries 0
+buffered_sets 0
+unbuffered_sets 0
+ps_buffered_sets 0
+ps_unbuffered_sets 0
+flushed_normal_sets 0
+flushed_ps_sets 0
+ps_prepared_never_executed 0
+ps_prepared_once_executed 0
+rows_fetched_from_server_normal 0
+rows_fetched_from_server_ps 0
+rows_buffered_from_client_normal 0
+rows_buffered_from_client_ps 0
+rows_fetched_from_client_normal_buffered 0
+rows_fetched_from_client_normal_unbuffered 0
+rows_fetched_from_client_ps_buffered 0
+rows_fetched_from_client_ps_unbuffered 0
+rows_fetched_from_client_ps_cursor 0
+rows_affected_normal 0
+rows_affected_ps 0
+rows_skipped_normal 0
+rows_skipped_ps 0
+copy_on_write_saved 0
+copy_on_write_performed 0
+command_buffer_too_small 0
+connect_success 0
+connect_failure 0
+connection_reused 0
+reconnect 0
+pconnect_success 0
+active_connections 0
+active_persistent_connections 0
+explicit_close 0
+implicit_close 0
+disconnect_close 0
+in_middle_of_command_close 0
+explicit_free_result 0
+implicit_free_result 0
+explicit_stmt_close 0
+implicit_stmt_close 0
+mem_emalloc_count 0
+mem_emalloc_amount 0
+mem_ecalloc_count 0
+mem_ecalloc_amount 0
+mem_erealloc_count 0
+mem_erealloc_amount 0
+mem_efree_count 0
+mem_efree_amount 0
+mem_malloc_count 0
+mem_malloc_amount 0
+mem_calloc_count 0
+mem_calloc_amount 0
+mem_realloc_count 0
+mem_realloc_amount 0
+mem_free_count 0
+mem_free_amount 0
+mem_estrndup_count 0
+mem_strndup_count 0
+mem_estrdup_count 0
+mem_strdup_count 0
+mem_edupl_count 0
+mem_dupl_count 0
+proto_text_fetched_null 0
+proto_text_fetched_bit 0
+proto_text_fetched_tinyint 0
+proto_text_fetched_short 0
+proto_text_fetched_int24 0
+proto_text_fetched_int 0
+proto_text_fetched_bigint 0
+proto_text_fetched_decimal 0
+proto_text_fetched_float 0
+proto_text_fetched_double 0
+proto_text_fetched_date 0
+proto_text_fetched_year 0
+proto_text_fetched_time 0
+proto_text_fetched_datetime 0
+proto_text_fetched_timestamp 0
+proto_text_fetched_string 0
+proto_text_fetched_blob 0
+proto_text_fetched_enum 0
+proto_text_fetched_set 0
+proto_text_fetched_geometry 0
+proto_text_fetched_other 0
+proto_binary_fetched_null 0
+proto_binary_fetched_bit 0
+proto_binary_fetched_tinyint 0
+proto_binary_fetched_short 0
+proto_binary_fetched_int24 0
+proto_binary_fetched_int 0
+proto_binary_fetched_bigint 0
+proto_binary_fetched_decimal 0
+proto_binary_fetched_float 0
+proto_binary_fetched_double 0
+proto_binary_fetched_date 0
+proto_binary_fetched_year 0
+proto_binary_fetched_time 0
+proto_binary_fetched_datetime 0
+proto_binary_fetched_timestamp 0
+proto_binary_fetched_string 0
+proto_binary_fetched_json 0
+proto_binary_fetched_blob 0
+proto_binary_fetched_enum 0
+proto_binary_fetched_set 0
+proto_binary_fetched_geometry 0
+proto_binary_fetched_other 0
+init_command_executed_count 0
+init_command_failed_count 0
+com_quit 0
+com_init_db 0
+com_query 0
+com_field_list 0
+com_create_db 0
+com_drop_db 0
+com_refresh 0
+com_shutdown 0
+com_statistics 0
+com_process_info 0
+com_connect 0
+com_process_kill 0
+com_debug 0
+com_ping 0
+com_time 0
+com_delayed_insert 0
+com_change_user 0
+com_binlog_dump 0
+com_table_dump 0
+com_connect_out 0
+com_register_slave 0
+com_stmt_prepare 0
+com_stmt_execute 0
+com_stmt_send_long_data 0
+com_stmt_close 0
+com_stmt_reset 0
+com_stmt_set_option 0
+com_stmt_fetch 0
+com_deamon 0
+bytes_received_real_data_normal 0
+bytes_received_real_data_ps 0
+
+openssl
+
+OpenSSL support enabled
+OpenSSL Library Version OpenSSL 1.1.1d  10 Sep 2019
+OpenSSL Header Version OpenSSL 1.1.1d  10 Sep 2019
+Openssl default config /usr/lib/ssl/openssl.cnf
+
+
+DirectiveLocal ValueMaster Value
+openssl.cafileno valueno value
+openssl.capathno valueno value
+
+pcre
+
+PCRE (Perl Compatible Regular Expressions) Support enabled
+PCRE Library Version 10.33 2019-04-16
+PCRE Unicode Version 11.0.0
+PCRE JIT Support enabled
+PCRE JIT Target x86 64bit (little endian + unaligned)
+
+
+DirectiveLocal ValueMaster Value
+pcre.backtrack_limit10000001000000
+pcre.jit11
+pcre.recursion_limit100000100000
+
+PDO
+
+PDO supportenabled
+PDO drivers mysql, pgsql, sqlite
+
+pdo_mysql
+
+PDO Driver for MySQLenabled
+Client API version mysqlnd 5.0.12-dev - 20150407 - $Id: 7cc7cc96e675f6d72e5cf0f267f48e167c2abb23 $
+
+
+DirectiveLocal ValueMaster Value
+pdo_mysql.default_socket/var/run/mysqld/mysqld.sock/var/run/mysqld/mysqld.sock
+
+pdo_pgsql
+
+PDO Driver for PostgreSQL enabled
+PostgreSQL(libpq) Version 10.10 (Ubuntu 10.10-0ubuntu0.18.04.1)
+
+pdo_sqlite
+
+PDO Driver for SQLite 3.xenabled
+SQLite Library 3.22.0
+
+pgsql
+
+PostgreSQL Supportenabled
+PostgreSQL(libpq) Version 10.10 (Ubuntu 10.10-0ubuntu0.18.04.1)
+PostgreSQL(libpq)  PostgreSQL 10.10 (Ubuntu 10.10-0ubuntu0.18.04.1) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 7.4.0-1ubuntu1~18.04.1) 7.4.0, 64-bit
+Multibyte character support enabled
+SSL support enabled
+Active Persistent Links 0
+Active Links 0
+
+
+DirectiveLocal ValueMaster Value
+pgsql.allow_persistentOnOn
+pgsql.auto_reset_persistentOffOff
+pgsql.ignore_noticeOffOff
+pgsql.log_noticeOffOff
+pgsql.max_linksUnlimitedUnlimited
+pgsql.max_persistentUnlimitedUnlimited
+
+Phar
+
+Phar: PHP Archive supportenabled
+Phar API version 1.1.1
+Phar-based phar archives enabled
+Tar-based phar archives enabled
+ZIP-based phar archives enabled
+gzip compression enabled
+bzip2 compression disabled (install ext/bz2)
+Native OpenSSL support enabled
+
+
+
+Phar based on pear/PHP_Archive, original concept by Davey Shafik.Phar fully realized by Gregory Beaver and Marcus Boerger.Portions of tar implementation Copyright (c) 2003-2009 Tim Kientzle.
+
+
+DirectiveLocal ValueMaster Value
+phar.cache_listno valueno value
+phar.readonlyOnOn
+phar.require_hashOnOn
+
+posix
+
+POSIX support enabled
+
+readline
+
+Readline Supportenabled
+Readline library EditLine wrapper
+
+
+DirectiveLocal ValueMaster Value
+cli.pagerno valueno value
+cli.prompt\b \> \b \>
+
+redis
+
+Redis Supportenabled
+Redis Version 5.3.2
+Redis Sentinel Version 0.1
+Available serializers php, json, igbinary
+
+
+DirectiveLocal ValueMaster Value
+redis.arrays.algorithmno valueno value
+redis.arrays.authno valueno value
+redis.arrays.autorehash00
+redis.arrays.connecttimeout00
+redis.arrays.consistent00
+redis.arrays.distributorno valueno value
+redis.arrays.functionsno valueno value
+redis.arrays.hostsno valueno value
+redis.arrays.index00
+redis.arrays.lazyconnect00
+redis.arrays.namesno valueno value
+redis.arrays.pconnect00
+redis.arrays.previousno valueno value
+redis.arrays.readtimeout00
+redis.arrays.retryinterval00
+redis.clusters.authno valueno value
+redis.clusters.cache_slots00
+redis.clusters.persistent00
+redis.clusters.read_timeout00
+redis.clusters.seedsno valueno value
+redis.clusters.timeout00
+redis.pconnect.connection_limit00
+redis.pconnect.echo_check_liveness11
+redis.pconnect.pool_patternno valueno value
+redis.pconnect.pooling_enabled11
+redis.session.lock_expire00
+redis.session.lock_retries1010
+redis.session.lock_wait_time20002000
+redis.session.locking_enabled00
+
+Reflection
+
+Reflection enabled
+
+session
+
+Session Support enabled
+Registered save handlers files user redis rediscluster memcached
+Registered serializer handlers php_serialize php php_binary igbinary msgpack wddx
+
+
+DirectiveLocal ValueMaster Value
+session.auto_startOffOff
+session.cache_expire180180
+session.cache_limiternocachenocache
+session.cookie_domainno valueno value
+session.cookie_httponlyno valueno value
+session.cookie_lifetime00
+session.cookie_path//
+session.cookie_samesiteno valueno value
+session.cookie_secure00
+session.gc_divisor10001000
+session.gc_maxlifetime14401440
+session.gc_probability00
+session.lazy_writeOnOn
+session.namePHPSESSIDPHPSESSID
+session.referer_checkno valueno value
+session.save_handlerfilesfiles
+session.save_path/var/lib/php/sessions/var/lib/php/sessions
+session.serialize_handlerphpphp
+session.sid_bits_per_character55
+session.sid_length2626
+session.upload_progress.cleanupOnOn
+session.upload_progress.enabledOnOn
+session.upload_progress.freq1%1%
+session.upload_progress.min_freq11
+session.upload_progress.namePHP_SESSION_UPLOAD_PROGRESSPHP_SESSION_UPLOAD_PROGRESS
+session.upload_progress.prefixupload_progress_upload_progress_
+session.use_cookies11
+session.use_only_cookies11
+session.use_strict_mode00
+session.use_trans_sid00
+
+shmop
+
+shmop support enabled
+
+SimpleXML
+
+SimpleXML support enabled
+Schema support enabled
+
+soap
+
+Soap Client enabled
+Soap Server enabled
+
+
+DirectiveLocal ValueMaster Value
+soap.wsdl_cache11
+soap.wsdl_cache_dir/tmp/tmp
+soap.wsdl_cache_enabled11
+soap.wsdl_cache_limit55
+soap.wsdl_cache_ttl8640086400
+
+sockets
+
+Sockets Support enabled
+
+sodium
+
+sodium supportenabled
+libsodium headers version 1.0.18
+libsodium library version 1.0.18
+
+SPL
+
+SPL supportenabled
+Interfaces OuterIterator, RecursiveIterator, SeekableIterator, SplObserver, SplSubject
+Classes AppendIterator, ArrayIterator, ArrayObject, BadFunctionCallException, BadMethodCallException, CachingIterator, CallbackFilterIterator, DirectoryIterator, DomainException, EmptyIterator, FilesystemIterator, FilterIterator, GlobIterator, InfiniteIterator, InvalidArgumentException, IteratorIterator, LengthException, LimitIterator, LogicException, MultipleIterator, NoRewindIterator, OutOfBoundsException, OutOfRangeException, OverflowException, ParentIterator, RangeException, RecursiveArrayIterator, RecursiveCachingIterator, RecursiveCallbackFilterIterator, RecursiveDirectoryIterator, RecursiveFilterIterator, RecursiveIteratorIterator, RecursiveRegexIterator, RecursiveTreeIterator, RegexIterator, RuntimeException, SplDoublyLinkedList, SplFileInfo, SplFileObject, SplFixedArray, SplHeap, SplMinHeap, SplMaxHeap, SplObjectStorage, SplPriorityQueue, SplQueue, SplStack, SplTempFileObject, UnderflowException, UnexpectedValueException
+
+sqlite3
+
+SQLite3 supportenabled
+SQLite Library 3.22.0
+
+
+DirectiveLocal ValueMaster Value
+sqlite3.extension_dirno valueno value
+
+standard
+
+Dynamic Library Support enabled
+Path to sendmail /usr/sbin/sendmail -t -i
+
+
+DirectiveLocal ValueMaster Value
+assert.active11
+assert.bail00
+assert.callbackno valueno value
+assert.exception00
+assert.quiet_eval00
+assert.warning11
+auto_detect_line_endings00
+default_socket_timeout6060
+fromno valueno value
+session.trans_sid_hostsno valueno value
+session.trans_sid_tagsa=href,area=href,frame=src,form=a=href,area=href,frame=src,form=
+url_rewriter.hostsno valueno value
+url_rewriter.tagsform=form=
+user_agentno valueno value
+
+sysvmsg
+
+sysvmsg support enabled
+
+sysvsem
+
+sysvsem support enabled
+
+sysvshm
+
+sysvshm support enabled
+
+tokenizer
+
+Tokenizer Support enabled
+
+wddx
+
+WDDX Supportenabled
+WDDX Session Serializer enabled
+
+xml
+
+XML Support active
+XML Namespace Support active
+libxml2 Version 2.9.9
+
+xmlreader
+
+XMLReader enabled
+
+xmlwriter
+
+XMLWriter enabled
+
+xsl
+
+XSL enabled
+libxslt Version 1.1.29
+libxslt compiled against libxml Version 2.9.4
+EXSLT enabled
+libexslt Version 1.1.29
+
+Zend OPcache
+
+Opcode Caching Up and Running
+Optimization Enabled
+SHM Cache Enabled
+File Cache Disabled
+Startup OK
+Shared memory model mmap
+Cache hits 585172
+Cache misses 2
+Used memory 9271696
+Free memory 124946032
+Wasted memory 0
+Interned Strings Used memory 483080
+Interned Strings Free memory 5807952
+Cached scripts 2
+Cached keys 2
+Max keys 16229
+OOM restarts 0
+Hash keys restarts 0
+Manual restarts 0
+
+
+DirectiveLocal ValueMaster Value
+opcache.blacklist_filenameno valueno value
+opcache.consistency_checks00
+opcache.dups_fixOffOff
+opcache.enableOnOn
+opcache.enable_cliOffOff
+opcache.enable_file_overrideOffOff
+opcache.error_logno valueno value
+opcache.file_cacheno valueno value
+opcache.file_cache_consistency_checks11
+opcache.file_cache_only00
+opcache.file_update_protection22
+opcache.force_restart_timeout180180
+opcache.huge_code_pagesOffOff
+opcache.interned_strings_buffer88
+opcache.lockfile_path/tmp/tmp
+opcache.log_verbosity_level11
+opcache.max_accelerated_files1000010000
+opcache.max_file_size00
+opcache.max_wasted_percentage55
+opcache.memory_consumption128128
+opcache.opt_debug_level00
+opcache.optimization_level0x7FFEBFFF0x7FFEBFFF
+opcache.preferred_memory_modelno valueno value
+opcache.protect_memory00
+opcache.restrict_apino valueno value
+opcache.revalidate_freq22
+opcache.revalidate_pathOffOff
+opcache.save_comments11
+opcache.use_cwdOnOn
+opcache.validate_permissionOffOff
+opcache.validate_rootOffOff
+opcache.validate_timestampsOnOn
+
+zip
+
+Zip enabled
+Zip version 1.15.4
+Libzip headers version 1.5.1
+Libzip library version 1.5.1
+
+zlib
+
+ZLib Supportenabled
+Stream Wrapper compress.zlib://
+Stream Filter zlib.inflate, zlib.deflate
+Compiled Version 1.2.11
+Linked Version 1.2.11
+
+
+DirectiveLocal ValueMaster Value
+zlib.output_compressionOffOff
+zlib.output_compression_level-1-1
+zlib.output_handlerno valueno value
+
+Additional Modules
+
+Module Name
+
+Environment
+
+VariableValue
+USER forge
+HOME /home/forge
+
+PHP Variables
+
+VariableValue
+$_SERVER['USER']forge
+$_SERVER['HOME']/home/forge
+$_SERVER['HTTP_CONNECTION']keep-alive
+$_SERVER['HTTP_ACCEPT']*/*
+$_SERVER['HTTP_ACCEPT_ENCODING']gzip, deflate, br
+$_SERVER['HTTP_USER_AGENT']python-requests/2.32.3
+$_SERVER['HTTP_HOST']api.hartvantroost.nl
+$_SERVER['REDIRECT_STATUS']200
+$_SERVER['SERVER_NAME']default
+$_SERVER['SERVER_PORT']80
+$_SERVER['SERVER_ADDR']167.172.34.66
+$_SERVER['REMOTE_PORT']56544
+$_SERVER['REMOTE_ADDR']173.179.178.135
+$_SERVER['SERVER_SOFTWARE']nginx/1.17.3
+$_SERVER['GATEWAY_INTERFACE']CGI/1.1
+$_SERVER['SERVER_PROTOCOL']HTTP/1.1
+$_SERVER['DOCUMENT_ROOT']/home/forge/default/public
+$_SERVER['DOCUMENT_URI']/index.php
+$_SERVER['REQUEST_URI']/search
+$_SERVER['SCRIPT_NAME']/index.php
+$_SERVER['SCRIPT_FILENAME']/home/forge/default/public/index.php
+$_SERVER['CONTENT_LENGTH']no value
+$_SERVER['CONTENT_TYPE']no value
+$_SERVER['REQUEST_METHOD']GET
+$_SERVER['QUERY_STRING']no value
+$_SERVER['FCGI_ROLE']RESPONDER
+$_SERVER['PHP_SELF']/index.php
+$_SERVER['REQUEST_TIME_FLOAT']1742847430.1299
+$_SERVER['REQUEST_TIME']1742847430
+
+
+PHP Credits
+
+PHP Group
+Thies C. Arntzen, Stig Bakken, Shane Caraveo, Andi Gutmans, Rasmus Lerdorf, Sam Ruby, Sascha Schumann, Zeev Suraski, Jim Winstead, Andrei Zmievski
+
+
+Language Design & Concept
+Andi Gutmans, Rasmus Lerdorf, Zeev Suraski, Marcus Boerger
+
+
+PHP Authors
+ContributionAuthors
+Zend Scripting Language Engine Andi Gutmans, Zeev Suraski, Stanislav Malyshev, Marcus Boerger, Dmitry Stogov, Xinchen Hui, Nikita Popov
+Extension Module API Andi Gutmans, Zeev Suraski, Andrei Zmievski
+UNIX Build and Modularization Stig Bakken, Sascha Schumann, Jani Taskinen
+Windows Support Shane Caraveo, Zeev Suraski, Wez Furlong, Pierre-Alain Joye, Anatol Belski, Kalle Sommer Nielsen
+Server API (SAPI) Abstraction Layer Andi Gutmans, Shane Caraveo, Zeev Suraski
+Streams Abstraction Layer Wez Furlong, Sara Golemon
+PHP Data Objects Layer Wez Furlong, Marcus Boerger, Sterling Hughes, George Schlossnagle, Ilia Alshanetsky
+Output Handler Zeev Suraski, Thies C. Arntzen, Marcus Boerger, Michael Wallner
+Consistent 64 bit support Anthony Ferrara, Anatol Belski
+
+
+SAPI Modules
+ContributionAuthors
+Apache 2.0 Handler Ian Holsman, Justin Erenkrantz (based on Apache 2.0 Filter code)
+CGI / FastCGI Rasmus Lerdorf, Stig Bakken, Shane Caraveo, Dmitry Stogov
+CLI Edin Kadribasic, Marcus Boerger, Johannes Schlueter, Moriyoshi Koizumi, Xinchen Hui
+Embed Edin Kadribasic
+FastCGI Process Manager Andrei Nigmatulin, dreamcat4, Antony Dovgal, Jerome Loyet
+litespeed George Wang
+phpdbg Felipe Pena, Joe Watkins, Bob Weinand
+
+
+Module Authors
+ModuleAuthors
+BC Math Andi Gutmans
+Bzip2 Sterling Hughes
+Calendar Shane Caraveo, Colin Viebrock, Hartmut Holzgraefe, Wez Furlong
+COM and .Net Wez Furlong
+ctype Hartmut Holzgraefe
+cURL Sterling Hughes
+Date/Time Support Derick Rethans
+DB-LIB (MS SQL, Sybase) Wez Furlong, Frank M. Kromann, Adam Baratz
+DBA Sascha Schumann, Marcus Boerger
+DOM Christian Stocker, Rob Richards, Marcus Boerger
+enchant Pierre-Alain Joye, Ilia Alshanetsky
+EXIF Rasmus Lerdorf, Marcus Boerger
+fileinfo Ilia Alshanetsky, Pierre Alain Joye, Scott MacVicar, Derick Rethans, Anatol Belski
+Firebird driver for PDO Ard Biesheuvel
+FTP Stefan Esser, Andrew Skalski
+GD imaging Rasmus Lerdorf, Stig Bakken, Jim Winstead, Jouni Ahto, Ilia Alshanetsky, Pierre-Alain Joye, Marcus Boerger
+GetText Alex Plotnick
+GNU GMP support Stanislav Malyshev
+Iconv Rui Hirokawa, Stig Bakken, Moriyoshi Koizumi
+IMAP Rex Logan, Mark Musone, Brian Wang, Kaj-Michael Lang, Antoni Pamies Olive, Rasmus Lerdorf, Andrew Skalski, Chuck Hagenbuch, Daniel R Kalowsky
+Input Filter Rasmus Lerdorf, Derick Rethans, Pierre-Alain Joye, Ilia Alshanetsky
+InterBase Jouni Ahto, Andrew Avdeev, Ard Biesheuvel
+Internationalization Ed Batutis, Vladimir Iordanov, Dmitry Lakhtyuk, Stanislav Malyshev, Vadim Savchuk, Kirti Velankar
+JSON Jakub Zelenka, Omar Kilani, Scott MacVicar
+LDAP Amitay Isaacs, Eric Warnke, Rasmus Lerdorf, Gerrit Thomson, Stig Venaas
+LIBXML Christian Stocker, Rob Richards, Marcus Boerger, Wez Furlong, Shane Caraveo
+Multibyte String Functions Tsukada Takuya, Rui Hirokawa
+MySQL driver for PDO George Schlossnagle, Wez Furlong, Ilia Alshanetsky, Johannes Schlueter
+MySQLi Zak Greant, Georg Richter, Andrey Hristov, Ulf Wendel
+MySQLnd Andrey Hristov, Ulf Wendel, Georg Richter, Johannes Schlüter
+OCI8 Stig Bakken, Thies C. Arntzen, Andy Sautins, David Benson, Maxim Maletsky, Harald Radi, Antony Dovgal, Andi Gutmans, Wez Furlong, Christopher Jones, Oracle Corporation
+ODBC driver for PDO Wez Furlong
+ODBC Stig Bakken, Andreas Karajannis, Frank M. Kromann, Daniel R. Kalowsky
+Opcache Andi Gutmans, Zeev Suraski, Stanislav Malyshev, Dmitry Stogov, Xinchen Hui
+OpenSSL Stig Venaas, Wez Furlong, Sascha Kettler, Scott MacVicar
+Oracle (OCI) driver for PDO Wez Furlong
+pcntl Jason Greene, Arnaud Le Blanc
+Perl Compatible Regexps Andrei Zmievski
+PHP Archive Gregory Beaver, Marcus Boerger
+PHP Data Objects Wez Furlong, Marcus Boerger, Sterling Hughes, George Schlossnagle, Ilia Alshanetsky
+PHP hash Sara Golemon, Rasmus Lerdorf, Stefan Esser, Michael Wallner, Scott MacVicar
+Posix Kristian Koehntopp
+PostgreSQL driver for PDO Edin Kadribasic, Ilia Alshanetsky
+PostgreSQL Jouni Ahto, Zeev Suraski, Yasuo Ohgaki, Chris Kings-Lynne
+Pspell Vlad Krupin
+Readline Thies C. Arntzen
+Recode Kristian Koehntopp
+Reflection Marcus Boerger, Timm Friebe, George Schlossnagle, Andrei Zmievski, Johannes Schlueter
+Sessions Sascha Schumann, Andrei Zmievski
+Shared Memory Operations Slava Poliakov, Ilia Alshanetsky
+SimpleXML Sterling Hughes, Marcus Boerger, Rob Richards
+SNMP Rasmus Lerdorf, Harrie Hazewinkel, Mike Jackson, Steven Lawrance, Johann Hanne, Boris Lytochkin
+SOAP Brad Lafountain, Shane Caraveo, Dmitry Stogov
+Sockets Chris Vandomelen, Sterling Hughes, Daniel Beulshausen, Jason Greene
+Sodium Frank Denis
+SPL Marcus Boerger, Etienne Kneuss
+SQLite 3.x driver for PDO Wez Furlong
+SQLite3 Scott MacVicar, Ilia Alshanetsky, Brad Dewar
+System V Message based IPC Wez Furlong
+System V Semaphores Tom May
+System V Shared Memory Christian Cartus
+tidy John Coggeshall, Ilia Alshanetsky
+tokenizer Andrei Zmievski, Johannes Schlueter
+WDDX Andrei Zmievski
+XML Stig Bakken, Thies C. Arntzen, Sterling Hughes
+XMLReader Rob Richards
+xmlrpc Dan Libby
+XMLWriter Rob Richards, Pierre-Alain Joye
+XSL Christian Stocker, Rob Richards
+Zip Pierre-Alain Joye, Remi Collet
+Zlib Rasmus Lerdorf, Stefan Roehrich, Zeev Suraski, Jade Nicoletti, Michael Wallner
+
+
+PHP Documentation
+Authors Mehdi Achour, Friedhelm Betz, Antony Dovgal, Nuno Lopes, Hannes Magnusson, Philip Olson, Georg Richter, Damien Seguy, Jakub Vrana, Adam Harvey
+Editor Peter Cowburn
+User Note Maintainers Daniel P. Brown, Thiago Henrique Pojda
+Other Contributors Previously active authors, editors and other contributors are listed in the manual.
+
+
+PHP Quality Assurance Team
+Ilia Alshanetsky, Joerg Behrens, Antony Dovgal, Stefan Esser, Moriyoshi Koizumi, Magnus Maatta, Sebastian Nohn, Derick Rethans, Melvyn Sopacua, Pierre-Alain Joye, Dmitry Stogov, Felipe Pena, David Soria Parra, Stanislav Malyshev, Julien Pauli, Stephen Zarkos, Anatol Belski, Remi Collet, Ferenc Kovacs
+
+
+Websites and Infrastructure team
+PHP Websites Team Rasmus Lerdorf, Hannes Magnusson, Philip Olson, Lukas Kahwe Smith, Pierre-Alain Joye, Kalle Sommer Nielsen, Peter Cowburn, Adam Harvey, Ferenc Kovacs, Levi Morrison
+Event Maintainers Damien Seguy, Daniel P. Brown
+Network Infrastructure Daniel P. Brown
+Windows Infrastructure Alex Schoenmaker
+
+PHP License
+
+
+
+This program is free software; you can redistribute it and/or modify it under the terms of the PHP License as published by the PHP Group and included in the distribution in the file:  LICENSE
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+If you did not receive a copy of the PHP license, or have any questions about PHP licensing, please contact license@php.net.
+
+

@@ -1,0 +1,426 @@
+
+
+
+
+
+SiK Telemetry Radio — Copter  documentation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Copter
+Plane
+Rover
+Blimp
+Sub
+AntennaTracker
+Mission Planner
+APM Planner 2
+MAVProxy
+Companion Computers
+Developer
+
+
+Downloads
+
+Mission Planner
+APM Planner 2
+Advanced User Tools
+Developer Tools
+Firmware
+
+
+Community
+
+Support Forums
+Facebook
+Developer Chat (Discord)
+Developer Voice (Discord)
+Contact us
+Getting involved
+Commercial Support
+Development Team
+UAS Training Centers
+
+
+Stores
+About
+
+News
+History
+License
+Trademark
+Acknowledgments
+Wiki Editing Guide
+Partners Program
+
+
+
+
+
+
+
+
+
+Copter
+
+
+
+
+
+
+
+
+
+
+
+Introduction to Copter
+Choosing an Autopilot
+Ground Control Stations
+First Time Setup
+First Flight and Tuning
+Traditional Helicopters
+Mission Planning
+If A Problem Arises
+Advanced Configuration
+Peripheral Hardware
+ADS-B Receiver
+Airspeed Sensor
+AIS (Automatic Identification System)
+Barometer (external)
+BlackBox Logger using an AutoPilot
+Button Inputs
+Buzzer
+Cameras & Gimbals
+Companion Computers
+Crop Sprayer
+Display (Onboard)
+DroneCAN Adapter Node
+DroneCAN Peripherals
+ESCs and Motors
+Ethernet Adapters
+External AHRS Systems
+First Person View Video
+Fuel Flow and Level Sensors
+Generators
+GPS/Compass
+Grippers
+Joystick or Gamepad
+Landing Gear/ Retractable Camera Mount
+LEDs (external)
+Non-GPS navigation
+On-Screen Display (OSD)
+Optical Flow Sensor
+Parachute
+Power Modules
+Power Tether
+PPM Encoder
+Precision Landing and Loiter using IRLock
+Radio Control Systems
+Rangefinders (Sonar, Lidar, Depth Cameras)
+Received Signal Strength Indication (RSSI)
+Relay Switch
+Remote Id (aka Drone Id)
+RPM Sensor
+Safety Switch
+Servos
+Smart Batteries
+Telemetry Radio
+Short Range (<10KM)
+Bluetooth
+CUAV PW-Link
+ESP8266 wifi telemetry
+ESP32 wifi telemetry
+FrSky telemetry
+i-BUS telemetry
+Yaapu Bi-Directional Telemetry GCS
+HOTT telemetry
+MSP (version 4.2)
+SiK Radio v1
+SiK Radio v2
+SiK Radio configuration
+SiK Radio advanced configuration
+XBee
+
+
+Long Range
+Applications and Info
+
+
+Temperature Sensors
+Video (High Definition)
+Winch
+
+
+Additional Information
+User Alerts
+
+
+
+
+
+
+
+Individual
+Partners
+SWAG Shop
+
+
+
+
+
+
+
+
+Copter
+
+
+
+
+
+
+Peripheral Hardware
+Telemetry (landing page)
+SiK Telemetry Radio
+
+Edit on GitHub
+
+
+
+
+
+
+
+SiK Telemetry RadioÂ¶
+A SiK Telemetry Radio is one of the easiest ways to setup a telemetry
+connection between your Autopilot and a ground station. This article
+provides a basic user guide for how to connect and configure your radio.
+
+
+
+3DR Radio v2 (a consumer implementation of SiKRadio)Â¶
+
+
+
+Note
+This page was previously named 3DR Radio (version 2) for
+3DRoboticsâ trusted high quality implementation of SiK radio. As this
+radio is no longer available from 3DR, the page has been renamed to
+reflect the underlying open source radio platform.
+
+
+OverviewÂ¶
+A SiK Telemetry Radio is a small,
+light and inexpensive open source radio platform that typically allows
+ranges of better than 300m âout of the boxâ (the range can be extended
+to several kilometres with the use of a patch antenna on the ground).
+The radio uses open source firmware
+which has been specially designed to work well with MAVLink packets and
+to be integrated with the Mission Planner, Copter, Rover and Plane.
+The radios can be either 915Mhz or 433Mhz and you should purchase the
+model which is appropriate for your country/region.
+As the platform is open source, implementation can be purchased from
+many different sources, including ArduPilot Partners:
+
+Search EBay for SiK Telemetry Radio (be aware, many âclonesâ have incorrect analog modules and will interoperate fine with themselves, although with reduced range, but not with the original â3DRâ design. OEM versions below do not have this issue)
+mRo SiK Telemetry Radio (mRobotics)
+Holybro SiK Telemetry Radio (Holybro)
+
+
+Tip
+If youâre looking for an alternative, the
+RFD900 Radio Modem is highly recommended by many community members
+(The SiK platform was based on the RFD900 and both platforms have
+continued to evolve). It provides a significantly better range.
+
+
+
+FeaturesÂ¶
+The main features of the SiK Radio are listed below (see the Advanced Configuration
+for more information):
+
+Very small size
+Light weight (under 4 grams without antenna)
+Available in 900MHz or 433MHz (v2 only) variants
+Receiver sensitivity to -121 dBm
+Transmit power up to 20dBm (100mW)
+Transparent serial link
+Air data rates up to 250kbps
+MAVLink protocol framing and status reporting
+Frequency hopping spread spectrum (FHSS)
+Adaptive time division multiplexing (TDM)
+Support for LBT and AFA
+Configurable duty cycle
+Built-in error correcting code (can correct up to 25% data bit
+errors)
+Demonstrated range of several kilometres with a small omni antenna
+Can be used with a bi-directional amplifier for even more range
+Open source firmware
+AT commands for radio configuration
+RT commands for remote radio configuration
+Adaptive flow control when used with APM
+Based on HM-TRP radio modules, with Si1000 8051 micro-controller and
+Si4432 radio module
+
+
+
+Status LEDsÂ¶
+The radios have 2 status LEDs, one red and one green. The meaning of the
+different LED states is:
+
+Green LED blinking - searching for another radio
+Green LED solid - link is established with another radio
+Red LED flashing - transmitting data
+Red LED solid - in firmware update mode
+
+
+
+Connecting the radiosÂ¶
+The radio has interchangeable air and ground modules, meaning that you
+use them as a pair but it does not matter which one goes on the vehicle
+and which remains on the ground.
+The radio has a micro-USB port, and a DF13 six-position port. The
+following sections explain how to connect these to autopilots
+and ground stations.
+
+
+
+Connecting to PixhawkÂ¶
+Use the 6 pin DF13 connector that should have come with the radio to connect the
+radio to your Pixhawkâs âTelem 1â (âTelem 2â or âSerial 4/5â can also be used but the
+default recommendation is âTelem1â).
+
+
+
+Connecting to a PCÂ¶
+Connecting the radio to your Windows PC is as simple as connecting the
+micro USB cable (which should have been included with the radio) to your
+PC. The necessary drivers should be installed automatically and the
+radio will appear as a new âUSB Serial Portâ in the Windows Device
+Manager under Ports (COM & LPT). The Mission Plannerâs COM Port
+selection drop-down should also contain the same new COM port.
+
+To connect the radios:
+
+Select the new COM port, set the baud rate drop down (which appears
+between the COM port and Connect buttons) to 57600.
+Press the Connect button and if the two radios connect
+successfully you should be able to lean your vehicle left and right
+and see its attitude update on the MPâs Flight Data screenâs
+artificial horizon.
+
+
+
+Connecting to an Android tabletÂ¶
+Connecting the radio to an Android tablet using the L shaped micro USB
+cable (which should have been included with the radio). Then follow the
+directions in your preferred Ground Station app.
+
+
+
+
+Configuring using the Mission PlannerÂ¶
+Many users will not need to configure their radios! One case where you
+might do so is when you use your vehicle with others â in which case you
+will need to specify different radio channels (Net ID).
+Mission Planner supports configuring your radios using a simple GUI
+interface. For more information see Configuring a Telemetry Radio using Mission Planner.
+
+
+Updating the FirmwareÂ¶
+You can check the firmware version (latest version is here ) using the GUI tool mentioned in the previous section and update if necessary with  these instructions
+
+
+Expected rangeÂ¶
+Typical range achieved with the radios using standard configuration and
+antenna is around 500m, but the range varies a lot depending on noise
+sources and antenna setup.
+
+Diagnosing range issuesÂ¶
+The first thing you should do when diagnosing range issues is the âone
+meter testâ. Setup the two radios one meter apart and look at the local
+and remote RSSI. You should get a value of over 190 for a standard SiK
+radio. If you donât then your antennas may be faulty or your radios may
+have been damaged. If you have ever run the radios without an antenna
+attached them the radio may have been damaged.
+If that test passes then have a look at your local and remote RSSI and
+noise from a flight. See the advanced setup page
+for detailed information on diagnosing range issues using telemetry
+logs.
+
+
+
+Improving the rangeÂ¶
+The range can be improved by:
+
+Using an inexpensive 900Mhz yagi antenna on the ground like these  perhaps mounted on an Antenna Tracker
+Replace at least one of the two radios with a higher powered
+RFD900
+Reduce the AirRate parameter which will increase range but at the
+expense of the rate of the data transfer.
+
+The graph below shows the ground and remote receiver strength vs
+distance from home (in meters) for a test flight of a 3DR Radio (SiK
+implementation) on a SkyFun plane. The ground based radio was attached
+to a 3.5dB flat patch antenna. The SkyFun had a small âwireâ antenna.
+The graph shows the vehicle reached a distance of nearly 3km and the
+link was completely maintained throughout the flight.
+
+Although anecdotal, another user provided a Tlog showing a good link
+kept while the vehicle was 4.5km from the base station, using default
+radio settings for a 3DR 900 radio. The plane used a small omni antenna,
+and a 8dB patch antenna on the ground station.
+
+
+Support for different countries/regionsÂ¶
+It is very important that you configure your radios to comply with your
+regional/country regulations for frequency, hopping channels and power
+levels. For information on radio -> region frequency ranges and
+settings, see
+Telemetry Radio Regional Regulations.
+
+
+3DR Radio Discussion ForumÂ¶
+The best place to get involved with the development or tuning of these
+radios is the SiK Radios forum. Join in on the
+forum to help make these radios even better!
+
+
+
+
+
+Previous
+Next
+
+
+Questions, issues, and suggestions about this page can be raised on the forums. Issues and suggestions may be posted on the forums or the Github Issue Tracker.
+
+
+© Copyright 2024, ArduPilot Dev Team.
+
+
+
+
+
+
+
